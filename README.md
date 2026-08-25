@@ -1,91 +1,93 @@
-# Boğaziçi Üniversitesi Akademik Takvim Otomatik Senkronizasyonu (iCal / .ics)
+# Boğaziçi University Academic Calendar Synchronization (iCal / .ics)
 
-Bu proje, [Boğaziçi Üniversitesi Akademik Takvimi](https://akademiktakvim.bogazici.edu.tr/)'ndeki etkinlikleri, sınavları, ders kayıtlarını ve idari tarihleri otomatik olarak çekip **RFC 5545** standartlarında `.ics` (iCalendar / Webcal) takvim akışına dönüştürür.
+This project automatically fetches academic dates, exams, course registrations, and administrative deadlines from the official [Boğaziçi University Academic Calendar](https://akademiktakvim.bogazici.edu.tr/) portal and generates standard **RFC 5545** compliant `.ics` (iCalendar / Webcal) calendar feeds.
 
-Bu akışı **Google Calendar**, **Apple Calendar (iOS / macOS)** veya **Outlook** takviminize bir kez ekledikten sonra, üniversitedeki tüm takvim güncellemeleri cihazlarınıza **otomatik olarak senkronize edilir**.
-
----
-
-## ✨ Özellikler
-
-- 🔄 **%100 Otomatik & Sıfır Bakım:** GitHub Actions ile günde iki kez (07:00 ve 19:00 TSİ) çalışır, takvimi günceller ve GitHub Pages'e yükler.
-- 🌐 **Çift Dil Desteği:** Türkçe (`academic.ics`) ve İngilizce (`academic-en.ics`) takvim seçenekleri.
-- 🎯 **Kategori Bazlı Filtrelenmiş Akışlar:**
-  - `academic.ics` — Tüm etkinlikler (Genel)
-  - `academic-kayit.ics` — Ders kayıt ve başvuru dönemleri
-  - `academic-egitim.ics` — Eğitim-öğretim ve sınav takvimi
-  - `academic-yadyok.ics` — YADYOK / Hazırlık takvimi
-- 📱 **Tek Tıkla Abonelik Arayüzü:** Modern web arayüzü sayesinde tek tıkla doğrudan Google Calendar veya Apple Takvim'e ekleme.
+Once subscribed in **Google Calendar**, **Apple Calendar (iOS / macOS)**, or **Microsoft Outlook**, any schedule updates or changes made by the university will automatically sync to your devices.
 
 ---
 
-## 🚀 Kurulum (GitHub Pages ile 2 Dakikada Yayına Alma)
+## Features
 
-1. Bu projeyi kendi GitHub hesabınızda bir repository olarak oluşturun ve yükleyin:
-   ```bash
-   git init
-   git add .
-   git commit -m "feat: initial boun-cal-sync setup"
-   git branch -M main
-   git remote add origin https://github.com/<KULLANICI_ADINIZ>/boun-cal-sync.git
-   git push -u origin main
-   ```
-
-2. GitHub Repository sayfanızda:
-   - **Settings** > **Pages** menüsüne gidin.
-   - **Build and deployment** > **Source** kısmında **`GitHub Actions`** seçeneğini seçin.
-
-3. Artık takvim web siteniz ve `.ics` linkleriniz hazır:
-   - **Web Sitesi:** `https://<KULLANICI_ADINIZ>.github.io/boun-cal-sync/`
-   - **Türkçe Takvim:** `https://<KULLANICI_ADINIZ>.github.io/boun-cal-sync/academic.ics`
-   - **İngilizce Takvim:** `https://<KULLANICI_ADINIZ>.github.io/boun-cal-sync/academic-en.ics`
+- **Automated & Zero Maintenance:** Runs twice daily via GitHub Actions (at 04:00 and 16:00 UTC), fetches updates, and deploys directly to GitHub Pages.
+- **Bilingual Feeds:** Available in both Turkish (`academic.ics`) and English (`academic-en.ics`).
+- **Category-Specific Calendars:**
+  - `academic.ics` — Complete calendar (all events)
+  - `academic-en.ics` — Complete calendar in English
+  - `academic-kayit.ics` — Course registration and application periods
+  - `academic-egitim.ics` — Instruction terms and exam dates
+  - `academic-yadyok.ics` — School of Foreign Languages (YADYOK / SFL)
+- **One-Click Subscription Web UI:** Simple web interface with direct buttons for Google Calendar and Apple Calendar.
 
 ---
 
-## 📲 Takvime Ekleme Rehberi
+## Setup and Deployment (GitHub Pages)
 
-### 🔴 Google Calendar (Web / Android)
-1. [Google Calendar](https://calendar.google.com/)'ı açın.
-2. Sol menüde **"Diğer takvimler"** yanındaki **`+`** butonuna tıklayın.
-3. **"URL'den"** (From URL) seçeneğine tıklayın.
-4. Takvim `.ics` URL'nizi yapıştırın ve **"Takvim ekle"** butonuna basın.
+### 1. Push to Your GitHub Repository
+```bash
+git init
+git add .
+git commit -m "feat: initial boun-cal-sync setup"
+git branch -M main
+git remote add origin https://github.com/YOUR_GITHUB_USERNAME/boun-cal-sync.git
+git push -u origin main
+```
 
-*(Veya yayınladığınız web sitesindeki **"Google Calendar'a Ekle"** butonuna tıklamanız yeterlidir).*
+### 2. Enable GitHub Pages
+1. Go to your repository settings: **Settings** > **Pages**.
+2. Under **Build and deployment** > **Source**, select **GitHub Actions**.
 
-### 🍏 Apple Calendar (iPhone, iPad, Mac)
-- **iPhone / iPad:** 
-  1. Web sitenizdeki **"Apple Takvim'e Ekle"** butonuna dokunun (veya Safari'ye `webcal://.../academic.ics` linkini yapıştırın).
-  2. Açılan pencerede **"Abone Ol"** butonuna dokunun.
-  3. Güncelleme sıklığını belirleyin (Örn: *Her saat* veya *Her gün*).
+### 3. Access Your Feeds
+Once the workflow runs, your calendar web page and `.ics` feeds will be live at:
+- **Landing Page:** `https://YOUR_GITHUB_USERNAME.github.io/boun-cal-sync/`
+- **Turkish Feed:** `https://YOUR_GITHUB_USERNAME.github.io/boun-cal-sync/academic.ics`
+- **English Feed:** `https://YOUR_GITHUB_USERNAME.github.io/boun-cal-sync/academic-en.ics`
+
+---
+
+## How to Subscribe
+
+### Google Calendar (Web / Android)
+1. Open [Google Calendar](https://calendar.google.com/).
+2. On the left sidebar, click the **+** icon next to **Other calendars**.
+3. Select **From URL**.
+4. Paste your `.ics` feed URL and click **Add calendar**.
+
+*(Alternatively, click the **Add to Google Calendar** button on your hosted landing page).*
+
+### Apple Calendar (iPhone, iPad, Mac)
+- **iPhone / iPad:**
+  1. Open Safari and tap the **Add to Apple Calendar** button on your landing page (or enter the `webcal://` link).
+  2. Tap **Subscribe** in the confirmation prompt.
+  3. Set your preferred auto-refresh frequency (e.g., *Hourly* or *Daily*).
 - **Mac:**
-  1. Takvim (Calendar) uygulamasını açın.
-  2. Üst menüden **Dosya** > **Yeni Takvim Aboneliği...** seçeneğine tıklayın.
-  3. `.ics` URL'sini yapıştırıp **Abone Ol** deyin.
+  1. Open the **Calendar** application.
+  2. Go to **File** > **New Calendar Subscription...**.
+  3. Paste the `.ics` feed URL and click **Subscribe**.
 
-### 🔷 Microsoft Outlook
-1. [Outlook Web](https://outlook.live.com/calendar/) veya masaüstü uygulamasını açın.
-2. **Takvim Ekle** > **Web'den Abone Ol** yolunu izleyin.
-3. `.ics` URL'sini yapıştırın.
+### Microsoft Outlook
+1. Open [Outlook Calendar](https://outlook.live.com/calendar/) or the Outlook desktop app.
+2. Select **Add Calendar** > **Subscribe from web**.
+3. Paste the `.ics` feed URL and click **Import**.
 
 ---
 
-## 💻 Yerel Geliştirme ve Test
+## Local Development and Testing
 
-İstediğiniz zaman yerel ortamınızda da senkronizasyonu çalıştırabilirsiniz:
+You can run the synchronization manually in your local environment:
 
-- **Python ile:**
+- **Using Python:**
   ```bash
   python src/sync.py
   ```
-- **PowerShell ile (Windows):**
+- **Using PowerShell (Windows):**
   ```powershell
   .\sync.ps1
   ```
 
-Tüm çıktılar `dist/` klasörü altına oluşturulacaktır.
+All output files will be generated under the `dist/` directory.
 
 ---
 
-## ⚖️ Lisans
+## License
 
-MIT License. Veriler [Boğaziçi Üniversitesi Resmi Akademik Takvim Portalı](https://akademiktakvim.bogazici.edu.tr/)'ndan sağlanmaktadır.
+MIT License. Calendar data is sourced from the official [Boğaziçi University Academic Calendar](https://akademiktakvim.bogazici.edu.tr/) portal.
