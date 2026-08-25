@@ -1,4 +1,4 @@
-﻿BEGIN:VCALENDAR
+BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Bogazici University//Academic Calendar Sync//EN
 CALSCALE:GREGORIAN
@@ -10,7 +10,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:boun-academic-13450@bogazici.edu.tr
-DTSTAMP:20260825T182903Z
+DTSTAMP:20260825T183029Z
 DTSTART;VALUE=DATE:20270818
 DTEND;VALUE=DATE:20270819
 SUMMARY:Grade submission system closes (23:59)
@@ -22,7 +22,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/grade-submission-s
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13434@bogazici.edu.tr
-DTSTAMP:20260825T182903Z
+DTSTAMP:20260825T183029Z
 DTSTART;VALUE=DATE:20270811
 DTEND;VALUE=DATE:20270814
 SUMMARY:Final exams for Executive and Other Graduate Programs Summer Session
@@ -34,7 +34,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/final-exams-for-ex
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13432@bogazici.edu.tr
-DTSTAMP:20260825T182903Z
+DTSTAMP:20260825T183029Z
 DTSTART;VALUE=DATE:20270811
 DTEND;VALUE=DATE:20270812
 SUMMARY:Grade submission system opens (10:00)
@@ -46,7 +46,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/grade-submission-s
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13423@bogazici.edu.tr
-DTSTAMP:20260825T182903Z
+DTSTAMP:20260825T183029Z
 DTSTART;VALUE=DATE:20270810
 DTEND;VALUE=DATE:20270811
 SUMMARY:Last Day of Course evaluations period (23:59) (Included SFL classes)
@@ -58,7 +58,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/last-day-of-course
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13421@bogazici.edu.tr
-DTSTAMP:20260825T182903Z
+DTSTAMP:20260825T183029Z
 DTSTART;VALUE=DATE:20270810
 DTEND;VALUE=DATE:20270811
 SUMMARY:Summer session classes for Executive and Other Graduate Programs end
@@ -70,7 +70,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/summer-session-cla
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13413@bogazici.edu.tr
-DTSTAMP:20260825T182903Z
+DTSTAMP:20260825T183029Z
 DTSTART;VALUE=DATE:20270802
 DTEND;VALUE=DATE:20270811
 SUMMARY:Course evaluations period( Except SFL classes)
@@ -82,7 +82,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/course-evaluations
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13401@bogazici.edu.tr
-DTSTAMP:20260825T182903Z
+DTSTAMP:20260825T183029Z
 DTSTART;VALUE=DATE:20270726
 DTEND;VALUE=DATE:20270727
 SUMMARY:Departmental exams for candidates applying to external transfers for 2027 Fall term
@@ -94,7 +94,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/departmental-exams
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13399@bogazici.edu.tr
-DTSTAMP:20260825T182903Z
+DTSTAMP:20260825T183029Z
 DTSTART;VALUE=DATE:20270722
 DTEND;VALUE=DATE:20270724
 SUMMARY:Departmental exams for candidates applying to external transfers for 2027 Fall term
@@ -106,7 +106,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/departmental-exams
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13353@bogazici.edu.tr
-DTSTAMP:20260825T182903Z
+DTSTAMP:20260825T183029Z
 DTSTART;VALUE=DATE:20270630
 DTEND;VALUE=DATE:20270701
 SUMMARY:Executive and Other Graduate Programs Summer Session classes begin
@@ -118,7 +118,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/executive-and-othe
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13347@bogazici.edu.tr
-DTSTAMP:20260825T182903Z
+DTSTAMP:20260825T183029Z
 DTSTART;VALUE=DATE:20270628
 DTEND;VALUE=DATE:20270703
 SUMMARY:Departmental exams for candidates applying to graduate programs
@@ -130,7 +130,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/departmental-exams
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13321@bogazici.edu.tr
-DTSTAMP:20260825T182903Z
+DTSTAMP:20260825T183029Z
 DTSTART;VALUE=DATE:20270524
 DTEND;VALUE=DATE:20270529
 SUMMARY:Commencement Ceremony
@@ -142,7 +142,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/commencement-cerem
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13607@bogazici.edu.tr
-DTSTAMP:20260825T182903Z
+DTSTAMP:20260825T183029Z
 DTSTART;VALUE=DATE:20270509
 DTEND;VALUE=DATE:20270510
 SUMMARY:Grade submission resumes (for students who received I signs only) (Close 23:59)
@@ -154,7 +154,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/grade-submission-r
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13327@bogazici.edu.tr
-DTSTAMP:20260825T182903Z
+DTSTAMP:20260825T183029Z
 DTSTART;VALUE=DATE:20270509
 DTEND;VALUE=DATE:20270510
 SUMMARY:Grade submission resumes (for students who received I signs only) (10:00)
@@ -166,7 +166,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/grade-submission-r
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13325@bogazici.edu.tr
-DTSTAMP:20260825T182903Z
+DTSTAMP:20260825T183029Z
 DTSTART;VALUE=DATE:20270508
 DTEND;VALUE=DATE:20270509
 SUMMARY:Grade submission ends (23:59)
@@ -178,7 +178,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/grade-submission-e
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13308@bogazici.edu.tr
-DTSTAMP:20260825T182903Z
+DTSTAMP:20260825T183029Z
 DTSTART;VALUE=DATE:20270505
 DTEND;VALUE=DATE:20270508
 SUMMARY:E and make-up exams
@@ -190,7 +190,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/e-and-make-up-exam
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13292@bogazici.edu.tr
-DTSTAMP:20260825T182903Z
+DTSTAMP:20260825T183029Z
 DTSTART;VALUE=DATE:20270425
 DTEND;VALUE=DATE:20270505
 SUMMARY:Final exams (Sunday\, April 25\, 2026: the 3rd and 4th time slots will be used for Culture and Language courses)
@@ -202,7 +202,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/final-exams-sunday
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13288@bogazici.edu.tr
-DTSTAMP:20260825T182903Z
+DTSTAMP:20260825T183029Z
 DTSTART;VALUE=DATE:20270424
 DTEND;VALUE=DATE:20270426
 SUMMARY:Final exams for culture and language courses (including HUM courses) Final exams (Sunday\, April 25\, 2026: the 3rd and 4th time slots will be used for Culture and Language courses)
@@ -214,7 +214,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/final-exams-for-cu
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13290@bogazici.edu.tr
-DTSTAMP:20260825T182903Z
+DTSTAMP:20260825T183029Z
 DTSTART;VALUE=DATE:20270424
 DTEND;VALUE=DATE:20270425
 SUMMARY:Grade submission system opens (10:00)
@@ -226,7 +226,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/grade-submission-s
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13280@bogazici.edu.tr
-DTSTAMP:20260825T182903Z
+DTSTAMP:20260825T183029Z
 DTSTART;VALUE=DATE:20270423
 DTEND;VALUE=DATE:20270424
 SUMMARY:Last Day of Course evaluations period (23:59)( Except SFL classes)
@@ -238,7 +238,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/last-day-of-course
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13278@bogazici.edu.tr
-DTSTAMP:20260825T182903Z
+DTSTAMP:20260825T183029Z
 DTSTART;VALUE=DATE:20270422
 DTEND;VALUE=DATE:20270423
 SUMMARY:Classes end
@@ -250,7 +250,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/classes-end/13278
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13276@bogazici.edu.tr
-DTSTAMP:20260825T182903Z
+DTSTAMP:20260825T183029Z
 DTSTART;VALUE=DATE:20270415
 DTEND;VALUE=DATE:20270416
 SUMMARY:Deadline for leave of absence requests
@@ -262,7 +262,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-leave
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13255@bogazici.edu.tr
-DTSTAMP:20260825T182903Z
+DTSTAMP:20260825T183029Z
 DTSTART;VALUE=DATE:20270412
 DTEND;VALUE=DATE:20270424
 SUMMARY:Course evaluations period( Except SFL classes)
@@ -274,7 +274,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/course-evaluations
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13220@bogazici.edu.tr
-DTSTAMP:20260825T182903Z
+DTSTAMP:20260825T183029Z
 DTSTART;VALUE=DATE:20270308
 DTEND;VALUE=DATE:20270313
 SUMMARY:Spring Break / Religious Holiday
@@ -286,7 +286,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/spring-break-relig
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13206@bogazici.edu.tr
-DTSTAMP:20260825T182903Z
+DTSTAMP:20260825T183029Z
 DTSTART;VALUE=DATE:20270118
 DTEND;VALUE=DATE:20270119
 SUMMARY:Classes begin (Including SFL classes)
@@ -298,7 +298,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/classes-begin-incl
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13194@bogazici.edu.tr
-DTSTAMP:20260825T182903Z
+DTSTAMP:20260825T183029Z
 DTSTART;VALUE=DATE:20270113
 DTEND;VALUE=DATE:20270114
 SUMMARY:Chemistry\, Computer Engineering\, Molecular Biology and Genetic\, Physics waiver exams for new undergraduate students
@@ -310,7 +310,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/chemistry-computer
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13188@bogazici.edu.tr
-DTSTAMP:20260825T182903Z
+DTSTAMP:20260825T183029Z
 DTSTART;VALUE=DATE:20270112
 DTEND;VALUE=DATE:20270113
 SUMMARY:Online Orientation day for visitor students and exchange students
@@ -322,7 +322,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-orientation
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13154@bogazici.edu.tr
-DTSTAMP:20260825T182903Z
+DTSTAMP:20260825T183029Z
 DTSTART;VALUE=DATE:20261228
 DTEND;VALUE=DATE:20261229
 SUMMARY:Grade submission resumes (for students who received I signs only) (Close 23:59)
@@ -334,7 +334,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/grade-submission-r
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-14208@bogazici.edu.tr
-DTSTAMP:20260825T182903Z
+DTSTAMP:20260825T183029Z
 DTSTART;VALUE=DATE:20261228
 DTEND;VALUE=DATE:20261230
 SUMMARY:Departmental exams for candidates applying for 2027 Spring term to graduate programs
@@ -346,7 +346,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/departmental-exams
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13152@bogazici.edu.tr
-DTSTAMP:20260825T182903Z
+DTSTAMP:20260825T183029Z
 DTSTART;VALUE=DATE:20261228
 DTEND;VALUE=DATE:20261229
 SUMMARY:Grade submission resumes (for students who received I signs only) (Open 10:00)
@@ -358,7 +358,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/grade-submission-r
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13146@bogazici.edu.tr
-DTSTAMP:20260825T182903Z
+DTSTAMP:20260825T183029Z
 DTSTART;VALUE=DATE:20261227
 DTEND;VALUE=DATE:20261228
 SUMMARY:Grade submission ends (23:59)
@@ -370,7 +370,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/grade-submission-e
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13148@bogazici.edu.tr
-DTSTAMP:20260825T182903Z
+DTSTAMP:20260825T183029Z
 DTSTART;VALUE=DATE:20261225
 DTEND;VALUE=DATE:20261226
 SUMMARY:Departmental exams for candidates applying for 2027 Spring term to graduate programs
@@ -382,7 +382,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/departmental-exams
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13134@bogazici.edu.tr
-DTSTAMP:20260825T182903Z
+DTSTAMP:20260825T183029Z
 DTSTART;VALUE=DATE:20261223
 DTEND;VALUE=DATE:20261226
 SUMMARY:E and make-up exams
@@ -394,7 +394,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/e-and-make-up-exam
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13112@bogazici.edu.tr
-DTSTAMP:20260825T182903Z
+DTSTAMP:20260825T183029Z
 DTSTART;VALUE=DATE:20261213
 DTEND;VALUE=DATE:20261223
 SUMMARY:Final exams (Sunday\, December 13\, 2026: the 3rd and 4th time slots will be used for Culture and Language courses).
@@ -406,7 +406,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/final-exams-sunday
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13108@bogazici.edu.tr
-DTSTAMP:20260825T182903Z
+DTSTAMP:20260825T183029Z
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261214
 SUMMARY:Final exams for culture and language courses (including HUM courses) Final exams (Sunday\, December 13\, 2026: the 3rd and 4th time slots will be used for Culture and Language courses).
@@ -418,7 +418,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/final-exams-for-cu
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13110@bogazici.edu.tr
-DTSTAMP:20260825T182903Z
+DTSTAMP:20260825T183029Z
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
 SUMMARY:Grade submission system opens (10 a.m.)
@@ -430,7 +430,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/grade-submission-s
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13104@bogazici.edu.tr
-DTSTAMP:20260825T182903Z
+DTSTAMP:20260825T183029Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
 SUMMARY:Last Day of Course evaluations period (23:59)( Except SFL classes)
@@ -442,7 +442,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/last-day-of-course
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13102@bogazici.edu.tr
-DTSTAMP:20260825T182903Z
+DTSTAMP:20260825T183029Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
 SUMMARY:Classes end
@@ -454,7 +454,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/classes-end/13102
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13096@bogazici.edu.tr
-DTSTAMP:20260825T182903Z
+DTSTAMP:20260825T183029Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261212
 SUMMARY:Course evaluations period( Except SFL classes)
@@ -466,7 +466,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/course-evaluations
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13024@bogazici.edu.tr
-DTSTAMP:20260825T182903Z
+DTSTAMP:20260825T183029Z
 DTSTART;VALUE=DATE:20260921
 DTEND;VALUE=DATE:20260922
 SUMMARY:Classes begin (Except SFL classes)
@@ -478,7 +478,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/classes-begin-exce
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13022@bogazici.edu.tr
-DTSTAMP:20260825T182903Z
+DTSTAMP:20260825T183029Z
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260919
 SUMMARY:Chemistry\, Computer Engineering\, Molecular Biology and Genetic\, Physics waiver exams
@@ -490,7 +490,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/chemistry-computer
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13004@bogazici.edu.tr
-DTSTAMP:20260825T182903Z
+DTSTAMP:20260825T183029Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
 SUMMARY:Online Orientation day for visitor students and exchange students
@@ -502,7 +502,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-orientation
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-12085@bogazici.edu.tr
-DTSTAMP:20260825T182903Z
+DTSTAMP:20260825T183029Z
 DTSTART;VALUE=DATE:20260820
 DTEND;VALUE=DATE:20260821
 SUMMARY:Grade submission system closes (23:59)
@@ -514,7 +514,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/grade-submission-s
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-12080@bogazici.edu.tr
-DTSTAMP:20260825T182903Z
+DTSTAMP:20260825T183029Z
 DTSTART;VALUE=DATE:20260813
 DTEND;VALUE=DATE:20260816
 SUMMARY:Final exams for Executive and Other Graduate Programs Summer Session
@@ -526,7 +526,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/final-exams-for-ex
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-12079@bogazici.edu.tr
-DTSTAMP:20260825T182903Z
+DTSTAMP:20260825T183029Z
 DTSTART;VALUE=DATE:20260813
 DTEND;VALUE=DATE:20260814
 SUMMARY:Grade submission system opens (10:00)
@@ -538,7 +538,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/grade-submission-s
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-12077@bogazici.edu.tr
-DTSTAMP:20260825T182903Z
+DTSTAMP:20260825T183029Z
 DTSTART;VALUE=DATE:20260812
 DTEND;VALUE=DATE:20260813
 SUMMARY:Summer session classes for Executive and Other Graduate Programs end
@@ -550,7 +550,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/summer-session-cla
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-12058@bogazici.edu.tr
-DTSTAMP:20260825T182903Z
+DTSTAMP:20260825T183029Z
 DTSTART;VALUE=DATE:20260722
 DTEND;VALUE=DATE:20260725
 SUMMARY:Departmental exams for candidates applying to external transfers for 2026 Fall term
@@ -562,7 +562,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/departmental-exams
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-12056@bogazici.edu.tr
-DTSTAMP:20260825T182903Z
+DTSTAMP:20260825T183029Z
 DTSTART;VALUE=DATE:20260715
 DTEND;VALUE=DATE:20260716
 SUMMARY:Democracy and Freedom Day (Holiday)
@@ -574,7 +574,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/democracy-and-free
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-12037@bogazici.edu.tr
-DTSTAMP:20260825T182903Z
+DTSTAMP:20260825T183029Z
 DTSTART;VALUE=DATE:20260624
 DTEND;VALUE=DATE:20260625
 SUMMARY:Executive and Other Graduate Programs Summer Session classes begin
@@ -586,7 +586,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/executive-and-othe
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-12024@bogazici.edu.tr
-DTSTAMP:20260825T182903Z
+DTSTAMP:20260825T183029Z
 DTSTART;VALUE=DATE:20260618
 DTEND;VALUE=DATE:20260619
 SUMMARY:Grade submission resumes (for students who received I signs only) (Close 23:59)
@@ -598,7 +598,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/grade-submission-r
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-12023@bogazici.edu.tr
-DTSTAMP:20260825T182903Z
+DTSTAMP:20260825T183029Z
 DTSTART;VALUE=DATE:20260617
 DTEND;VALUE=DATE:20260618
 SUMMARY:Grade submission resumes (for students who received I signs only) (10:00)
@@ -610,7 +610,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/grade-submission-r
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-12022@bogazici.edu.tr
-DTSTAMP:20260825T182903Z
+DTSTAMP:20260825T183029Z
 DTSTART;VALUE=DATE:20260616
 DTEND;VALUE=DATE:20260617
 SUMMARY:Grade submission ends (23:59)
@@ -622,7 +622,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/grade-submission-e
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-12021@bogazici.edu.tr
-DTSTAMP:20260825T182903Z
+DTSTAMP:20260825T183029Z
 DTSTART;VALUE=DATE:20260611
 DTEND;VALUE=DATE:20260614
 SUMMARY:E and make-up exams
@@ -634,7 +634,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/e-and-make-up-exam
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-12016@bogazici.edu.tr
-DTSTAMP:20260825T182903Z
+DTSTAMP:20260825T183029Z
 DTSTART;VALUE=DATE:20260608
 DTEND;VALUE=DATE:20260611
 SUMMARY:Final exams
@@ -646,7 +646,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/final-exams/12016
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-12014@bogazici.edu.tr
-DTSTAMP:20260825T182903Z
+DTSTAMP:20260825T183029Z
 DTSTART;VALUE=DATE:20260601
 DTEND;VALUE=DATE:20260607
 SUMMARY:Final exams
@@ -658,7 +658,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/final-exams/12014
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-12009@bogazici.edu.tr
-DTSTAMP:20260825T182903Z
+DTSTAMP:20260825T183029Z
 DTSTART;VALUE=DATE:20260520
 DTEND;VALUE=DATE:20260524
 SUMMARY:Final exams
@@ -670,7 +670,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/final-exams/12009
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-12007@bogazici.edu.tr
-DTSTAMP:20260825T182903Z
+DTSTAMP:20260825T183029Z
 DTSTART;VALUE=DATE:20260516
 DTEND;VALUE=DATE:20260517
 SUMMARY:Grade submission system opens (10:00)
@@ -682,7 +682,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/grade-submission-s
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-12006@bogazici.edu.tr
-DTSTAMP:20260825T182903Z
+DTSTAMP:20260825T183029Z
 DTSTART;VALUE=DATE:20260516
 DTEND;VALUE=DATE:20260517
 SUMMARY:Final exams for culture and language courses (including HUM courses)
@@ -694,7 +694,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/final-exams-for-cu
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-12004@bogazici.edu.tr
-DTSTAMP:20260825T182903Z
+DTSTAMP:20260825T183029Z
 DTSTART;VALUE=DATE:20260515
 DTEND;VALUE=DATE:20260516
 SUMMARY:Classes end
@@ -706,7 +706,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/classes-end/12004
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11986@bogazici.edu.tr
-DTSTAMP:20260825T182903Z
+DTSTAMP:20260825T183029Z
 DTSTART;VALUE=DATE:20260414
 DTEND;VALUE=DATE:20260415
 SUMMARY:Student consultations with academic advisors
@@ -718,7 +718,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/student-consultati
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11963@bogazici.edu.tr
-DTSTAMP:20260825T182903Z
+DTSTAMP:20260825T183029Z
 DTSTART;VALUE=DATE:20260204
 DTEND;VALUE=DATE:20260205
 SUMMARY:Student consultations with academic advisors
@@ -730,7 +730,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/student-consultati
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11959@bogazici.edu.tr
-DTSTAMP:20260825T182903Z
+DTSTAMP:20260825T183029Z
 DTSTART;VALUE=DATE:20260202
 DTEND;VALUE=DATE:20260203
 SUMMARY:Online Orientation day for visitor students and exchange students
@@ -742,7 +742,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-orientation
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11944@bogazici.edu.tr
-DTSTAMP:20260825T182903Z
+DTSTAMP:20260825T183029Z
 DTSTART;VALUE=DATE:20260121
 DTEND;VALUE=DATE:20260122
 SUMMARY:Grade submission resumes (for students who received I signs only) (Close 23:59)
@@ -754,7 +754,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/grade-submission-r
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11943@bogazici.edu.tr
-DTSTAMP:20260825T182903Z
+DTSTAMP:20260825T183029Z
 DTSTART;VALUE=DATE:20260120
 DTEND;VALUE=DATE:20260121
 SUMMARY:Grade submission resumes (for students who received I signs only) (Open 10:00)
@@ -766,7 +766,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/grade-submission-r
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11941@bogazici.edu.tr
-DTSTAMP:20260825T182903Z
+DTSTAMP:20260825T183029Z
 DTSTART;VALUE=DATE:20260119
 DTEND;VALUE=DATE:20260120
 SUMMARY:Grade submission ends (23:59)
@@ -778,7 +778,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/grade-submission-e
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11940@bogazici.edu.tr
-DTSTAMP:20260825T182903Z
+DTSTAMP:20260825T183029Z
 DTSTART;VALUE=DATE:20260119
 DTEND;VALUE=DATE:20260122
 SUMMARY:Departmental exams for candidates applying for 2026 Spring term to graduate programs
@@ -790,7 +790,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/departmental-exams
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11934@bogazici.edu.tr
-DTSTAMP:20260825T182903Z
+DTSTAMP:20260825T183029Z
 DTSTART;VALUE=DATE:20260113
 DTEND;VALUE=DATE:20260116
 SUMMARY:E and make-up exams
@@ -802,7 +802,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/e-and-make-up-exam
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11927@bogazici.edu.tr
-DTSTAMP:20260825T182903Z
+DTSTAMP:20260825T183029Z
 DTSTART;VALUE=DATE:20260105
 DTEND;VALUE=DATE:20260110
 SUMMARY:Final exams
@@ -814,7 +814,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/final-exams/11927
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11924@bogazici.edu.tr
-DTSTAMP:20260825T182903Z
+DTSTAMP:20260825T183029Z
 DTSTART;VALUE=DATE:20260102
 DTEND;VALUE=DATE:20260104
 SUMMARY:Final exams
@@ -826,7 +826,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/final-exams/11924
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11922@bogazici.edu.tr
-DTSTAMP:20260825T182903Z
+DTSTAMP:20260825T183029Z
 DTSTART;VALUE=DATE:20251229
 DTEND;VALUE=DATE:20251231
 SUMMARY:Final exams
@@ -838,7 +838,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/final-exams/11922
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11921@bogazici.edu.tr
-DTSTAMP:20260825T182903Z
+DTSTAMP:20260825T183029Z
 DTSTART;VALUE=DATE:20251224
 DTEND;VALUE=DATE:20251228
 SUMMARY:Final exams
@@ -850,7 +850,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/final-exams/11921
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11920@bogazici.edu.tr
-DTSTAMP:20260825T182903Z
+DTSTAMP:20260825T183029Z
 DTSTART;VALUE=DATE:20251222
 DTEND;VALUE=DATE:20251223
 SUMMARY:Grade submission system opens (10 a.m.)
@@ -862,7 +862,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/grade-submission-s
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11919@bogazici.edu.tr
-DTSTAMP:20260825T182903Z
+DTSTAMP:20260825T183029Z
 DTSTART;VALUE=DATE:20251222
 DTEND;VALUE=DATE:20251224
 SUMMARY:Final exams for culture and language courses (including HUM courses)
@@ -874,7 +874,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/final-exams-for-cu
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11916@bogazici.edu.tr
-DTSTAMP:20260825T182903Z
+DTSTAMP:20260825T183029Z
 DTSTART;VALUE=DATE:20251219
 DTEND;VALUE=DATE:20251220
 SUMMARY:Classes end
@@ -886,7 +886,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/classes-end/11916
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11912@bogazici.edu.tr
-DTSTAMP:20260825T182903Z
+DTSTAMP:20260825T183029Z
 DTSTART;VALUE=DATE:20251201
 DTEND;VALUE=DATE:20251220
 SUMMARY:Course evaluations period( Except SFL classes)
@@ -898,7 +898,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/course-evaluations
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11876@bogazici.edu.tr
-DTSTAMP:20260825T182903Z
+DTSTAMP:20260825T183029Z
 DTSTART;VALUE=DATE:20250917
 DTEND;VALUE=DATE:20250918
 SUMMARY:Student consultations with academic advisors
@@ -910,7 +910,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/student-consultati
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11871@bogazici.edu.tr
-DTSTAMP:20260825T182903Z
+DTSTAMP:20260825T183029Z
 DTSTART;VALUE=DATE:20250915
 DTEND;VALUE=DATE:20250916
 SUMMARY:Online Orientation day for visitor students and exchange students
@@ -922,7 +922,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-orientation
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11856@bogazici.edu.tr
-DTSTAMP:20260825T182903Z
+DTSTAMP:20260825T183029Z
 DTSTART;VALUE=DATE:20250819
 DTEND;VALUE=DATE:20250820
 SUMMARY:Grade submission system closes (23:59)
@@ -934,7 +934,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/grade-submission-s
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-12116@bogazici.edu.tr
-DTSTAMP:20260825T182903Z
+DTSTAMP:20260825T183029Z
 DTSTART;VALUE=DATE:20250815
 DTEND;VALUE=DATE:20250816
 SUMMARY:Final exams for Executive and Other Graduate Programs Summer Session (On August 15\, 2025\, only the first two slots will be used.)
@@ -946,7 +946,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/final-exams-for-ex
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-12115@bogazici.edu.tr
-DTSTAMP:20260825T182903Z
+DTSTAMP:20260825T183029Z
 DTSTART;VALUE=DATE:20250813
 DTEND;VALUE=DATE:20250815
 SUMMARY:Final exams for Executive and Other Graduate Programs Summer Session
@@ -958,7 +958,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/final-exams-for-ex
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11853@bogazici.edu.tr
-DTSTAMP:20260825T182903Z
+DTSTAMP:20260825T183029Z
 DTSTART;VALUE=DATE:20250812
 DTEND;VALUE=DATE:20250813
 SUMMARY:Final exams for Executive and Other Graduate Programs Summer Session (On August 12\, 2025\, the first two slots will not be used due to BUEPT)
@@ -970,7 +970,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/final-exams-for-ex
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11850@bogazici.edu.tr
-DTSTAMP:20260825T182903Z
+DTSTAMP:20260825T183029Z
 DTSTART;VALUE=DATE:20250811
 DTEND;VALUE=DATE:20250812
 SUMMARY:Deadline for Course Evaluations Period Summer Term
@@ -982,7 +982,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-cours
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11849@bogazici.edu.tr
-DTSTAMP:20260825T182903Z
+DTSTAMP:20260825T183029Z
 DTSTART;VALUE=DATE:20250811
 DTEND;VALUE=DATE:20250812
 SUMMARY:Summer session classes for Executive and Other Graduate Programs end
@@ -994,7 +994,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/summer-session-cla
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11840@bogazici.edu.tr
-DTSTAMP:20260825T182903Z
+DTSTAMP:20260825T183029Z
 DTSTART;VALUE=DATE:20250801
 DTEND;VALUE=DATE:20250802
 SUMMARY:SFL Summer Term Program II and III classes end
@@ -1006,7 +1006,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/sfl-summer-term-pr
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11830@bogazici.edu.tr
-DTSTAMP:20260825T182903Z
+DTSTAMP:20260825T183029Z
 DTSTART;VALUE=DATE:20250723
 DTEND;VALUE=DATE:20250726
 SUMMARY:Departmental exams for candidates applying to external transfers for 2025 Fall term
@@ -1018,7 +1018,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/departmental-exams
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11809@bogazici.edu.tr
-DTSTAMP:20260825T182903Z
+DTSTAMP:20260825T183029Z
 DTSTART;VALUE=DATE:20250624
 DTEND;VALUE=DATE:20250625
 SUMMARY:Executive and Other Graduate Programs Summer Session classes begin
@@ -1030,7 +1030,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/executive-and-othe
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11806@bogazici.edu.tr
-DTSTAMP:20260825T182903Z
+DTSTAMP:20260825T183029Z
 DTSTART;VALUE=DATE:20250623
 DTEND;VALUE=DATE:20250628
 SUMMARY:Departmental exams for candidates applying to graduate programs
@@ -1042,7 +1042,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/departmental-exams
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11796@bogazici.edu.tr
-DTSTAMP:20260825T182903Z
+DTSTAMP:20260825T183029Z
 DTSTART;VALUE=DATE:20250618
 DTEND;VALUE=DATE:20250619
 SUMMARY:Grade submission resumes (for students who received I signs only) (Close 13:00)
@@ -1054,7 +1054,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/grade-submission-r
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11794@bogazici.edu.tr
-DTSTAMP:20260825T182903Z
+DTSTAMP:20260825T183029Z
 DTSTART;VALUE=DATE:20250617
 DTEND;VALUE=DATE:20250618
 SUMMARY:Grade submission resumes (for students who received I signs only) (10:00)
@@ -1066,7 +1066,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/grade-submission-r
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11793@bogazici.edu.tr
-DTSTAMP:20260825T182903Z
+DTSTAMP:20260825T183029Z
 DTSTART;VALUE=DATE:20250616
 DTEND;VALUE=DATE:20250617
 SUMMARY:Grade submission ends (23:59)
@@ -1078,7 +1078,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/grade-submission-e
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11791@bogazici.edu.tr
-DTSTAMP:20260825T182903Z
+DTSTAMP:20260825T183029Z
 DTSTART;VALUE=DATE:20250611
 DTEND;VALUE=DATE:20250614
 SUMMARY:E and make-up exams
@@ -1090,7 +1090,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/e-and-make-up-exam
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11785@bogazici.edu.tr
-DTSTAMP:20260825T182903Z
+DTSTAMP:20260825T183029Z
 DTSTART;VALUE=DATE:20250602
 DTEND;VALUE=DATE:20250605
 SUMMARY:Final exams (Except May 27\, 3rd slot and May 28\, 2025)
@@ -1102,7 +1102,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/final-exams-except
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11784@bogazici.edu.tr
-DTSTAMP:20260825T182903Z
+DTSTAMP:20260825T183029Z
 DTSTART;VALUE=DATE:20250529
 DTEND;VALUE=DATE:20250601
 SUMMARY:Final exams (Except May 27\, 3rd slot and May 28\, 2025)
@@ -1114,7 +1114,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/final-exams-except
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11782@bogazici.edu.tr
-DTSTAMP:20260825T182903Z
+DTSTAMP:20260825T183029Z
 DTSTART;VALUE=DATE:20250526
 DTEND;VALUE=DATE:20250528
 SUMMARY:Final exams (Except May 27\, 3rd slot and May 28\, 2025)
@@ -1126,7 +1126,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/final-exams-except
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11781@bogazici.edu.tr
-DTSTAMP:20260825T182903Z
+DTSTAMP:20260825T183029Z
 DTSTART;VALUE=DATE:20250521
 DTEND;VALUE=DATE:20250525
 SUMMARY:Final exams (Except May 27\, 3rd slot and May 28\, 2025)
@@ -1138,7 +1138,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/final-exams-except
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11778@bogazici.edu.tr
-DTSTAMP:20260825T182903Z
+DTSTAMP:20260825T183029Z
 DTSTART;VALUE=DATE:20250520
 DTEND;VALUE=DATE:20250521
 SUMMARY:Final exams for culture and language courses
@@ -1150,7 +1150,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/final-exams-for-cu
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11776@bogazici.edu.tr
-DTSTAMP:20260825T182903Z
+DTSTAMP:20260825T183029Z
 DTSTART;VALUE=DATE:20250517
 DTEND;VALUE=DATE:20250518
 SUMMARY:Grade submission system opens (10:00)
@@ -1162,7 +1162,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/grade-submission-s
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11775@bogazici.edu.tr
-DTSTAMP:20260825T182903Z
+DTSTAMP:20260825T183029Z
 DTSTART;VALUE=DATE:20250517
 DTEND;VALUE=DATE:20250518
 SUMMARY:Final exams for culture and language courses
@@ -1174,7 +1174,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/final-exams-for-cu
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11774@bogazici.edu.tr
-DTSTAMP:20260825T182903Z
+DTSTAMP:20260825T183029Z
 DTSTART;VALUE=DATE:20250516
 DTEND;VALUE=DATE:20250517
 SUMMARY:Classes end
@@ -1186,7 +1186,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/classes-end/11774
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11767@bogazici.edu.tr
-DTSTAMP:20260825T182903Z
+DTSTAMP:20260825T183029Z
 DTSTART;VALUE=DATE:20250428
 DTEND;VALUE=DATE:20250503
 SUMMARY:Spring Break
@@ -1198,7 +1198,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/spring-break/11767
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11760@bogazici.edu.tr
-DTSTAMP:20260825T182903Z
+DTSTAMP:20260825T183029Z
 DTSTART;VALUE=DATE:20250415
 DTEND;VALUE=DATE:20250416
 SUMMARY:Student consultations with academic advisors
@@ -1210,7 +1210,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/student-consultati
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11732@bogazici.edu.tr
-DTSTAMP:20260825T182903Z
+DTSTAMP:20260825T183029Z
 DTSTART;VALUE=DATE:20250205
 DTEND;VALUE=DATE:20250206
 SUMMARY:Student consultations with academic advisors
@@ -1222,7 +1222,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/student-consultati
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11728@bogazici.edu.tr
-DTSTAMP:20260825T182903Z
+DTSTAMP:20260825T183029Z
 DTSTART;VALUE=DATE:20250203
 DTEND;VALUE=DATE:20250204
 SUMMARY:Online Orientation day for visitor students and exchange students
@@ -1234,7 +1234,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-orientation
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11714@bogazici.edu.tr
-DTSTAMP:20260825T182903Z
+DTSTAMP:20260825T183029Z
 DTSTART;VALUE=DATE:20250122
 DTEND;VALUE=DATE:20250123
 SUMMARY:Grade submission resumes (for students who received I signs only) (Close 23:59)
@@ -1246,7 +1246,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/grade-submission-r
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11713@bogazici.edu.tr
-DTSTAMP:20260825T182903Z
+DTSTAMP:20260825T183029Z
 DTSTART;VALUE=DATE:20250121
 DTEND;VALUE=DATE:20250122
 SUMMARY:Grade submission resumes (for students who received I signs only) (Open 10:00)
@@ -1258,7 +1258,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/grade-submission-r
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11712@bogazici.edu.tr
-DTSTAMP:20260825T182903Z
+DTSTAMP:20260825T183029Z
 DTSTART;VALUE=DATE:20250121
 DTEND;VALUE=DATE:20250124
 SUMMARY:Departmental exams for candidates applying for 2025 Spring term to graduate programs
@@ -1270,7 +1270,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/departmental-exams
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11710@bogazici.edu.tr
-DTSTAMP:20260825T182903Z
+DTSTAMP:20260825T183029Z
 DTSTART;VALUE=DATE:20250120
 DTEND;VALUE=DATE:20250121
 SUMMARY:Grade submission ends (23:59)
@@ -1282,7 +1282,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/grade-submission-e
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11706@bogazici.edu.tr
-DTSTAMP:20260825T182903Z
+DTSTAMP:20260825T183029Z
 DTSTART;VALUE=DATE:20250115
 DTEND;VALUE=DATE:20250118
 SUMMARY:E and make-up exams
@@ -1294,7 +1294,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/e-and-make-up-exam
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11696@bogazici.edu.tr
-DTSTAMP:20260825T182903Z
+DTSTAMP:20260825T183029Z
 DTSTART;VALUE=DATE:20250106
 DTEND;VALUE=DATE:20250111
 SUMMARY:Final exams
@@ -1306,7 +1306,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/final-exams/11696
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11693@bogazici.edu.tr
-DTSTAMP:20260825T182903Z
+DTSTAMP:20260825T183029Z
 DTSTART;VALUE=DATE:20250102
 DTEND;VALUE=DATE:20250105
 SUMMARY:Final exams
