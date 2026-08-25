@@ -4,25 +4,13 @@ PRODID:-//Bogazici University//Academic Calendar Sync//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Bogazici Academic Calendar - Registration
-X-WR-CALDESC:Bogazici University Registration, Admission Calendar
+X-WR-CALDESC:Bogazici University Registration Calendar
 X-WR-TIMEZONE:Europe/Istanbul
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:boun-academic-13482@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
-DTSTART;VALUE=DATE:20271014
-DTEND;VALUE=DATE:20271015
-SUMMARY:Deadline for international exchange and visitor students applications for Spring term
-DESCRIPTION:Category: Admission\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-international-exchange-and-visit/13482\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Admission
-URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-international-exchange-and-visit/13482
-END:VEVENT
-BEGIN:VEVENT
 UID:boun-academic-13474@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20270906
 DTEND;VALUE=DATE:20270907
 SUMMARY:Registration for new graduate students admitted off the wait-list
@@ -33,20 +21,8 @@ CATEGORIES:Registration
 URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-for-new-graduate-students-admitt/13474
 END:VEVENT
 BEGIN:VEVENT
-UID:boun-academic-13470@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
-DTSTART;VALUE=DATE:20270903
-DTEND;VALUE=DATE:20270904
-SUMMARY:Deadline for guest students (enrolled in domestic universities) applications
-DESCRIPTION:Category: Admission\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-guest-students-enrolled-in-domes/13470\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Admission
-URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-guest-students-enrolled-in-domes/13470
-END:VEVENT
-BEGIN:VEVENT
 UID:boun-academic-13466@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20270831
 DTEND;VALUE=DATE:20270904
 SUMMARY:Registration of newly admitted graduate students on primary list
@@ -57,20 +33,8 @@ CATEGORIES:Registration
 URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-of-newly-admitted-graduate-stude/13466
 END:VEVENT
 BEGIN:VEVENT
-UID:boun-academic-13391@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
-DTSTART;VALUE=DATE:20270825
-DTEND;VALUE=DATE:20270826
-SUMMARY:Deadline to apply to double-major programs and minor programs
-DESCRIPTION:Category: Admission\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-to-apply-to-double-major-programs-an/13391\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Admission
-URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-to-apply-to-double-major-programs-an/13391
-END:VEVENT
-BEGIN:VEVENT
 UID:boun-academic-13452@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20270819
 DTEND;VALUE=DATE:20270821
 SUMMARY:Online Registration for international visitor students and exchange students
@@ -81,20 +45,8 @@ CATEGORIES:Registration
 URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-registration-for-international-visitor/13452
 END:VEVENT
 BEGIN:VEVENT
-UID:boun-academic-13349@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
-DTSTART;VALUE=DATE:20270818
-DTEND;VALUE=DATE:20270826
-SUMMARY:Application period to double-major programs and minor programs
-DESCRIPTION:Category: Admission\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/application-period-to-double-major-programs-a/13349\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Admission
-URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/application-period-to-double-major-programs-a/13349
-END:VEVENT
-BEGIN:VEVENT
 UID:boun-academic-13430@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20270811
 DTEND;VALUE=DATE:20270812
 SUMMARY:Application date for students admitted off the main list to major and minor programs to the Faculty Student Affairs officers
@@ -106,7 +58,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/application-date-f
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13428@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20270811
 DTEND;VALUE=DATE:20270812
 SUMMARY:Registration day for students accepted from the main list through external transfer
@@ -117,20 +69,8 @@ CATEGORIES:Registration
 URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-day-for-students-accepted-from-t/13428
 END:VEVENT
 BEGIN:VEVENT
-UID:boun-academic-13415@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
-DTSTART;VALUE=DATE:20270802
-DTEND;VALUE=DATE:20270817
-SUMMARY:Transfer Applications with Central Points
-DESCRIPTION:Category: Admission\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/transfer-applications-with-central-points/13415\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Admission
-URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/transfer-applications-with-central-points/13415
-END:VEVENT
-BEGIN:VEVENT
 UID:boun-academic-13409@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20270730
 DTEND;VALUE=DATE:20270731
 SUMMARY:Registration system for course withdrawals for Executive and Other Graduate Programs Summer Session closes to students (19:00)
@@ -142,7 +82,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-syste
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13411@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20270730
 DTEND;VALUE=DATE:20270731
 SUMMARY:Registration system for course withdrawals for Executive and Other Graduate Programs Summer Session closes to advisors (23:59)
@@ -154,7 +94,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-syste
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13405@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20270729
 DTEND;VALUE=DATE:20270731
 SUMMARY:Course withdrawals for Executive and Other Graduate Programs Summer Session
@@ -166,7 +106,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/course-withdrawals
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13407@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20270729
 DTEND;VALUE=DATE:20270730
 SUMMARY:Registration system opens for course withdrawals for Executive and Other Graduate Programs Summer Session (10:00)
@@ -178,7 +118,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-syste
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13377@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20270709
 DTEND;VALUE=DATE:20270710
 SUMMARY:Deadline for Graduate Programs to send 2027 Fall admission decisions to Institutes
@@ -190,7 +130,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-gradu
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13379@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20270709
 DTEND;VALUE=DATE:20270710
 SUMMARY:Registration system for Summer Term add/drop closes to advisors ( 23:59)
@@ -202,7 +142,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-syste
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13373@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20270708
 DTEND;VALUE=DATE:20270709
 SUMMARY:Online Consent Approval Close for Instructors (Add/Drop Period) (22:00)
@@ -214,7 +154,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-consent-app
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13375@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20270708
 DTEND;VALUE=DATE:20270709
 SUMMARY:Registration system for Second Education Masters Programs Summer Session add/drop closes to students (23:59)
@@ -226,7 +166,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-syste
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13367@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20270707
 DTEND;VALUE=DATE:20270709
 SUMMARY:Executive and Other Graduate Programs Summer Session add/drop period
@@ -237,20 +177,8 @@ CATEGORIES:Registration
 URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/executive-and-other-graduate-programs-summer-/13367
 END:VEVENT
 BEGIN:VEVENT
-UID:boun-academic-13381@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
-DTSTART;VALUE=DATE:20270706
-DTEND;VALUE=DATE:20270717
-SUMMARY:Applications for internal and external transfers
-DESCRIPTION:Category: Admission\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/applications-for-internal-and-external-transf/13381\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Admission
-URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/applications-for-internal-and-external-transf/13381
-END:VEVENT
-BEGIN:VEVENT
 UID:boun-academic-13361@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20270706
 DTEND;VALUE=DATE:20270707
 SUMMARY:Executive and Other Graduate Programs Summer Session Add/Drop Period Online payment system opens (10:00)
@@ -262,7 +190,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/executive-and-othe
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13351@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20270629
 DTEND;VALUE=DATE:20270630
 SUMMARY:Registration system for Summer Term closes to advisors (12:00)
@@ -274,7 +202,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-syste
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13345@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20270628
 DTEND;VALUE=DATE:20270629
 SUMMARY:Registration system for Summer Term closes to students (23:59)
@@ -286,7 +214,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-syste
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13343@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20270628
 DTEND;VALUE=DATE:20270629
 SUMMARY:Online Consent Approval Close for Instructors (22:00)
@@ -298,7 +226,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-consent-app
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13337@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20270625
 DTEND;VALUE=DATE:20270629
 SUMMARY:Registration system for Executive and Other Graduate Programs Summer Session opens (10:00)
@@ -310,7 +238,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-syste
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13335@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20270625
 DTEND;VALUE=DATE:20270629
 SUMMARY:Registration system for Summer Term
@@ -322,7 +250,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-syste
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13310@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20270610
 DTEND;VALUE=DATE:20270611
 SUMMARY:Online payment system opens for registration for Summer term (10:00)
@@ -333,32 +261,8 @@ CATEGORIES:Registration
 URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-payment-system-opens-for-registration-/13310
 END:VEVENT
 BEGIN:VEVENT
-UID:boun-academic-13302@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
-DTSTART;VALUE=DATE:20270604
-DTEND;VALUE=DATE:20270605
-SUMMARY:Application deadline for the admission of international students to undergraduate programs for the 2027–2028 academic year.
-DESCRIPTION:Category: Admission\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/application-deadline-for-the-admission-of-int/13302\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Admission
-URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/application-deadline-for-the-admission-of-int/13302
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-13242@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
-DTSTART;VALUE=DATE:20270414
-DTEND;VALUE=DATE:20270611
-SUMMARY:Applications for graduate programs for 2027 Fall term
-DESCRIPTION:Category: Admission\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/applications-for-graduate-programs-for-2027-f/13242\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Admission
-URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/applications-for-graduate-programs-for-2027-f/13242
-END:VEVENT
-BEGIN:VEVENT
 UID:boun-academic-13269@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20270409
 DTEND;VALUE=DATE:20270410
 SUMMARY:Online payment system closes for Pre-registration for Summer term (16:00)
@@ -370,7 +274,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-payment-sys
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13274@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20270409
 DTEND;VALUE=DATE:20270410
 SUMMARY:Registration system closes to students for pre-registration for summer term (19:00)
@@ -382,7 +286,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-syste
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13265@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20270407
 DTEND;VALUE=DATE:20270408
 SUMMARY:Registration system opens for Pre-registration for Summer term (10:00)
@@ -394,7 +298,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-syste
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13263@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20270407
 DTEND;VALUE=DATE:20270410
 SUMMARY:Pre-registration for Summer Term
@@ -405,32 +309,8 @@ CATEGORIES:Registration
 URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/pre-registration-for-summer-term/13263
 END:VEVENT
 BEGIN:VEVENT
-UID:boun-academic-13228@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
-DTSTART;VALUE=DATE:20270405
-DTEND;VALUE=DATE:20270605
-SUMMARY:Application period for students applying to undergraduate programs from abroad for 2027-2028 Academic Year
-DESCRIPTION:Category: Admission\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/application-period-for-students-applying-to-u/13228\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Admission
-URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/application-period-for-students-applying-to-u/13228
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-13226@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
-DTSTART;VALUE=DATE:20270401
-DTEND;VALUE=DATE:20270611
-SUMMARY:Applications for Executive and Other Graduate Programs for 2027 Fall term
-DESCRIPTION:Category: Admission\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/applications-for-executive-and-other-graduate/13226\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Admission
-URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/applications-for-executive-and-other-graduate/13226
-END:VEVENT
-BEGIN:VEVENT
 UID:boun-academic-13246@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20270326
 DTEND;VALUE=DATE:20270327
 SUMMARY:Registration system closes to advisors for course withdrawals (23:59)
@@ -442,7 +322,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-syste
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13244@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20270325
 DTEND;VALUE=DATE:20270326
 SUMMARY:Registration system closes to students for course withdrawals (23:59)
@@ -454,7 +334,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-syste
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13232@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20270322
 DTEND;VALUE=DATE:20270323
 SUMMARY:Registration system opens for course withdrawals (10:00)
@@ -466,7 +346,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-syste
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13238@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20270315
 DTEND;VALUE=DATE:20270316
 SUMMARY:Online payment system opens for Pre-registration for Summer term (10:00)
@@ -478,7 +358,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-payment-sys
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13218@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20270128
 DTEND;VALUE=DATE:20270129
 SUMMARY:Registration system closes to advisors for add/drop (23:59)
@@ -490,7 +370,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-syste
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13603@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20270127
 DTEND;VALUE=DATE:20270128
 SUMMARY:Online payment system closes for add/drop (17:00)
@@ -502,7 +382,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-payment-sys
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13216@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20270127
 DTEND;VALUE=DATE:20270128
 SUMMARY:Registration system closes to students for add/drop (23:59)
@@ -514,7 +394,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-syste
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13208@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20270125
 DTEND;VALUE=DATE:20270128
 SUMMARY:Add/drop period
@@ -526,7 +406,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/adddrop-period/132
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13210@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20270125
 DTEND;VALUE=DATE:20270126
 SUMMARY:Registration system opens for add/drop (10:00)
@@ -538,7 +418,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-syste
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13202@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20270115
 DTEND;VALUE=DATE:20270116
 SUMMARY:Registration system closes to students (23:59)
@@ -550,7 +430,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-syste
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13200@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20270115
 DTEND;VALUE=DATE:20270116
 SUMMARY:Online Consent Approval Close for Instructors (21:00)
@@ -562,7 +442,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-consent-app
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13192@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20270113
 DTEND;VALUE=DATE:20270114
 SUMMARY:Registration system opens (10:00)
@@ -574,7 +454,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-syste
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13182@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20270112
 DTEND;VALUE=DATE:20270113
 SUMMARY:Registration for new graduate students admitted off the wait-list
@@ -586,7 +466,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-for-n
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13172@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20270111
 DTEND;VALUE=DATE:20270112
 SUMMARY:Registration of newly admitted graduate students on primary list
@@ -597,20 +477,8 @@ CATEGORIES:Registration
 URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-of-newly-admitted-graduate-stude/13172
 END:VEVENT
 BEGIN:VEVENT
-UID:boun-academic-13176@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
-DTSTART;VALUE=DATE:20270111
-DTEND;VALUE=DATE:20270112
-SUMMARY:Deadline for special students (enrolled in domestic universities) applications
-DESCRIPTION:Category: Admission\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-special-students-enrolled-in-dom/13176\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Admission
-URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-special-students-enrolled-in-dom/13176
-END:VEVENT
-BEGIN:VEVENT
 UID:boun-academic-13180@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20270111
 DTEND;VALUE=DATE:20270113
 SUMMARY:Registration for international guest and exchange students
@@ -622,7 +490,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-for-i
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13170@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20270108
 DTEND;VALUE=DATE:20270109
 SUMMARY:Online payment system opens (10:00)
@@ -633,44 +501,8 @@ CATEGORIES:Registration
 URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-payment-system-opens-1000/13170
 END:VEVENT
 BEGIN:VEVENT
-UID:boun-academic-13162@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
-DTSTART;VALUE=DATE:20270103
-DTEND;VALUE=DATE:20270104
-SUMMARY:Deadline to apply to double-major programs and minor programs
-DESCRIPTION:Category: Admission\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-to-apply-to-double-major-programs-an/13162\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Admission
-URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-to-apply-to-double-major-programs-an/13162
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-13118@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
-DTSTART;VALUE=DATE:20261214
-DTEND;VALUE=DATE:20261222
-SUMMARY:Applications to graduate programs for 2027 Spring term
-DESCRIPTION:Category: Admission\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/applications-to-graduate-programs-for-2027-sp/13118\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Admission
-URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/applications-to-graduate-programs-for-2027-sp/13118
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-13130@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
-DTSTART;VALUE=DATE:20261212
-DTEND;VALUE=DATE:20270104
-SUMMARY:Application period to double-major programs and minor programs
-DESCRIPTION:Category: Admission\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/application-period-to-double-major-programs-a/13130\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Admission
-URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/application-period-to-double-major-programs-a/13130
-END:VEVENT
-BEGIN:VEVENT
 UID:boun-academic-13089@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
 SUMMARY:Registration system closes to advisors for course withdrawals (23:59)
@@ -682,7 +514,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-syste
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13082@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
 SUMMARY:Registration system closes to students for course withdrawals (23:59)
@@ -694,7 +526,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-syste
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13078@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20261109
 DTEND;VALUE=DATE:20261110
 SUMMARY:Registration system opens for course withdrawals (10:00)
@@ -706,7 +538,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-syste
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13048@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
 SUMMARY:Registration system closes to advisors for add/drop (23:59)
@@ -718,7 +550,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-syste
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13046@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
 SUMMARY:Registration system closes to students for add/drop (23:59)
@@ -730,7 +562,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-syste
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13034@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20261001
 SUMMARY:Add/drop period
@@ -742,7 +574,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/adddrop-period/130
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13036@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20260929
 SUMMARY:Registration system opens for add/drop (10 a.m.)
@@ -754,7 +586,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-syste
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13016@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260918
 SUMMARY:Online Consent Approval Close for Instructors (21:00)
@@ -766,7 +598,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-consent-app
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13018@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260918
 SUMMARY:Registration system closes to students (23:59)
@@ -778,7 +610,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-syste
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13014@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260918
 SUMMARY:Online Consent Requests Close for Students (14:00)
@@ -790,7 +622,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-consent-req
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13010@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
 SUMMARY:Registration system opens (10:00)
@@ -802,7 +634,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-syste
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-12999@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20260908
 DTEND;VALUE=DATE:20260909
 SUMMARY:Online payment system opens (10:00)
@@ -813,20 +645,8 @@ CATEGORIES:Registration
 URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-payment-system-opens-1000/12999
 END:VEVENT
 BEGIN:VEVENT
-UID:boun-academic-12066@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
-DTSTART;VALUE=DATE:20260803
-DTEND;VALUE=DATE:20260818
-SUMMARY:Transfer Applications with Central Points
-DESCRIPTION:Category: Admission\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/transfer-applications-with-central-points/12066\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Admission
-URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/transfer-applications-with-central-points/12066
-END:VEVENT
-BEGIN:VEVENT
 UID:boun-academic-12064@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20260731
 DTEND;VALUE=DATE:20260801
 SUMMARY:Registration system for course withdrawals for Executive and Other Graduate Programs Summer Session closes to advisors (23:59)
@@ -838,7 +658,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-syste
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-12063@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20260731
 DTEND;VALUE=DATE:20260801
 SUMMARY:Registration system for course withdrawals for Executive and Other Graduate Programs Summer Session closes to students (19:00)
@@ -850,7 +670,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-syste
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-12061@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20260730
 DTEND;VALUE=DATE:20260731
 SUMMARY:Registration system opens for course withdrawals for Executive and Other Graduate Programs Summer Session (10:00)
@@ -862,7 +682,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-syste
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-12060@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20260730
 DTEND;VALUE=DATE:20260801
 SUMMARY:Course withdrawals for Executive and Other Graduate Programs Summer Session
@@ -873,20 +693,8 @@ CATEGORIES:Registration
 URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/course-withdrawals-for-executive-and-other-gr/12060
 END:VEVENT
 BEGIN:VEVENT
-UID:boun-academic-12051@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
-DTSTART;VALUE=DATE:20260707
-DTEND;VALUE=DATE:20260717
-SUMMARY:Applications for internal and external transfers
-DESCRIPTION:Category: Admission\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/applications-for-internal-and-external-transf/12051\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Admission
-URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/applications-for-internal-and-external-transf/12051
-END:VEVENT
-BEGIN:VEVENT
 UID:boun-academic-12049@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20260703
 DTEND;VALUE=DATE:20260704
 SUMMARY:Registration system for Summer Term add/drop closes to advisors ( 23:59)
@@ -898,7 +706,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-syste
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-12048@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20260702
 DTEND;VALUE=DATE:20260703
 SUMMARY:Registration system for Second Education Masters Programs Summer Session add/drop closes to students (23:59)
@@ -910,7 +718,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-syste
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-12047@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20260702
 DTEND;VALUE=DATE:20260703
 SUMMARY:Online Consent Approval closes to Instructors for Summer Term add/drop (22:00)
@@ -922,7 +730,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-consent-app
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-12046@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20260702
 DTEND;VALUE=DATE:20260703
 SUMMARY:Online Consent Requests closes to students for Summer Term add/drop (20:00)
@@ -934,7 +742,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-consent-req
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-12045@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20260702
 DTEND;VALUE=DATE:20260703
 SUMMARY:Online payment system closes (16:00) 
@@ -946,7 +754,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-payment-sys
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-12044@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260703
 SUMMARY:Executive and Other Graduate Programs Summer Session add/drop period
@@ -957,20 +765,8 @@ CATEGORIES:Registration
 URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/executive-and-other-graduate-programs-summer-/12044
 END:VEVENT
 BEGIN:VEVENT
-UID:boun-academic-13955@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
-DTSTART;VALUE=DATE:20260701
-DTEND;VALUE=DATE:20260717
-SUMMARY:Second Application Period for International Undergraduate Admissions for the 2026–2027 Academic Year
-DESCRIPTION:Category: Admission\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/second-application-period-for-international-u/13955\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Admission
-URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/second-application-period-for-international-u/13955
-END:VEVENT
-BEGIN:VEVENT
 UID:boun-academic-12041@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20260630
 DTEND;VALUE=DATE:20260701
 SUMMARY:Executive and Other Graduate Programs Summer Session Add/Drop Period Online payment system opens (10:00)
@@ -982,7 +778,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/executive-and-othe
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-12035@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20260623
 DTEND;VALUE=DATE:20260624
 SUMMARY:Registration system for Summer Term closes to advisors (12:00)
@@ -994,7 +790,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-syste
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-12032@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20260622
 DTEND;VALUE=DATE:20260623
 SUMMARY:Registration system for Summer Term closes to students (23:59)
@@ -1006,7 +802,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-syste
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-12030@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20260622
 DTEND;VALUE=DATE:20260623
 SUMMARY:Online Consent Requests Close for Students (Add/Drop Period) (20:00)
@@ -1018,7 +814,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-consent-req
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-12029@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20260622
 DTEND;VALUE=DATE:20260623
 SUMMARY:Online Consent Approval Close for Instructors (Add/Drop Period) (22:00)
@@ -1030,7 +826,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-consent-app
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-12028@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20260622
 DTEND;VALUE=DATE:20260623
 SUMMARY:Online payment system closes (16:00)
@@ -1042,7 +838,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-payment-sys
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-12026@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20260619
 DTEND;VALUE=DATE:20260623
 SUMMARY:Registration system for Summer Term
@@ -1054,7 +850,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-syste
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-12027@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20260619
 DTEND;VALUE=DATE:20260620
 SUMMARY:Registration system for Executive and Other Graduate Programs Summer Session opens (14:00)
@@ -1065,20 +861,8 @@ CATEGORIES:Registration
 URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-system-for-executive-and-other-g/12027
 END:VEVENT
 BEGIN:VEVENT
-UID:boun-academic-12020@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
-DTSTART;VALUE=DATE:20260611
-DTEND;VALUE=DATE:20260612
-SUMMARY:Deadline applications for Executive and Other Graduate Programs for 2026 Fall term
-DESCRIPTION:Category: Admission\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-applications-for-executive-and-other/12020\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Admission
-URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-applications-for-executive-and-other/12020
-END:VEVENT
-BEGIN:VEVENT
 UID:boun-academic-12018@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20260611
 DTEND;VALUE=DATE:20260612
 SUMMARY:Online payment system opens for registration for Summer term (10:00)
@@ -1090,7 +874,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-payment-sys
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-12003@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20260508
 DTEND;VALUE=DATE:20260509
 SUMMARY:Registration system closes to students for pre-registration for summer term (19:00)
@@ -1102,7 +886,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-syste
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-12002@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20260508
 DTEND;VALUE=DATE:20260509
 SUMMARY:Online Consent Approval Close for Instructors (Pre-registration for summer term) (18:00)
@@ -1114,7 +898,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-consent-app
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-12001@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20260508
 DTEND;VALUE=DATE:20260509
 SUMMARY:Online Consent Requests Close for Students (Pre-registration for summer term) (16:00)
@@ -1126,7 +910,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-consent-req
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-12000@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20260508
 DTEND;VALUE=DATE:20260509
 SUMMARY:Online payment system closes for Pre-registration for Summer term (16:00)
@@ -1138,7 +922,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-payment-sys
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11997@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20260506
 DTEND;VALUE=DATE:20260507
 SUMMARY:Registration system opens for Pre-registration for Summer term  (10:00)
@@ -1150,7 +934,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-syste
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11996@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20260506
 DTEND;VALUE=DATE:20260509
 SUMMARY:Pre-registration for Summer Term
@@ -1162,7 +946,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/pre-registration-f
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11990@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20260417
 DTEND;VALUE=DATE:20260418
 SUMMARY:Registration system closes to advisors for course withdrawals (23:59)
@@ -1174,7 +958,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-syste
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11988@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20260416
 DTEND;VALUE=DATE:20260417
 SUMMARY:Registration system closes to students for course withdrawals (23:59)
@@ -1185,20 +969,8 @@ CATEGORIES:Registration
 URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-system-closes-to-students-for-co/11988
 END:VEVENT
 BEGIN:VEVENT
-UID:boun-academic-11987@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
-DTSTART;VALUE=DATE:20260415
-DTEND;VALUE=DATE:20260611
-SUMMARY:Applications for graduate programs for 2026 Fall term
-DESCRIPTION:Category: Admission\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/applications-for-graduate-programs-for-2026-f/11987\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Admission
-URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/applications-for-graduate-programs-for-2026-f/11987
-END:VEVENT
-BEGIN:VEVENT
 UID:boun-academic-11984@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20260413
 DTEND;VALUE=DATE:20260414
 SUMMARY:Online payment system opens for Pre-registration for Summer term (10:00)
@@ -1210,7 +982,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-payment-sys
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11982@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20260413
 DTEND;VALUE=DATE:20260414
 SUMMARY:Registration system opens for course withdrawals (10:00)
@@ -1222,7 +994,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-syste
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11981@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20260413
 DTEND;VALUE=DATE:20260418
 SUMMARY:Course withdrawal period
@@ -1233,32 +1005,8 @@ CATEGORIES:Registration
 URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/course-withdrawal-period/11981
 END:VEVENT
 BEGIN:VEVENT
-UID:boun-academic-12052@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
-DTSTART;VALUE=DATE:20260406
-DTEND;VALUE=DATE:20260606
-SUMMARY:Application period for students applying to undergraduate programs from abroad for 2026-2027 Academic Year
-DESCRIPTION:Category: Admission\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/application-period-for-students-applying-to-u/12052\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Admission
-URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/application-period-for-students-applying-to-u/12052
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-11980@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
-DTSTART;VALUE=DATE:20260401
-DTEND;VALUE=DATE:20260611
-SUMMARY:Applications for Executive and Other Graduate Programs for 2026 Fall term
-DESCRIPTION:Category: Admission\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/applications-for-executive-and-other-graduate/11980\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Admission
-URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/applications-for-executive-and-other-graduate/11980
-END:VEVENT
-BEGIN:VEVENT
 UID:boun-academic-11975@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20260219
 DTEND;VALUE=DATE:20260220
 SUMMARY:Registration system closes to advisors for add/drop (23:59)
@@ -1270,7 +1018,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-syste
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11973@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20260218
 DTEND;VALUE=DATE:20260219
 SUMMARY:Registration system closes to students for add/drop (23:59)
@@ -1282,7 +1030,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-syste
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11974@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20260218
 DTEND;VALUE=DATE:20260219
 SUMMARY:Online Consent Approval Close for Instructors (21:00) 
@@ -1294,7 +1042,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-consent-app
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11972@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20260218
 DTEND;VALUE=DATE:20260219
 SUMMARY:Online payment system closes for add/drop (17:00)
@@ -1306,7 +1054,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-payment-sys
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11971@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20260218
 DTEND;VALUE=DATE:20260219
 SUMMARY:Online Consent Requests Close for Students (14:00)
@@ -1318,7 +1066,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-consent-req
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11970@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20260216
 DTEND;VALUE=DATE:20260217
 SUMMARY:Registration system opens for add/drop (10:00)
@@ -1330,7 +1078,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-syste
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11969@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20260216
 DTEND;VALUE=DATE:20260219
 SUMMARY:Add/drop period
@@ -1342,7 +1090,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/adddrop-period/119
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11967@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20260206
 DTEND;VALUE=DATE:20260207
 SUMMARY:Registration system closes to advisors (23:59)
@@ -1354,7 +1102,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-syste
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11966@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20260205
 DTEND;VALUE=DATE:20260206
 SUMMARY:Registration system closes to students (23:59) 
@@ -1366,7 +1114,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-syste
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11965@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20260205
 DTEND;VALUE=DATE:20260206
 SUMMARY:Online Consent Approval Close for Instructors (21:00)
@@ -1378,7 +1126,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-consent-app
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11964@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20260205
 DTEND;VALUE=DATE:20260206
 SUMMARY:Online Consent Requests Close for Students (14:00) 
@@ -1390,7 +1138,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-consent-req
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11961@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20260203
 DTEND;VALUE=DATE:20260204
 SUMMARY:Registration system opens (10:00)
@@ -1402,7 +1150,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-syste
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11962@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20260203
 DTEND;VALUE=DATE:20260204
 SUMMARY:Chemistry\, Computer Engineering\, Molecular Biology and Genetic\, Physics waiver exams for new undergraduate students
@@ -1414,7 +1162,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/chemistry-computer
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11960@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20260203
 DTEND;VALUE=DATE:20260206
 SUMMARY:Online Registration Period
@@ -1426,7 +1174,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-registratio
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11957@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20260130
 DTEND;VALUE=DATE:20260131
 SUMMARY:Online payment system opens (10:00)
@@ -1437,32 +1185,8 @@ CATEGORIES:Registration
 URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-payment-system-opens-1000/11957
 END:VEVENT
 BEGIN:VEVENT
-UID:boun-academic-11931@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
-DTSTART;VALUE=DATE:20260112
-DTEND;VALUE=DATE:20260113
-SUMMARY:English Language Placement Exam (DBS) (Candidates applying for the Graduate Preparatory Class)
-DESCRIPTION:Category: Admission\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/english-language-placement-exam-dbs-candidate/11931\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Admission
-URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/english-language-placement-exam-dbs-candidate/11931
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-11926@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
-DTSTART;VALUE=DATE:20260102
-DTEND;VALUE=DATE:20260110
-SUMMARY:Applications to graduate programs for 2026 Spring term
-DESCRIPTION:Category: Admission\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/applications-to-graduate-programs-for-2026-sp/11926\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Admission
-URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/applications-to-graduate-programs-for-2026-sp/11926
-END:VEVENT
-BEGIN:VEVENT
 UID:boun-academic-11911@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20251121
 DTEND;VALUE=DATE:20251122
 SUMMARY:Registration system closes to advisors for course withdrawals (23:59)
@@ -1474,7 +1198,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-syste
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11909@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20251120
 DTEND;VALUE=DATE:20251121
 SUMMARY:Registration system closes to students for course withdrawals (23:59)
@@ -1486,7 +1210,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-syste
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11907@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20251118
 DTEND;VALUE=DATE:20251119
 SUMMARY:Student consultations with academic advisors
@@ -1498,7 +1222,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/student-consultati
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11906@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20251117
 DTEND;VALUE=DATE:20251118
 SUMMARY:Registration system opens for course withdrawals (10:00)
@@ -1510,7 +1234,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-syste
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11905@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20251117
 DTEND;VALUE=DATE:20251122
 SUMMARY:Course withdrawal period
@@ -1522,7 +1246,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/course-withdrawal-
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11895@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20251002
 DTEND;VALUE=DATE:20251003
 SUMMARY:Registration system closes to advisors for add/drop (23:59)
@@ -1534,7 +1258,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-syste
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11894@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20251001
 DTEND;VALUE=DATE:20251002
 SUMMARY:Registration system closes to students for add/drop (23:59)
@@ -1546,7 +1270,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-syste
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11892@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20251001
 DTEND;VALUE=DATE:20251002
 SUMMARY:Online Consent Requests Close for Students (Add/Drop Period) (14:00)
@@ -1558,7 +1282,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-consent-req
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11893@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20251001
 DTEND;VALUE=DATE:20251002
 SUMMARY:Online Consent Approval Close for Instructors (Add/Drop Period) (21:00)
@@ -1570,7 +1294,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-consent-app
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11891@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20251001
 DTEND;VALUE=DATE:20251002
 SUMMARY:Online payment system closes for add/drop (17:00)
@@ -1582,7 +1306,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-payment-sys
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11890@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20250929
 DTEND;VALUE=DATE:20250930
 SUMMARY:Student consultations with academic advisors
@@ -1594,7 +1318,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/student-consultati
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11888@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20250929
 DTEND;VALUE=DATE:20251002
 SUMMARY:Add/drop period
@@ -1606,7 +1330,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/adddrop-period/118
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11889@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20250929
 DTEND;VALUE=DATE:20250930
 SUMMARY:Registration system opens for add/drop (10 a.m.)
@@ -1618,7 +1342,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-syste
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11882@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20250920
 DTEND;VALUE=DATE:20250921
 SUMMARY:Registration system closes to advisors (23:59)
@@ -1630,7 +1354,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-syste
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11880@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20250919
 DTEND;VALUE=DATE:20250920
 SUMMARY:Chemistry\, Computer Engineering\, Molecular Biology and Genetic\, Physics waiver exams
@@ -1642,7 +1366,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/chemistry-computer
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11879@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20250918
 DTEND;VALUE=DATE:20250919
 SUMMARY:Registration system closes to students (23:59)
@@ -1654,7 +1378,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-syste
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11877@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20250918
 DTEND;VALUE=DATE:20250919
 SUMMARY:Online Consent Requests Close for Students (14:00)
@@ -1666,7 +1390,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-consent-req
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11878@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20250918
 DTEND;VALUE=DATE:20250919
 SUMMARY:Online Consent Approval Close for Instructors (21:00)
@@ -1678,7 +1402,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-consent-app
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11875@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20250916
 DTEND;VALUE=DATE:20250917
 SUMMARY:Registration system opens (10:00)
@@ -1690,7 +1414,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-syste
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11874@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20250916
 DTEND;VALUE=DATE:20250919
 SUMMARY:Online Registration Period
@@ -1702,7 +1426,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-registratio
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11870@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20250909
 DTEND;VALUE=DATE:20250910
 SUMMARY:Online payment system opens (10:00)
@@ -1713,20 +1437,8 @@ CATEGORIES:Registration
 URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-payment-system-opens-1000/11870
 END:VEVENT
 BEGIN:VEVENT
-UID:boun-academic-11845@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
-DTSTART;VALUE=DATE:20250805
-DTEND;VALUE=DATE:20250806
-SUMMARY:Registration of students admitted off the wait-list to major and minor programs
-DESCRIPTION:Category: Admission\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-of-students-admitted-off-the-wai/11845\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Admission
-URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-of-students-admitted-off-the-wai/11845
-END:VEVENT
-BEGIN:VEVENT
 UID:boun-academic-11842@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20250801
 DTEND;VALUE=DATE:20250802
 SUMMARY:Registration system for course withdrawals for Executive and Other Graduate Programs Summer Session closes to advisors (23:59)
@@ -1738,7 +1450,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-syste
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11841@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20250801
 DTEND;VALUE=DATE:20250802
 SUMMARY:Registration system for course withdrawals for Executive and Other Graduate Programs Summer Session closes to students (19:00)
@@ -1749,20 +1461,8 @@ CATEGORIES:Registration
 URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-system-for-course-withdrawals-fo/11841
 END:VEVENT
 BEGIN:VEVENT
-UID:boun-academic-11836@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
-DTSTART;VALUE=DATE:20250801
-DTEND;VALUE=DATE:20250816
-SUMMARY:Transfer Applications with Central Points
-DESCRIPTION:Category: Admission\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/transfer-applications-with-central-points/11836\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Admission
-URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/transfer-applications-with-central-points/11836
-END:VEVENT
-BEGIN:VEVENT
 UID:boun-academic-11832@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20250731
 DTEND;VALUE=DATE:20250801
 SUMMARY:Registration system opens for course withdrawals for Executive and Other Graduate Programs Summer Session (10:00)
@@ -1774,7 +1474,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-syste
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11831@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20250731
 DTEND;VALUE=DATE:20250802
 SUMMARY:Course withdrawals for Executive and Other Graduate Programs Summer Session
@@ -1785,32 +1485,8 @@ CATEGORIES:Registration
 URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/course-withdrawals-for-executive-and-other-gr/11831
 END:VEVENT
 BEGIN:VEVENT
-UID:boun-academic-11823@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
-DTSTART;VALUE=DATE:20250708
-DTEND;VALUE=DATE:20250717
-SUMMARY:Application period for students applying to undergraduate programs from abroad for 2025-2026 Academic Year
-DESCRIPTION:Category: Admission\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/application-period-for-students-applying-to-u/11823\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Admission
-URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/application-period-for-students-applying-to-u/11823
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-11822@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
-DTSTART;VALUE=DATE:20250708
-DTEND;VALUE=DATE:20250717
-SUMMARY:Applications for internal and external transfers
-DESCRIPTION:Category: Admission\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/applications-for-internal-and-external-transf/11822\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Admission
-URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/applications-for-internal-and-external-transf/11822
-END:VEVENT
-BEGIN:VEVENT
 UID:boun-academic-11821@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20250707
 DTEND;VALUE=DATE:20250708
 SUMMARY:Registration system for Summer Term add/drop closes to advisors ( 23:59)
@@ -1822,7 +1498,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-syste
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11819@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20250704
 DTEND;VALUE=DATE:20250705
 SUMMARY:Registration system for Second Education Masters Programs Summer Session add/drop closes to students (23:59)
@@ -1834,7 +1510,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-syste
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11818@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20250704
 DTEND;VALUE=DATE:20250705
 SUMMARY:Online Consent Approval closes to Instructors for Summer Term add/drop (22:00)
@@ -1846,7 +1522,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-consent-app
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11817@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20250704
 DTEND;VALUE=DATE:20250705
 SUMMARY:Online Consent Requests closes to students for Summer Term add/drop (20:00)
@@ -1858,7 +1534,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-consent-req
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11816@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20250704
 DTEND;VALUE=DATE:20250705
 SUMMARY:Online payment system closes (16:00)
@@ -1870,7 +1546,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-payment-sys
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11815@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20250703
 DTEND;VALUE=DATE:20250705
 SUMMARY:Executive and Other Graduate Programs Summer Session add/drop period
@@ -1882,7 +1558,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/executive-and-othe
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11812@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20250630
 DTEND;VALUE=DATE:20250701
 SUMMARY:Executive and Other Graduate Programs Summer Session Add/Drop Period Online payment system opens (10:00)
@@ -1894,7 +1570,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/executive-and-othe
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11805@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20250623
 DTEND;VALUE=DATE:20250624
 SUMMARY:Registration system for Summer Term closes to advisors (12:00)
@@ -1906,7 +1582,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-syste
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11802@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20250620
 DTEND;VALUE=DATE:20250621
 SUMMARY:Registration system for Summer Term closes to students (23:59)
@@ -1918,7 +1594,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-syste
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11801@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20250620
 DTEND;VALUE=DATE:20250621
 SUMMARY:Online Consent Approval Close for Instructors (Add/Drop Period) (22:00)
@@ -1930,7 +1606,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-consent-app
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11800@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20250620
 DTEND;VALUE=DATE:20250621
 SUMMARY:Online Consent Requests Close for Students (Add/Drop Period) (20:00)
@@ -1942,7 +1618,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-consent-req
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11799@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20250620
 DTEND;VALUE=DATE:20250621
 SUMMARY:Online payment system closes (16:00)
@@ -1954,7 +1630,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-payment-sys
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11798@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20250619
 DTEND;VALUE=DATE:20250621
 SUMMARY:Registration system for Summer Term
@@ -1966,7 +1642,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-syste
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11797@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20250619
 DTEND;VALUE=DATE:20250620
 SUMMARY:Registration system for Executive and Other Graduate Programs Summer Session opens (10:00)
@@ -1978,7 +1654,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-syste
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11789@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20250610
 DTEND;VALUE=DATE:20250611
 SUMMARY:Online payment system opens for registration for Summer term (10:00)
@@ -1990,7 +1666,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-payment-sys
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11773@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20250509
 DTEND;VALUE=DATE:20250510
 SUMMARY:Online payment system closes for Pre-registration for Summer term (16:00)
@@ -2002,7 +1678,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-payment-sys
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11770@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20250507
 DTEND;VALUE=DATE:20250510
 SUMMARY:Pre-registration for Summer Term
@@ -2014,7 +1690,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/pre-registration-f
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11763@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20250418
 DTEND;VALUE=DATE:20250419
 SUMMARY:Registration system closes to advisors for course withdrawals (23:59)
@@ -2026,7 +1702,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-syste
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11762@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20250417
 DTEND;VALUE=DATE:20250418
 SUMMARY:Registration system closes to students for course withdrawals (23:59)
@@ -2037,20 +1713,8 @@ CATEGORIES:Registration
 URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-system-closes-to-students-for-co/11762
 END:VEVENT
 BEGIN:VEVENT
-UID:boun-academic-11761@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
-DTSTART;VALUE=DATE:20250416
-DTEND;VALUE=DATE:20250611
-SUMMARY:Applications for graduate programs for 2025 Fall term
-DESCRIPTION:Category: Admission\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/applications-for-graduate-programs-for-2025-f/11761\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Admission
-URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/applications-for-graduate-programs-for-2025-f/11761
-END:VEVENT
-BEGIN:VEVENT
 UID:boun-academic-11759@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20250414
 DTEND;VALUE=DATE:20250415
 SUMMARY:Registration system opens for course withdrawals (10:00)
@@ -2062,7 +1726,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-syste
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11758@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20250414
 DTEND;VALUE=DATE:20250419
 SUMMARY:Course withdrawal period
@@ -2074,7 +1738,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/course-withdrawal-
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11756@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20250414
 DTEND;VALUE=DATE:20250415
 SUMMARY:Online payment system opens for Pre-registration for Summer term (10:00)
@@ -2085,20 +1749,8 @@ CATEGORIES:Registration
 URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-payment-system-opens-for-pre-registrat/11756
 END:VEVENT
 BEGIN:VEVENT
-UID:boun-academic-11754@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
-DTSTART;VALUE=DATE:20250402
-DTEND;VALUE=DATE:20250611
-SUMMARY:Applications for Executive and Other Graduate Programs for 2025 Fall term
-DESCRIPTION:Category: Admission\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/applications-for-executive-and-other-graduate/11754\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Admission
-URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/applications-for-executive-and-other-graduate/11754
-END:VEVENT
-BEGIN:VEVENT
 UID:boun-academic-11749@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20250220
 DTEND;VALUE=DATE:20250221
 SUMMARY:Registration system closes to advisors for add/drop (23:59)
@@ -2110,7 +1762,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-syste
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11748@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20250219
 DTEND;VALUE=DATE:20250220
 SUMMARY: Registration system closes to students for add/drop (23:59)
@@ -2122,7 +1774,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-syste
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11747@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20250219
 DTEND;VALUE=DATE:20250220
 SUMMARY:Online Consent Approval Close for Instructors (21:00)
@@ -2134,7 +1786,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-consent-app
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11746@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20250219
 DTEND;VALUE=DATE:20250220
 SUMMARY:Online Consent Requests Close for Students (14:00)
@@ -2146,7 +1798,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-consent-req
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11745@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20250219
 DTEND;VALUE=DATE:20250220
 SUMMARY:Online payment system closes for add/drop (17:00)
@@ -2158,7 +1810,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-payment-sys
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11744@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20250217
 DTEND;VALUE=DATE:20250218
 SUMMARY:Registration system opens for add/drop (10:00)
@@ -2170,7 +1822,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-syste
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11743@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20250217
 DTEND;VALUE=DATE:20250220
 SUMMARY:Add/drop period
@@ -2182,7 +1834,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/adddrop-period/117
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11742@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20250211
 DTEND;VALUE=DATE:20250212
 SUMMARY:Registration system closes to advisors (23:59) (for students whose programs have been rejected by their advisors)
@@ -2194,7 +1846,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-syste
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11741@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20250210
 DTEND;VALUE=DATE:20250211
 SUMMARY:Registration system closes to students (23:59) (for students whose programs have been rejected by their advisors)
@@ -2206,7 +1858,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-syste
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11740@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20250210
 DTEND;VALUE=DATE:20250211
 SUMMARY:Online Consent Approval Close for Instructors (21:00) (for students whose programs have been rejected by their advisors)
@@ -2218,7 +1870,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-consent-app
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11739@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20250210
 DTEND;VALUE=DATE:20250211
 SUMMARY:Online Consent Requests Close for Students (14:00) (for students whose programs have been rejected by their advisors)
@@ -2230,7 +1882,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-consent-req
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11737@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20250208
 DTEND;VALUE=DATE:20250209
 SUMMARY:Registration system opens to students and advisors(for students whose programs have been rejected by their advisors) (10:00) 
@@ -2242,7 +1894,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-syste
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11736@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20250207
 DTEND;VALUE=DATE:20250208
 SUMMARY:Registration system closes to advisors (23:59)
@@ -2254,7 +1906,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-syste
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11735@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20250206
 DTEND;VALUE=DATE:20250207
 SUMMARY:Registration system closes to students (23:59)
@@ -2266,7 +1918,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-syste
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11734@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20250206
 DTEND;VALUE=DATE:20250207
 SUMMARY:Online Consent Approval Close for Instructors (21:00)
@@ -2278,7 +1930,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-consent-app
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11733@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20250206
 DTEND;VALUE=DATE:20250207
 SUMMARY:Online Consent Requests Close for Students (14:00)
@@ -2290,7 +1942,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-consent-req
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11731@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20250204
 DTEND;VALUE=DATE:20250205
 SUMMARY:Chemistry\, Computer Engineering\, Molecular Biology and Genetic\, Physics waiver exams for new undergraduate students
@@ -2302,7 +1954,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/chemistry-computer
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11730@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20250204
 DTEND;VALUE=DATE:20250205
 SUMMARY:Registration system opens (10:00)
@@ -2314,7 +1966,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-syste
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11729@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20250204
 DTEND;VALUE=DATE:20250207
 SUMMARY:Online Registration Period
@@ -2326,7 +1978,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-registratio
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11726@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20250131
 DTEND;VALUE=DATE:20250201
 SUMMARY:Online payment system opens (10:00)
@@ -2335,17 +1987,5 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:Registration
 URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-payment-system-opens-1000/11726
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-11695@bogazici.edu.tr
-DTSTAMP:20260825T181528Z
-DTSTART;VALUE=DATE:20250102
-DTEND;VALUE=DATE:20250110
-SUMMARY:Applications to graduate programs for 2025 Spring term
-DESCRIPTION:Category: Admission\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/applications-to-graduate-programs-for-2025-sp/11695\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Admission
-URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/applications-to-graduate-programs-for-2025-sp/11695
 END:VEVENT
 END:VCALENDAR

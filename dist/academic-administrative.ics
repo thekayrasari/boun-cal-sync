@@ -1,0 +1,3323 @@
+﻿BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Bogazici University//Academic Calendar Sync//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Bogazici Academic Calendar - Administrative
+X-WR-CALDESC:Bogazici University Administrative Calendar
+X-WR-TIMEZONE:Europe/Istanbul
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:boun-academic-13481@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20270918
+DTEND;VALUE=DATE:20270919
+SUMMARY:Commencement Ceremony for Second Education Masters Programs (End of the Summer Term)
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/commencement-ceremony-for-second-education-ma/13481\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/commencement-ceremony-for-second-education-ma/13481
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-14221@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20270909
+DTEND;VALUE=DATE:20270910
+SUMMARY:Online registration date for students admitted off the wait-list to major and minor programs (10:00 – 23:59)
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-registration-date-for-students-admitte/14221\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-registration-date-for-students-admitte/14221
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13476@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20270908
+DTEND;VALUE=DATE:20270910
+SUMMARY:Registration of students who are placed in undergraduate programs on waiting list within the scope of accepting students from abroad
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-of-students-who-are-placed-in-un/13476\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-of-students-who-are-placed-in-un/13476
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-14220@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20270908
+DTEND;VALUE=DATE:20270909
+SUMMARY:Online registration date for students admitted off the main list to major and minor programs (10:00 – 23:59)
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-registration-date-for-students-admitte/14220\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-registration-date-for-students-admitte/14220
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-14218@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20270907
+DTEND;VALUE=DATE:20270908
+SUMMARY:Deadline for Faculties to send admission acceptance decisions on double-major\, minor to the Faculty Student Affairs via the online application system.
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-faculties-to-send-admission-acce/14218\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-faculties-to-send-admission-acce/14218
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13472@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20270903
+DTEND;VALUE=DATE:20270908
+SUMMARY:Registration of students who are placed in undergraduate programs within the scope of accepting students from abroad
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-of-students-who-are-placed-in-un/13472\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-of-students-who-are-placed-in-un/13472
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13468@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20270902
+DTEND;VALUE=DATE:20270903
+SUMMARY:Registration of transfer students accepted with central points
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-of-transfer-students-accepted-wi/13468\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-of-transfer-students-accepted-wi/13468
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13464@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20270830
+DTEND;VALUE=DATE:20270831
+SUMMARY:Victory Day (Holiday)
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/victory-day-holiday/13464\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/victory-day-holiday/13464
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13462@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20270827
+DTEND;VALUE=DATE:20270828
+SUMMARY:Announcement of transfer acceptances with central points
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/announcement-of-transfer-acceptances-with-cen/13462\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/announcement-of-transfer-acceptances-with-cen/13462
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13460@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20270827
+DTEND;VALUE=DATE:20270828
+SUMMARY:Deadline for sending date changes of courses to the Registrar in the 2027/2028 Fall
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-sending-date-changes-of-courses-/13460\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-sending-date-changes-of-courses-/13460
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13456@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20270825
+DTEND;VALUE=DATE:20270826
+SUMMARY:Deadline for the University Executive Board meeting for central transfer admission decisions
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-the-university-executive-board-m/13456\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-the-university-executive-board-m/13456
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13454@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20270820
+DTEND;VALUE=DATE:20270821
+SUMMARY:Deadline for the meeting of the Commission to evaluate the applicants with the central transfer score
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-the-meeting-of-the-commission-to/13454\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-the-meeting-of-the-commission-to/13454
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13436@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20270813
+DTEND;VALUE=DATE:20270814
+SUMMARY:Application date for students who have been accepted as internal transfer students from the wait list to the Faculty Student Affairs officers for department change
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/application-date-for-students-who-have-been-a/13436\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/application-date-for-students-who-have-been-a/13436
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13440@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20270813
+DTEND;VALUE=DATE:20270814
+SUMMARY:Application date for students admitted off the wait-list to major and minor programs to the Faculty Student Affairs officers
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/application-date-for-students-admitted-off-th/13440\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/application-date-for-students-admitted-off-th/13440
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13438@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20270813
+DTEND;VALUE=DATE:20270814
+SUMMARY:Registration day for students accepted from the wait list through external transfer
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-day-for-students-accepted-from-t/13438\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-day-for-students-accepted-from-t/13438
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13442@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20270813
+DTEND;VALUE=DATE:20270814
+SUMMARY:SFL Summer Term Program I classes end
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/sfl-summer-term-program-i-classes-end/13442\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/sfl-summer-term-program-i-classes-end/13442
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13426@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20270811
+DTEND;VALUE=DATE:20270812
+SUMMARY:Application date for students who have been accepted as internal transfer students from the main list to the Faculty Student Affairs officers for department change
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/application-date-for-students-who-have-been-a/13426\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/application-date-for-students-who-have-been-a/13426
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13419@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20270806
+DTEND;VALUE=DATE:20270807
+SUMMARY:SFL Summer Term Program I-II classes end
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/sfl-summer-term-program-i-ii-classes-end/13419\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/sfl-summer-term-program-i-ii-classes-end/13419
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13417@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20270804
+DTEND;VALUE=DATE:20270805
+SUMMARY:Deadline for notification of acceptance decisions for internal and external horizontal transfers to the Faculty Student Affairs Offices and the Directorate of Student Affairs
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-notification-of-acceptance-decis/13417\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-notification-of-acceptance-decis/13417
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13395@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20270721
+DTEND;VALUE=DATE:20270722
+SUMMARY:Deadline for sending applications for internal and external transfers to Faculties
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-sending-applications-for-interna/13395\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-sending-applications-for-interna/13395
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13393@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20270715
+DTEND;VALUE=DATE:20270716
+SUMMARY:Democracy and Freedom Day (Holiday)
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/democracy-and-freedom-day-holiday/13393\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/democracy-and-freedom-day-holiday/13393
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13387@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20270714
+DTEND;VALUE=DATE:20270715
+SUMMARY:Deadline for Institute Executive Committees to send admission decisions to Graduate Programs for 2027 Fall term to the Registrar
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-institute-executive-committees-t/13387\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-institute-executive-committees-t/13387
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13371@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20270708
+DTEND;VALUE=DATE:20270709
+SUMMARY:Online Consent Requests Close for Students (Add/Drop Period) (20:00)
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-consent-requests-close-for-students-ad/13371\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-consent-requests-close-for-students-ad/13371
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13389@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20270708
+DTEND;VALUE=DATE:20270709
+SUMMARY:Announcement to send admission decisions to undergraduate programs from abroad
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/announcement-to-send-admission-decisions-to-u/13389\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/announcement-to-send-admission-decisions-to-u/13389
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13369@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20270708
+DTEND;VALUE=DATE:20270709
+SUMMARY:Online payment system closes (16:00)
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-payment-system-closes-1600/13369\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-payment-system-closes-1600/13369
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13385@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20270707
+DTEND;VALUE=DATE:20270708
+SUMMARY:Deadline for international visitor students and exchange students admission decisions to Registrar and Office of International Relations
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-international-visitor-students-a/13385\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-international-visitor-students-a/13385
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13383@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20270707
+DTEND;VALUE=DATE:20270708
+SUMMARY:Deadline for Faculties/Schools/Institutes to send proposals for curriculum change\, introducing a new curriculum\, offering a new course\, changes in course name\, code and/or content (to be put in effect starting 2028 Spring term) to the Rectorate
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-facultiesschoolsinstitutes-to-se/13383\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-facultiesschoolsinstitutes-to-se/13383
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13363@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20270630
+DTEND;VALUE=DATE:20270701
+SUMMARY:Deadline for University Executive Board meeting admission decisions to undergraduate programs from abroad
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-university-executive-board-meeti/13363\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-university-executive-board-meeti/13363
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13323@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20270629
+DTEND;VALUE=DATE:20270630
+SUMMARY:Deadline for Commission meeting admission decisions to undergraduate programs from abroad
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-commission-meeting-admission-dec/13323\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-commission-meeting-admission-dec/13323
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13359@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20270628
+DTEND;VALUE=DATE:20270629
+SUMMARY:Deadline for sending the list of instructors with foreign nationalities to be employed in the 2028 Spring term to the Rectorate
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-sending-the-list-of-instructors-/13359\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-sending-the-list-of-instructors-/13359
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13341@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20270628
+DTEND;VALUE=DATE:20270629
+SUMMARY:Online Consent Requests Close for Students (20:00)
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-consent-requests-close-for-students-20/13341\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-consent-requests-close-for-students-20/13341
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13339@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20270628
+DTEND;VALUE=DATE:20270629
+SUMMARY:Online payment system closes (16:00)
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-payment-system-closes-1600/13339\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-payment-system-closes-1600/13339
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13313@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20270626
+DTEND;VALUE=DATE:20270627
+SUMMARY:Deadline for sending English Proficiency Exam (BUEPT) results to the Registrar
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-sending-english-proficiency-exam/13313\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-sending-english-proficiency-exam/13313
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13357@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20270625
+DTEND;VALUE=DATE:20270626
+SUMMARY:Deadline to send admission decisions to undergraduate programs from abroad to the Rectorate
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-to-send-admission-decisions-to-under/13357\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-to-send-admission-decisions-to-under/13357
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13333@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20270617
+DTEND;VALUE=DATE:20270618
+SUMMARY:Deadline for Graduate Programs to send 2026 Fall admission decisions to Institutes
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-graduate-programs-to-send-2026-f/13333\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-graduate-programs-to-send-2026-f/13333
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13315@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20270611
+DTEND;VALUE=DATE:20270612
+SUMMARY:Deadline for sending applications to undergraduate programs from abroad to the Faculties
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-sending-applications-to-undergra/13315\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-sending-applications-to-undergra/13315
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13306@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20270610
+DTEND;VALUE=DATE:20270611
+SUMMARY:Deadline applications for graduate programs for 2027 Fall term
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-applications-for-graduate-programs-f/13306\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-applications-for-graduate-programs-f/13306
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13300@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20270604
+DTEND;VALUE=DATE:20270605
+SUMMARY:Deadline for international exchange and visitor students applications for Fall term
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-international-exchange-and-visit/13300\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-international-exchange-and-visit/13300
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13286@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20270519
+DTEND;VALUE=DATE:20270520
+SUMMARY:Commemoration of Atatürk\, Youth and Sports Day (Holiday)
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/commemoration-of-ataturk-youth-and-sports-day/13286\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/commemoration-of-ataturk-youth-and-sports-day/13286
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13284@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20270516
+DTEND;VALUE=DATE:20270520
+SUMMARY:Religious Holiday
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/religious-holiday/13284\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/religious-holiday/13284
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13282@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+SUMMARY:Religious Holiday (After 13:00)
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/religious-holiday-after-1300/13282\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/religious-holiday-after-1300/13282
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13355@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20270512
+DTEND;VALUE=DATE:20270513
+SUMMARY:Deadline for Executive Committees to make graduation decisions
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-executive-committees-to-make-gra/13355\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-executive-committees-to-make-gra/13355
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13267@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20270507
+DTEND;VALUE=DATE:20270508
+SUMMARY:Deadline for sending the Registrar the minimum admission criteria (GPA\, etc.) and departmental exam dates for internal\, external transfers and minor programs and applications to double-major programs for 2027 Fall term
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-sending-the-registrar-the-minimu/13267\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-sending-the-registrar-the-minimu/13267
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13304@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20270504
+DTEND;VALUE=DATE:20270505
+SUMMARY:Meeting of Excuse Commission (14:00)
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/meeting-of-excuse-commission-1400/13304\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/meeting-of-excuse-commission-1400/13304
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13259@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20270503
+DTEND;VALUE=DATE:20270504
+SUMMARY:Deadline for Faculties/Schools/Institutes to send 2027 Fall term course schedule to the Registrar
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-facultiesschoolsinstitutes-to-se/13259\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-facultiesschoolsinstitutes-to-se/13259
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13257@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+SUMMARY:Labor Day (Holiday)
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/labor-day-holiday/13257\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/labor-day-holiday/13257
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13253@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20270423
+DTEND;VALUE=DATE:20270424
+SUMMARY:National Sovereignty and Children's Day (Holiday)
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/national-sovereignty-and-childrens-day-holida/13253\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/national-sovereignty-and-childrens-day-holida/13253
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13234@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20270412
+DTEND;VALUE=DATE:20270413
+SUMMARY:Deadline for Executive Graduate Programs to send Summer term course schedule to the Registrar
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-executive-graduate-programs-to-s/13234\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-executive-graduate-programs-to-s/13234
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13271@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20270409
+DTEND;VALUE=DATE:20270410
+SUMMARY:Online Consent Requests Close for Students (Pre-registration for summer term) (16:00)
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-consent-requests-close-for-students-pr/13271\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-consent-requests-close-for-students-pr/13271
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13273@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20270409
+DTEND;VALUE=DATE:20270410
+SUMMARY:Online Consent Approval Close for Instructors (Pre-registration for summer term) (18:00)
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-consent-approval-close-for-instructors/13273\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-consent-approval-close-for-instructors/13273
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13251@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20270326
+DTEND;VALUE=DATE:20270327
+SUMMARY:Deadline for Institute Directorates to notify the Institute Student Affairs officers and the Registrar's Office about section changes for thesis courses (690\, 790)
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-institute-directorates-to-notify/13251\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-institute-directorates-to-notify/13251
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13248@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20270326
+DTEND;VALUE=DATE:20270327
+SUMMARY:Deadline for Faculties/Schools/Institutes to apply to University Executive Committee for changes in final exam dates for 2026 Spring term
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-facultiesschoolsinstitutes-to-ap/13248\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-facultiesschoolsinstitutes-to-ap/13248
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13224@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20270325
+DTEND;VALUE=DATE:20270326
+SUMMARY:Deadline for sending the 2027 Fall term schedule for mass courses to the Registrar
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-sending-the-2027-fall-term-sched/13224\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-sending-the-2027-fall-term-sched/13224
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13240@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20270323
+DTEND;VALUE=DATE:20270324
+SUMMARY:Student consultations with academic advisors
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/student-consultations-with-academic-advisors/13240\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/student-consultations-with-academic-advisors/13240
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13230@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20270322
+DTEND;VALUE=DATE:20270327
+SUMMARY:Course withdrawal period
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/course-withdrawal-period/13230\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/course-withdrawal-period/13230
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13222@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20270319
+DTEND;VALUE=DATE:20270320
+SUMMARY:Deadline for Faculties/Schools/Institutes to send proposals for curriculum change\, introducing a new curriculum\, offering a new course\, changes in course name\, code and/or content (to be put in effect starting 2027 Fall term) to the Rectorate
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-facultiesschoolsinstitutes-to-se/13222\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-facultiesschoolsinstitutes-to-se/13222
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13236@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20270315
+DTEND;VALUE=DATE:20270316
+SUMMARY:Announcement of the courses to be opened by the Summer Term Office
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/announcement-of-the-courses-to-be-opened-by-t/13236\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/announcement-of-the-courses-to-be-opened-by-t/13236
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-14214@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20270127
+DTEND;VALUE=DATE:20270128
+SUMMARY:Online Consent Requests Close for Students Add/Drop (14:00)
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-consent-requests-close-for-students-ad/14214\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-consent-requests-close-for-students-ad/14214
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13214@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20270127
+DTEND;VALUE=DATE:20270128
+SUMMARY:Online Consent Approval Close for Instructors Add/Drop (21:00)
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-consent-approval-close-for-instructors/13214\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-consent-approval-close-for-instructors/13214
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13158@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20270121
+DTEND;VALUE=DATE:20270122
+SUMMARY:Deadline for sending the minimum application criteria for graduate programs for 2027-2028 academic year to the Registrar
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-sending-the-minimum-application-/13158\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-sending-the-minimum-application-/13158
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13160@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20270121
+DTEND;VALUE=DATE:20270122
+SUMMARY:Deadline for sending the admission quota and departmental exam date for graduate programs to the Registrar in the 2027 Fall term
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-sending-the-admission-quota-and-/13160\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-sending-the-admission-quota-and-/13160
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13204@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+SUMMARY:Registration system closes to advisors (23:59)
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-system-closes-to-advisors-2359/13204\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-system-closes-to-advisors-2359/13204
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13142@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20270115
+DTEND;VALUE=DATE:20270116
+SUMMARY:Deadline for sending the list of instructors with foreign nationalities to be employed in the Summer term to the Rectorate
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-sending-the-list-of-instructors-/13142\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-sending-the-list-of-instructors-/13142
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13212@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20270115
+DTEND;VALUE=DATE:20270116
+SUMMARY:Online Consent Requests Close for Students (14:00)
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-consent-requests-close-for-students-14/13212\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-consent-requests-close-for-students-14/13212
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13196@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20270114
+DTEND;VALUE=DATE:20270115
+SUMMARY:Student consultations with academic advisors
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/student-consultations-with-academic-advisors/13196\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/student-consultations-with-academic-advisors/13196
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13190@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20270113
+DTEND;VALUE=DATE:20270116
+SUMMARY:Online Registration Period
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-registration-period/13190\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-registration-period/13190
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-14212@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20270112
+DTEND;VALUE=DATE:20270113
+SUMMARY:Application date for students who have been accepted on waiting list for internal transfer to the Faculty Student Affairs for a change of department
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/application-date-for-students-who-have-been-a/14212\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/application-date-for-students-who-have-been-a/14212
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13186@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20270112
+DTEND;VALUE=DATE:20270113
+SUMMARY:Deadline for entry of class quotas by academic units (17:00)
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-entry-of-class-quotas-by-academi/13186\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-entry-of-class-quotas-by-academi/13186
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13174@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20270111
+DTEND;VALUE=DATE:20270112
+SUMMARY:Application date for students who have been accepted for internal transfer to the Faculty Student Affairs for a change of department
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/application-date-for-students-who-have-been-a/13174\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/application-date-for-students-who-have-been-a/13174
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13184@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+SUMMARY:Online registration date for students admitted off the wait-list to major and minor programs (10:00 – 23:59)
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-registration-date-for-students-admitte/13184\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-registration-date-for-students-admitte/13184
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13178@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20270109
+DTEND;VALUE=DATE:20270110
+SUMMARY:Online registration date for students admitted off the main list to major and minor programs (10:00 – 23:59)
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-registration-date-for-students-admitte/13178\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-registration-date-for-students-admitte/13178
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-14210@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20270108
+DTEND;VALUE=DATE:20270109
+SUMMARY:Deadline for Faculties to send admission acceptance decisions on double-major\, minor to the Faculty Student Affairs via the online application system.
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-faculties-to-send-admission-acce/14210\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-faculties-to-send-admission-acce/14210
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13168@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20270108
+DTEND;VALUE=DATE:20270109
+SUMMARY:Deadline for Faculties to send admission decisions on internal transfer to the Faculty Student Affairs officers and Deadline for Institutes to send admission decisions graduate programs to the Registrar
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-faculties-to-send-admission-deci/13168\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-faculties-to-send-admission-deci/13168
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13122@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20270104
+DTEND;VALUE=DATE:20270105
+SUMMARY:Deadline for sending the list of instructors with foreign nationalities to be employed in the 2027 Fall term to the Rectorate
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-sending-the-list-of-instructors-/13122\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-sending-the-list-of-instructors-/13122
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13120@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20270102
+SUMMARY:New Year (Holiday)
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/new-year-holiday/13120\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/new-year-holiday/13120
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13163@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+SUMMARY:Deadline for sending English Proficiency Exam (BUEPT) results to the Registrar (14:00) 
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-sending-english-proficiency-exam/13163\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-sending-english-proficiency-exam/13163
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13150@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20261228
+DTEND;VALUE=DATE:20261231
+SUMMARY:Applications period for internal transfer
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/applications-period-for-internal-transfer/13150\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/applications-period-for-internal-transfer/13150
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13136@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20261223
+DTEND;VALUE=DATE:20261224
+SUMMARY:Deadline for Graduate Programs to send admission decisions to Institutes
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-graduate-programs-to-send-admiss/13136\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-graduate-programs-to-send-admiss/13136
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13128@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20261222
+DTEND;VALUE=DATE:20261223
+SUMMARY:Meeting of Excuse Commission (13:30)
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/meeting-of-excuse-commission-1330/13128\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/meeting-of-excuse-commission-1330/13128
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13156@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261217
+SUMMARY:Deadline for sending date changes of courses to the Registrar in the 2026/2027 Spring
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-sending-date-changes-of-courses-/13156\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-sending-date-changes-of-courses-/13156
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13100@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+SUMMARY:Deadline for sending the Summer Term course schedule to the Registrar
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-sending-the-summer-term-course-s/13100\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-sending-the-summer-term-course-s/13100
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13098@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:Deadline for leave of absence requests
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-leave-of-absence-requests/13098\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-leave-of-absence-requests/13098
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13091@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:Deadline for notifying the Registrar and the Office of the General Coordinator for International Relations of the admission decisions for international visiting students and international exchange students
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-notifying-the-registrar-and-the-/13091\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-notifying-the-registrar-and-the-/13091
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13084@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:Deadline for applying to the University Executive Committee for changes in final exam dates to the Rectorate
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-applying-to-the-university-execu/13084\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-applying-to-the-university-execu/13084
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13087@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:Deadline for Institute Directorates to notify the Institute Student Affairs officers and the Registrar about section changes for thesis courses (690\, 790)
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-institute-directorates-to-notify/13087\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-institute-directorates-to-notify/13087
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13080@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+SUMMARY:Student consultations with academic advisors
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/student-consultations-with-academic-advisors/13080\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/student-consultations-with-academic-advisors/13080
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13060@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+SUMMARY:Atatürk Memorial Day
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/ataturk-memorial-day/13060\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/ataturk-memorial-day/13060
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13076@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261114
+SUMMARY:Course withdrawal period
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/course-withdrawal-period/13076\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/course-withdrawal-period/13076
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13064@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+SUMMARY:Deadline for Faculties/Schools/Institutes to send Spring term all courses schedule to the Registrar
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-facultiesschoolsinstitutes-to-se/13064\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-facultiesschoolsinstitutes-to-se/13064
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13054@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20251030
+SUMMARY:Republic Day (Holiday)
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/republic-day-holiday/13054\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/republic-day-holiday/13054
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13052@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:Republic Day after 1 p.m. (Holiday)
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/republic-day-after-1-pm-holiday/13052\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/republic-day-after-1-pm-holiday/13052
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13062@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+SUMMARY:Deadline for sending the minimum application criteria and quota for internal transfers and applications to double-major programs and minor programs for Spring term to the Registrar
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-sending-the-minimum-application-/13062\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-sending-the-minimum-application-/13062
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13056@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20251017
+SUMMARY:Deadline for sending the admission quota and departmental exam date for graduate programs to the Registrar (2027 Spring)
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-sending-the-admission-quota-and-/13056\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-sending-the-admission-quota-and-/13056
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-12099@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+SUMMARY:Deadline for international exchange and visitor students applications for Spring term
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-international-exchange-and-visit/12099\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-international-exchange-and-visit/12099
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13050@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+SUMMARY:Deadline for sending the spring term schedule for mass courses to the Registrar
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-sending-the-spring-term-schedule/13050\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-sending-the-spring-term-schedule/13050
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13044@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+SUMMARY:Online Consent Approval Close for Instructors (Add/Drop Period) (21:00)
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-consent-approval-close-for-instructors/13044\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-consent-approval-close-for-instructors/13044
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13040@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+SUMMARY:Online payment system closes (17:00)
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-payment-system-closes-1700/13040\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-payment-system-closes-1700/13040
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13042@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+SUMMARY:Online Consent Requests Close for Students (Add/Drop Period) (14:00)
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-consent-requests-close-for-students-ad/13042\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-consent-requests-close-for-students-ad/13042
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13038@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+SUMMARY:Student consultations with academic advisors
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/student-consultations-with-academic-advisors/13038\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/student-consultations-with-academic-advisors/13038
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-12098@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260920
+SUMMARY:Commencement Ceremony for Second Education Masters Programs (End of the Summer Term)
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/commencement-ceremony-for-second-education-ma/12098\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/commencement-ceremony-for-second-education-ma/12098
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13020@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260919
+SUMMARY:Registration system closes to advisors (23:59)
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-system-closes-to-advisors-2359/13020\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-system-closes-to-advisors-2359/13020
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13012@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20260916
+DTEND;VALUE=DATE:20260917
+SUMMARY:Student consultations with academic advisors
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/student-consultations-with-academic-advisors/13012\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/student-consultations-with-academic-advisors/13012
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13008@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260918
+SUMMARY:Online Registration Period
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-registration-period/13008\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-registration-period/13008
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13006@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20260914
+DTEND;VALUE=DATE:20260915
+SUMMARY:Deadline for entry of class quotas by academic units (17:00)
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-entry-of-class-quotas-by-academi/13006\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-entry-of-class-quotas-by-academi/13006
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13002@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20260914
+DTEND;VALUE=DATE:20260915
+SUMMARY:Deadline for sending English Proficiency Exam (BUEPT) results to the Registrar (15:00)
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-sending-english-proficiency-exam/13002\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-sending-english-proficiency-exam/13002
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13963@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20260909
+DTEND;VALUE=DATE:20260911
+SUMMARY:Registration of students admitted from the waiting list through the second application period for international undergraduate admissions.
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-of-students-admitted-from-the-wa/13963\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-of-students-admitted-from-the-wa/13963
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-12096@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260905
+SUMMARY:Deadline for guest students (enrolled in domestic universities) applications
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-guest-students-enrolled-in-domes/12096\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-guest-students-enrolled-in-domes/12096
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-12094@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260905
+SUMMARY:Registration of newly admitted graduate students on waiting list
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-of-newly-admitted-graduate-stude/12094\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-of-newly-admitted-graduate-stude/12094
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13962@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260909
+SUMMARY:Registration of students admitted from the main list through the second application period for international undergraduate admissions.
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-of-students-admitted-from-the-ma/13962\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-of-students-admitted-from-the-ma/13962
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-12093@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20260903
+DTEND;VALUE=DATE:20260904
+SUMMARY:Registration of transfer students accepted with central points
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-of-transfer-students-accepted-wi/12093\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-of-transfer-students-accepted-wi/12093
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-12092@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20260831
+DTEND;VALUE=DATE:20260904
+SUMMARY:Registration of newly admitted graduate students on primary list
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-of-newly-admitted-graduate-stude/12092\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-of-newly-admitted-graduate-stude/12092
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-12091@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20260831
+DTEND;VALUE=DATE:20260901
+SUMMARY:Announcement of transfer acceptances with central points
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/announcement-of-transfer-acceptances-with-cen/12091\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/announcement-of-transfer-acceptances-with-cen/12091
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-12090@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20260830
+DTEND;VALUE=DATE:20260831
+SUMMARY:Victory Day (Holiday)
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/victory-day-holiday/12090\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/victory-day-holiday/12090
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-12089@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20260827
+DTEND;VALUE=DATE:20260828
+SUMMARY:Deadline for sending date changes of courses to the Registrar in the 2026/2027 Fall
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-sending-date-changes-of-courses-/12089\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-sending-date-changes-of-courses-/12089
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-12088@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20260826
+DTEND;VALUE=DATE:20260827
+SUMMARY:Deadline for the University Executive Board meeting for central transfer admission decisions
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-the-university-executive-board-m/12088\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-the-university-executive-board-m/12088
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-12087@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20260826
+DTEND;VALUE=DATE:20260827
+SUMMARY:Deadline for sending the English Proficiency Exam (BUEPT) results to the Registrar (SFL Summer)
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-sending-the-english-proficiency-/12087\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-sending-the-english-proficiency-/12087
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-12086@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20260821
+DTEND;VALUE=DATE:20260822
+SUMMARY:Deadline for the meeting of the Commission to evaluate the applicants with the central transfer score
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-the-meeting-of-the-commission-to/12086\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-the-meeting-of-the-commission-to/12086
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-12084@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20260820
+DTEND;VALUE=DATE:20260822
+SUMMARY:Online Registration for international visitor students and exchange students
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-registration-for-international-visitor/12084\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-registration-for-international-visitor/12084
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13961@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20260814
+DTEND;VALUE=DATE:20260815
+SUMMARY:Announcement of the international undergraduate admission results for the second application period.
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/announcement-of-the-international-undergradua/13961\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/announcement-of-the-international-undergradua/13961
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13960@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20260812
+DTEND;VALUE=DATE:20260813
+SUMMARY:Deadline for the University Executive Board (ÜYK) to convene to approve the international undergraduate admission decisions for the second application period.
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-the-university-executive-board-u/13960\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-the-university-executive-board-u/13960
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13959@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20260810
+DTEND;VALUE=DATE:20260811
+SUMMARY:Deadline for the Admissions Commission to convene to review the international undergraduate admission decisions for the second application period.
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-the-admissions-commission-to-con/13959\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-the-admissions-commission-to-con/13959
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-12072@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20260807
+DTEND;VALUE=DATE:20260808
+SUMMARY:Application date for students admitted off the wait-list to major and minor programs to the Faculty Student Affairs officers
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/application-date-for-students-admitted-off-th/12072\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/application-date-for-students-admitted-off-th/12072
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-12071@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20260807
+DTEND;VALUE=DATE:20260808
+SUMMARY:Registration day for students accepted from the wait list through external transfer
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-day-for-students-accepted-from-t/12071\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-day-for-students-accepted-from-t/12071
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-12070@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20260807
+DTEND;VALUE=DATE:20260808
+SUMMARY:Application date for students who have been accepted as internal transfer students from the wait list to the Faculty Student Affairs officers for department change.
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/application-date-for-students-who-have-been-a/12070\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/application-date-for-students-who-have-been-a/12070
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-12069@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20260805
+DTEND;VALUE=DATE:20260806
+SUMMARY:Application date for students admitted off the main list to major and minor programs to the Faculty Student Affairs officers
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/application-date-for-students-admitted-off-th/12069\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/application-date-for-students-admitted-off-th/12069
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-12068@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20260805
+DTEND;VALUE=DATE:20260806
+SUMMARY:Registration day for students accepted from the main list through external transfer
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-day-for-students-accepted-from-t/12068\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-day-for-students-accepted-from-t/12068
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-12067@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20260805
+DTEND;VALUE=DATE:20260806
+SUMMARY:Application date for students who have been accepted as internal transfer students from the main list to the Faculty Student Affairs officers for department change.
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/application-date-for-students-who-have-been-a/12067\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/application-date-for-students-who-have-been-a/12067
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13958@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20260804
+DTEND;VALUE=DATE:20260807
+SUMMARY:Registration of students admitted through the first application period for international undergraduate admissions for the 2026–2027 Academic Year.
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-of-students-admitted-through-the/13958\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-of-students-admitted-through-the/13958
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13957@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20260731
+DTEND;VALUE=DATE:20260801
+SUMMARY:Deadline for Faculties to submit the international undergraduate admission decisions for the second application period to the Rectorate.
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-faculties-to-submit-the-internat/13957\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-faculties-to-submit-the-internat/13957
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-12062@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20260730
+DTEND;VALUE=DATE:20260731
+SUMMARY:Deadline for Faculties to send admission decisions on internal transfer\, external transfer\, double-major and minor to the Faculty Student Affairs officers and Registrar.
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-faculties-to-send-admission-deci/12062\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-faculties-to-send-admission-deci/12062
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-12057@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20260721
+DTEND;VALUE=DATE:20260722
+SUMMARY:Deadline for sending applications for internal and external transfers to Faculties
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-sending-applications-for-interna/12057\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-sending-applications-for-interna/12057
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13956@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20260721
+DTEND;VALUE=DATE:20260722
+SUMMARY:Submission of the international undergraduate admission application files from the second application period to the Faculties.
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/submission-of-the-international-undergraduate/13956\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/submission-of-the-international-undergraduate/13956
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-12055@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20260714
+DTEND;VALUE=DATE:20260715
+SUMMARY:Deadline to apply to double-major programs and minor programs
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-to-apply-to-double-major-programs-an/12055\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-to-apply-to-double-major-programs-an/12055
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-12081@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20260711
+SUMMARY:Announcement of the International Undergraduate Admission Results for the First Application Period (Candidates Admitted from the Main List)
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/announcement-of-the-international-undergradua/12081\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/announcement-of-the-international-undergradua/12081
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-12054@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20260709
+DTEND;VALUE=DATE:20260710
+SUMMARY:Deadline for Institute Executive Committees to send admission decisions to Graduate Programs for 2026 Fall term to the Registrar
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-institute-executive-committees-t/12054\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-institute-executive-committees-t/12054
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-12053@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20260708
+DTEND;VALUE=DATE:20260709
+SUMMARY:Deadline for international visitor students and exchange students admission decisions to Registrar and Office of International Relations
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-international-visitor-students-a/12053\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-international-visitor-students-a/12053
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-12050@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20260703
+DTEND;VALUE=DATE:20260704
+SUMMARY:Deadline for Graduate Programs to send 2026 Fall admission decisions to Institutes
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-graduate-programs-to-send-2026-f/12050\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-graduate-programs-to-send-2026-f/12050
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-12043@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260702
+SUMMARY:Deadline for Faculties/Schools/Institutes to send proposals for curriculum change\, introducing a new curriculum\, offering a new course\, changes in course name\, code and/or content (to be put in effect starting 2027 Spring term) to the Rectorate
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-facultiesschoolsinstitutes-to-se/12043\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-facultiesschoolsinstitutes-to-se/12043
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-12076@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260702
+SUMMARY:Deadline for University Executive Board meeting admission decisions to undergraduate programs from abroad
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-university-executive-board-meeti/12076\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-university-executive-board-meeti/12076
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-12075@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20260630
+DTEND;VALUE=DATE:20260701
+SUMMARY:Deadline for Commission meeting admission decisions to undergraduate programs from abroad
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-commission-meeting-admission-dec/12075\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-commission-meeting-admission-dec/12075
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-12042@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20260629
+DTEND;VALUE=DATE:20260704
+SUMMARY:Commencement Ceremony
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/commencement-ceremony/12042\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/commencement-ceremony/12042
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-12074@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20260626
+DTEND;VALUE=DATE:20260627
+SUMMARY:Deadline to send admission decisions to undergraduate programs from abroad to the Rectorate
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-to-send-admission-decisions-to-under/12074\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-to-send-admission-decisions-to-under/12074
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-12038@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20260624
+DTEND;VALUE=DATE:20260625
+SUMMARY:Deadline for Executive Committees to make graduation decisions
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-executive-committees-to-make-gra/12038\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-executive-committees-to-make-gra/12038
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-12036@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20260623
+DTEND;VALUE=DATE:20260624
+SUMMARY:Deadline for sending the list of instructors with foreign nationalities to be employed in the 2027 Spring term to the Rectorate
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-sending-the-list-of-instructors-/12036\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-sending-the-list-of-instructors-/12036
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-12033@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20260622
+DTEND;VALUE=DATE:20260714
+SUMMARY:Application period to double-major programs and minor programs
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/application-period-to-double-major-programs-a/12033\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/application-period-to-double-major-programs-a/12033
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-12031@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20260622
+DTEND;VALUE=DATE:20260627
+SUMMARY:Departmental exams for candidates applying to graduate programs
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/departmental-exams-for-candidates-applying-to/12031\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/departmental-exams-for-candidates-applying-to/12031
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-12025@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20260618
+DTEND;VALUE=DATE:20260619
+SUMMARY:The deadline for applications to the Executive and Other Graduate Programs sending to the Department.
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/the-deadline-for-applications-to-the-executiv/12025\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/the-deadline-for-applications-to-the-executiv/12025
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-12059@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20260612
+DTEND;VALUE=DATE:20260613
+SUMMARY:Deadline for sending applications to undergraduate programs from abroad to the Faculties
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-sending-applications-to-undergra/12059\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-sending-applications-to-undergra/12059
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-12019@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20260611
+DTEND;VALUE=DATE:20260612
+SUMMARY:Deadline for sending English Proficiency Exam (BUEPT) results to the Registrar
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-sending-english-proficiency-exam/12019\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-sending-english-proficiency-exam/12019
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-12017@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20260610
+DTEND;VALUE=DATE:20260611
+SUMMARY:Meeting of Excuse Commission (13:30)
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/meeting-of-excuse-commission-1330/12017\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/meeting-of-excuse-commission-1330/12017
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-12013@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20260527
+DTEND;VALUE=DATE:20260531
+SUMMARY:Religious Holiday
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/religious-holiday/12013\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/religious-holiday/12013
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-12012@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20260526
+DTEND;VALUE=DATE:20260527
+SUMMARY:Religious Holiday (After 13:00)
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/religious-holiday-after-1300/12012\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/religious-holiday-after-1300/12012
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-12011@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20260522
+DTEND;VALUE=DATE:20260523
+SUMMARY:Deadline for international exchange and visitor students applications for Fall term
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-international-exchange-and-visit/12011\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-international-exchange-and-visit/12011
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-12008@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20260519
+DTEND;VALUE=DATE:20260520
+SUMMARY:Commemoration of Atatürk\, Youth and Sports Day (Holiday)
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/commemoration-of-ataturk-youth-and-sports-day/12008\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/commemoration-of-ataturk-youth-and-sports-day/12008
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11998@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20260508
+DTEND;VALUE=DATE:20260509
+SUMMARY:Deadline for leave of absence requests
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-leave-of-absence-requests/11998\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-leave-of-absence-requests/11998
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11999@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20260508
+DTEND;VALUE=DATE:20260509
+SUMMARY:Deadline for sending the Registrar the minimum admission criteria (GPA\, etc.) and departmental exam dates for internal\, external transfers and minor programs and applications to double-major programs for 2026 Fall term
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-sending-the-registrar-the-minimu/11999\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-sending-the-registrar-the-minimu/11999
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11995@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20260504
+DTEND;VALUE=DATE:20260505
+SUMMARY:Deadline for Faculties/Schools/Institutes to send 2026 Fall term course schedule to the Registrar
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-facultiesschoolsinstitutes-to-se/11995\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-facultiesschoolsinstitutes-to-se/11995
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11994@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20260501
+DTEND;VALUE=DATE:20260502
+SUMMARY:Labor Day (Holiday)
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/labor-day-holiday/11994\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/labor-day-holiday/11994
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11992@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20260423
+DTEND;VALUE=DATE:20260424
+SUMMARY:National Sovereignty and Children's Day (Holiday)
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/national-sovereignty-and-childrens-day-holida/11992\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/national-sovereignty-and-childrens-day-holida/11992
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11989@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20260417
+DTEND;VALUE=DATE:20260418
+SUMMARY:Deadline for Faculties/Schools/Institutes to apply to University Executive Committee for changes in final exam dates for 2025 Spring term
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-facultiesschoolsinstitutes-to-ap/11989\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-facultiesschoolsinstitutes-to-ap/11989
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11985@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20260413
+DTEND;VALUE=DATE:20260414
+SUMMARY:Announcement of the courses to be opened by the Summer Term Office
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/announcement-of-the-courses-to-be-opened-by-t/11985\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/announcement-of-the-courses-to-be-opened-by-t/11985
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11983@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20260413
+DTEND;VALUE=DATE:20260414
+SUMMARY:Deadline for Executive Graduate Programs to send Summer term course schedule to the Registrar
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-executive-graduate-programs-to-s/11983\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-executive-graduate-programs-to-s/11983
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11979@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20260326
+DTEND;VALUE=DATE:20260327
+SUMMARY:Deadline for sending the 2026 Fall term schedule for mass courses to the Registrar
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-sending-the-2026-fall-term-sched/11979\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-sending-the-2026-fall-term-sched/11979
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11978@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20260320
+DTEND;VALUE=DATE:20260323
+SUMMARY:Religious Holiday
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/religious-holiday/11978\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/religious-holiday/11978
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11977@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20260319
+DTEND;VALUE=DATE:20260320
+SUMMARY:Religious Holiday (after 1 p.m.)
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/religious-holiday-after-1-pm/11977\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/religious-holiday-after-1-pm/11977
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11976@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20260313
+DTEND;VALUE=DATE:20260314
+SUMMARY:Deadline for Faculties/Schools/Institutes to send proposals for curriculum change\, introducing a new curriculum\, offering a new course\, changes in course name\, code and/or content (to be put in effect starting 2026 Fall term) to the Rectorate
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-facultiesschoolsinstitutes-to-se/11976\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-facultiesschoolsinstitutes-to-se/11976
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11958@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20260202
+DTEND;VALUE=DATE:20260203
+SUMMARY:Deadline for entry of class quotas by academic units (17:00)
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-entry-of-class-quotas-by-academi/11958\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-entry-of-class-quotas-by-academi/11958
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11955@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20260130
+DTEND;VALUE=DATE:20260131
+SUMMARY:Registration for new graduate students admitted off the wait-list
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-for-new-graduate-students-admitt/11955\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-for-new-graduate-students-admitt/11955
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11956@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20260130
+DTEND;VALUE=DATE:20260131
+SUMMARY:Application date for students admitted off the wait-list to major and minor programs to the Faculty Student Affairs officers
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/application-date-for-students-admitted-off-th/11956\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/application-date-for-students-admitted-off-th/11956
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11954@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20260129
+DTEND;VALUE=DATE:20260130
+SUMMARY:Application date for students admitted off the main list to major and minor programs to the Faculty Student Affairs officers
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/application-date-for-students-admitted-off-th/11954\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/application-date-for-students-admitted-off-th/11954
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11953@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20260129
+DTEND;VALUE=DATE:20260130
+SUMMARY:Deadline for special students (enrolled in domestic universities) applications
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-special-students-enrolled-in-dom/11953\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-special-students-enrolled-in-dom/11953
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11952@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20260129
+DTEND;VALUE=DATE:20260130
+SUMMARY:Registration of newly admitted graduate students on primary list
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-of-newly-admitted-graduate-stude/11952\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-of-newly-admitted-graduate-stude/11952
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11951@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20260129
+DTEND;VALUE=DATE:20260130
+SUMMARY:Application date for students who have been accepted for internal transfer to the Faculty Student Affairs for a change of department
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/application-date-for-students-who-have-been-a/11951\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/application-date-for-students-who-have-been-a/11951
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11950@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20260129
+DTEND;VALUE=DATE:20260131
+SUMMARY:Registration for international guest and exchange students
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-for-international-guest-and-exch/11950\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-for-international-guest-and-exch/11950
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11949@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20260128
+DTEND;VALUE=DATE:20260129
+SUMMARY:Deadline for Faculties to send admission decisions on internal transfer\, double-major\, minor to the Faculty Student Affairs officers and Deadline for Institutes to send admission decisions graduate programs to the Registrar
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-faculties-to-send-admission-deci/11949\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-faculties-to-send-admission-deci/11949
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11947@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20260122
+DTEND;VALUE=DATE:20260123
+SUMMARY:Deadline to apply to double-major programs and minor programs
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-to-apply-to-double-major-programs-an/11947\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-to-apply-to-double-major-programs-an/11947
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11946@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20260122
+DTEND;VALUE=DATE:20260123
+SUMMARY:Deadline for sending the admission quota and departmental exam date for graduate programs to the Registrar
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-sending-the-admission-quota-and-/11946\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-sending-the-admission-quota-and-/11946
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11945@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20260122
+DTEND;VALUE=DATE:20260123
+SUMMARY:Deadline for sending the minimum application criteria for graduate programs for 2026-2027 academic year to the Registrar
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-sending-the-minimum-application-/11945\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-sending-the-minimum-application-/11945
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11942@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20260119
+DTEND;VALUE=DATE:20260123
+SUMMARY:Applications period for internal transfer
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/applications-period-for-internal-transfer/11942\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/applications-period-for-internal-transfer/11942
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11939@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20260116
+DTEND;VALUE=DATE:20260117
+SUMMARY:Deadline for sending the list of instructors with foreign nationalities to be employed in the Summer term to the Rectorate
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-sending-the-list-of-instructors-/11939\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-sending-the-list-of-instructors-/11939
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11936@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20260114
+DTEND;VALUE=DATE:20260115
+SUMMARY:Deadline for sending date changes of courses to the Registrar in the 2025/2026 Spring
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-sending-date-changes-of-courses-/11936\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-sending-date-changes-of-courses-/11936
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11935@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20260114
+DTEND;VALUE=DATE:20260115
+SUMMARY:Deadline for Graduate Programs to send admission decisions to Institutes
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-graduate-programs-to-send-admiss/11935\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-graduate-programs-to-send-admiss/11935
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11932@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20260112
+DTEND;VALUE=DATE:20260113
+SUMMARY:Meeting of Excuse Commission (13:30)
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/meeting-of-excuse-commission-1330/11932\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/meeting-of-excuse-commission-1330/11932
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11930@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20260109
+DTEND;VALUE=DATE:20260122
+SUMMARY:Application period to double-major programs and minor programs
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/application-period-to-double-major-programs-a/11930\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/application-period-to-double-major-programs-a/11930
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11925@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20260102
+DTEND;VALUE=DATE:20260103
+SUMMARY:Deadline for sending the list of instructors with foreign nationalities to be employed in the 2026 Fall term to the Rectorate
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-sending-the-list-of-instructors-/11925\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-sending-the-list-of-instructors-/11925
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11923@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20260101
+DTEND;VALUE=DATE:20260102
+SUMMARY:New Year (Holiday)
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/new-year-holiday/11923\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/new-year-holiday/11923
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11914@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20251212
+DTEND;VALUE=DATE:20251213
+SUMMARY:Deadline for leave of absence requests
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-leave-of-absence-requests/11914\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-leave-of-absence-requests/11914
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11915@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20251212
+DTEND;VALUE=DATE:20251213
+SUMMARY:Deadline for sending the Summer Term course schedule to the Summer Term Office
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-sending-the-summer-term-course-s/11915\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-sending-the-summer-term-course-s/11915
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11913@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20251201
+DTEND;VALUE=DATE:20251202
+SUMMARY:Deadline for international visitor students and exchange students admission decisions to Registrar and Office of International Relations
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-international-visitor-students-a/11913\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-international-visitor-students-a/11913
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11910@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20251120
+DTEND;VALUE=DATE:20251121
+SUMMARY:Deadline for Institutes to send section changes in thesis courses (690\,790) to the Registrar
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-institutes-to-send-section-chang/11910\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-institutes-to-send-section-chang/11910
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11908@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20251120
+DTEND;VALUE=DATE:20251121
+SUMMARY:Deadline for applying to the University Executive Committee for changes in final exam dates to the Rectorate
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-applying-to-the-university-execu/11908\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-applying-to-the-university-execu/11908
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11903@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20251114
+DTEND;VALUE=DATE:20251115
+SUMMARY:Deadline for Faculties/Schools/Institutes to send Spring term all courses schedule to the Registrar
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-facultiesschoolsinstitutes-to-se/11903\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-facultiesschoolsinstitutes-to-se/11903
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11904@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20251114
+DTEND;VALUE=DATE:20251115
+SUMMARY:Deadline for sending the minimum application criteria and quota for internal transfers and applications to double-major programs and minor programs for Spring term to the Registrar
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-sending-the-minimum-application-/11904\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-sending-the-minimum-application-/11904
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11900@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20251031
+DTEND;VALUE=DATE:20251101
+SUMMARY:Deadline for sending the admission quota and departmental exam date for graduate programs to the Registrar (2026 Spring)
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-sending-the-admission-quota-and-/11900\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-sending-the-admission-quota-and-/11900
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11899@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20251029
+DTEND;VALUE=DATE:20251030
+SUMMARY:Republic Day (Holiday)
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/republic-day-holiday/11899\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/republic-day-holiday/11899
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11898@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20251028
+DTEND;VALUE=DATE:20251029
+SUMMARY:Republic Day after 1 p.m. (Holiday)
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/republic-day-after-1-pm-holiday/11898\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/republic-day-after-1-pm-holiday/11898
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11897@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20251020
+DTEND;VALUE=DATE:20251021
+SUMMARY:Deadline for sending the Spring term schedule for mass courses to the Registrar
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-sending-the-spring-term-schedule/11897\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-sending-the-spring-term-schedule/11897
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11896@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20251015
+DTEND;VALUE=DATE:20251016
+SUMMARY:Deadline for international exchange and visitor students applications for Spring term
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-international-exchange-and-visit/11896\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-international-exchange-and-visit/11896
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11885@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20250922
+DTEND;VALUE=DATE:20250925
+SUMMARY:Orientation days
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/orientation-days/11885\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/orientation-days/11885
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11881@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20250920
+DTEND;VALUE=DATE:20250921
+SUMMARY:Commencement Ceremony for Second Education Masters Programs (End of the Summer Term)
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/commencement-ceremony-for-second-education-ma/11881\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/commencement-ceremony-for-second-education-ma/11881
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11873@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20250915
+DTEND;VALUE=DATE:20250916
+SUMMARY:Deadline for entry of class quotas by academic units (17:00)
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-entry-of-class-quotas-by-academi/11873\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-entry-of-class-quotas-by-academi/11873
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11868@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20250905
+DTEND;VALUE=DATE:20250906
+SUMMARY:Registration of newly admitted graduate students on waiting list
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-of-newly-admitted-graduate-stude/11868\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-of-newly-admitted-graduate-stude/11868
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11867@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20250903
+DTEND;VALUE=DATE:20250904
+SUMMARY:Registration of students who are placed in undergraduate programs within the scope of accepting students from abroad
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-of-students-who-are-placed-in-un/11867\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-of-students-who-are-placed-in-un/11867
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11866@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20250903
+DTEND;VALUE=DATE:20250904
+SUMMARY:Registration of transfer students accepted with central points
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-of-transfer-students-accepted-wi/11866\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-of-transfer-students-accepted-wi/11866
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11864@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20250901
+DTEND;VALUE=DATE:20250902
+SUMMARY:Announcement of transfer acceptances with central points
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/announcement-of-transfer-acceptances-with-cen/11864\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/announcement-of-transfer-acceptances-with-cen/11864
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11865@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20250901
+DTEND;VALUE=DATE:20250905
+SUMMARY:Registration of newly admitted graduate students on primary list
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-of-newly-admitted-graduate-stude/11865\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-of-newly-admitted-graduate-stude/11865
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11863@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20250901
+DTEND;VALUE=DATE:20250902
+SUMMARY: Deadline for guest students (enrolled in domestic universities) applications
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-guest-students-enrolled-in-domes/11863\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-guest-students-enrolled-in-domes/11863
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11862@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20250830
+DTEND;VALUE=DATE:20250831
+SUMMARY:Victory Day (Holiday)
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/victory-day-holiday/11862\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/victory-day-holiday/11862
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11861@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20250828
+DTEND;VALUE=DATE:20250829
+SUMMARY:Deadline for sending date changes of courses to the Registrar in the 2025 Fall
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-sending-date-changes-of-courses-/11861\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-sending-date-changes-of-courses-/11861
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11860@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20250827
+DTEND;VALUE=DATE:20250828
+SUMMARY:Deadline for the University Executive Board meeting for central transfer admission decisions
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-the-university-executive-board-m/11860\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-the-university-executive-board-m/11860
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11859@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20250822
+DTEND;VALUE=DATE:20250823
+SUMMARY:Deadline for the meeting of the Commission to evaluate the applicants with the central transfer score
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-the-meeting-of-the-commission-to/11859\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-the-meeting-of-the-commission-to/11859
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11858@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20250821
+DTEND;VALUE=DATE:20250822
+SUMMARY:Deadline for sending the English Proficiency Exam (BUEPT) results to the Registrar (SFL Summer)
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-sending-the-english-proficiency-/11858\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-sending-the-english-proficiency-/11858
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11857@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20250821
+DTEND;VALUE=DATE:20250823
+SUMMARY:Online Registration for international visitor students and exchange students
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-registration-for-international-visitor/11857\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-registration-for-international-visitor/11857
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11855@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20250815
+DTEND;VALUE=DATE:20250816
+SUMMARY:Announcement to send admission decisions to undergraduate programs from abroad
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/announcement-to-send-admission-decisions-to-u/11855\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/announcement-to-send-admission-decisions-to-u/11855
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11854@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20250813
+DTEND;VALUE=DATE:20250814
+SUMMARY:Deadline for University Executive Board meeting admission decisions to undergraduate programs from abroad
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-university-executive-board-meeti/11854\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-university-executive-board-meeti/11854
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11852@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20250812
+DTEND;VALUE=DATE:20250813
+SUMMARY:Grade submission system opens (10:00)
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/grade-submission-system-opens-1000/11852\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/grade-submission-system-opens-1000/11852
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11848@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20250808
+DTEND;VALUE=DATE:20250809
+SUMMARY:Deadline for University Executive Board meeting admission decisions to undergraduate programs from abroad
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-university-executive-board-meeti/11848\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-university-executive-board-meeti/11848
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11846@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20250805
+DTEND;VALUE=DATE:20250806
+SUMMARY:Registration for students newly admitted via external transfer on waiting list
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-for-students-newly-admitted-via-/11846\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-for-students-newly-admitted-via-/11846
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11844@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20250805
+DTEND;VALUE=DATE:20250806
+SUMMARY:Registration for students newly admitted via internal transfer on waiting list
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-for-students-newly-admitted-via-/11844\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-for-students-newly-admitted-via-/11844
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11843@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20250801
+DTEND;VALUE=DATE:20250802
+SUMMARY:Registration for students newly admitted via internal transfer
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-for-students-newly-admitted-via-/11843\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-for-students-newly-admitted-via-/11843
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11839@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20250801
+DTEND;VALUE=DATE:20250802
+SUMMARY:Registration for students newly admitted via external transfer
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-for-students-newly-admitted-via-/11839\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-for-students-newly-admitted-via-/11839
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11838@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20250801
+DTEND;VALUE=DATE:20250802
+SUMMARY:Registration of students newly admitted to double-major programs and minor programs on primary list
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-of-students-newly-admitted-to-do/11838\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-of-students-newly-admitted-to-do/11838
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11837@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20250801
+DTEND;VALUE=DATE:20250802
+SUMMARY:Deadline to send admission decisions to undergraduate programs from abroad to the Rectorate
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-to-send-admission-decisions-to-under/11837\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-to-send-admission-decisions-to-under/11837
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11834@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20250731
+DTEND;VALUE=DATE:20250801
+SUMMARY:Deadline for sending the admission decisions to major and minor programs to the Registrar
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-sending-the-admission-decisions-/11834\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-sending-the-admission-decisions-/11834
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11833@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20250731
+DTEND;VALUE=DATE:20250801
+SUMMARY:Deadline for sending the admission decisions to via external transfer and internal transfer to the Registrar
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-sending-the-admission-decisions-/11833\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-sending-the-admission-decisions-/11833
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11829@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20250721
+DTEND;VALUE=DATE:20250722
+SUMMARY:Deadline for sending applications to undergraduate programs from abroad to the Faculties
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-sending-applications-to-undergra/11829\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-sending-applications-to-undergra/11829
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11828@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20250721
+DTEND;VALUE=DATE:20250722
+SUMMARY:Deadline for sending applications for internal and external transfers to Faculties
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-sending-applications-for-interna/11828\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-sending-applications-for-interna/11828
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11827@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20250716
+DTEND;VALUE=DATE:20250717
+SUMMARY:Deadline to apply to double-major programs and minor programs
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-to-apply-to-double-major-programs-an/11827\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-to-apply-to-double-major-programs-an/11827
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11826@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20250715
+DTEND;VALUE=DATE:20250716
+SUMMARY:Democracy and Freedom Day (Holiday)
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/democracy-and-freedom-day-holiday/11826\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/democracy-and-freedom-day-holiday/11826
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11825@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20250710
+DTEND;VALUE=DATE:20250711
+SUMMARY:Deadline for Institute Executive Committees to send admission decisions to Graduate Programs for 2025 Fall term to the Registrar
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-institute-executive-committees-t/11825\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-institute-executive-committees-t/11825
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11824@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20250709
+DTEND;VALUE=DATE:20250710
+SUMMARY:Deadline for international visitor students and exchange students admission decisions to Registrar and Office of International Relations
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-international-visitor-students-a/11824\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-international-visitor-students-a/11824
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11820@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20250704
+DTEND;VALUE=DATE:20250705
+SUMMARY:Deadline for Graduate Programs to send 2025 Fall admission decisions to Institutes
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-graduate-programs-to-send-2025-f/11820\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-graduate-programs-to-send-2025-f/11820
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11814@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20250701
+DTEND;VALUE=DATE:20250705
+SUMMARY:Commencement Ceremony
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/commencement-ceremony/11814\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/commencement-ceremony/11814
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11813@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20250701
+DTEND;VALUE=DATE:20250702
+SUMMARY:Deadline for Faculties/Schools/Institutes to send proposals for curriculum change\, introducing a new curriculum\, offering a new course\, changes in course name\, code and/or content (to be put in effect starting 2026 Spring term) to the Rectorate
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-facultiesschoolsinstitutes-to-se/11813\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-facultiesschoolsinstitutes-to-se/11813
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11808@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20250624
+DTEND;VALUE=DATE:20250625
+SUMMARY:Deadline for Executive Committees to make graduation decisions
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-executive-committees-to-make-gra/11808\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-executive-committees-to-make-gra/11808
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11807@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20250623
+DTEND;VALUE=DATE:20250716
+SUMMARY:Application period to double-major programs and minor programs
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/application-period-to-double-major-programs-a/11807\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/application-period-to-double-major-programs-a/11807
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11803@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20250620
+DTEND;VALUE=DATE:20250621
+SUMMARY:Deadline for sending the list of instructors with foreign nationalities to be employed in the 2026 Spring term to the Rectorate
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-sending-the-list-of-instructors-/11803\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-sending-the-list-of-instructors-/11803
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11795@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20250617
+DTEND;VALUE=DATE:20250618
+SUMMARY:Deadline for Graduate Programs to send 2025 Fall admission decisions to Institutes
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-graduate-programs-to-send-2025-f/11795\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-graduate-programs-to-send-2025-f/11795
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11792@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20250611
+DTEND;VALUE=DATE:20250612
+SUMMARY:Deadline for sending English Proficiency Exam (BUEPT) results to the Registrar
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-sending-english-proficiency-exam/11792\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-sending-english-proficiency-exam/11792
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11790@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20250610
+DTEND;VALUE=DATE:20250611
+SUMMARY:Deadline applications for graduate programs for 2025 Fall term
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-applications-for-graduate-programs-f/11790\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-applications-for-graduate-programs-f/11790
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11788@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20250610
+DTEND;VALUE=DATE:20250611
+SUMMARY:Meeting of Excuse Commission (10:00)
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/meeting-of-excuse-commission-1000/11788\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/meeting-of-excuse-commission-1000/11788
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11787@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20250606
+DTEND;VALUE=DATE:20250610
+SUMMARY:Religious Holiday
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/religious-holiday/11787\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/religious-holiday/11787
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11786@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20250605
+DTEND;VALUE=DATE:20250606
+SUMMARY:Religious Holiday (After 13:00)
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/religious-holiday-after-1300/11786\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/religious-holiday-after-1300/11786
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11780@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20250521
+DTEND;VALUE=DATE:20250522
+SUMMARY:Deadline for international exchange and visitor students applications for Fall term
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-international-exchange-and-visit/11780\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-international-exchange-and-visit/11780
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11777@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20250519
+DTEND;VALUE=DATE:20250520
+SUMMARY:Commemoration of Atatürk\, Youth and Sports Day (Holiday)
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/commemoration-of-ataturk-youth-and-sports-day/11777\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/commemoration-of-ataturk-youth-and-sports-day/11777
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11772@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20250509
+DTEND;VALUE=DATE:20250510
+SUMMARY:Deadline for leave of absence requests
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-leave-of-absence-requests/11772\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-leave-of-absence-requests/11772
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11771@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20250509
+DTEND;VALUE=DATE:20250510
+SUMMARY:Deadline for sending the Registrar the minimum admission criteria (GPA\, etc.) and departmental exam dates for internal\, external transfers and minor programs and applications to double-major programs for 2025 Fall term
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-sending-the-registrar-the-minimu/11771\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-sending-the-registrar-the-minimu/11771
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11769@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20250505
+DTEND;VALUE=DATE:20250506
+SUMMARY:Deadline for Faculties/Schools/Institutes to send 2025 Fall term course schedule to the Registrar
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-facultiesschoolsinstitutes-to-se/11769\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-facultiesschoolsinstitutes-to-se/11769
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11768@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20250501
+DTEND;VALUE=DATE:20250502
+SUMMARY:Labor Day (Holiday)
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/labor-day-holiday/11768\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/labor-day-holiday/11768
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11765@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20250423
+DTEND;VALUE=DATE:20250424
+SUMMARY:National Sovereignty and Children's Day (Holiday)
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/national-sovereignty-and-childrens-day-holida/11765\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/national-sovereignty-and-childrens-day-holida/11765
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11764@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20250418
+DTEND;VALUE=DATE:20250419
+SUMMARY:Deadline for Faculties/Schools/Institutes to apply to University Executive Committee for changes in final exam dates for 2025 Spring term
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-facultiesschoolsinstitutes-to-ap/11764\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-facultiesschoolsinstitutes-to-ap/11764
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11757@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20250414
+DTEND;VALUE=DATE:20250415
+SUMMARY:Announcement of the courses to be opened by the Summer Term Office
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/announcement-of-the-courses-to-be-opened-by-t/11757\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/announcement-of-the-courses-to-be-opened-by-t/11757
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11755@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20250414
+DTEND;VALUE=DATE:20250415
+SUMMARY:Deadline for Executive and Other Graduate Programs to send 2024 Summer term course schedule to the Registrar
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-executive-and-other-graduate-pro/11755\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-executive-and-other-graduate-pro/11755
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11753@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20250330
+DTEND;VALUE=DATE:20250402
+SUMMARY:Religious Holiday
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/religious-holiday/11753\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/religious-holiday/11753
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11752@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20250329
+DTEND;VALUE=DATE:20250330
+SUMMARY:Religious Holiday (after 1 p.m.)
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/religious-holiday-after-1-pm/11752\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/religious-holiday-after-1-pm/11752
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11751@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20250327
+DTEND;VALUE=DATE:20250328
+SUMMARY:Deadline for sending the 2025 Fall term schedule for mass courses to the Registrar
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-sending-the-2025-fall-term-sched/11751\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-sending-the-2025-fall-term-sched/11751
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11750@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20250314
+DTEND;VALUE=DATE:20250315
+SUMMARY:Deadline for Faculties/Schools/Institutes to send proposals for curriculum change\, introducing a new curriculum\, offering a new course\, changes in course name\, code and/or content (to be put in effect starting 2025 Fall term) to the Rectorate
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-facultiesschoolsinstitutes-to-se/11750\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-facultiesschoolsinstitutes-to-se/11750
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11727@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20250203
+DTEND;VALUE=DATE:20250204
+SUMMARY:Deadline for entry of class quotas by academic units
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-entry-of-class-quotas-by-academi/11727\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-entry-of-class-quotas-by-academi/11727
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11725@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20250131
+DTEND;VALUE=DATE:20250201
+SUMMARY:Deadline for Registration of students admitted off the wait-list to major and minor programs to the Registrar
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-registration-of-students-admitte/11725\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-registration-of-students-admitte/11725
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11724@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20250131
+DTEND;VALUE=DATE:20250201
+SUMMARY:Registration for new graduate students admitted off the wait-list
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-for-new-graduate-students-admitt/11724\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-for-new-graduate-students-admitt/11724
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11723@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20250130
+DTEND;VALUE=DATE:20250131
+SUMMARY:Deadline for Faculties/Schools to send admission decisions on major and minor programs to the Registrar
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-facultiesschools-to-send-admissi/11723\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-facultiesschools-to-send-admissi/11723
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11721@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20250130
+DTEND;VALUE=DATE:20250131
+SUMMARY:Deadline for special students (enrolled in domestic universities) applications
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-special-students-enrolled-in-dom/11721\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-special-students-enrolled-in-dom/11721
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11722@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20250130
+DTEND;VALUE=DATE:20250131
+SUMMARY:Registration for students newly admitted via internal transfer
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-for-students-newly-admitted-via-/11722\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-for-students-newly-admitted-via-/11722
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11720@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20250130
+DTEND;VALUE=DATE:20250131
+SUMMARY:Registration of newly admitted graduate students on primary list
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-of-newly-admitted-graduate-stude/11720\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-of-newly-admitted-graduate-stude/11720
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11719@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20250130
+DTEND;VALUE=DATE:20250201
+SUMMARY:Registration for international guest and exchange students
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-for-international-guest-and-exch/11719\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-for-international-guest-and-exch/11719
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11718@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20250129
+DTEND;VALUE=DATE:20250130
+SUMMARY:Deadline for sending date changes of courses to the Registrar in the 2025 Spring
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-sending-date-changes-of-courses-/11718\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-sending-date-changes-of-courses-/11718
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11717@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20250129
+DTEND;VALUE=DATE:20250130
+SUMMARY:Deadline for Faculties/Schools/Institutes to send admission decisions on internal transfer\, double-major\, minor and graduate programs to the Registrar
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-facultiesschoolsinstitutes-to-se/11717\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-facultiesschoolsinstitutes-to-se/11717
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11716@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20250123
+DTEND;VALUE=DATE:20250124
+SUMMARY:Deadline to apply to double-major programs and minor programs
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-to-apply-to-double-major-programs-an/11716\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-to-apply-to-double-major-programs-an/11716
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11711@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20250120
+DTEND;VALUE=DATE:20250124
+SUMMARY:Applications period for internal transfer
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/applications-period-for-internal-transfer/11711\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/applications-period-for-internal-transfer/11711
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11709@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20250117
+DTEND;VALUE=DATE:20250118
+SUMMARY:Deadline for sending the list of instructors with foreign nationalities to be employed in the Summer term to the Rectorate
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-sending-the-list-of-instructors-/11709\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-sending-the-list-of-instructors-/11709
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11707@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20250115
+DTEND;VALUE=DATE:20250116
+SUMMARY:Deadline for Graduate Programs to send admission decisions to Institutes
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-graduate-programs-to-send-admiss/11707\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-graduate-programs-to-send-admiss/11707
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11704@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20250114
+DTEND;VALUE=DATE:20250115
+SUMMARY:Meeting of Excuse Commission (10:00)
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/meeting-of-excuse-commission-1000/11704\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/meeting-of-excuse-commission-1000/11704
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11702@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20250110
+DTEND;VALUE=DATE:20250123
+SUMMARY:Application period to double-major programs and minor programs
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/application-period-to-double-major-programs-a/11702\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/application-period-to-double-major-programs-a/11702
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11698@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20250109
+DTEND;VALUE=DATE:20250110
+SUMMARY:Deadline for sending the admission quota and departmental exam date for graduate programs to the Registrar
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-sending-the-admission-quota-and-/11698\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-sending-the-admission-quota-and-/11698
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11697@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20250109
+DTEND;VALUE=DATE:20250110
+SUMMARY:Deadline for sending the minimum application criteria for graduate programs for 2025-2026 academic year to the Registrar
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-sending-the-minimum-application-/11697\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-sending-the-minimum-application-/11697
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11694@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20250102
+DTEND;VALUE=DATE:20250103
+SUMMARY:Deadline for sending the list of instructors with foreign nationalities to be employed in the 2025 Fall term to the Rectorate
+DESCRIPTION:Category: Administrative\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-sending-the-list-of-instructors-/11694\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Administrative
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-sending-the-list-of-instructors-/11694
+END:VEVENT
+END:VCALENDAR

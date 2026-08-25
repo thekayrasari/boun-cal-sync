@@ -1,0 +1,371 @@
+﻿BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Bogazici University//Academic Calendar Sync//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Bogazici Academic Calendar - Admission & Applications
+X-WR-CALDESC:Bogazici University Admission & Applications Calendar
+X-WR-TIMEZONE:Europe/Istanbul
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:boun-academic-13482@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20271014
+DTEND;VALUE=DATE:20271015
+SUMMARY:Deadline for international exchange and visitor students applications for Spring term
+DESCRIPTION:Category: Admission\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-international-exchange-and-visit/13482\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Admission
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-international-exchange-and-visit/13482
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13470@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20270903
+DTEND;VALUE=DATE:20270904
+SUMMARY:Deadline for guest students (enrolled in domestic universities) applications
+DESCRIPTION:Category: Admission\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-guest-students-enrolled-in-domes/13470\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Admission
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-guest-students-enrolled-in-domes/13470
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13391@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20270825
+DTEND;VALUE=DATE:20270826
+SUMMARY:Deadline to apply to double-major programs and minor programs
+DESCRIPTION:Category: Admission\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-to-apply-to-double-major-programs-an/13391\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Admission
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-to-apply-to-double-major-programs-an/13391
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13349@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20270818
+DTEND;VALUE=DATE:20270826
+SUMMARY:Application period to double-major programs and minor programs
+DESCRIPTION:Category: Admission\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/application-period-to-double-major-programs-a/13349\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Admission
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/application-period-to-double-major-programs-a/13349
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13415@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20270802
+DTEND;VALUE=DATE:20270817
+SUMMARY:Transfer Applications with Central Points
+DESCRIPTION:Category: Admission\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/transfer-applications-with-central-points/13415\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Admission
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/transfer-applications-with-central-points/13415
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13381@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20270706
+DTEND;VALUE=DATE:20270717
+SUMMARY:Applications for internal and external transfers
+DESCRIPTION:Category: Admission\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/applications-for-internal-and-external-transf/13381\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Admission
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/applications-for-internal-and-external-transf/13381
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13302@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20270604
+DTEND;VALUE=DATE:20270605
+SUMMARY:Application deadline for the admission of international students to undergraduate programs for the 2027–2028 academic year.
+DESCRIPTION:Category: Admission\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/application-deadline-for-the-admission-of-int/13302\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Admission
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/application-deadline-for-the-admission-of-int/13302
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13242@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20270414
+DTEND;VALUE=DATE:20270611
+SUMMARY:Applications for graduate programs for 2027 Fall term
+DESCRIPTION:Category: Admission\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/applications-for-graduate-programs-for-2027-f/13242\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Admission
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/applications-for-graduate-programs-for-2027-f/13242
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13228@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20270405
+DTEND;VALUE=DATE:20270605
+SUMMARY:Application period for students applying to undergraduate programs from abroad for 2027-2028 Academic Year
+DESCRIPTION:Category: Admission\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/application-period-for-students-applying-to-u/13228\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Admission
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/application-period-for-students-applying-to-u/13228
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13226@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20270401
+DTEND;VALUE=DATE:20270611
+SUMMARY:Applications for Executive and Other Graduate Programs for 2027 Fall term
+DESCRIPTION:Category: Admission\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/applications-for-executive-and-other-graduate/13226\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Admission
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/applications-for-executive-and-other-graduate/13226
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13176@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20270111
+DTEND;VALUE=DATE:20270112
+SUMMARY:Deadline for special students (enrolled in domestic universities) applications
+DESCRIPTION:Category: Admission\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-special-students-enrolled-in-dom/13176\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Admission
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-special-students-enrolled-in-dom/13176
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13162@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20270103
+DTEND;VALUE=DATE:20270104
+SUMMARY:Deadline to apply to double-major programs and minor programs
+DESCRIPTION:Category: Admission\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-to-apply-to-double-major-programs-an/13162\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Admission
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-to-apply-to-double-major-programs-an/13162
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13118@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20261214
+DTEND;VALUE=DATE:20261222
+SUMMARY:Applications to graduate programs for 2027 Spring term
+DESCRIPTION:Category: Admission\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/applications-to-graduate-programs-for-2027-sp/13118\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Admission
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/applications-to-graduate-programs-for-2027-sp/13118
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13130@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20270104
+SUMMARY:Application period to double-major programs and minor programs
+DESCRIPTION:Category: Admission\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/application-period-to-double-major-programs-a/13130\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Admission
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/application-period-to-double-major-programs-a/13130
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-12066@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20260803
+DTEND;VALUE=DATE:20260818
+SUMMARY:Transfer Applications with Central Points
+DESCRIPTION:Category: Admission\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/transfer-applications-with-central-points/12066\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Admission
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/transfer-applications-with-central-points/12066
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-12051@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20260707
+DTEND;VALUE=DATE:20260717
+SUMMARY:Applications for internal and external transfers
+DESCRIPTION:Category: Admission\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/applications-for-internal-and-external-transf/12051\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Admission
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/applications-for-internal-and-external-transf/12051
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13955@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260717
+SUMMARY:Second Application Period for International Undergraduate Admissions for the 2026–2027 Academic Year
+DESCRIPTION:Category: Admission\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/second-application-period-for-international-u/13955\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Admission
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/second-application-period-for-international-u/13955
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-12020@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20260611
+DTEND;VALUE=DATE:20260612
+SUMMARY:Deadline applications for Executive and Other Graduate Programs for 2026 Fall term
+DESCRIPTION:Category: Admission\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-applications-for-executive-and-other/12020\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Admission
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-applications-for-executive-and-other/12020
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11987@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20260415
+DTEND;VALUE=DATE:20260611
+SUMMARY:Applications for graduate programs for 2026 Fall term
+DESCRIPTION:Category: Admission\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/applications-for-graduate-programs-for-2026-f/11987\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Admission
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/applications-for-graduate-programs-for-2026-f/11987
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-12052@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20260406
+DTEND;VALUE=DATE:20260606
+SUMMARY:Application period for students applying to undergraduate programs from abroad for 2026-2027 Academic Year
+DESCRIPTION:Category: Admission\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/application-period-for-students-applying-to-u/12052\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Admission
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/application-period-for-students-applying-to-u/12052
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11980@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20260401
+DTEND;VALUE=DATE:20260611
+SUMMARY:Applications for Executive and Other Graduate Programs for 2026 Fall term
+DESCRIPTION:Category: Admission\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/applications-for-executive-and-other-graduate/11980\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Admission
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/applications-for-executive-and-other-graduate/11980
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11931@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20260112
+DTEND;VALUE=DATE:20260113
+SUMMARY:English Language Placement Exam (DBS) (Candidates applying for the Graduate Preparatory Class)
+DESCRIPTION:Category: Admission\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/english-language-placement-exam-dbs-candidate/11931\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Admission
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/english-language-placement-exam-dbs-candidate/11931
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11926@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20260102
+DTEND;VALUE=DATE:20260110
+SUMMARY:Applications to graduate programs for 2026 Spring term
+DESCRIPTION:Category: Admission\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/applications-to-graduate-programs-for-2026-sp/11926\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Admission
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/applications-to-graduate-programs-for-2026-sp/11926
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11845@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20250805
+DTEND;VALUE=DATE:20250806
+SUMMARY:Registration of students admitted off the wait-list to major and minor programs
+DESCRIPTION:Category: Admission\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-of-students-admitted-off-the-wai/11845\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Admission
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-of-students-admitted-off-the-wai/11845
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11836@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20250801
+DTEND;VALUE=DATE:20250816
+SUMMARY:Transfer Applications with Central Points
+DESCRIPTION:Category: Admission\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/transfer-applications-with-central-points/11836\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Admission
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/transfer-applications-with-central-points/11836
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11823@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20250708
+DTEND;VALUE=DATE:20250717
+SUMMARY:Application period for students applying to undergraduate programs from abroad for 2025-2026 Academic Year
+DESCRIPTION:Category: Admission\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/application-period-for-students-applying-to-u/11823\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Admission
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/application-period-for-students-applying-to-u/11823
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11822@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20250708
+DTEND;VALUE=DATE:20250717
+SUMMARY:Applications for internal and external transfers
+DESCRIPTION:Category: Admission\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/applications-for-internal-and-external-transf/11822\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Admission
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/applications-for-internal-and-external-transf/11822
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11761@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20250416
+DTEND;VALUE=DATE:20250611
+SUMMARY:Applications for graduate programs for 2025 Fall term
+DESCRIPTION:Category: Admission\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/applications-for-graduate-programs-for-2025-f/11761\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Admission
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/applications-for-graduate-programs-for-2025-f/11761
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11754@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20250402
+DTEND;VALUE=DATE:20250611
+SUMMARY:Applications for Executive and Other Graduate Programs for 2025 Fall term
+DESCRIPTION:Category: Admission\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/applications-for-executive-and-other-graduate/11754\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Admission
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/applications-for-executive-and-other-graduate/11754
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11695@bogazici.edu.tr
+DTSTAMP:20260825T181923Z
+DTSTART;VALUE=DATE:20250102
+DTEND;VALUE=DATE:20250110
+SUMMARY:Applications to graduate programs for 2025 Spring term
+DESCRIPTION:Category: Admission\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/applications-to-graduate-programs-for-2025-sp/11695\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Admission
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/applications-to-graduate-programs-for-2025-sp/11695
+END:VEVENT
+END:VCALENDAR

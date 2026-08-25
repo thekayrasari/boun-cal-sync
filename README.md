@@ -6,17 +6,25 @@ Once subscribed in **Google Calendar**, **Apple Calendar (iOS / macOS)**, or **M
 
 ---
 
-## Features
+## Available Feeds
 
-- **Automated & Zero Maintenance:** Runs twice daily via GitHub Actions (at 04:00 and 16:00 UTC), fetches updates, and deploys directly to GitHub Pages.
-- **Bilingual Feeds:** Available in both Turkish (`academic.ics`) and English (`academic-en.ics`).
-- **Category-Specific Calendars:**
-  - `academic.ics` — Complete calendar (all events)
-  - `academic-en.ics` — Complete calendar in English
-  - `academic-kayit.ics` — Course registration and application periods
-  - `academic-egitim.ics` — Instruction terms and exam dates
-  - `academic-yadyok.ics` — School of Foreign Languages (YADYOK / SFL)
-- **One-Click Subscription Web UI:** Simple web interface with direct buttons for Google Calendar and Apple Calendar.
+### Complete Calendars
+- **English Complete:** `academic-en.ics`
+- **Turkish Complete:** `academic.ics`
+
+### Official Category Feeds (English)
+- **Registration (`academic-registration.ics`):** Course registration windows, advisor approvals, add/drop periods, and fee payment deadlines.
+- **Administrative (`academic-administrative.ics`):** University administrative meetings (ÜYK/FKK), official deadlines, and department submissions.
+- **Instruction & Exams (`academic-instruction.ics`):** First and last days of classes, exam periods, grade submissions, and semester dates.
+- **School of Foreign Languages (`academic-sfl.ics`):** BUEPT English proficiency exams, placement tests, and preparatory school terms.
+- **Admission & Applications (`academic-admission.ics`):** Undergraduate/graduate applications, double major/minor transfers, and exchange programs.
+
+### Official Category Feeds (Turkish)
+- **Kayıt:** `academic-kayit.ics`
+- **İdari:** `academic-idari.ics`
+- **Eğitim-Öğretim:** `academic-egitim.ics`
+- **YADYOK:** `academic-yadyok.ics`
+- **Başvuru:** `academic-basvuru.ics`
 
 ---
 
@@ -26,7 +34,7 @@ Once subscribed in **Google Calendar**, **Apple Calendar (iOS / macOS)**, or **M
 ```bash
 git init
 git add .
-git commit -m "feat: initial boun-cal-sync setup"
+git commit -m "feat: add 5 official category feeds and interactive filter UI"
 git branch -M main
 git remote add origin https://github.com/YOUR_GITHUB_USERNAME/boun-cal-sync.git
 git push -u origin main
@@ -39,8 +47,12 @@ git push -u origin main
 ### 3. Access Your Feeds
 Once the workflow runs, your calendar web page and `.ics` feeds will be live at:
 - **Landing Page:** `https://YOUR_GITHUB_USERNAME.github.io/boun-cal-sync/`
-- **Turkish Feed:** `https://YOUR_GITHUB_USERNAME.github.io/boun-cal-sync/academic.ics`
 - **English Feed:** `https://YOUR_GITHUB_USERNAME.github.io/boun-cal-sync/academic-en.ics`
+- **Registration:** `https://YOUR_GITHUB_USERNAME.github.io/boun-cal-sync/academic-registration.ics`
+- **Administrative:** `https://YOUR_GITHUB_USERNAME.github.io/boun-cal-sync/academic-administrative.ics`
+- **Instruction & Exams:** `https://YOUR_GITHUB_USERNAME.github.io/boun-cal-sync/academic-instruction.ics`
+- **SFL / YADYOK:** `https://YOUR_GITHUB_USERNAME.github.io/boun-cal-sync/academic-sfl.ics`
+- **Admission:** `https://YOUR_GITHUB_USERNAME.github.io/boun-cal-sync/academic-admission.ics`
 
 ---
 
@@ -52,7 +64,7 @@ Once the workflow runs, your calendar web page and `.ics` feeds will be live at:
 3. Select **From URL**.
 4. Paste your `.ics` feed URL and click **Add calendar**.
 
-*(Alternatively, click the **Add to Google Calendar** button on your hosted landing page).*
+*(Alternatively, click the **Add to Google Calendar** button directly on your hosted landing page).*
 
 ### Apple Calendar (iPhone, iPad, Mac)
 - **iPhone / iPad:**

@@ -1,20 +1,20 @@
-BEGIN:VCALENDAR
+﻿BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Bogazici University//Academic Calendar Sync//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:Boğaziçi Akademik Takvim - YADYOK
-X-WR-CALDESC:Boğaziçi Üniversitesi YADYOK Takvimi
+X-WR-CALNAME:Bogazici Akademik Takvim - YADYOK
+X-WR-CALDESC:Bogazici Universitesi YADYOK Takvimi
 X-WR-TIMEZONE:Europe/Istanbul
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:boun-academic-13457@bogazici.edu.tr
-DTSTAMP:20260825T181244Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20270825
 DTEND;VALUE=DATE:20270826
 SUMMARY:YADYOK Yaz İngilizce Yeterlik Sınavı (BUEPT) sonuçlarının Öğrenci İşleri Daire Başkanlığı'na bildirilmesi için son gün
-DESCRIPTION:Kategori: YADYOK\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-yaz-ingilizce-yeterlik-sinavi-buept-so/13457\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+DESCRIPTION:Category: YADYOK\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-yaz-ingilizce-yeterlik-sinavi-buept-so/13457\n\nAuto-synced Bogazici University Academic Calendar
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:YADYOK
@@ -22,11 +22,11 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-yaz-ingiliz
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13447@bogazici.edu.tr
-DTSTAMP:20260825T181244Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20270817
 DTEND;VALUE=DATE:20270818
 SUMMARY:YADYOK Yaz İngilizce Yeterlik Sınavı (BUEPT)
-DESCRIPTION:Kategori: YADYOK\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-yaz-ingilizce-yeterlik-sinavi-buept/13447\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+DESCRIPTION:Category: YADYOK\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-yaz-ingilizce-yeterlik-sinavi-buept/13447\n\nAuto-synced Bogazici University Academic Calendar
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:YADYOK
@@ -34,11 +34,11 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-yaz-ingiliz
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13443@bogazici.edu.tr
-DTSTAMP:20260825T181244Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20270813
 DTEND;VALUE=DATE:20270814
 SUMMARY:YADYOK Hazırlık Okulu Ders Değerlendirme dönemi son günü
-DESCRIPTION:Kategori: YADYOK\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-hazirlik-okulu-ders-degerlendirme-done/13443\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+DESCRIPTION:Category: YADYOK\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-hazirlik-okulu-ders-degerlendirme-done/13443\n\nAuto-synced Bogazici University Academic Calendar
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:YADYOK
@@ -46,11 +46,11 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-hazirlik-ok
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13402@bogazici.edu.tr
-DTSTAMP:20260825T181244Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20270726
 DTEND;VALUE=DATE:20270814
-SUMMARY:YADYOK Hazırlık Okulu Ders değerlendirme dönemi
-DESCRIPTION:Kategori: YADYOK\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-hazirlik-okulu-ders-degerlendirme-done/13402\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+SUMMARY:YADYOK Hazırlık Okulu Ders değerlendirme dönemi 
+DESCRIPTION:Category: YADYOK\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-hazirlik-okulu-ders-degerlendirme-done/13402\n\nAuto-synced Bogazici University Academic Calendar
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:YADYOK
@@ -58,11 +58,11 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-hazirlik-ok
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13364@bogazici.edu.tr
-DTSTAMP:20260825T181244Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20270630
 DTEND;VALUE=DATE:20270701
 SUMMARY:YADYOK Düzey Belirleme Sınavı (DBS) sonuçlarının açıklanması
-DESCRIPTION:Kategori: YADYOK\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-duzey-belirleme-sinavi-dbs-sonuclarini/13364\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+DESCRIPTION:Category: YADYOK\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-duzey-belirleme-sinavi-dbs-sonuclarini/13364\n\nAuto-synced Bogazici University Academic Calendar
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:YADYOK
@@ -70,11 +70,11 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-duzey-belir
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13316@bogazici.edu.tr
-DTSTAMP:20260825T181244Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20270628
 DTEND;VALUE=DATE:20270629
 SUMMARY:YADYOK Düzey Belirleme Sınavı (DBS) (Lisansüstü Hazırlık Sınıfı için başvuru yapan adaylara)(10:00)
-DESCRIPTION:Kategori: YADYOK\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-duzey-belirleme-sinavi-dbs-lisansustu-/13316\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+DESCRIPTION:Category: YADYOK\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-duzey-belirleme-sinavi-dbs-lisansustu-/13316\n\nAuto-synced Bogazici University Academic Calendar
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:YADYOK
@@ -82,11 +82,11 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-duzey-belir
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13318@bogazici.edu.tr
-DTSTAMP:20260825T181244Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20270628
 DTEND;VALUE=DATE:20270629
 SUMMARY:YADYOK Yaz Okulu derslerinin başlaması (tüm programlar için)
-DESCRIPTION:Kategori: YADYOK\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-yaz-okulu-derslerinin-baslamasi-tum-pr/13318\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+DESCRIPTION:Category: YADYOK\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-yaz-okulu-derslerinin-baslamasi-tum-pr/13318\n\nAuto-synced Bogazici University Academic Calendar
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:YADYOK
@@ -94,11 +94,11 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-yaz-okulu-d
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13297@bogazici.edu.tr
-DTSTAMP:20260825T181244Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20270511
 DTEND;VALUE=DATE:20270512
 SUMMARY:YADYOK İngilizce Yeterlik Sınavı (BUEPT)
-DESCRIPTION:Kategori: YADYOK\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-ingilizce-yeterlik-sinavi-buept/13297\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+DESCRIPTION:Category: YADYOK\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-ingilizce-yeterlik-sinavi-buept/13297\n\nAuto-synced Bogazici University Academic Calendar
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:YADYOK
@@ -106,11 +106,11 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-ingilizce-y
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13295@bogazici.edu.tr
-DTSTAMP:20260825T181244Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20270507
 DTEND;VALUE=DATE:20270508
 SUMMARY:YADYOK Hazırlık Okulu Ders Değerlendirme dönemi son günü (23:59)
-DESCRIPTION:Kategori: YADYOK\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-hazirlik-okulu-ders-degerlendirme-done/13295\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+DESCRIPTION:Category: YADYOK\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-hazirlik-okulu-ders-degerlendirme-done/13295\n\nAuto-synced Bogazici University Academic Calendar
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:YADYOK
@@ -118,11 +118,11 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-hazirlik-ok
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13293@bogazici.edu.tr
-DTSTAMP:20260825T181244Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20270507
 DTEND;VALUE=DATE:20270508
-SUMMARY:YADYOK derslerinin son günü (tüm programlar için)
-DESCRIPTION:Kategori: YADYOK\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-derslerinin-son-gunu-tum-programlar-ic/13293\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+SUMMARY:YADYOK derslerinin son günü (tüm programlar için) 
+DESCRIPTION:Category: YADYOK\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-derslerinin-son-gunu-tum-programlar-ic/13293\n\nAuto-synced Bogazici University Academic Calendar
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:YADYOK
@@ -130,11 +130,11 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-derslerinin
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13260@bogazici.edu.tr
-DTSTAMP:20260825T181244Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20270419
 DTEND;VALUE=DATE:20270508
-SUMMARY:YADYOK Hazırlık Okulu Ders değerlendirme dönemi
-DESCRIPTION:Kategori: YADYOK\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-hazirlik-okulu-ders-degerlendirme-done/13260\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+SUMMARY:YADYOK Hazırlık Okulu Ders değerlendirme dönemi 
+DESCRIPTION:Category: YADYOK\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-hazirlik-okulu-ders-degerlendirme-done/13260\n\nAuto-synced Bogazici University Academic Calendar
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:YADYOK
@@ -142,11 +142,11 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-hazirlik-ok
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13143@bogazici.edu.tr
-DTSTAMP:20260825T181244Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
 SUMMARY:YADYOK Program I derslerinin son günü
-DESCRIPTION:Kategori: YADYOK\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-program-i-derslerinin-son-gunu/13143\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+DESCRIPTION:Category: YADYOK\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-program-i-derslerinin-son-gunu/13143\n\nAuto-synced Bogazici University Academic Calendar
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:YADYOK
@@ -154,11 +154,11 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-program-i-d
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13125@bogazici.edu.tr
-DTSTAMP:20260825T181244Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20261225
 DTEND;VALUE=DATE:20261226
 SUMMARY:YADYOK Hazırlık Okulu Ders Değerlendirme dönemi son günü (23:59)
-DESCRIPTION:Kategori: YADYOK\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-hazirlik-okulu-ders-degerlendirme-done/13125\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+DESCRIPTION:Category: YADYOK\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-hazirlik-okulu-ders-degerlendirme-done/13125\n\nAuto-synced Bogazici University Academic Calendar
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:YADYOK
@@ -166,11 +166,11 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-hazirlik-ok
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13139@bogazici.edu.tr
-DTSTAMP:20260825T181244Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20261224
 DTEND;VALUE=DATE:20261225
 SUMMARY:YADYOK Düzey Belirleme Sınavı (DBS) sonuçlarının açıklanması
-DESCRIPTION:Kategori: YADYOK\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-duzey-belirleme-sinavi-dbs-sonuclarini/13139\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+DESCRIPTION:Category: YADYOK\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-duzey-belirleme-sinavi-dbs-sonuclarini/13139\n\nAuto-synced Bogazici University Academic Calendar
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:YADYOK
@@ -178,11 +178,11 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-duzey-belir
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13131@bogazici.edu.tr
-DTSTAMP:20260825T181244Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20261224
 DTEND;VALUE=DATE:20261225
 SUMMARY:YADYOK İngilizce Yeterlik Sınavı (BUEPT)
-DESCRIPTION:Kategori: YADYOK\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-ingilizce-yeterlik-sinavi-buept/13131\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+DESCRIPTION:Category: YADYOK\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-ingilizce-yeterlik-sinavi-buept/13131\n\nAuto-synced Bogazici University Academic Calendar
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:YADYOK
@@ -190,11 +190,11 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-ingilizce-y
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13137@bogazici.edu.tr
-DTSTAMP:20260825T181244Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20261223
 DTEND;VALUE=DATE:20261224
 SUMMARY:YADYOK Düzey Belirleme Sınavı (DBS) (Lisansüstü Hazırlık Sınıfı için başvuru yapan adaylara)(10:00)
-DESCRIPTION:Kategori: YADYOK\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-duzey-belirleme-sinavi-dbs-lisansustu-/13137\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+DESCRIPTION:Category: YADYOK\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-duzey-belirleme-sinavi-dbs-lisansustu-/13137\n\nAuto-synced Bogazici University Academic Calendar
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:YADYOK
@@ -202,11 +202,11 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-duzey-belir
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13123@bogazici.edu.tr
-DTSTAMP:20260825T181244Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20261223
 DTEND;VALUE=DATE:20261224
 SUMMARY:YADYOK Program II\, III\, IV derslerinin son günü
-DESCRIPTION:Kategori: YADYOK\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-program-ii-iii-iv-derslerinin-son-gunu/13123\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+DESCRIPTION:Category: YADYOK\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-program-ii-iii-iv-derslerinin-son-gunu/13123\n\nAuto-synced Bogazici University Academic Calendar
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:YADYOK
@@ -214,11 +214,11 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-program-ii-
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13105@bogazici.edu.tr
-DTSTAMP:20260825T181244Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20261207
 DTEND;VALUE=DATE:20261226
 SUMMARY:YADYOK Hazırlık Okulu Ders Değerlendirme dönemi
-DESCRIPTION:Kategori: YADYOK\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-hazirlik-okulu-ders-degerlendirme-done/13105\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+DESCRIPTION:Category: YADYOK\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-hazirlik-okulu-ders-degerlendirme-done/13105\n\nAuto-synced Bogazici University Academic Calendar
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:YADYOK
@@ -226,11 +226,11 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-hazirlik-ok
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13031@bogazici.edu.tr
-DTSTAMP:20260825T181244Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20260923
 DTEND;VALUE=DATE:20260924
 SUMMARY:YADYOK derslerinin başlaması
-DESCRIPTION:Kategori: YADYOK\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-derslerinin-baslamasi/13031\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+DESCRIPTION:Category: YADYOK\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-derslerinin-baslamasi/13031\n\nAuto-synced Bogazici University Academic Calendar
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:YADYOK
@@ -238,11 +238,11 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-derslerinin
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13029@bogazici.edu.tr
-DTSTAMP:20260825T181244Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20260922
 DTEND;VALUE=DATE:20260923
 SUMMARY:YADYOK Düzey Belirleme Sınavı (DBS) sonuçlarının açıklanması
-DESCRIPTION:Kategori: YADYOK\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-duzey-belirleme-sinavi-dbs-sonuclarini/13029\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+DESCRIPTION:Category: YADYOK\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-duzey-belirleme-sinavi-dbs-sonuclarini/13029\n\nAuto-synced Bogazici University Academic Calendar
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:YADYOK
@@ -250,11 +250,11 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-duzey-belir
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13025@bogazici.edu.tr
-DTSTAMP:20260825T181244Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20260921
 DTEND;VALUE=DATE:20260922
 SUMMARY:YADYOK Düzey Belirleme Sınavı (DBS) (10:00)
-DESCRIPTION:Kategori: YADYOK\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-duzey-belirleme-sinavi-dbs-1000/13025\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+DESCRIPTION:Category: YADYOK\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-duzey-belirleme-sinavi-dbs-1000/13025\n\nAuto-synced Bogazici University Academic Calendar
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:YADYOK
@@ -262,11 +262,11 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-duzey-belir
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-12997@bogazici.edu.tr
-DTSTAMP:20260825T181244Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20260907
 DTEND;VALUE=DATE:20260908
 SUMMARY:YADYOK Güz İngilizce Yeterlik Sınavı (BUEPT)
-DESCRIPTION:Kategori: YADYOK\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-guz-ingilizce-yeterlik-sinavi-buept/12997\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+DESCRIPTION:Category: YADYOK\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-guz-ingilizce-yeterlik-sinavi-buept/12997\n\nAuto-synced Bogazici University Academic Calendar
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:YADYOK
@@ -274,11 +274,11 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-guz-ingiliz
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-9230@bogazici.edu.tr
-DTSTAMP:20260825T181244Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20260826
 DTEND;VALUE=DATE:20260827
 SUMMARY:YADYOK Yaz İngilizce Yeterlik Sınavı (BUEPT) sonuçlarının Öğrenci İşleri Daire Başkanlığı’na bildirilmesi için son gün
-DESCRIPTION:Kategori: YADYOK\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-yaz-ingilizce-yeterlik-sinavi-buept-so/9230\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+DESCRIPTION:Category: YADYOK\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-yaz-ingilizce-yeterlik-sinavi-buept-so/9230\n\nAuto-synced Bogazici University Academic Calendar
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:YADYOK
@@ -286,11 +286,11 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-yaz-ingiliz
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-9226@bogazici.edu.tr
-DTSTAMP:20260825T181244Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20260818
 DTEND;VALUE=DATE:20260819
 SUMMARY:YADYOK Yaz İngilizce Yeterlik Sınavı (BUEPT)
-DESCRIPTION:Kategori: YADYOK\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-yaz-ingilizce-yeterlik-sinavi-buept/9226\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+DESCRIPTION:Category: YADYOK\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-yaz-ingilizce-yeterlik-sinavi-buept/9226\n\nAuto-synced Bogazici University Academic Calendar
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:YADYOK
@@ -298,11 +298,11 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-yaz-ingiliz
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-9170@bogazici.edu.tr
-DTSTAMP:20260825T181244Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20260629
 DTEND;VALUE=DATE:20260630
 SUMMARY:YADYOK Yaz Okulu derslerinin başlaması (tüm programlar için)
-DESCRIPTION:Kategori: YADYOK\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-yaz-okulu-derslerinin-baslamasi-tum-pr/9170\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+DESCRIPTION:Category: YADYOK\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-yaz-okulu-derslerinin-baslamasi-tum-pr/9170\n\nAuto-synced Bogazici University Academic Calendar
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:YADYOK
@@ -310,11 +310,11 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-yaz-okulu-d
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-9182@bogazici.edu.tr
-DTSTAMP:20260825T181244Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20260629
 DTEND;VALUE=DATE:20260630
 SUMMARY:YADYOK Düzey Belirleme Sınavı (DBS) sonuçlarının açıklanması
-DESCRIPTION:Kategori: YADYOK\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-duzey-belirleme-sinavi-dbs-sonuclarini/9182\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+DESCRIPTION:Category: YADYOK\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-duzey-belirleme-sinavi-dbs-sonuclarini/9182\n\nAuto-synced Bogazici University Academic Calendar
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:YADYOK
@@ -322,11 +322,11 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-duzey-belir
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-9181@bogazici.edu.tr
-DTSTAMP:20260825T181244Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20260625
 DTEND;VALUE=DATE:20260626
 SUMMARY:YADYOK Düzey Belirleme Sınavı (DBS) (Lisansüstü Hazırlık Sınıfı için başvuru yapan adaylara)(10:00)
-DESCRIPTION:Kategori: YADYOK\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-duzey-belirleme-sinavi-dbs-lisansustu-/9181\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+DESCRIPTION:Category: YADYOK\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-duzey-belirleme-sinavi-dbs-lisansustu-/9181\n\nAuto-synced Bogazici University Academic Calendar
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:YADYOK
@@ -334,11 +334,11 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-duzey-belir
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-9157@bogazici.edu.tr
-DTSTAMP:20260825T181244Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20260602
 DTEND;VALUE=DATE:20260603
 SUMMARY:YADYOK İngilizce Yeterlik Sınavı (BUEPT)
-DESCRIPTION:Kategori: YADYOK\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-ingilizce-yeterlik-sinavi-buept/9157\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+DESCRIPTION:Category: YADYOK\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-ingilizce-yeterlik-sinavi-buept/9157\n\nAuto-synced Bogazici University Academic Calendar
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:YADYOK
@@ -346,11 +346,11 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-ingilizce-y
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-9152@bogazici.edu.tr
-DTSTAMP:20260825T181244Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20260522
 DTEND;VALUE=DATE:20260523
 SUMMARY:YADYOK derslerinin son günü
-DESCRIPTION:Kategori: YADYOK\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-derslerinin-son-gunu/9152\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+DESCRIPTION:Category: YADYOK\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-derslerinin-son-gunu/9152\n\nAuto-synced Bogazici University Academic Calendar
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:YADYOK
@@ -358,11 +358,11 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-derslerinin
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-9147@bogazici.edu.tr
-DTSTAMP:20260825T181244Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20260515
 DTEND;VALUE=DATE:20260516
-SUMMARY:Ders değerlendirme dönemi son günü (23:59)
-DESCRIPTION:Kategori: YADYOK\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-degerlendirme-donemi-son-gunu-2359/9147\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+SUMMARY: Ders değerlendirme dönemi son günü (23:59)
+DESCRIPTION:Category: YADYOK\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-degerlendirme-donemi-son-gunu-2359/9147\n\nAuto-synced Bogazici University Academic Calendar
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:YADYOK
@@ -370,11 +370,11 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-degerlendirme
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-9080@bogazici.edu.tr
-DTSTAMP:20260825T181244Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20260116
 DTEND;VALUE=DATE:20260117
 SUMMARY:YADYOK Program I derslerinin son günü
-DESCRIPTION:Kategori: YADYOK\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-program-i-derslerinin-son-gunu/9080\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+DESCRIPTION:Category: YADYOK\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-program-i-derslerinin-son-gunu/9080\n\nAuto-synced Bogazici University Academic Calendar
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:YADYOK
@@ -382,11 +382,11 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-program-i-d
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-9079@bogazici.edu.tr
-DTSTAMP:20260825T181244Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20260115
 DTEND;VALUE=DATE:20260116
 SUMMARY:YADYOK Düzey Belirleme Sınavı (DBS) sonuçlarının açıklanması
-DESCRIPTION:Kategori: YADYOK\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-duzey-belirleme-sinavi-dbs-sonuclarini/9079\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+DESCRIPTION:Category: YADYOK\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-duzey-belirleme-sinavi-dbs-sonuclarini/9079\n\nAuto-synced Bogazici University Academic Calendar
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:YADYOK
@@ -394,11 +394,11 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-duzey-belir
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-9075@bogazici.edu.tr
-DTSTAMP:20260825T181244Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20260113
 DTEND;VALUE=DATE:20260114
 SUMMARY:YADYOK İngilizce Yeterlik Sınavı (BUEPT)
-DESCRIPTION:Kategori: YADYOK\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-ingilizce-yeterlik-sinavi-buept/9075\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+DESCRIPTION:Category: YADYOK\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-ingilizce-yeterlik-sinavi-buept/9075\n\nAuto-synced Bogazici University Academic Calendar
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:YADYOK
@@ -406,11 +406,11 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-ingilizce-y
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-9073@bogazici.edu.tr
-DTSTAMP:20260825T181244Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20260112
 DTEND;VALUE=DATE:20260113
 SUMMARY:YADYOK Düzey Belirleme Sınavı (DBS) (Lisansüstü Hazırlık Sınıfı için başvuru yapan adaylar için)
-DESCRIPTION:Kategori: YADYOK\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-duzey-belirleme-sinavi-dbs-lisansustu-/9073\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+DESCRIPTION:Category: YADYOK\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-duzey-belirleme-sinavi-dbs-lisansustu-/9073\n\nAuto-synced Bogazici University Academic Calendar
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:YADYOK
@@ -418,11 +418,11 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-duzey-belir
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-9071@bogazici.edu.tr
-DTSTAMP:20260825T181244Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20260109
 DTEND;VALUE=DATE:20260110
 SUMMARY:YADYOK Program II\, III\, IV derslerinin son günü
-DESCRIPTION:Kategori: YADYOK\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-program-ii-iii-iv-derslerinin-son-gunu/9071\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+DESCRIPTION:Category: YADYOK\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-program-ii-iii-iv-derslerinin-son-gunu/9071\n\nAuto-synced Bogazici University Academic Calendar
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:YADYOK
@@ -430,11 +430,11 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-program-ii-
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-9070@bogazici.edu.tr
-DTSTAMP:20260825T181244Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20260109
 DTEND;VALUE=DATE:20260110
 SUMMARY:YADYOK Hazırlık Okulu Ders Değerlendirme dönemi son günü (23:59)
-DESCRIPTION:Kategori: YADYOK\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-hazirlik-okulu-ders-degerlendirme-done/9070\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+DESCRIPTION:Category: YADYOK\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-hazirlik-okulu-ders-degerlendirme-done/9070\n\nAuto-synced Bogazici University Academic Calendar
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:YADYOK
@@ -442,11 +442,11 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-hazirlik-ok
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-9060@bogazici.edu.tr
-DTSTAMP:20260825T181244Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20251222
 DTEND;VALUE=DATE:20260109
 SUMMARY:YADYOK Hazırlık Okulu Ders Değerlendirme dönemi
-DESCRIPTION:Kategori: YADYOK\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-hazirlik-okulu-ders-degerlendirme-done/9060\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+DESCRIPTION:Category: YADYOK\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-hazirlik-okulu-ders-degerlendirme-done/9060\n\nAuto-synced Bogazici University Academic Calendar
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:YADYOK
@@ -454,11 +454,11 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-hazirlik-ok
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-9044@bogazici.edu.tr
-DTSTAMP:20260825T181244Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20251110
 DTEND;VALUE=DATE:20251115
 SUMMARY:YADYOK Kış Tatili
-DESCRIPTION:Kategori: YADYOK\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-kis-tatili/9044\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+DESCRIPTION:Category: YADYOK\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-kis-tatili/9044\n\nAuto-synced Bogazici University Academic Calendar
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:YADYOK
@@ -466,11 +466,11 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-kis-tatili/
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-9029@bogazici.edu.tr
-DTSTAMP:20260825T181244Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20250924
 DTEND;VALUE=DATE:20250925
 SUMMARY:YADYOK derslerinin başlaması
-DESCRIPTION:Kategori: YADYOK\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-derslerinin-baslamasi/9029\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+DESCRIPTION:Category: YADYOK\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-derslerinin-baslamasi/9029\n\nAuto-synced Bogazici University Academic Calendar
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:YADYOK
@@ -478,11 +478,11 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-derslerinin
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-9028@bogazici.edu.tr
-DTSTAMP:20260825T181244Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20250923
 DTEND;VALUE=DATE:20250924
 SUMMARY:YADYOK Düzey Belirleme Sınavı (DBS) sonuçlarının açıklanması
-DESCRIPTION:Kategori: YADYOK\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-duzey-belirleme-sinavi-dbs-sonuclarini/9028\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+DESCRIPTION:Category: YADYOK\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-duzey-belirleme-sinavi-dbs-sonuclarini/9028\n\nAuto-synced Bogazici University Academic Calendar
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:YADYOK
@@ -490,11 +490,11 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-duzey-belir
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-9027@bogazici.edu.tr
-DTSTAMP:20260825T181244Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20250922
 DTEND;VALUE=DATE:20250923
 SUMMARY:YADYOK Düzey Belirleme Sınavı (DBS) (10:00)
-DESCRIPTION:Kategori: YADYOK\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-duzey-belirleme-sinavi-dbs-1000/9027\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+DESCRIPTION:Category: YADYOK\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-duzey-belirleme-sinavi-dbs-1000/9027\n\nAuto-synced Bogazici University Academic Calendar
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:YADYOK
@@ -502,11 +502,11 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-duzey-belir
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-9011@bogazici.edu.tr
-DTSTAMP:20260825T181244Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20250908
 DTEND;VALUE=DATE:20250909
 SUMMARY:YADYOK Güz İngilizce Yeterlik Sınavı (BUEPT)
-DESCRIPTION:Kategori: YADYOK\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-guz-ingilizce-yeterlik-sinavi-buept/9011\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+DESCRIPTION:Category: YADYOK\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-guz-ingilizce-yeterlik-sinavi-buept/9011\n\nAuto-synced Bogazici University Academic Calendar
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:YADYOK
@@ -514,11 +514,11 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-guz-ingiliz
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-9000@bogazici.edu.tr
-DTSTAMP:20260825T181244Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20250821
 DTEND;VALUE=DATE:20250822
 SUMMARY:YADYOK Yaz İngilizce Yeterlik Sınavı (BUEPT) sonuçlarının Kayıt İşleri Şube Müdürlüğüne bildirilmesi için son gün
-DESCRIPTION:Kategori: YADYOK\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-yaz-ingilizce-yeterlik-sinavi-buept-so/9000\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+DESCRIPTION:Category: YADYOK\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-yaz-ingilizce-yeterlik-sinavi-buept-so/9000\n\nAuto-synced Bogazici University Academic Calendar
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:YADYOK
@@ -526,11 +526,11 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-yaz-ingiliz
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-8994@bogazici.edu.tr
-DTSTAMP:20260825T181244Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20250812
 DTEND;VALUE=DATE:20250813
 SUMMARY:YADYOK Yaz İngilizce Yeterlik Sınavı (BUEPT)
-DESCRIPTION:Kategori: YADYOK\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-yaz-ingilizce-yeterlik-sinavi-buept/8994\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+DESCRIPTION:Category: YADYOK\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-yaz-ingilizce-yeterlik-sinavi-buept/8994\n\nAuto-synced Bogazici University Academic Calendar
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:YADYOK
@@ -538,11 +538,11 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-yaz-ingiliz
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-8983@bogazici.edu.tr
-DTSTAMP:20260825T181244Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20250801
 DTEND;VALUE=DATE:20250802
 SUMMARY:YADYOK Yaz Okulu Program II ve III derslerinin sonu
-DESCRIPTION:Kategori: YADYOK\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-yaz-okulu-program-ii-ve-iii-derslerini/8983\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+DESCRIPTION:Category: YADYOK\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-yaz-okulu-program-ii-ve-iii-derslerini/8983\n\nAuto-synced Bogazici University Academic Calendar
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:YADYOK
@@ -550,11 +550,11 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-yaz-okulu-p
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-8953@bogazici.edu.tr
-DTSTAMP:20260825T181244Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20250627
 DTEND;VALUE=DATE:20250628
 SUMMARY:YADYOK Düzey Belirleme Sınavı (DBS) sonuçlarının açıklanması
-DESCRIPTION:Kategori: YADYOK\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-duzey-belirleme-sinavi-dbs-sonuclarini/8953\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+DESCRIPTION:Category: YADYOK\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-duzey-belirleme-sinavi-dbs-sonuclarini/8953\n\nAuto-synced Bogazici University Academic Calendar
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:YADYOK
@@ -562,11 +562,11 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-duzey-belir
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-8952@bogazici.edu.tr
-DTSTAMP:20260825T181244Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20250624
 DTEND;VALUE=DATE:20250625
 SUMMARY:YADYOK Düzey Belirleme Sınavı (DBS) (Lisansüstü Hazırlık Sınıfı için başvuru yapan adaylara)(10:00)
-DESCRIPTION:Kategori: YADYOK\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-duzey-belirleme-sinavi-dbs-lisansustu-/8952\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+DESCRIPTION:Category: YADYOK\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-duzey-belirleme-sinavi-dbs-lisansustu-/8952\n\nAuto-synced Bogazici University Academic Calendar
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:YADYOK
@@ -574,11 +574,11 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-duzey-belir
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-8946@bogazici.edu.tr
-DTSTAMP:20260825T181244Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20250623
 DTEND;VALUE=DATE:20250624
 SUMMARY:YADYOK Yaz Okulu derslerinin başlaması (tüm programlar için)
-DESCRIPTION:Kategori: YADYOK\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-yaz-okulu-derslerinin-baslamasi-tum-pr/8946\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+DESCRIPTION:Category: YADYOK\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-yaz-okulu-derslerinin-baslamasi-tum-pr/8946\n\nAuto-synced Bogazici University Academic Calendar
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:YADYOK
@@ -586,11 +586,11 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-yaz-okulu-d
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-8934@bogazici.edu.tr
-DTSTAMP:20260825T181244Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20250611
 DTEND;VALUE=DATE:20250612
 SUMMARY:YADYOK İngilizce Yeterlik Sınavı (BUEPT) sonuçlarının Kayıt İşleri Şube Müdürlüğü'ne bildirilmesi için son gün
-DESCRIPTION:Kategori: YADYOK\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-ingilizce-yeterlik-sinavi-buept-sonucl/8934\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+DESCRIPTION:Category: YADYOK\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-ingilizce-yeterlik-sinavi-buept-sonucl/8934\n\nAuto-synced Bogazici University Academic Calendar
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:YADYOK
@@ -598,11 +598,11 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-ingilizce-y
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-8925@bogazici.edu.tr
-DTSTAMP:20260825T181244Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20250528
 DTEND;VALUE=DATE:20250529
 SUMMARY:YADYOK İngilizce Yeterlik Sınavı (BUEPT)
-DESCRIPTION:Kategori: YADYOK\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-ingilizce-yeterlik-sinavi-buept/8925\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+DESCRIPTION:Category: YADYOK\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-ingilizce-yeterlik-sinavi-buept/8925\n\nAuto-synced Bogazici University Academic Calendar
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:YADYOK
@@ -610,11 +610,11 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-ingilizce-y
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-8921@bogazici.edu.tr
-DTSTAMP:20260825T181244Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20250521
 DTEND;VALUE=DATE:20250522
 SUMMARY:YADYOK derslerinin son günü
-DESCRIPTION:Kategori: YADYOK\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-derslerinin-son-gunu/8921\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+DESCRIPTION:Category: YADYOK\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-derslerinin-son-gunu/8921\n\nAuto-synced Bogazici University Academic Calendar
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:YADYOK
@@ -622,11 +622,11 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-derslerinin
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-8909@bogazici.edu.tr
-DTSTAMP:20260825T181244Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20250428
 DTEND;VALUE=DATE:20250503
 SUMMARY:Bahar Tatili
-DESCRIPTION:Kategori: YADYOK\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/bahar-tatili/8909\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+DESCRIPTION:Category: YADYOK\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/bahar-tatili/8909\n\nAuto-synced Bogazici University Academic Calendar
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:YADYOK
@@ -634,11 +634,11 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/bahar-tatili/8909
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-8892@bogazici.edu.tr
-DTSTAMP:20260825T181244Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20250324
 DTEND;VALUE=DATE:20250325
 SUMMARY:YADYOK derslerinin başlaması
-DESCRIPTION:Kategori: YADYOK\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-derslerinin-baslamasi/8892\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+DESCRIPTION:Category: YADYOK\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-derslerinin-baslamasi/8892\n\nAuto-synced Bogazici University Academic Calendar
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:YADYOK
@@ -646,11 +646,11 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-derslerinin
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-8879@bogazici.edu.tr
-DTSTAMP:20260825T181244Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20250210
 DTEND;VALUE=DATE:20250211
 SUMMARY:Derslerin başlaması (YADYOK dersleri dahil)
-DESCRIPTION:Kategori: YADYOK\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/derslerin-baslamasi-yadyok-dersleri-dahil/8879\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+DESCRIPTION:Category: YADYOK\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/derslerin-baslamasi-yadyok-dersleri-dahil/8879\n\nAuto-synced Bogazici University Academic Calendar
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:YADYOK
@@ -658,11 +658,11 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/derslerin-baslamas
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-8857@bogazici.edu.tr
-DTSTAMP:20260825T181244Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20250123
 DTEND;VALUE=DATE:20250124
 SUMMARY:YADYOK İngilizce Yeterlik Sınavı (BUEPT) sonuçlarının Kayıt İşleri Şube Müdürlüğüne bildirilmesi için son gün
-DESCRIPTION:Kategori: YADYOK\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-ingilizce-yeterlik-sinavi-buept-sonucl/8857\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+DESCRIPTION:Category: YADYOK\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-ingilizce-yeterlik-sinavi-buept-sonucl/8857\n\nAuto-synced Bogazici University Academic Calendar
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:YADYOK
@@ -670,11 +670,11 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-ingilizce-y
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-8849@bogazici.edu.tr
-DTSTAMP:20260825T181244Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20250117
 DTEND;VALUE=DATE:20250118
 SUMMARY:YADYOK Program I derslerinin son günü
-DESCRIPTION:Kategori: YADYOK\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-program-i-derslerinin-son-gunu/8849\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+DESCRIPTION:Category: YADYOK\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-program-i-derslerinin-son-gunu/8849\n\nAuto-synced Bogazici University Academic Calendar
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:YADYOK
@@ -682,11 +682,11 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-program-i-d
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-8846@bogazici.edu.tr
-DTSTAMP:20260825T181244Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20250114
 DTEND;VALUE=DATE:20250115
 SUMMARY:YADYOK İngilizce Yeterlik Sınavı (BUEPT)
-DESCRIPTION:Kategori: YADYOK\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-ingilizce-yeterlik-sinavi-buept/8846\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+DESCRIPTION:Category: YADYOK\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-ingilizce-yeterlik-sinavi-buept/8846\n\nAuto-synced Bogazici University Academic Calendar
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:YADYOK
@@ -694,11 +694,11 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-ingilizce-y
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-8844@bogazici.edu.tr
-DTSTAMP:20260825T181244Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20250113
 DTEND;VALUE=DATE:20250114
 SUMMARY:YADYOK Düzey Belirleme Sınavı (DBS) sonuçlarının açıklanması
-DESCRIPTION:Kategori: YADYOK\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-duzey-belirleme-sinavi-dbs-sonuclarini/8844\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+DESCRIPTION:Category: YADYOK\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-duzey-belirleme-sinavi-dbs-sonuclarini/8844\n\nAuto-synced Bogazici University Academic Calendar
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:YADYOK
@@ -706,11 +706,11 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-duzey-belir
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-8842@bogazici.edu.tr
-DTSTAMP:20260825T181244Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20250110
 DTEND;VALUE=DATE:20250111
 SUMMARY:YADYOK Program II\, III\, IV derslerinin son günü
-DESCRIPTION:Kategori: YADYOK\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-program-ii-iii-iv-derslerinin-son-gunu/8842\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+DESCRIPTION:Category: YADYOK\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-program-ii-iii-iv-derslerinin-son-gunu/8842\n\nAuto-synced Bogazici University Academic Calendar
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:YADYOK
@@ -718,11 +718,11 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-program-ii-
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-8841@bogazici.edu.tr
-DTSTAMP:20260825T181244Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20250110
 DTEND;VALUE=DATE:20250111
 SUMMARY:YADYOK Hazırlık Okulu Ders Değerlendirme dönemi son günü (23:59)
-DESCRIPTION:Kategori: YADYOK\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-hazirlik-okulu-ders-degerlendirme-done/8841\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+DESCRIPTION:Category: YADYOK\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-hazirlik-okulu-ders-degerlendirme-done/8841\n\nAuto-synced Bogazici University Academic Calendar
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:YADYOK
@@ -730,11 +730,11 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-hazirlik-ok
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-8840@bogazici.edu.tr
-DTSTAMP:20260825T181244Z
+DTSTAMP:20260825T181923Z
 DTSTART;VALUE=DATE:20250109
 DTEND;VALUE=DATE:20250110
 SUMMARY:YADYOK Düzey Belirleme Sınavı (DBS) (Lisansüstü Hazırlık Sınıfı için başvuru yapan adaylar için)
-DESCRIPTION:Kategori: YADYOK\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-duzey-belirleme-sinavi-dbs-lisansustu-/8840\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+DESCRIPTION:Category: YADYOK\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-duzey-belirleme-sinavi-dbs-lisansustu-/8840\n\nAuto-synced Bogazici University Academic Calendar
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:YADYOK
