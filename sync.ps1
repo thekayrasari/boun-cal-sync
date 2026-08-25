@@ -1,5 +1,5 @@
-# Boğaziçi Üniversitesi Akademik Takvim Senkronizasyon Scripti (PowerShell)
-# Windows ortamında yerel olarak çalıştırmak ve tüm ICS/HTML çıktılarını üretmek için
+# Bogazici University Academic Calendar Sync Script (PowerShell)
+# For local execution and generating all ICS/JSON/HTML assets on Windows
 
 [Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12
 
@@ -12,26 +12,26 @@ $CurrentYear = (Get-Date).Year
 $StartDate = "$($CurrentYear - 1)-01-01"
 $EndDate = "$($CurrentYear + 2)-12-31"
 
-Write-Host "🔄 Boğaziçi Akademik Takvim çekiliyor ($StartDate - $EndDate)..." -ForegroundColor Cyan
+Write-Host "Fetching Bogazici Academic Calendar ($StartDate - $EndDate)..."
 
 function Fetch-Events($Url) {
     try {
         $resp = Invoke-RestMethod -Uri $Url -Method Get -Headers @{ "User-Agent" = "Mozilla/5.0" }
         return $resp
     } catch {
-        Write-Host "Hata ($Url): $_" -ForegroundColor Red
+        Write-Host "Error ($Url): $_"
         return @()
     }
 }
 
-$UrlTr = "https://akademiktakvim.bogazici.edu.tr/tr/json?type=4&date=$StartDate&last_date=$EndDate"
 $UrlEn = "https://akademiktakvim.bogazici.edu.tr/en/json?type=4&date=$StartDate&last_date=$EndDate"
-
-$EventsTr = Fetch-Events -Url $UrlTr
-Write-Host "✅ $($EventsTr.Count) Türkçe etkinlik alındı." -ForegroundColor Green
+$UrlTr = "https://akademiktakvim.bogazici.edu.tr/tr/json?type=4&date=$StartDate&last_date=$EndDate"
 
 $EventsEn = Fetch-Events -Url $UrlEn
-Write-Host "✅ $($EventsEn.Count) İngilizce etkinlik alındı." -ForegroundColor Green
+Write-Host "Fetched $($EventsEn.Count) English events."
+
+$EventsTr = Fetch-Events -Url $UrlTr
+Write-Host "Fetched $($EventsTr.Count) Turkish events."
 
 function ConvertTo-Ics($Events, $CalName, $CalDesc, $Lang) {
     $nowUtc = (Get-Date).ToUniversalTime().ToString("yyyyMMddTHHmmssZ")
@@ -76,18 +76,10 @@ function ConvertTo-Ics($Events, $CalName, $CalDesc, $Lang) {
         $link = [string]$ev.link
 
         $descParts = @()
-        if ($category) { 
-            if ($Lang -eq "tr") { $descParts += "Kategori: $category" } else { $descParts += "Category: $category" }
-        }
+        if ($category) { $descParts += "Category: $category" }
         if ($descRaw) { $descParts += $descRaw }
-        if ($link) {
-            if ($Lang -eq "tr") { $descParts += "Detay: $link" } else { $descParts += "Details: $link" }
-        }
-        if ($Lang -eq "tr") {
-            $descParts += "Otomatik Güncellenen Boğaziçi Akademik Takvimi"
-        } else {
-            $descParts += "Auto-synced Boğaziçi University Academic Calendar"
-        }
+        if ($link) { $descParts += "Details: $link" }
+        $descParts += "Auto-synced Bogazici University Academic Calendar"
 
         $descText = ($descParts -join "\n\n") -replace ";", "\;" -replace ",", "\,"
         $summaryText = $title -replace ";", "\;" -replace ",", "\,"
@@ -111,22 +103,22 @@ function ConvertTo-Ics($Events, $CalName, $CalDesc, $Lang) {
     return $sb.ToString()
 }
 
-$IcsTr = ConvertTo-Ics -Events $EventsTr -CalName "Boğaziçi Üniversitesi Akademik Takvim" -CalDesc "Resmi Boğaziçi Üniversitesi Akademik Takvimi" -Lang "tr"
-[System.IO.File]::WriteAllText((Join-Path $OutputDir "academic.ics"), $IcsTr, [System.Text.Encoding]::UTF8)
-
-$IcsEn = ConvertTo-Ics -Events $EventsEn -CalName "Boğaziçi University Academic Calendar" -CalDesc "Official Boğaziçi University Academic Calendar" -Lang "en"
+$IcsEn = ConvertTo-Ics -Events $EventsEn -CalName "Bogazici University Academic Calendar" -CalDesc "Official Bogazici University Academic Calendar" -Lang "en"
 [System.IO.File]::WriteAllText((Join-Path $OutputDir "academic-en.ics"), $IcsEn, [System.Text.Encoding]::UTF8)
 
-# Kategori bazlı takvimler
+$IcsTr = ConvertTo-Ics -Events $EventsTr -CalName "Bogazici University Academic Calendar (TR)" -CalDesc "Official Bogazici University Academic Calendar (TR)" -Lang "tr"
+[System.IO.File]::WriteAllText((Join-Path $OutputDir "academic.ics"), $IcsTr, [System.Text.Encoding]::UTF8)
+
+# Category calendars
 $catFilters = @{
-    "kayit" = @("Kayıt", "Başvuru");
-    "yadyok" = @("YADYOK");
-    "egitim" = @("Eğitim-Öğretim")
+    "registration" = @("Registration", "Admission");
+    "sfl" = @("SFL", "YADYOK");
+    "instruction" = @("Instruction")
 }
 foreach ($kv in $catFilters.GetEnumerator()) {
     $slug = $kv.Key
     $cats = $kv.Value
-    $filtered = $EventsTr | Where-Object {
+    $filtered = $EventsEn | Where-Object {
         $cat = [string]$_.kategoriadi
         $matched = $false
         foreach ($c in $cats) {
@@ -135,34 +127,34 @@ foreach ($kv in $catFilters.GetEnumerator()) {
         $matched
     }
     if ($filtered.Count -gt 0) {
-        $catIcs = ConvertTo-Ics -Events $filtered -CalName "Boğaziçi Akademik Takvim - $($cats[0])" -CalDesc "Boğaziçi Üniversitesi $($cats -join ', ') Takvimi" -Lang "tr"
+        $catIcs = ConvertTo-Ics -Events $filtered -CalName "Bogazici Academic Calendar - $($cats[0])" -CalDesc "Bogazici University $($cats -join ', ') Calendar" -Lang "en"
         [System.IO.File]::WriteAllText((Join-Path $OutputDir "academic-$slug.ics"), $catIcs, [System.Text.Encoding]::UTF8)
-        Write-Host "💾 Kategori takvimi oluşturuldu: academic-$slug.ics ($($filtered.Count) etkinlik)" -ForegroundColor Cyan
+        Write-Host "Saved category feed: academic-$slug.ics ($($filtered.Count) events)"
     }
 }
 
 # JSON files
-$EventsTr | ConvertTo-Json -Depth 5 | Out-File -FilePath (Join-Path $OutputDir "events-tr.json") -Encoding utf8
 $EventsEn | ConvertTo-Json -Depth 5 | Out-File -FilePath (Join-Path $OutputDir "events-en.json") -Encoding utf8
+$EventsTr | ConvertTo-Json -Depth 5 | Out-File -FilePath (Join-Path $OutputDir "events-tr.json") -Encoding utf8
 
 # Generate HTML
-$nowStr = (Get-Date).ToString("dd.MM.yyyy HH:mm") + " (TSİ)"
-$sortedTr = $EventsTr | Sort-Object { $_.start_date }
+$nowStr = (Get-Date).ToString("MMMM dd, yyyy HH:mm") + " (UTC+3)"
+$sortedEn = $EventsEn | Sort-Object { $_.start_date }
 $todayStr = (Get-Date).ToString("yyyy-MM-dd")
-$upcomingTr = $sortedTr | Where-Object { $_.end_date -ge $todayStr -or $_.start_date -ge $todayStr } | Select-Object -First 20
-if (-not $upcomingTr -or $upcomingTr.Count -eq 0) {
-    $upcomingTr = $sortedTr | Select-Object -Last 20
+$upcomingEn = $sortedEn | Where-Object { $_.end_date -ge $todayStr -or $_.start_date -ge $todayStr } | Select-Object -First 20
+if (-not $upcomingEn -or $upcomingEn.Count -eq 0) {
+    $upcomingEn = $sortedEn | Select-Object -Last 20
 }
-$upcomingJsonTr = $upcomingTr | ConvertTo-Json -Depth 5 -Compress
+$upcomingJsonEn = $upcomingEn | ConvertTo-Json -Depth 5 -Compress
 
 $htmlContent = @"
 <!DOCTYPE html>
-<html lang="tr">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Boğaziçi Üniversitesi Akademik Takvim Senkronizasyonu</title>
-    <meta name="description" content="Boğaziçi Üniversitesi Akademik Takvimi'ni Google Calendar, Apple Calendar ve Outlook ile otomatik senkronize edin.">
+    <title>Bogazici University Academic Calendar Sync</title>
+    <meta name="description" content="Auto-synced Bogazici University Academic Calendar feeds for Google Calendar, Apple Calendar, and Microsoft Outlook.">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
@@ -179,10 +171,10 @@ $htmlContent = @"
             --text-main: #f8fafc;
             --text-muted: #94a3b8;
             --success: #10b981;
-            --badge-kayit: #8b5cf6;
-            --badge-egitim: #10b981;
-            --badge-idari: #ef4444;
-            --badge-yadyok: #0ea5e9;
+            --badge-registration: #8b5cf6;
+            --badge-instruction: #10b981;
+            --badge-admin: #ef4444;
+            --badge-sfl: #0ea5e9;
         }
         * {
             margin: 0;
@@ -201,7 +193,7 @@ $htmlContent = @"
         .container {
             max-width: 1000px;
             margin: 0 auto;
-            padding: 2rem 1.5rem;
+            padding: 2.5rem 1.5rem;
             width: 100%;
         }
         header {
@@ -406,10 +398,10 @@ $htmlContent = @"
             border-radius: 0.25rem;
             white-space: nowrap;
         }
-        .tag-kayit { background: rgba(139, 92, 246, 0.2); color: #c4b5fd; border: 1px solid rgba(139, 92, 246, 0.4); }
-        .tag-egitim { background: rgba(16, 185, 129, 0.2); color: #6ee7b7; border: 1px solid rgba(16, 185, 129, 0.4); }
-        .tag-idari { background: rgba(239, 68, 68, 0.2); color: #fca5a5; border: 1px solid rgba(239, 68, 68, 0.4); }
-        .tag-yadyok { background: rgba(14, 165, 233, 0.2); color: #7dd3fc; border: 1px solid rgba(14, 165, 233, 0.4); }
+        .tag-registration { background: rgba(139, 92, 246, 0.2); color: #c4b5fd; border: 1px solid rgba(139, 92, 246, 0.4); }
+        .tag-instruction { background: rgba(16, 185, 129, 0.2); color: #6ee7b7; border: 1px solid rgba(16, 185, 129, 0.4); }
+        .tag-admin { background: rgba(239, 68, 68, 0.2); color: #fca5a5; border: 1px solid rgba(239, 68, 68, 0.4); }
+        .tag-sfl { background: rgba(14, 165, 233, 0.2); color: #7dd3fc; border: 1px solid rgba(14, 165, 233, 0.4); }
         .tag-other { background: rgba(148, 163, 184, 0.2); color: #cbd5e1; border: 1px solid rgba(148, 163, 184, 0.4); }
         
         footer {
@@ -447,41 +439,21 @@ $htmlContent = @"
 <div class="container">
     <header>
         <div class="badge-live">
-            <span class="pulse"></span> Otomatik Güncellenen Akış
+            <span class="pulse"></span> Live Auto-Synced Feed
         </div>
-        <h1>Boğaziçi Akademik Takvim</h1>
+        <h1>Bogazici Academic Calendar</h1>
         <p class="subtitle">
-            Resmi akademik takvim etkinliklerini Google Calendar, Apple Calendar ve Outlook takviminize tek tıkla ekleyin, değişiklikler otomatik yansısın.
+            Subscribe to official Bogazici University academic events, exams, and registration deadlines with 1-click sync for Google Calendar, Apple Calendar, and Outlook.
         </p>
     </header>
 
     <div class="card">
         <div class="grid">
-            <!-- Türkçe Takvim -->
-            <div class="feed-box">
-                <div>
-                    <h3><i class="fa-solid fa-calendar-check" style="color: #38bdf8;"></i> Türkçe Takvim</h3>
-                    <p>Tüm akademik, idari, kayıt ve sınav tarihlerini içeren ana takvim akışı.</p>
-                </div>
-                <div class="btn-group">
-                    <button class="btn btn-google" onclick="subscribeGoogle('academic.ics')">
-                        <i class="fa-brands fa-google"></i> Google Calendar'a Ekle
-                    </button>
-                    <button class="btn btn-apple" onclick="subscribeApple('academic.ics')">
-                        <i class="fa-brands fa-apple"></i> Apple Takvim'e Ekle
-                    </button>
-                    <button class="btn btn-copy" onclick="copyIcsUrl('academic.ics')">
-                        <i class="fa-solid fa-copy"></i> .ics Linkini Kopyala
-                    </button>
-                    <div class="url-display" id="url-academic.ics">.../academic.ics</div>
-                </div>
-            </div>
-
             <!-- English Calendar -->
             <div class="feed-box">
                 <div>
-                    <h3><i class="fa-solid fa-globe" style="color: #34d399;"></i> English Calendar</h3>
-                    <p>Complete academic calendar feed translated in English for international students.</p>
+                    <h3><i class="fa-solid fa-globe" style="color: #38bdf8;"></i> English Feed</h3>
+                    <p>Complete academic calendar translated into English for international students and researchers.</p>
                 </div>
                 <div class="btn-group">
                     <button class="btn btn-google" onclick="subscribeGoogle('academic-en.ics')">
@@ -496,23 +468,43 @@ $htmlContent = @"
                     <div class="url-display" id="url-academic-en.ics">.../academic-en.ics</div>
                 </div>
             </div>
+
+            <!-- Turkish Calendar -->
+            <div class="feed-box">
+                <div>
+                    <h3><i class="fa-solid fa-calendar-check" style="color: #34d399;"></i> Turkish Feed</h3>
+                    <p>Original academic calendar feed with all Turkish titles and descriptions.</p>
+                </div>
+                <div class="btn-group">
+                    <button class="btn btn-google" onclick="subscribeGoogle('academic.ics')">
+                        <i class="fa-brands fa-google"></i> Add to Google Calendar
+                    </button>
+                    <button class="btn btn-apple" onclick="subscribeApple('academic.ics')">
+                        <i class="fa-brands fa-apple"></i> Add to Apple Calendar
+                    </button>
+                    <button class="btn btn-copy" onclick="copyIcsUrl('academic.ics')">
+                        <i class="fa-solid fa-copy"></i> Copy .ics Link
+                    </button>
+                    <div class="url-display" id="url-academic.ics">.../academic.ics</div>
+                </div>
+            </div>
         </div>
 
         <div class="instructions">
-            <h4>💡 Nasıl Çalışır?</h4>
+            <h4>Subscription Instructions</h4>
             <ol class="step-list">
-                <li><strong>Google Calendar:</strong> "Google Calendar'a Ekle" butonuna bastığınızda Google Takvim açılır ve URL otomatik eklenir.</li>
-                <li><strong>iPhone / Mac (Apple Calendar):</strong> "Apple Takvim'e Ekle" butonuna tıkladığınızda iOS/macOS Takvim uygulaması açılır ve takvim aboneliğiniz başlatılır.</li>
-                <li><strong>Otomatik Güncelleme:</strong> Takviminiz, Boğaziçi Üniversitesi'ndeki tarih güncellemelerini arka planda periyodik olarak kontrol edip yeniler.</li>
+                <li><strong>Google Calendar:</strong> Click "Add to Google Calendar" to automatically open and import the feed into your Google account.</li>
+                <li><strong>Apple Calendar (iOS / macOS):</strong> Click "Add to Apple Calendar" to prompt the system calendar subscription dialog.</li>
+                <li><strong>Automatic Updates:</strong> Your calendar client will periodically fetch and reflect any schedule revisions made by the university.</li>
             </ol>
         </div>
     </div>
 
-    <!-- Yaklaşan Etkinlikler Önizleme -->
+    <!-- Upcoming Events Preview -->
     <div class="card">
         <div class="events-preview-header">
-            <h3><i class="fa-solid fa-clock-rotate-left"></i> Yaklaşan Etkinlikler</h3>
-            <span style="font-size: 0.85rem; color: var(--text-muted);">Son Senkronizasyon: $nowStr</span>
+            <h3><i class="fa-solid fa-clock-rotate-left"></i> Upcoming Events</h3>
+            <span style="font-size: 0.85rem; color: var(--text-muted);">Last Synchronized: $nowStr</span>
         </div>
         <div class="event-list" id="upcoming-list">
             <!-- Populated via JS -->
@@ -521,18 +513,18 @@ $htmlContent = @"
 
     <footer>
         <p>
-            Veriler resmi <a href="https://akademiktakvim.bogazici.edu.tr/" target="_blank">Boğaziçi Üniversitesi Akademik Takvim</a> portalından alınmaktadır.
+            Data sourced from the official <a href="https://akademiktakvim.bogazici.edu.tr/" target="_blank">Bogazici University Academic Calendar</a> portal.
         </p>
         <p style="margin-top: 0.5rem; opacity: 0.7;">
-            Açık kaynaklı proje • GitHub Actions & Pages ile barındırılmaktadır.
+            Open-source project deployed via GitHub Actions and GitHub Pages.
         </p>
     </footer>
 </div>
 
-<div class="toast" id="toast">Link panoya kopyalandı!</div>
+<div class="toast" id="toast">Link copied to clipboard!</div>
 
 <script>
-    const eventsTr = $upcomingJsonTr;
+    const eventsEn = $upcomingJsonEn;
     
     function getFullIcsUrl(filename) {
         return window.location.href.split('#')[0].split('?')[0].replace(/index\.html$/, '') + filename;
@@ -544,7 +536,7 @@ $htmlContent = @"
     }
 
     function updateUrlDisplays() {
-        ['academic.ics', 'academic-en.ics'].forEach(fn => {
+        ['academic-en.ics', 'academic.ics'].forEach(fn => {
             const el = document.getElementById('url-' + fn);
             if (el) {
                 el.innerText = getFullIcsUrl(fn);
@@ -564,9 +556,9 @@ $htmlContent = @"
     function copyIcsUrl(filename) {
         const url = getFullIcsUrl(filename);
         navigator.clipboard.writeText(url).then(() => {
-            showToast('ICS bağlantısı kopyalandı!');
+            showToast('ICS link copied to clipboard!');
         }).catch(() => {
-            prompt('ICS Bağlantısı:', url);
+            prompt('ICS Link:', url);
         });
     }
 
@@ -579,18 +571,18 @@ $htmlContent = @"
 
     function renderEvents() {
         const container = document.getElementById('upcoming-list');
-        if (!eventsTr || eventsTr.length === 0) {
-            container.innerHTML = '<p style="color: var(--text-muted); padding: 1rem;">Gelecek etkinlik bulunamadı.</p>';
+        if (!eventsEn || eventsEn.length === 0) {
+            container.innerHTML = '<p style="color: var(--text-muted); padding: 1rem;">No upcoming events found.</p>';
             return;
         }
 
-        container.innerHTML = eventsTr.map(ev => {
-            const cat = ev.kategoriadi || 'Genel';
+        container.innerHTML = eventsEn.map(ev => {
+            const cat = ev.kategoriadi || 'General';
             let tagClass = 'tag-other';
-            if (cat.includes('Kayıt') || cat.includes('Registration')) tagClass = 'tag-kayit';
-            else if (cat.includes('Eğitim') || cat.includes('Instruction')) tagClass = 'tag-egitim';
-            else if (cat.includes('İdari') || cat.includes('Administrative')) tagClass = 'tag-idari';
-            else if (cat.includes('YADYOK') || cat.includes('SFL')) tagClass = 'tag-yadyok';
+            if (cat.includes('Registration') || cat.includes('Admission')) tagClass = 'tag-registration';
+            else if (cat.includes('Instruction')) tagClass = 'tag-instruction';
+            else if (cat.includes('Administrative')) tagClass = 'tag-admin';
+            else if (cat.includes('SFL') || cat.includes('YADYOK')) tagClass = 'tag-sfl';
 
             const dateStr = ev.tarih_bitis && ev.tarih_bitis !== ev.tarih ? (ev.tarih + ' - ' + ev.tarih_bitis) : (ev.tarih || ev.start_date.split(' ')[0]);
 
@@ -620,4 +612,4 @@ $htmlContent = @"
 
 [System.IO.File]::WriteAllText((Join-Path $OutputDir "index.html"), $htmlContent, [System.Text.Encoding]::UTF8)
 
-Write-Host "🎉 Senkronizasyon ve web arayüzü başarıyla tamamlandı!" -ForegroundColor Green
+Write-Host "Sync and English web UI completed successfully!"

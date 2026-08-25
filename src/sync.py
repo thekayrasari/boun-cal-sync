@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Boğaziçi Üniversitesi Akademik Takvim Senkronizasyon Scripti
+Bogazici University Academic Calendar Sync Script
 Fetches academic calendar from https://akademiktakvim.bogazici.edu.tr/
 Generates standard RFC 5545 compliant iCalendar (.ics) files and a web landing page.
 Zero external dependencies - runs on standard Python 3.8+.
@@ -19,11 +19,10 @@ BASE_URL_TR = "https://akademiktakvim.bogazici.edu.tr/tr/json"
 BASE_URL_EN = "https://akademiktakvim.bogazici.edu.tr/en/json"
 USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
 
-# Turkey timezone offset UTC+3
 TR_TZ = timezone(timedelta(hours=3))
 
 def fetch_events(base_url: str, start_date: str, end_date: str) -> list:
-    """Fetch calendar events from Boğaziçi API for a given date range."""
+    """Fetch calendar events from Bogazici API for a given date range."""
     url = f"{base_url}?type=4&date={start_date}&last_date={end_date}"
     req = urllib.request.Request(
         url,
@@ -62,7 +61,7 @@ def format_all_day_end_date(dt_str: str) -> str:
     dt = datetime.strptime(dt_str.split()[0], "%Y-%m-%d") + timedelta(days=1)
     return dt.strftime("%Y%m%d")
 
-def generate_ics(events: list, cal_name: str, cal_desc: str, lang: str = "tr") -> str:
+def generate_ics(events: list, cal_name: str, cal_desc: str, lang: str = "en") -> str:
     """Generate RFC 5545 compliant iCalendar string."""
     now_utc = datetime.now(timezone.utc).strftime("%Y%m%dT%H%M%SZ")
     
@@ -104,20 +103,15 @@ def generate_ics(events: list, cal_name: str, cal_desc: str, lang: str = "tr") -
         description_raw = item.get("aciklama", "").strip()
         event_link = item.get("link", "").strip()
 
-        # Build clean description
         desc_parts = []
         if category:
-            desc_parts.append(f"Kategori: {category}" if lang == "tr" else f"Category: {category}")
+            desc_parts.append(f"Category: {category}")
         if description_raw:
             desc_parts.append(description_raw)
         if event_link:
-            desc_parts.append(f"Detay: {event_link}" if lang == "tr" else f"Details: {event_link}")
+            desc_parts.append(f"Details: {event_link}")
         
-        desc_parts.append(
-            "Otomatik Güncellenen Boğaziçi Akademik Takvimi" 
-            if lang == "tr" else 
-            "Auto-synced Boğaziçi University Academic Calendar"
-        )
+        desc_parts.append("Auto-synced Bogazici University Academic Calendar")
         
         description = "\\n\\n".join([sanitize_ics_text(p) for p in desc_parts if p])
         summary = sanitize_ics_text(title)
@@ -132,7 +126,7 @@ def generate_ics(events: list, cal_name: str, cal_desc: str, lang: str = "tr") -
             f"SUMMARY:{summary}",
             f"DESCRIPTION:{description}",
             f"STATUS:CONFIRMED",
-            "TRANSP:TRANSPARENT",  # Does not block time as busy
+            "TRANSP:TRANSPARENT",
         ])
 
         if category:
@@ -146,39 +140,28 @@ def generate_ics(events: list, cal_name: str, cal_desc: str, lang: str = "tr") -
     return "\r\n".join(lines) + "\r\n"
 
 def generate_html_landing_page(
-    events_tr: list, 
     events_en: list, 
-    repo_url: str = "", 
-    github_pages_url: str = ""
+    events_tr: list
 ) -> str:
-    """Generate a responsive, aesthetic landing page with 1-click subscription buttons."""
-    now_str = datetime.now(TR_TZ).strftime("%d.%m.%Y %H:%M (TSİ)")
+    """Generate a responsive, clean English landing page with 1-click subscription buttons."""
+    now_str = datetime.now(TR_TZ).strftime("%B %d, %Y %H:%M (UTC+3)")
     
-    # Sort events by start date
-    sorted_tr = sorted(events_tr, key=lambda x: x.get("start_date", ""))
     sorted_en = sorted(events_en, key=lambda x: x.get("start_date", ""))
-
-    # Select upcoming events (from today onwards)
     today_str = datetime.now(TR_TZ).strftime("%Y-%m-%d")
-    upcoming_tr = [e for e in sorted_tr if e.get("end_date", e.get("start_date", "")) >= today_str][:20]
     upcoming_en = [e for e in sorted_en if e.get("end_date", e.get("start_date", "")) >= today_str][:20]
 
-    # If no upcoming events in current range, take the last 20
-    if not upcoming_tr:
-        upcoming_tr = sorted_tr[-20:]
     if not upcoming_en:
         upcoming_en = sorted_en[-20:]
 
-    upcoming_json_tr = json.dumps(upcoming_tr, ensure_ascii=False)
     upcoming_json_en = json.dumps(upcoming_en, ensure_ascii=False)
 
     return f"""<!DOCTYPE html>
-<html lang="tr">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Boğaziçi Üniversitesi Akademik Takvim Senkronizasyonu</title>
-    <meta name="description" content="Boğaziçi Üniversitesi Akademik Takvimi'ni Google Calendar, Apple Calendar ve Outlook ile otomatik senkronize edin.">
+    <title>Bogazici University Academic Calendar Sync</title>
+    <meta name="description" content="Auto-synced Bogazici University Academic Calendar feeds for Google Calendar, Apple Calendar, and Microsoft Outlook.">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
@@ -195,10 +178,10 @@ def generate_html_landing_page(
             --text-main: #f8fafc;
             --text-muted: #94a3b8;
             --success: #10b981;
-            --badge-kayit: #8b5cf6;
-            --badge-egitim: #10b981;
-            --badge-idari: #ef4444;
-            --badge-yadyok: #0ea5e9;
+            --badge-registration: #8b5cf6;
+            --badge-instruction: #10b981;
+            --badge-admin: #ef4444;
+            --badge-sfl: #0ea5e9;
         }}
         * {{
             margin: 0;
@@ -217,7 +200,7 @@ def generate_html_landing_page(
         .container {{
             max-width: 1000px;
             margin: 0 auto;
-            padding: 2rem 1.5rem;
+            padding: 2.5rem 1.5rem;
             width: 100%;
         }}
         header {{
@@ -422,10 +405,10 @@ def generate_html_landing_page(
             border-radius: 0.25rem;
             white-space: nowrap;
         }}
-        .tag-kayit {{ background: rgba(139, 92, 246, 0.2); color: #c4b5fd; border: 1px solid rgba(139, 92, 246, 0.4); }}
-        .tag-egitim {{ background: rgba(16, 185, 129, 0.2); color: #6ee7b7; border: 1px solid rgba(16, 185, 129, 0.4); }}
-        .tag-idari {{ background: rgba(239, 68, 68, 0.2); color: #fca5a5; border: 1px solid rgba(239, 68, 68, 0.4); }}
-        .tag-yadyok {{ background: rgba(14, 165, 233, 0.2); color: #7dd3fc; border: 1px solid rgba(14, 165, 233, 0.4); }}
+        .tag-registration {{ background: rgba(139, 92, 246, 0.2); color: #c4b5fd; border: 1px solid rgba(139, 92, 246, 0.4); }}
+        .tag-instruction {{ background: rgba(16, 185, 129, 0.2); color: #6ee7b7; border: 1px solid rgba(16, 185, 129, 0.4); }}
+        .tag-admin {{ background: rgba(239, 68, 68, 0.2); color: #fca5a5; border: 1px solid rgba(239, 68, 68, 0.4); }}
+        .tag-sfl {{ background: rgba(14, 165, 233, 0.2); color: #7dd3fc; border: 1px solid rgba(14, 165, 233, 0.4); }}
         .tag-other {{ background: rgba(148, 163, 184, 0.2); color: #cbd5e1; border: 1px solid rgba(148, 163, 184, 0.4); }}
         
         footer {{
@@ -463,41 +446,21 @@ def generate_html_landing_page(
 <div class="container">
     <header>
         <div class="badge-live">
-            <span class="pulse"></span> Otomatik Güncellenen Akış
+            <span class="pulse"></span> Live Auto-Synced Feed
         </div>
-        <h1>Boğaziçi Akademik Takvim</h1>
+        <h1>Bogazici Academic Calendar</h1>
         <p class="subtitle">
-            Resmi akademik takvim etkinliklerini Google Calendar, Apple Calendar ve Outlook takviminize tek tıkla ekleyin, değişiklikler otomatik yansısın.
+            Subscribe to official Bogazici University academic events, exams, and registration deadlines with 1-click sync for Google Calendar, Apple Calendar, and Outlook.
         </p>
     </header>
 
     <div class="card">
         <div class="grid">
-            <!-- Türkçe Takvim -->
-            <div class="feed-box">
-                <div>
-                    <h3><i class="fa-solid fa-calendar-check" style="color: #38bdf8;"></i> Türkçe Takvim</h3>
-                    <p>Tüm akademik, idari, kayıt ve sınav tarihlerini içeren ana takvim akışı.</p>
-                </div>
-                <div class="btn-group">
-                    <button class="btn btn-google" onclick="subscribeGoogle('academic.ics')">
-                        <i class="fa-brands fa-google"></i> Google Calendar'a Ekle
-                    </button>
-                    <button class="btn btn-apple" onclick="subscribeApple('academic.ics')">
-                        <i class="fa-brands fa-apple"></i> Apple Takvim'e Ekle
-                    </button>
-                    <button class="btn btn-copy" onclick="copyIcsUrl('academic.ics')">
-                        <i class="fa-solid fa-copy"></i> .ics Linkini Kopyala
-                    </button>
-                    <div class="url-display" id="url-academic.ics">.../academic.ics</div>
-                </div>
-            </div>
-
             <!-- English Calendar -->
             <div class="feed-box">
                 <div>
-                    <h3><i class="fa-solid fa-globe" style="color: #34d399;"></i> English Calendar</h3>
-                    <p>Complete academic calendar feed translated in English for international students.</p>
+                    <h3><i class="fa-solid fa-globe" style="color: #38bdf8;"></i> English Feed</h3>
+                    <p>Complete academic calendar translated into English for international students and researchers.</p>
                 </div>
                 <div class="btn-group">
                     <button class="btn btn-google" onclick="subscribeGoogle('academic-en.ics')">
@@ -512,23 +475,43 @@ def generate_html_landing_page(
                     <div class="url-display" id="url-academic-en.ics">.../academic-en.ics</div>
                 </div>
             </div>
+
+            <!-- Turkish Calendar -->
+            <div class="feed-box">
+                <div>
+                    <h3><i class="fa-solid fa-calendar-check" style="color: #34d399;"></i> Turkish Feed</h3>
+                    <p>Original academic calendar feed with all Turkish titles and descriptions.</p>
+                </div>
+                <div class="btn-group">
+                    <button class="btn btn-google" onclick="subscribeGoogle('academic.ics')">
+                        <i class="fa-brands fa-google"></i> Add to Google Calendar
+                    </button>
+                    <button class="btn btn-apple" onclick="subscribeApple('academic.ics')">
+                        <i class="fa-brands fa-apple"></i> Add to Apple Calendar
+                    </button>
+                    <button class="btn btn-copy" onclick="copyIcsUrl('academic.ics')">
+                        <i class="fa-solid fa-copy"></i> Copy .ics Link
+                    </button>
+                    <div class="url-display" id="url-academic.ics">.../academic.ics</div>
+                </div>
+            </div>
         </div>
 
         <div class="instructions">
-            <h4>💡 Nasıl Çalışır?</h4>
+            <h4>Subscription Instructions</h4>
             <ol class="step-list">
-                <li><strong>Google Calendar:</strong> "Google Calendar'a Ekle" butonuna bastığınızda Google Takvim açılır ve URL otomatik eklenir.</li>
-                <li><strong>iPhone / Mac (Apple Calendar):</strong> "Apple Takvim'e Ekle" butonuna tıkladığınızda iOS/macOS Takvim uygulaması açılır ve takvim aboneliğiniz başlatılır.</li>
-                <li><strong>Otomatik Güncelleme:</strong> Takviminiz, Boğaziçi Üniversitesi'ndeki tarih güncellemelerini arka planda periyodik olarak kontrol edip yeniler.</li>
+                <li><strong>Google Calendar:</strong> Click "Add to Google Calendar" to automatically open and import the feed into your Google account.</li>
+                <li><strong>Apple Calendar (iOS / macOS):</strong> Click "Add to Apple Calendar" to prompt the system calendar subscription dialog.</li>
+                <li><strong>Automatic Updates:</strong> Your calendar client will periodically fetch and reflect any schedule revisions made by the university.</li>
             </ol>
         </div>
     </div>
 
-    <!-- Yaklaşan Etkinlikler Önizleme -->
+    <!-- Upcoming Events Preview -->
     <div class="card">
         <div class="events-preview-header">
-            <h3><i class="fa-solid fa-clock-rotate-left"></i> Yaklaşan Etkinlikler</h3>
-            <span style="font-size: 0.85rem; color: var(--text-muted);">Son Senkronizasyon: {now_str}</span>
+            <h3><i class="fa-solid fa-clock-rotate-left"></i> Upcoming Events</h3>
+            <span style="font-size: 0.85rem; color: var(--text-muted);">Last Synchronized: {now_str}</span>
         </div>
         <div class="event-list" id="upcoming-list">
             <!-- Populated via JS -->
@@ -537,18 +520,18 @@ def generate_html_landing_page(
 
     <footer>
         <p>
-            Veriler resmi <a href="https://akademiktakvim.bogazici.edu.tr/" target="_blank">Boğaziçi Üniversitesi Akademik Takvim</a> portalından alınmaktadır.
+            Data sourced from the official <a href="https://akademiktakvim.bogazici.edu.tr/" target="_blank">Bogazici University Academic Calendar</a> portal.
         </p>
         <p style="margin-top: 0.5rem; opacity: 0.7;">
-            Açık kaynaklı proje • GitHub Actions & Pages ile barındırılmaktadır.
+            Open-source project deployed via GitHub Actions and GitHub Pages.
         </p>
     </footer>
 </div>
 
-<div class="toast" id="toast">Link panoya kopyalandı!</div>
+<div class="toast" id="toast">Link copied to clipboard!</div>
 
 <script>
-    const eventsTr = {upcoming_json_tr};
+    const eventsEn = {upcoming_json_en};
     
     function getFullIcsUrl(filename) {{
         return window.location.href.split('#')[0].split('?')[0].replace(/index\.html$/, '') + filename;
@@ -560,7 +543,7 @@ def generate_html_landing_page(
     }}
 
     function updateUrlDisplays() {{
-        ['academic.ics', 'academic-en.ics'].forEach(fn => {{
+        ['academic-en.ics', 'academic.ics'].forEach(fn => {{
             const el = document.getElementById('url-' + fn);
             if (el) {{
                 el.innerText = getFullIcsUrl(fn);
@@ -580,9 +563,9 @@ def generate_html_landing_page(
     function copyIcsUrl(filename) {{
         const url = getFullIcsUrl(filename);
         navigator.clipboard.writeText(url).then(() => {{
-            showToast('ICS bağlantısı kopyalandı!');
+            showToast('ICS link copied to clipboard!');
         }}).catch(() => {{
-            prompt('ICS Bağlantısı:', url);
+            prompt('ICS Link:', url);
         }});
     }}
 
@@ -595,18 +578,18 @@ def generate_html_landing_page(
 
     function renderEvents() {{
         const container = document.getElementById('upcoming-list');
-        if (!eventsTr || eventsTr.length === 0) {{
-            container.innerHTML = '<p style="color: var(--text-muted); padding: 1rem;">Gelecek etkinlik bulunamadı.</p>';
+        if (!eventsEn || eventsEn.length === 0) {{
+            container.innerHTML = '<p style="color: var(--text-muted); padding: 1rem;">No upcoming events found.</p>';
             return;
         }}
 
-        container.innerHTML = eventsTr.map(ev => {{
-            const cat = ev.kategoriadi || 'Genel';
+        container.innerHTML = eventsEn.map(ev => {{
+            const cat = ev.kategoriadi || 'General';
             let tagClass = 'tag-other';
-            if (cat.includes('Kayıt') || cat.includes('Registration')) tagClass = 'tag-kayit';
-            else if (cat.includes('Eğitim') || cat.includes('Instruction')) tagClass = 'tag-egitim';
-            else if (cat.includes('İdari') || cat.includes('Administrative')) tagClass = 'tag-idari';
-            else if (cat.includes('YADYOK') || cat.includes('SFL')) tagClass = 'tag-yadyok';
+            if (cat.includes('Registration') || cat.includes('Admission')) tagClass = 'tag-registration';
+            else if (cat.includes('Instruction')) tagClass = 'tag-instruction';
+            else if (cat.includes('Administrative')) tagClass = 'tag-admin';
+            else if (cat.includes('SFL') || cat.includes('YADYOK')) tagClass = 'tag-sfl';
 
             const dateStr = ev.tarih_bitis && ev.tarih_bitis !== ev.tarih ? `${{ev.tarih}} - ${{ev.tarih_bitis}}` : (ev.tarih || ev.start_date.split(' ')[0]);
 
@@ -635,7 +618,6 @@ def generate_html_landing_page(
 """
 
 def main():
-    # Target output directory (e.g. dist/ or current directory)
     output_dir = Path(os.environ.get("OUTPUT_DIR", "dist"))
     output_dir.mkdir(parents=True, exist_ok=True)
 
@@ -643,72 +625,71 @@ def main():
     start_date = f"{current_year - 1}-01-01"
     end_date = f"{current_year + 2}-12-31"
 
-    print(f"🔄 Fetching Boğaziçi Academic Calendar ({start_date} to {end_date})...")
-
-    # Fetch Turkish & English events
-    events_tr = fetch_events(BASE_URL_TR, start_date, end_date)
-    print(f"✅ Fetched {len(events_tr)} events in Turkish.")
+    print(f"Fetching Bogazici Academic Calendar ({start_date} to {end_date})...")
 
     events_en = fetch_events(BASE_URL_EN, start_date, end_date)
-    print(f"✅ Fetched {len(events_en)} events in English.")
+    print(f"Fetched {len(events_en)} events in English.")
 
-    if not events_tr and not events_en:
-        print("⚠️ Warning: No events fetched. Check network or API.")
+    events_tr = fetch_events(BASE_URL_TR, start_date, end_date)
+    print(f"Fetched {len(events_tr)} events in Turkish.")
+
+    if not events_en and not events_tr:
+        print("Warning: No events fetched. Check network or API.")
         return
 
     # Generate main ICS files
-    ics_tr = generate_ics(
-        events_tr, 
-        cal_name="Boğaziçi Üniversitesi Akademik Takvim",
-        cal_desc="Resmi Boğaziçi Üniversitesi Akademik Takvimi (Otomatik Senkronize)",
-        lang="tr"
-    )
-    with open(output_dir / "academic.ics", "w", encoding="utf-8") as f:
-        f.write(ics_tr)
-    print(f"💾 Saved {output_dir / 'academic.ics'}")
-
     ics_en = generate_ics(
         events_en,
-        cal_name="Boğaziçi University Academic Calendar",
-        cal_desc="Official Boğaziçi University Academic Calendar (Auto-synced)",
+        cal_name="Bogazici University Academic Calendar",
+        cal_desc="Official Bogazici University Academic Calendar (Auto-synced)",
         lang="en"
     )
     with open(output_dir / "academic-en.ics", "w", encoding="utf-8") as f:
         f.write(ics_en)
-    print(f"💾 Saved {output_dir / 'academic-en.ics'}")
+    print(f"Saved {output_dir / 'academic-en.ics'}")
+
+    ics_tr = generate_ics(
+        events_tr, 
+        cal_name="Bogazici University Academic Calendar (TR)",
+        cal_desc="Official Bogazici University Academic Calendar (TR)",
+        lang="tr"
+    )
+    with open(output_dir / "academic.ics", "w", encoding="utf-8") as f:
+        f.write(ics_tr)
+    print(f"Saved {output_dir / 'academic.ics'}")
 
     # Generate category-specific calendars
-    categories_tr = {
-        "kayit": ["Kayıt", "Başvuru"],
-        "yadyok": ["YADYOK"],
-        "egitim": ["Eğitim-Öğretim"]
+    categories_en = {
+        "registration": ["Registration", "Admission"],
+        "sfl": ["SFL", "YADYOK"],
+        "instruction": ["Instruction"]
     }
-    for slug, cat_list in categories_tr.items():
-        filtered = [e for e in events_tr if any(c.lower() in e.get("kategoriadi", "").lower() for c in cat_list)]
+    for slug, cat_list in categories_en.items():
+        filtered = [e for e in events_en if any(c.lower() in e.get("kategoriadi", "").lower() for c in cat_list)]
         if filtered:
             cat_ics = generate_ics(
                 filtered,
-                cal_name=f"Boğaziçi Akademik Takvim - {cat_list[0]}",
-                cal_desc=f"Boğaziçi Üniversitesi {', '.join(cat_list)} Takvimi",
-                lang="tr"
+                cal_name=f"Bogazici Academic Calendar - {cat_list[0]}",
+                cal_desc=f"Bogazici University {', '.join(cat_list)} Calendar",
+                lang="en"
             )
             with open(output_dir / f"academic-{slug}.ics", "w", encoding="utf-8") as f:
                 f.write(cat_ics)
-            print(f"💾 Saved category feed: {output_dir / f'academic-{slug}.ics'} ({len(filtered)} events)")
+            print(f"Saved category feed: {output_dir / f'academic-{slug}.ics'} ({len(filtered)} events)")
 
-    # Save JSON files as well for API consumers / frontend
-    with open(output_dir / "events-tr.json", "w", encoding="utf-8") as f:
-        json.dump(events_tr, f, ensure_ascii=False, indent=2)
+    # Save JSON files
     with open(output_dir / "events-en.json", "w", encoding="utf-8") as f:
         json.dump(events_en, f, ensure_ascii=False, indent=2)
+    with open(output_dir / "events-tr.json", "w", encoding="utf-8") as f:
+        json.dump(events_tr, f, ensure_ascii=False, indent=2)
 
     # Generate HTML landing page
-    html_content = generate_html_landing_page(events_tr, events_en)
+    html_content = generate_html_landing_page(events_en, events_tr)
     with open(output_dir / "index.html", "w", encoding="utf-8") as f:
         f.write(html_content)
-    print(f"💾 Saved landing page {output_dir / 'index.html'}")
+    print(f"Saved landing page {output_dir / 'index.html'}")
 
-    print("🎉 Sync completed successfully!")
+    print("Sync completed successfully!")
 
 if __name__ == "__main__":
     main()

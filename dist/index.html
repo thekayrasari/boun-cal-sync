@@ -1,10 +1,10 @@
-<!DOCTYPE html>
-<html lang="tr">
+﻿<!DOCTYPE html>
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Boğaziçi Üniversitesi Akademik Takvim Senkronizasyonu</title>
-    <meta name="description" content="Boğaziçi Üniversitesi Akademik Takvimi'ni Google Calendar, Apple Calendar ve Outlook ile otomatik senkronize edin.">
+    <title>Bogazici University Academic Calendar Sync</title>
+    <meta name="description" content="Auto-synced Bogazici University Academic Calendar feeds for Google Calendar, Apple Calendar, and Microsoft Outlook.">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
@@ -21,10 +21,10 @@
             --text-main: #f8fafc;
             --text-muted: #94a3b8;
             --success: #10b981;
-            --badge-kayit: #8b5cf6;
-            --badge-egitim: #10b981;
-            --badge-idari: #ef4444;
-            --badge-yadyok: #0ea5e9;
+            --badge-registration: #8b5cf6;
+            --badge-instruction: #10b981;
+            --badge-admin: #ef4444;
+            --badge-sfl: #0ea5e9;
         }
         * {
             margin: 0;
@@ -43,7 +43,7 @@
         .container {
             max-width: 1000px;
             margin: 0 auto;
-            padding: 2rem 1.5rem;
+            padding: 2.5rem 1.5rem;
             width: 100%;
         }
         header {
@@ -248,10 +248,10 @@
             border-radius: 0.25rem;
             white-space: nowrap;
         }
-        .tag-kayit { background: rgba(139, 92, 246, 0.2); color: #c4b5fd; border: 1px solid rgba(139, 92, 246, 0.4); }
-        .tag-egitim { background: rgba(16, 185, 129, 0.2); color: #6ee7b7; border: 1px solid rgba(16, 185, 129, 0.4); }
-        .tag-idari { background: rgba(239, 68, 68, 0.2); color: #fca5a5; border: 1px solid rgba(239, 68, 68, 0.4); }
-        .tag-yadyok { background: rgba(14, 165, 233, 0.2); color: #7dd3fc; border: 1px solid rgba(14, 165, 233, 0.4); }
+        .tag-registration { background: rgba(139, 92, 246, 0.2); color: #c4b5fd; border: 1px solid rgba(139, 92, 246, 0.4); }
+        .tag-instruction { background: rgba(16, 185, 129, 0.2); color: #6ee7b7; border: 1px solid rgba(16, 185, 129, 0.4); }
+        .tag-admin { background: rgba(239, 68, 68, 0.2); color: #fca5a5; border: 1px solid rgba(239, 68, 68, 0.4); }
+        .tag-sfl { background: rgba(14, 165, 233, 0.2); color: #7dd3fc; border: 1px solid rgba(14, 165, 233, 0.4); }
         .tag-other { background: rgba(148, 163, 184, 0.2); color: #cbd5e1; border: 1px solid rgba(148, 163, 184, 0.4); }
         
         footer {
@@ -289,41 +289,21 @@
 <div class="container">
     <header>
         <div class="badge-live">
-            <span class="pulse"></span> Otomatik Güncellenen Akış
+            <span class="pulse"></span> Live Auto-Synced Feed
         </div>
-        <h1>Boğaziçi Akademik Takvim</h1>
+        <h1>Bogazici Academic Calendar</h1>
         <p class="subtitle">
-            Resmi akademik takvim etkinliklerini Google Calendar, Apple Calendar ve Outlook takviminize tek tıkla ekleyin, değişiklikler otomatik yansısın.
+            Subscribe to official Bogazici University academic events, exams, and registration deadlines with 1-click sync for Google Calendar, Apple Calendar, and Outlook.
         </p>
     </header>
 
     <div class="card">
         <div class="grid">
-            <!-- Türkçe Takvim -->
-            <div class="feed-box">
-                <div>
-                    <h3><i class="fa-solid fa-calendar-check" style="color: #38bdf8;"></i> Türkçe Takvim</h3>
-                    <p>Tüm akademik, idari, kayıt ve sınav tarihlerini içeren ana takvim akışı.</p>
-                </div>
-                <div class="btn-group">
-                    <button class="btn btn-google" onclick="subscribeGoogle('academic.ics')">
-                        <i class="fa-brands fa-google"></i> Google Calendar'a Ekle
-                    </button>
-                    <button class="btn btn-apple" onclick="subscribeApple('academic.ics')">
-                        <i class="fa-brands fa-apple"></i> Apple Takvim'e Ekle
-                    </button>
-                    <button class="btn btn-copy" onclick="copyIcsUrl('academic.ics')">
-                        <i class="fa-solid fa-copy"></i> .ics Linkini Kopyala
-                    </button>
-                    <div class="url-display" id="url-academic.ics">.../academic.ics</div>
-                </div>
-            </div>
-
             <!-- English Calendar -->
             <div class="feed-box">
                 <div>
-                    <h3><i class="fa-solid fa-globe" style="color: #34d399;"></i> English Calendar</h3>
-                    <p>Complete academic calendar feed translated in English for international students.</p>
+                    <h3><i class="fa-solid fa-globe" style="color: #38bdf8;"></i> English Feed</h3>
+                    <p>Complete academic calendar translated into English for international students and researchers.</p>
                 </div>
                 <div class="btn-group">
                     <button class="btn btn-google" onclick="subscribeGoogle('academic-en.ics')">
@@ -338,23 +318,43 @@
                     <div class="url-display" id="url-academic-en.ics">.../academic-en.ics</div>
                 </div>
             </div>
+
+            <!-- Turkish Calendar -->
+            <div class="feed-box">
+                <div>
+                    <h3><i class="fa-solid fa-calendar-check" style="color: #34d399;"></i> Turkish Feed</h3>
+                    <p>Original academic calendar feed with all Turkish titles and descriptions.</p>
+                </div>
+                <div class="btn-group">
+                    <button class="btn btn-google" onclick="subscribeGoogle('academic.ics')">
+                        <i class="fa-brands fa-google"></i> Add to Google Calendar
+                    </button>
+                    <button class="btn btn-apple" onclick="subscribeApple('academic.ics')">
+                        <i class="fa-brands fa-apple"></i> Add to Apple Calendar
+                    </button>
+                    <button class="btn btn-copy" onclick="copyIcsUrl('academic.ics')">
+                        <i class="fa-solid fa-copy"></i> Copy .ics Link
+                    </button>
+                    <div class="url-display" id="url-academic.ics">.../academic.ics</div>
+                </div>
+            </div>
         </div>
 
         <div class="instructions">
-            <h4>💡 Nasıl Çalışır?</h4>
+            <h4>Subscription Instructions</h4>
             <ol class="step-list">
-                <li><strong>Google Calendar:</strong> "Google Calendar'a Ekle" butonuna bastığınızda Google Takvim açılır ve URL otomatik eklenir.</li>
-                <li><strong>iPhone / Mac (Apple Calendar):</strong> "Apple Takvim'e Ekle" butonuna tıkladığınızda iOS/macOS Takvim uygulaması açılır ve takvim aboneliğiniz başlatılır.</li>
-                <li><strong>Otomatik Güncelleme:</strong> Takviminiz, Boğaziçi Üniversitesi'ndeki tarih güncellemelerini arka planda periyodik olarak kontrol edip yeniler.</li>
+                <li><strong>Google Calendar:</strong> Click "Add to Google Calendar" to automatically open and import the feed into your Google account.</li>
+                <li><strong>Apple Calendar (iOS / macOS):</strong> Click "Add to Apple Calendar" to prompt the system calendar subscription dialog.</li>
+                <li><strong>Automatic Updates:</strong> Your calendar client will periodically fetch and reflect any schedule revisions made by the university.</li>
             </ol>
         </div>
     </div>
 
-    <!-- Yaklaşan Etkinlikler Önizleme -->
+    <!-- Upcoming Events Preview -->
     <div class="card">
         <div class="events-preview-header">
-            <h3><i class="fa-solid fa-clock-rotate-left"></i> Yaklaşan Etkinlikler</h3>
-            <span style="font-size: 0.85rem; color: var(--text-muted);">Son Senkronizasyon: 25.08.2026 20:48 (TSİ)</span>
+            <h3><i class="fa-solid fa-clock-rotate-left"></i> Upcoming Events</h3>
+            <span style="font-size: 0.85rem; color: var(--text-muted);">Last Synchronized: August 25, 2026 21:15 (UTC+3)</span>
         </div>
         <div class="event-list" id="upcoming-list">
             <!-- Populated via JS -->
@@ -363,18 +363,18 @@
 
     <footer>
         <p>
-            Veriler resmi <a href="https://akademiktakvim.bogazici.edu.tr/" target="_blank">Boğaziçi Üniversitesi Akademik Takvim</a> portalından alınmaktadır.
+            Data sourced from the official <a href="https://akademiktakvim.bogazici.edu.tr/" target="_blank">Bogazici University Academic Calendar</a> portal.
         </p>
         <p style="margin-top: 0.5rem; opacity: 0.7;">
-            Açık kaynaklı proje • GitHub Actions & Pages ile barındırılmaktadır.
+            Open-source project deployed via GitHub Actions and GitHub Pages.
         </p>
     </footer>
 </div>
 
-<div class="toast" id="toast">Link panoya kopyalandı!</div>
+<div class="toast" id="toast">Link copied to clipboard!</div>
 
 <script>
-    const eventsTr = [{"id": "9230", "kat_id": "25", "adi": "YADYOK Yaz İngilizce Yeterlik Sınavı (BUEPT) sonuçlarının Öğrenci İşleri Daire Başkanlığı’na bildirilmesi için son gün", "aciklama": "", "mekan": null, "kulup": "", "sponsor": null, "harita": null, "resim": "https://mediastore.cc.bogazici.edu.tr/web/template/bogazici/images/default_takvim.jpg", "start_date": "2026-08-26 14:53:00", "end_date": "2026-08-26 14:53:00", "tarih": "26 Ağustos 2026", "tarih_ay": "Ağustos", "tarih_gun": "ÇARŞAMBA", "saat": false, "tarih_bitis": "26 Ağustos 2026", "kategoriadi": "YADYOK", "renk": "#3C87B2", "seo": "yadyok-yaz-ingilizce-yeterlik-sinavi-buept-so", "alt": "YADYOK Yaz İngilizce Yeterlik Sınavı (BUEPT) sonuçlarının Öğrenci İşleri Daire Başkanlığı&apos;na bildirilmesi için son gün", "link": "https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-yaz-ingilizce-yeterlik-sinavi-buept-so/9230"}, {"id": "9231", "kat_id": "24", "adi": "Merkezi yatay geçiş kabul kararları için ÜYK toplanması için son gün ", "aciklama": "", "mekan": null, "kulup": "", "sponsor": null, "harita": null, "resim": "https://mediastore.cc.bogazici.edu.tr/web/template/bogazici/images/default_takvim.jpg", "start_date": "2026-08-26 14:54:00", "end_date": "2026-08-26 14:54:00", "tarih": "26 Ağustos 2026", "tarih_ay": "Ağustos", "tarih_gun": "ÇARŞAMBA", "saat": false, "tarih_bitis": "26 Ağustos 2026", "kategoriadi": "İdari", "renk": "#D31410", "seo": "merkezi-yatay-gecis-kabul-kararlari-icin-uyk-", "alt": "Merkezi yatay geçiş kabul kararları için ÜYK toplanması için son gün ", "link": "https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/merkezi-yatay-gecis-kabul-kararlari-icin-uyk-/9231"}, {"id": "9232", "kat_id": "24", "adi": "2026/2027 I. yarıyılında açılan derslerin gün ve saat değişikliği gerektiği takdirde, değişikliklerin birimler tarafından Öğrenci İşleri Daire Başkanlığı’na bildirilmesi için son gün ", "aciklama": "", "mekan": null, "kulup": "", "sponsor": null, "harita": null, "resim": "https://mediastore.cc.bogazici.edu.tr/web/template/bogazici/images/default_takvim.jpg", "start_date": "2026-08-27 14:56:00", "end_date": "2026-08-27 14:56:00", "tarih": "27 Ağustos 2026", "tarih_ay": "Ağustos", "tarih_gun": "PERŞEMBE", "saat": false, "tarih_bitis": "27 Ağustos 2026", "kategoriadi": "İdari", "renk": "#D31410", "seo": "20262027-i-yariyilinda-acilan-derslerin-gun-v", "alt": "2026/2027 I. yarıyılında açılan derslerin gün ve saat değişikliği gerektiği takdirde, değişikliklerin birimler tarafından Öğrenci İşleri Daire Başkanlığı&apos;na bildirilmesi için son gün ", "link": "https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/20262027-i-yariyilinda-acilan-derslerin-gun-v/9232"}, {"id": "9233", "kat_id": "24", "adi": "Zafer Bayramı (Tatil)", "aciklama": "", "mekan": null, "kulup": "", "sponsor": null, "harita": null, "resim": "https://mediastore.cc.bogazici.edu.tr/web/template/bogazici/images/default_takvim.jpg", "start_date": "2026-08-30 14:57:00", "end_date": "2026-08-30 14:57:00", "tarih": "30 Ağustos 2026", "tarih_ay": "Ağustos", "tarih_gun": "PAZAR", "saat": false, "tarih_bitis": "30 Ağustos 2026", "kategoriadi": "İdari", "renk": "#D31410", "seo": "zafer-bayrami-tatil", "alt": "Zafer Bayramı (Tatil)", "link": "https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/zafer-bayrami-tatil/9233"}, {"id": "9234", "kat_id": "24", "adi": "Merkezi puanla yatay geçiş kabullerinin ilanı", "aciklama": "", "mekan": null, "kulup": "", "sponsor": null, "harita": null, "resim": "https://mediastore.cc.bogazici.edu.tr/web/template/bogazici/images/default_takvim.jpg", "start_date": "2026-08-31 14:57:00", "end_date": "2026-08-31 14:57:00", "tarih": "31 Ağustos 2026", "tarih_ay": "Ağustos", "tarih_gun": "PAZARTESİ", "saat": false, "tarih_bitis": "31 Ağustos 2026", "kategoriadi": "İdari", "renk": "#D31410", "seo": "merkezi-puanla-yatay-gecis-kabullerinin-ilani", "alt": "Merkezi puanla yatay geçiş kabullerinin ilanı", "link": "https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/merkezi-puanla-yatay-gecis-kabullerinin-ilani/9234"}, {"id": "9235", "kat_id": "29", "adi": "Lisansüstü programlara asıl listeden kabul edilen öğrencilerin üniversiteye kayıtları", "aciklama": "", "mekan": null, "kulup": "", "sponsor": null, "harita": null, "resim": "https://mediastore.cc.bogazici.edu.tr/web/template/bogazici/images/default_takvim.jpg", "start_date": "2026-08-31 14:59:00", "end_date": "2026-09-03 14:59:00", "tarih": "31 Ağustos 2026", "tarih_ay": "Ağustos", "tarih_gun": "PAZARTESİ", "saat": false, "tarih_bitis": "3 Eylül 2026", "kategoriadi": "Kayıt", "renk": "#8C763E", "seo": "lisansustu-programlara-asil-listeden-kabul-ed", "alt": "Lisansüstü programlara asıl listeden kabul edilen öğrencilerin üniversiteye kayıtları", "link": "https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/lisansustu-programlara-asil-listeden-kabul-ed/9235"}, {"id": "9236", "kat_id": "24", "adi": "Merkezi puanla yatay geçiş kapsamında kabul edilen öğrencilerin Üniversiteye kayıtları", "aciklama": "", "mekan": null, "kulup": "", "sponsor": null, "harita": null, "resim": "https://mediastore.cc.bogazici.edu.tr/web/template/bogazici/images/default_takvim.jpg", "start_date": "2026-09-03 11:11:00", "end_date": "2026-09-03 11:11:00", "tarih": "3 Eylül 2026", "tarih_ay": "Eylül", "tarih_gun": "PERŞEMBE", "saat": false, "tarih_bitis": "3 Eylül 2026", "kategoriadi": "İdari", "renk": "#D31410", "seo": "merkezi-puanla-yatay-gecis-kapsaminda-kabul-e", "alt": "Merkezi puanla yatay geçiş kapsamında kabul edilen öğrencilerin Üniversiteye kayıtları", "link": "https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/merkezi-puanla-yatay-gecis-kapsaminda-kabul-e/9236"}, {"id": "13953", "kat_id": "24", "adi": "İkinci başvuru döneminde asıl listeden Lisans programlarına yurt dışından öğrenci kabulü kapsamında yerleştirilen öğrencilerin Üniversiteye kayıtları", "aciklama": "", "mekan": "", "kulup": "", "sponsor": "", "harita": "", "resim": "https://mediastore.cc.bogazici.edu.tr/web/template/bogazici/images/default_takvim.jpg", "start_date": "2026-09-04 03:00:00", "end_date": "2026-09-08 23:59:00", "tarih": "4 Eylül 2026", "tarih_ay": "Eylül", "tarih_gun": "CUMA", "saat": false, "tarih_bitis": "8 Eylül 2026", "kategoriadi": "İdari", "renk": "#D31410", "seo": "ikinci-basvuru-doneminde-asil-listeden-lisans", "alt": "İkinci başvuru döneminde asıl listeden Lisans programlarına yurt dışından öğrenci kabulü kapsamında yerleştirilen öğrencilerin Üniversiteye kayıtları", "link": "https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ikinci-basvuru-doneminde-asil-listeden-lisans/13953"}, {"id": "9238", "kat_id": "24", "adi": "Lisansüstü programlara yedek listeden kabul edilen öğrencilerin üniversiteye kayıtları", "aciklama": "", "mekan": null, "kulup": "", "sponsor": null, "harita": null, "resim": "https://mediastore.cc.bogazici.edu.tr/web/template/bogazici/images/default_takvim.jpg", "start_date": "2026-09-04 11:26:00", "end_date": "2026-09-04 11:26:00", "tarih": "4 Eylül 2026", "tarih_ay": "Eylül", "tarih_gun": "CUMA", "saat": false, "tarih_bitis": "4 Eylül 2026", "kategoriadi": "İdari", "renk": "#D31410", "seo": "lisansustu-programlara-yedek-listeden-kabul-e", "alt": "Lisansüstü programlara yedek listeden kabul edilen öğrencilerin üniversiteye kayıtları", "link": "https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/lisansustu-programlara-yedek-listeden-kabul-e/9238"}, {"id": "9239", "kat_id": "28", "adi": "Yurtiçi Misafir ve YÖK Özel öğrenci başvurusu için son gün", "aciklama": "", "mekan": null, "kulup": "", "sponsor": null, "harita": null, "resim": "https://mediastore.cc.bogazici.edu.tr/web/template/bogazici/images/default_takvim.jpg", "start_date": "2026-09-04 11:32:00", "end_date": "2026-09-04 11:32:00", "tarih": "4 Eylül 2026", "tarih_ay": "Eylül", "tarih_gun": "CUMA", "saat": false, "tarih_bitis": "4 Eylül 2026", "kategoriadi": "Başvuru", "renk": "#FFB366", "seo": "yurtici-misafir-ve-yok-ozel-ogrenci-basvurusu", "alt": "Yurtiçi Misafir ve YÖK Özel öğrenci başvurusu için son gün", "link": "https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yurtici-misafir-ve-yok-ozel-ogrenci-basvurusu/9239"}, {"id": "12997", "kat_id": "25", "adi": "YADYOK Güz İngilizce Yeterlik Sınavı (BUEPT)", "aciklama": "", "mekan": "", "kulup": "", "sponsor": "", "harita": "", "resim": "https://mediastore.cc.bogazici.edu.tr/web/template/bogazici/images/default_takvim.jpg", "start_date": "2026-09-07 03:00:00", "end_date": "2026-09-07 23:59:00", "tarih": "7 Eylül 2026", "tarih_ay": "Eylül", "tarih_gun": "PAZARTESİ", "saat": false, "tarih_bitis": "7 Eylül 2026", "kategoriadi": "YADYOK", "renk": "#3C87B2", "seo": "yadyok-guz-ingilizce-yeterlik-sinavi-buept", "alt": "YADYOK Güz İngilizce Yeterlik Sınavı (BUEPT)", "link": "https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-guz-ingilizce-yeterlik-sinavi-buept/12997"}, {"id": "12998", "kat_id": "29", "adi": "Kayıt ödeme sisteminin açılışı (10:00)", "aciklama": "", "mekan": "", "kulup": "", "sponsor": "", "harita": "", "resim": "https://mediastore.cc.bogazici.edu.tr/web/template/bogazici/images/default_takvim.jpg", "start_date": "2026-09-08 03:00:00", "end_date": "2026-09-08 23:59:00", "tarih": "8 Eylül 2026", "tarih_ay": "Eylül", "tarih_gun": "SALI", "saat": false, "tarih_bitis": "8 Eylül 2026", "kategoriadi": "Kayıt", "renk": "#8C763E", "seo": "kayit-odeme-sisteminin-acilisi-1000", "alt": "Kayıt ödeme sisteminin açılışı (10:00)", "link": "https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/kayit-odeme-sisteminin-acilisi-1000/12998"}, {"id": "13954", "kat_id": "24", "adi": "İkinci başvuru döneminde yedek listeden Lisans programlarına yurt dışından öğrenci kabulü kapsamında yerleştirilen öğrencilerin Üniversiteye kayıtları ", "aciklama": "", "mekan": "", "kulup": "", "sponsor": "", "harita": "", "resim": "https://mediastore.cc.bogazici.edu.tr/web/template/bogazici/images/default_takvim.jpg", "start_date": "2026-09-09 03:00:00", "end_date": "2026-09-10 23:59:00", "tarih": "9 Eylül 2026", "tarih_ay": "Eylül", "tarih_gun": "ÇARŞAMBA", "saat": false, "tarih_bitis": "10 Eylül 2026", "kategoriadi": "İdari", "renk": "#D31410", "seo": "ikinci-basvuru-doneminde-yedek-listeden-lisan", "alt": "İkinci başvuru döneminde yedek listeden Lisans programlarına yurt dışından öğrenci kabulü kapsamında yerleştirilen öğrencilerin Üniversiteye kayıtları ", "link": "https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ikinci-basvuru-doneminde-yedek-listeden-lisan/13954"}, {"id": "13001", "kat_id": "24", "adi": "YADYOK Güz İngilizce Yeterlik Sınavı (BUEPT) sonuçlarının Kayıt İşleri Şube Müdürlüğüne bildirilmesi için son gün (15:00)", "aciklama": "", "mekan": "", "kulup": "", "sponsor": "", "harita": "", "resim": "https://mediastore.cc.bogazici.edu.tr/web/template/bogazici/images/default_takvim.jpg", "start_date": "2026-09-14 03:00:00", "end_date": "2026-09-14 23:59:00", "tarih": "14 Eylül 2026", "tarih_ay": "Eylül", "tarih_gun": "PAZARTESİ", "saat": false, "tarih_bitis": "14 Eylül 2026", "kategoriadi": "İdari", "renk": "#D31410", "seo": "yadyok-guz-ingilizce-yeterlik-sinavi-buept-so", "alt": "YADYOK Güz İngilizce Yeterlik Sınavı (BUEPT) sonuçlarının Kayıt İşleri Şube Müdürlüğüne bildirilmesi için son gün (15:00)", "link": "https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-guz-ingilizce-yeterlik-sinavi-buept-so/13001"}, {"id": "13005", "kat_id": "24", "adi": "Birimler tarafından kota girişleri ve danışman atama işlemlerinin tamamlanması için son gün (17:00)", "aciklama": "", "mekan": "", "kulup": "", "sponsor": "", "harita": "", "resim": "https://mediastore.cc.bogazici.edu.tr/web/template/bogazici/images/default_takvim.jpg", "start_date": "2026-09-14 03:00:00", "end_date": "2026-09-14 23:59:00", "tarih": "14 Eylül 2026", "tarih_ay": "Eylül", "tarih_gun": "PAZARTESİ", "saat": false, "tarih_bitis": "14 Eylül 2026", "kategoriadi": "İdari", "renk": "#D31410", "seo": "birimler-tarafindan-kota-girisleri-ve-danisma", "alt": "Birimler tarafından kota girişleri ve danışman atama işlemlerinin tamamlanması için son gün (17:00)", "link": "https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/birimler-tarafindan-kota-girisleri-ve-danisma/13005"}, {"id": "13003", "kat_id": "23", "adi": "Misafir öğrencilerin ve değişim öğrencilerinin Üniversiteyi Tanıma Programı/Çevrimiçi Üniversiteyi Tanıma Programı", "aciklama": "", "mekan": "", "kulup": "", "sponsor": "", "harita": "", "resim": "https://mediastore.cc.bogazici.edu.tr/web/template/bogazici/images/default_takvim.jpg", "start_date": "2026-09-14 03:00:00", "end_date": "2026-09-14 23:59:00", "tarih": "14 Eylül 2026", "tarih_ay": "Eylül", "tarih_gun": "PAZARTESİ", "saat": false, "tarih_bitis": "14 Eylül 2026", "kategoriadi": "Eğitim-Öğretim", "renk": "#209C85", "seo": "misafir-ogrencilerin-ve-degisim-ogrencilerini", "alt": "Misafir öğrencilerin ve değişim öğrencilerinin Üniversiteyi Tanıma Programı/Çevrimiçi Üniversiteyi Tanıma Programı", "link": "https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/misafir-ogrencilerin-ve-degisim-ogrencilerini/13003"}, {"id": "13007", "kat_id": "24", "adi": "Çevrimiçi kayıt dönemi", "aciklama": "", "mekan": "", "kulup": "", "sponsor": "", "harita": "", "resim": "https://mediastore.cc.bogazici.edu.tr/web/template/bogazici/images/default_takvim.jpg", "start_date": "2026-09-15 03:00:00", "end_date": "2026-09-17 23:59:00", "tarih": "15 Eylül 2026", "tarih_ay": "Eylül", "tarih_gun": "SALI", "saat": false, "tarih_bitis": "17 Eylül 2026", "kategoriadi": "İdari", "renk": "#D31410", "seo": "cevrimici-kayit-donemi", "alt": "Çevrimiçi kayıt dönemi", "link": "https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/cevrimici-kayit-donemi/13007"}, {"id": "13009", "kat_id": "29", "adi": "Akademik kayıt sisteminin açılışı (10:00)", "aciklama": "", "mekan": "", "kulup": "", "sponsor": "", "harita": "", "resim": "https://mediastore.cc.bogazici.edu.tr/web/template/bogazici/images/default_takvim.jpg", "start_date": "2026-09-15 03:00:00", "end_date": "2026-09-15 23:59:00", "tarih": "15 Eylül 2026", "tarih_ay": "Eylül", "tarih_gun": "SALI", "saat": false, "tarih_bitis": "15 Eylül 2026", "kategoriadi": "Kayıt", "renk": "#8C763E", "seo": "akademik-kayit-sisteminin-acilisi-1000", "alt": "Akademik kayıt sisteminin açılışı (10:00)", "link": "https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/akademik-kayit-sisteminin-acilisi-1000/13009"}, {"id": "13011", "kat_id": "24", "adi": "Akademik kayıt danışmanı ile görüşme günü", "aciklama": "", "mekan": "", "kulup": "", "sponsor": "", "harita": "", "resim": "https://mediastore.cc.bogazici.edu.tr/web/template/bogazici/images/default_takvim.jpg", "start_date": "2026-09-16 03:00:00", "end_date": "2026-09-16 23:59:00", "tarih": "16 Eylül 2026", "tarih_ay": "Eylül", "tarih_gun": "ÇARŞAMBA", "saat": false, "tarih_bitis": "16 Eylül 2026", "kategoriadi": "İdari", "renk": "#D31410", "seo": "akademik-kayit-danismani-ile-gorusme-gunu", "alt": "Akademik kayıt danışmanı ile görüşme günü", "link": "https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/akademik-kayit-danismani-ile-gorusme-gunu/13011"}, {"id": "13017", "kat_id": "29", "adi": "Akademik kayıt sisteminin öğrenci erişimine kapanışı (23:59)", "aciklama": "", "mekan": "", "kulup": "", "sponsor": "", "harita": "", "resim": "https://mediastore.cc.bogazici.edu.tr/web/template/bogazici/images/default_takvim.jpg", "start_date": "2026-09-17 03:00:00", "end_date": "2026-09-17 23:59:00", "tarih": "17 Eylül 2026", "tarih_ay": "Eylül", "tarih_gun": "PERŞEMBE", "saat": false, "tarih_bitis": "17 Eylül 2026", "kategoriadi": "Kayıt", "renk": "#8C763E", "seo": "akademik-kayit-sisteminin-ogrenci-erisimine-k", "alt": "Akademik kayıt sisteminin öğrenci erişimine kapanışı (23:59)", "link": "https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/akademik-kayit-sisteminin-ogrenci-erisimine-k/13017"}];
+    const eventsEn = [{"id":"12087","kat_id":"24","adi":"Deadline for sending the English Proficiency Exam (BUEPT) results to the Registrar (SFL Summer)","aciklama":"","mekan":null,"kulup":"","sponsor":null,"harita":null,"resim":"https://mediastore.cc.bogazici.edu.tr/web/template/bogazici/images/default_takvim.jpg","start_date":"2026-08-26 16:42:00","end_date":"2026-08-26 16:42:00","tarih":"26 August 2026","tarih_ay":"August","tarih_gun":"WEDNESDAY","saat":false,"tarih_bitis":"26 August 2026","kategoriadi":"Administrative","renk":"#D31410","seo":"deadline-for-sending-the-english-proficiency-","alt":"Deadline for sending the English Proficiency Exam (BUEPT) results to the Registrar (SFL Summer)","link":"https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-sending-the-english-proficiency-/12087"},{"id":"12088","kat_id":"24","adi":"Deadline for the University Executive Board meeting for central transfer admission decisions","aciklama":"","mekan":null,"kulup":"","sponsor":null,"harita":null,"resim":"https://mediastore.cc.bogazici.edu.tr/web/template/bogazici/images/default_takvim.jpg","start_date":"2026-08-26 16:43:00","end_date":"2026-08-26 16:43:00","tarih":"26 August 2026","tarih_ay":"August","tarih_gun":"WEDNESDAY","saat":false,"tarih_bitis":"26 August 2026","kategoriadi":"Administrative","renk":"#D31410","seo":"deadline-for-the-university-executive-board-m","alt":"Deadline for the University Executive Board meeting for central transfer admission decisions","link":"https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-the-university-executive-board-m/12088"},{"id":"12089","kat_id":"24","adi":"Deadline for sending date changes of courses to the Registrar in the 2026/2027 Fall","aciklama":"","mekan":null,"kulup":"","sponsor":null,"harita":null,"resim":"https://mediastore.cc.bogazici.edu.tr/web/template/bogazici/images/default_takvim.jpg","start_date":"2026-08-27 09:08:00","end_date":"2026-08-27 09:08:00","tarih":"27 August 2026","tarih_ay":"August","tarih_gun":"THURSDAY","saat":false,"tarih_bitis":"27 August 2026","kategoriadi":"Administrative","renk":"#D31410","seo":"deadline-for-sending-date-changes-of-courses-","alt":"Deadline for sending date changes of courses to the Registrar in the 2026/2027 Fall","link":"https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-sending-date-changes-of-courses-/12089"},{"id":"12090","kat_id":"24","adi":"Victory Day (Holiday)","aciklama":"","mekan":null,"kulup":"","sponsor":null,"harita":null,"resim":"https://mediastore.cc.bogazici.edu.tr/web/template/bogazici/images/default_takvim.jpg","start_date":"2026-08-30 09:09:00","end_date":"2026-08-30 09:09:00","tarih":"30 August 2026","tarih_ay":"August","tarih_gun":"SUNDAY","saat":false,"tarih_bitis":"30 August 2026","kategoriadi":"Administrative","renk":"#D31410","seo":"victory-day-holiday","alt":"Victory Day (Holiday)","link":"https://akademiktakvim.bogazici.edu.tr/en/events/akademik/victory-day-holiday/12090"},{"id":"12091","kat_id":"24","adi":"Announcement of transfer acceptances with central points","aciklama":"","mekan":null,"kulup":"","sponsor":null,"harita":null,"resim":"https://mediastore.cc.bogazici.edu.tr/web/template/bogazici/images/default_takvim.jpg","start_date":"2026-08-31 09:09:00","end_date":"2026-08-31 09:09:00","tarih":"31 August 2026","tarih_ay":"August","tarih_gun":"MONDAY","saat":false,"tarih_bitis":"31 August 2026","kategoriadi":"Administrative","renk":"#D31410","seo":"announcement-of-transfer-acceptances-with-cen","alt":"Announcement of transfer acceptances with central points","link":"https://akademiktakvim.bogazici.edu.tr/en/events/akademik/announcement-of-transfer-acceptances-with-cen/12091"},{"id":"12092","kat_id":"24","adi":"Registration of newly admitted graduate students on primary list","aciklama":"","mekan":null,"kulup":"","sponsor":null,"harita":null,"resim":"https://mediastore.cc.bogazici.edu.tr/web/template/bogazici/images/default_takvim.jpg","start_date":"2026-08-31 09:10:00","end_date":"2026-09-03 09:10:00","tarih":"31 August 2026","tarih_ay":"August","tarih_gun":"MONDAY","saat":false,"tarih_bitis":"3 September 2026","kategoriadi":"Administrative","renk":"#D31410","seo":"registration-of-newly-admitted-graduate-stude","alt":"Registration of newly admitted graduate students on primary list","link":"https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-of-newly-admitted-graduate-stude/12092"},{"id":"12093","kat_id":"24","adi":"Registration of transfer students accepted with central points","aciklama":"","mekan":null,"kulup":"","sponsor":null,"harita":null,"resim":"https://mediastore.cc.bogazici.edu.tr/web/template/bogazici/images/default_takvim.jpg","start_date":"2026-09-03 09:10:00","end_date":"2026-09-03 09:10:00","tarih":"3 September 2026","tarih_ay":"September","tarih_gun":"THURSDAY","saat":false,"tarih_bitis":"3 September 2026","kategoriadi":"Administrative","renk":"#D31410","seo":"registration-of-transfer-students-accepted-wi","alt":"Registration of transfer students accepted with central points","link":"https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-of-transfer-students-accepted-wi/12093"},{"id":"13962","kat_id":"24","adi":"Registration of students admitted from the main list through the second application period for international undergraduate admissions.","aciklama":"","mekan":"","kulup":"","sponsor":"","harita":"","resim":"https://mediastore.cc.bogazici.edu.tr/web/template/bogazici/images/default_takvim.jpg","start_date":"2026-09-04 03:00:00","end_date":"2026-09-08 23:59:00","tarih":"4 September 2026","tarih_ay":"September","tarih_gun":"FRIDAY","saat":false,"tarih_bitis":"8 September 2026","kategoriadi":"Administrative","renk":"#D31410","seo":"registration-of-students-admitted-from-the-ma","alt":"Registration of students admitted from the main list through the second application period for international undergraduate admissions.","link":"https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-of-students-admitted-from-the-ma/13962"},{"id":"12094","kat_id":"24","adi":"Registration of newly admitted graduate students on waiting list","aciklama":"","mekan":null,"kulup":"","sponsor":null,"harita":null,"resim":"https://mediastore.cc.bogazici.edu.tr/web/template/bogazici/images/default_takvim.jpg","start_date":"2026-09-04 09:13:00","end_date":"2026-09-04 09:13:00","tarih":"4 September 2026","tarih_ay":"September","tarih_gun":"FRIDAY","saat":false,"tarih_bitis":"4 September 2026","kategoriadi":"Administrative","renk":"#D31410","seo":"registration-of-newly-admitted-graduate-stude","alt":"Registration of newly admitted graduate students on waiting list","link":"https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-of-newly-admitted-graduate-stude/12094"},{"id":"12096","kat_id":"24","adi":"Deadline for guest students (enrolled in domestic universities) applications","aciklama":"","mekan":null,"kulup":"","sponsor":null,"harita":null,"resim":"https://mediastore.cc.bogazici.edu.tr/web/template/bogazici/images/default_takvim.jpg","start_date":"2026-09-04 09:14:00","end_date":"2026-09-04 09:14:00","tarih":"4 September 2026","tarih_ay":"September","tarih_gun":"FRIDAY","saat":false,"tarih_bitis":"4 September 2026","kategoriadi":"Administrative","renk":"#D31410","seo":"deadline-for-guest-students-enrolled-in-domes","alt":"Deadline for guest students (enrolled in domestic universities) applications","link":"https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-guest-students-enrolled-in-domes/12096"},{"id":"13000","kat_id":"25","adi":"English Proficiency Exam (BUEPT)","aciklama":"","mekan":"","kulup":"","sponsor":"","harita":"","resim":"https://mediastore.cc.bogazici.edu.tr/web/template/bogazici/images/default_takvim.jpg","start_date":"2026-09-07 03:00:00","end_date":"2026-09-07 23:59:00","tarih":"7 September 2026","tarih_ay":"September","tarih_gun":"MONDAY","saat":false,"tarih_bitis":"7 September 2026","kategoriadi":"SFL","renk":"#3C87B2","seo":"english-proficiency-exam-buept","alt":"English Proficiency Exam (BUEPT)","link":"https://akademiktakvim.bogazici.edu.tr/en/events/akademik/english-proficiency-exam-buept/13000"},{"id":"12999","kat_id":"29","adi":"Online payment system opens (10:00)","aciklama":"","mekan":"","kulup":"","sponsor":"","harita":"","resim":"https://mediastore.cc.bogazici.edu.tr/web/template/bogazici/images/default_takvim.jpg","start_date":"2026-09-08 03:00:00","end_date":"2026-09-08 23:59:00","tarih":"8 September 2026","tarih_ay":"September","tarih_gun":"TUESDAY","saat":false,"tarih_bitis":"8 September 2026","kategoriadi":"Registration","renk":"#8C763E","seo":"online-payment-system-opens-1000","alt":"Online payment system opens (10:00)","link":"https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-payment-system-opens-1000/12999"},{"id":"13963","kat_id":"24","adi":"Registration of students admitted from the waiting list through the second application period for international undergraduate admissions.","aciklama":"","mekan":"","kulup":"","sponsor":"","harita":"","resim":"https://mediastore.cc.bogazici.edu.tr/web/template/bogazici/images/default_takvim.jpg","start_date":"2026-09-09 03:00:00","end_date":"2026-09-10 23:59:00","tarih":"9 September 2026","tarih_ay":"September","tarih_gun":"WEDNESDAY","saat":false,"tarih_bitis":"10 September 2026","kategoriadi":"Administrative","renk":"#D31410","seo":"registration-of-students-admitted-from-the-wa","alt":"Registration of students admitted from the waiting list through the second application period for international undergraduate admissions.","link":"https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-of-students-admitted-from-the-wa/13963"},{"id":"13004","kat_id":"23","adi":"Online Orientation day for visitor students and exchange students","aciklama":"","mekan":"","kulup":"","sponsor":"","harita":"","resim":"https://mediastore.cc.bogazici.edu.tr/web/template/bogazici/images/default_takvim.jpg","start_date":"2026-09-14 03:00:00","end_date":"2026-09-14 23:59:00","tarih":"14 September 2026","tarih_ay":"September","tarih_gun":"MONDAY","saat":false,"tarih_bitis":"14 September 2026","kategoriadi":"Instruction","renk":"#209C85","seo":"online-orientation-day-for-visitor-students-a","alt":"Online Orientation day for visitor students and exchange students","link":"https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-orientation-day-for-visitor-students-a/13004"},{"id":"13006","kat_id":"24","adi":"Deadline for entry of class quotas by academic units (17:00)","aciklama":"","mekan":"","kulup":"","sponsor":"","harita":"","resim":"https://mediastore.cc.bogazici.edu.tr/web/template/bogazici/images/default_takvim.jpg","start_date":"2026-09-14 03:00:00","end_date":"2026-09-14 23:59:00","tarih":"14 September 2026","tarih_ay":"September","tarih_gun":"MONDAY","saat":false,"tarih_bitis":"14 September 2026","kategoriadi":"Administrative","renk":"#D31410","seo":"deadline-for-entry-of-class-quotas-by-academi","alt":"Deadline for entry of class quotas by academic units (17:00)","link":"https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-entry-of-class-quotas-by-academi/13006"},{"id":"13002","kat_id":"24","adi":"Deadline for sending English Proficiency Exam (BUEPT) results to the Registrar (15:00)","aciklama":"","mekan":"","kulup":"","sponsor":"","harita":"","resim":"https://mediastore.cc.bogazici.edu.tr/web/template/bogazici/images/default_takvim.jpg","start_date":"2026-09-14 03:00:00","end_date":"2026-09-14 23:59:00","tarih":"14 September 2026","tarih_ay":"September","tarih_gun":"MONDAY","saat":false,"tarih_bitis":"14 September 2026","kategoriadi":"Administrative","renk":"#D31410","seo":"deadline-for-sending-english-proficiency-exam","alt":"Deadline for sending English Proficiency Exam (BUEPT) results to the Registrar (15:00)","link":"https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-sending-english-proficiency-exam/13002"},{"id":"13010","kat_id":"29","adi":"Registration system opens (10:00)","aciklama":"","mekan":"","kulup":"","sponsor":"","harita":"","resim":"https://mediastore.cc.bogazici.edu.tr/web/template/bogazici/images/default_takvim.jpg","start_date":"2026-09-15 03:00:00","end_date":"2026-09-15 23:59:00","tarih":"15 September 2026","tarih_ay":"September","tarih_gun":"TUESDAY","saat":false,"tarih_bitis":"15 September 2026","kategoriadi":"Registration","renk":"#8C763E","seo":"registration-system-opens-1000","alt":"Registration system opens (10:00)","link":"https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-system-opens-1000/13010"},{"id":"13008","kat_id":"24","adi":"Online Registration Period","aciklama":"","mekan":"","kulup":"","sponsor":"","harita":"","resim":"https://mediastore.cc.bogazici.edu.tr/web/template/bogazici/images/default_takvim.jpg","start_date":"2026-09-15 03:00:00","end_date":"2026-09-17 23:59:00","tarih":"15 September 2026","tarih_ay":"September","tarih_gun":"TUESDAY","saat":false,"tarih_bitis":"17 September 2026","kategoriadi":"Administrative","renk":"#D31410","seo":"online-registration-period","alt":"Online Registration Period","link":"https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-registration-period/13008"},{"id":"13012","kat_id":"24","adi":"Student consultations with academic advisors","aciklama":"","mekan":"","kulup":"","sponsor":"","harita":"","resim":"https://mediastore.cc.bogazici.edu.tr/web/template/bogazici/images/default_takvim.jpg","start_date":"2026-09-16 03:00:00","end_date":"2026-09-16 23:59:00","tarih":"16 September 2026","tarih_ay":"September","tarih_gun":"WEDNESDAY","saat":false,"tarih_bitis":"16 September 2026","kategoriadi":"Administrative","renk":"#D31410","seo":"student-consultations-with-academic-advisors","alt":"Student consultations with academic advisors","link":"https://akademiktakvim.bogazici.edu.tr/en/events/akademik/student-consultations-with-academic-advisors/13012"},{"id":"13016","kat_id":"29","adi":"Online Consent Approval Close for Instructors (21:00)","aciklama":"","mekan":"","kulup":"","sponsor":"","harita":"","resim":"https://mediastore.cc.bogazici.edu.tr/web/template/bogazici/images/default_takvim.jpg","start_date":"2026-09-17 03:00:00","end_date":"2026-09-17 23:59:00","tarih":"17 September 2026","tarih_ay":"September","tarih_gun":"THURSDAY","saat":false,"tarih_bitis":"17 September 2026","kategoriadi":"Registration","renk":"#8C763E","seo":"online-consent-approval-close-for-instructors","alt":"Online Consent Approval Close for Instructors (21:00)","link":"https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-consent-approval-close-for-instructors/13016"}];
     
     function getFullIcsUrl(filename) {
         return window.location.href.split('#')[0].split('?')[0].replace(/index\.html$/, '') + filename;
@@ -386,7 +386,7 @@
     }
 
     function updateUrlDisplays() {
-        ['academic.ics', 'academic-en.ics'].forEach(fn => {
+        ['academic-en.ics', 'academic.ics'].forEach(fn => {
             const el = document.getElementById('url-' + fn);
             if (el) {
                 el.innerText = getFullIcsUrl(fn);
@@ -406,9 +406,9 @@
     function copyIcsUrl(filename) {
         const url = getFullIcsUrl(filename);
         navigator.clipboard.writeText(url).then(() => {
-            showToast('ICS bağlantısı kopyalandı!');
+            showToast('ICS link copied to clipboard!');
         }).catch(() => {
-            prompt('ICS Bağlantısı:', url);
+            prompt('ICS Link:', url);
         });
     }
 
@@ -421,32 +421,32 @@
 
     function renderEvents() {
         const container = document.getElementById('upcoming-list');
-        if (!eventsTr || eventsTr.length === 0) {
-            container.innerHTML = '<p style="color: var(--text-muted); padding: 1rem;">Gelecek etkinlik bulunamadı.</p>';
+        if (!eventsEn || eventsEn.length === 0) {
+            container.innerHTML = '<p style="color: var(--text-muted); padding: 1rem;">No upcoming events found.</p>';
             return;
         }
 
-        container.innerHTML = eventsTr.map(ev => {
-            const cat = ev.kategoriadi || 'Genel';
+        container.innerHTML = eventsEn.map(ev => {
+            const cat = ev.kategoriadi || 'General';
             let tagClass = 'tag-other';
-            if (cat.includes('Kayıt') || cat.includes('Registration')) tagClass = 'tag-kayit';
-            else if (cat.includes('Eğitim') || cat.includes('Instruction')) tagClass = 'tag-egitim';
-            else if (cat.includes('İdari') || cat.includes('Administrative')) tagClass = 'tag-idari';
-            else if (cat.includes('YADYOK') || cat.includes('SFL')) tagClass = 'tag-yadyok';
+            if (cat.includes('Registration') || cat.includes('Admission')) tagClass = 'tag-registration';
+            else if (cat.includes('Instruction')) tagClass = 'tag-instruction';
+            else if (cat.includes('Administrative')) tagClass = 'tag-admin';
+            else if (cat.includes('SFL') || cat.includes('YADYOK')) tagClass = 'tag-sfl';
 
-            const dateStr = ev.tarih_bitis && ev.tarih_bitis !== ev.tarih ? `${ev.tarih} - ${ev.tarih_bitis}` : (ev.tarih || ev.start_date.split(' ')[0]);
+            const dateStr = ev.tarih_bitis && ev.tarih_bitis !== ev.tarih ? (ev.tarih + ' - ' + ev.tarih_bitis) : (ev.tarih || ev.start_date.split(' ')[0]);
 
-            return `
+            return 
                 <div class="event-item">
                     <div class="event-info">
-                        <div class="event-title">${ev.adi}</div>
+                        <div class="event-title"> + ev.adi + </div>
                         <div class="event-date">
-                            <i class="fa-regular fa-calendar"></i> ${dateStr}
+                            <i class="fa-regular fa-calendar"></i>  + dateStr + 
                         </div>
                     </div>
-                    <span class="category-tag ${tagClass}">${cat}</span>
+                    <span class="category-tag  + tagClass + "> + cat + </span>
                 </div>
-            `;
+            ;
         }).join('');
     }
 
