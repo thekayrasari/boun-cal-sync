@@ -10,7 +10,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:boun-academic-13449@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20270818
 DTEND;VALUE=DATE:20270819
 SUMMARY:Ders notu girişi için sistemin kapanışı (23:59)
@@ -22,7 +22,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-notu-girisi-i
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13433@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20270811
 DTEND;VALUE=DATE:20270814
 SUMMARY:Yaz Öğretimi ve II. Öğretim Yüksek Lisans Programlarının Yaz Dönemi dönem sonu sınavları 
@@ -34,7 +34,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-ve-ii
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13431@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20270811
 DTEND;VALUE=DATE:20270812
 SUMMARY:Ders notu girişi için sistemin açılışı (10:00)
@@ -46,7 +46,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-notu-girisi-i
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13422@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20270810
 DTEND;VALUE=DATE:20270811
 SUMMARY:Ders değerlendirme dönemi son günü (23:59)
@@ -58,7 +58,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-degerlendirme
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13420@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20270810
 DTEND;VALUE=DATE:20270811
 SUMMARY:Yaz Öğretimi ve II. Öğretim Yüksek Lisans Programlarının Yaz Dönemi derslerinin son günü
@@ -70,7 +70,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-ve-ii
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13412@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20270802
 DTEND;VALUE=DATE:20270811
 SUMMARY:Ders değerlendirme dönemi (YADYOK Hazırlık Okulu dersleri hariç)
@@ -82,7 +82,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-degerlendirme
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13400@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20270726
 DTEND;VALUE=DATE:20270727
 SUMMARY:2027 Güz yarıyılı için kurum dışı yatay geçiş başvurusunda bulunan adayların bilim sınavları
@@ -94,7 +94,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/2027-guz-yariyili-
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13398@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20270722
 DTEND;VALUE=DATE:20270724
 SUMMARY:2027 Güz yarıyılı için kurum dışı yatay geçiş başvurusunda bulunan adayların bilim sınavları
@@ -106,7 +106,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/2027-guz-yariyili-
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13352@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20270630
 DTEND;VALUE=DATE:20270701
 SUMMARY:Yaz Öğretimi ve II. Öğretim Yüksek Lisans Programlarının Yaz Dönemi derslerinin başlaması
@@ -118,7 +118,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-ve-ii
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13346@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20270628
 DTEND;VALUE=DATE:20270703
 SUMMARY:Lisansüstü programlara başvuru yapan adaylar için bilim sınavları
@@ -130,7 +130,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/lisansustu-program
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13320@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20270524
 DTEND;VALUE=DATE:20270529
 SUMMARY:Mezuniyet Töreni
@@ -142,7 +142,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/mezuniyet-toreni/1
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13606@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20270509
 DTEND;VALUE=DATE:20270510
 SUMMARY:I işareti verilen derslere not verme işlemi için sistemin kapanışı (23:59)
@@ -154,7 +154,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/i-isareti-verilen-
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13326@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20270509
 DTEND;VALUE=DATE:20270510
 SUMMARY:I işareti verilen derslere not verme işlemi için sistemin açılması (10:00)
@@ -166,7 +166,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/i-isareti-verilen-
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13324@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20270508
 DTEND;VALUE=DATE:20270509
 SUMMARY:Not verme için sisteminin kapanışı (23:59)
@@ -178,7 +178,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/not-verme-icin-sis
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13307@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20270505
 DTEND;VALUE=DATE:20270508
 SUMMARY:E ve Mazeret Sınavları
@@ -190,7 +190,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/e-ve-mazeret-sinav
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13291@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20270425
 DTEND;VALUE=DATE:20270505
 SUMMARY:Yarıyıl sonu sınavları (25 Nisan 2027 Pazar günü 3. ve 4. slotlar Kültür ve Dil dersleri için kullanılacak.)
@@ -202,7 +202,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yariyil-sonu-sinav
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13287@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20270424
 DTEND;VALUE=DATE:20270426
 SUMMARY:Kültür ve Dil dersleri (HUM dahil) sınavları (25 Nisan 2027 Pazar günü 3. ve 4. slotlar Kültür ve Dil dersleri için kullanılacak.)
@@ -214,7 +214,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/kultur-ve-dil-ders
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13289@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20270424
 DTEND;VALUE=DATE:20270425
 SUMMARY:Not verme için sistemin açılışı (10:00)
@@ -226,7 +226,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/not-verme-icin-sis
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13279@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20270423
 DTEND;VALUE=DATE:20270424
 SUMMARY:Ders değerlendirme dönemi son günü (23:59) (YADYOK Hazırlık Okulu dersleri hariç) 
@@ -238,7 +238,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-degerlendirme
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13277@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20270422
 DTEND;VALUE=DATE:20270423
 SUMMARY:Derslerin son günü
@@ -250,7 +250,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/derslerin-son-gunu
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13275@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20270415
 DTEND;VALUE=DATE:20270416
 SUMMARY:Yarıyıl izni başvurusu için son gün
@@ -262,7 +262,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yariyil-izni-basvu
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13254@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20270412
 DTEND;VALUE=DATE:20270424
 SUMMARY:Ders değerlendirme dönemi (YADYOK Hazırlık Okulu dersleri hariç)
@@ -274,7 +274,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-degerlendirme
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13219@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20270308
 DTEND;VALUE=DATE:20270313
 SUMMARY:Bahar Tatili / Ramazan Bayramı (Tatil)
@@ -286,7 +286,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/bahar-tatili-ramaz
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13205@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20270118
 DTEND;VALUE=DATE:20270119
 SUMMARY:Derslerin başlaması (YADYOK dersleri dahil)
@@ -298,7 +298,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/derslerin-baslamas
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13193@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20270113
 DTEND;VALUE=DATE:20270114
 SUMMARY:Lisans programlarına yeni başlayan öğrenciler için Kimya\, Moleküler Biyoloji ve Genetik\, Fizik\, Bilgisayar Mühendisliği muafiyet sınavları
@@ -310,7 +310,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/lisans-programlari
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13187@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20270112
 DTEND;VALUE=DATE:20270113
 SUMMARY:Misafir öğrencilerin ve değişim öğrencilerinin Üniversiteyi Tanıma Programı/Çevrimiçi Üniversiteyi Tanıma Programı
@@ -322,7 +322,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/misafir-ogrenciler
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-14207@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20261228
 DTEND;VALUE=DATE:20261230
 SUMMARY:Lisansüstü Programlara 2027 Bahar yarıyılı için başvuru yapan adaylar için bilim sınavları
@@ -334,7 +334,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/lisansustu-program
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13151@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20261228
 DTEND;VALUE=DATE:20261229
 SUMMARY:I işareti verilen derslere not verme işlemi için sistemin açılması (10:00)
@@ -346,7 +346,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/i-isareti-verilen-
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13153@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20261228
 DTEND;VALUE=DATE:20261229
 SUMMARY:I işareti verilen derslere not verme işlemi için sistemin kapanışı (23.59)
@@ -358,7 +358,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/i-isareti-verilen-
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13145@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20261227
 DTEND;VALUE=DATE:20261228
 SUMMARY:Ders notu girişi için sistemin kapanışı (23:59)
@@ -370,7 +370,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-notu-girisi-i
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13147@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20261225
 DTEND;VALUE=DATE:20261226
 SUMMARY:Lisansüstü Programlara 2027 Bahar yarıyılı için başvuru yapan adaylar için bilim sınavları
@@ -382,7 +382,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/lisansustu-program
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13133@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20261223
 DTEND;VALUE=DATE:20261226
 SUMMARY:E ve Mazeret Sınavları
@@ -394,7 +394,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/e-ve-mazeret-sinav
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13111@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20261213
 DTEND;VALUE=DATE:20261223
 SUMMARY:Yarıyıl sonu sınavları (13 Aralık 2026 Pazar günü 3. ve 4. slotlar Kültür ve Dil dersleri için kullanılacak.)
@@ -406,7 +406,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yariyil-sonu-sinav
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13107@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261214
 SUMMARY:Kültür ve dil dersleri (HUM dersleri dahil) yarıyıl sonu sınavları (13 Aralık 2026 Pazar günü 3. ve 4. slotlar Kültür ve Dil dersleri için kullanılacak.)
@@ -418,7 +418,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/kultur-ve-dil-ders
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13109@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
 SUMMARY:Ders notu girişi için sistemin açılışı (10:00)
@@ -430,7 +430,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-notu-girisi-i
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13103@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
 SUMMARY: Ders değerlendirme dönemi son günü (23:59) (YADYOK Hazırlık Okulu dersleri hariç) 
@@ -442,7 +442,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-degerlendirme
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13101@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
 SUMMARY:Derslerin son günü
@@ -454,7 +454,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/derslerin-son-gunu
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13097@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:Yarıyıl izni başvurusu için son gün
@@ -466,7 +466,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yariyil-izni-basvu
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13095@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261212
 SUMMARY:Ders değerlendirme dönemi (YADYOK Hazırlık Okulu dersleri hariç)
@@ -478,7 +478,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-degerlendirme
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13027@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20260921
 DTEND;VALUE=DATE:20260924
 SUMMARY:Üniversiteyi Tanıma Günleri
@@ -490,7 +490,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/universiteyi-tanim
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13023@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20260921
 DTEND;VALUE=DATE:20260922
 SUMMARY:Derslerin başlaması (YADYOK hariç)
@@ -502,7 +502,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/derslerin-baslamas
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13021@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260919
 SUMMARY:Lisans programlarına yeni başlayan öğrenciler için Kimya\, Moleküler Biyoloji ve Genetik\, Fizik\, Bilgisayar Mühendisliği muafiyet sınavları
@@ -514,7 +514,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/lisans-programlari
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13003@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
 SUMMARY:Misafir öğrencilerin ve değişim öğrencilerinin Üniversiteyi Tanıma Programı/Çevrimiçi Üniversiteyi Tanıma Programı
@@ -526,7 +526,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/misafir-ogrenciler
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-9228@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20260820
 DTEND;VALUE=DATE:20260821
 SUMMARY:Ders notu girişi için sistemin kapanışı (23:59)
@@ -538,7 +538,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-notu-girisi-i
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-9223@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20260813
 DTEND;VALUE=DATE:20260816
 SUMMARY:Yaz Öğretimi ve II. Öğretim Yüksek Lisans Programlarının Yaz Dönemi dönem sonu sınavları
@@ -550,7 +550,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-ve-ii
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-9222@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20260813
 DTEND;VALUE=DATE:20260814
 SUMMARY:Ders notu girişi için sistemin açılışı (10:00)
@@ -562,7 +562,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-notu-girisi-i
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-9221@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20260812
 DTEND;VALUE=DATE:20260813
 SUMMARY:Ders değerlendirme dönemi son günü (23:59)
@@ -574,7 +574,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-degerlendirme
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-9220@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20260812
 DTEND;VALUE=DATE:20260813
 SUMMARY:Yaz Öğretimi ve II. Öğretim Yüksek Lisans Programlarının Yaz Dönemi derslerinin son günü
@@ -586,7 +586,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-ve-ii
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-9208@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20260801
 DTEND;VALUE=DATE:20260813
 SUMMARY:Ders değerlendirme dönemi (YADYOK Hazırlık Okulu dahil)
@@ -598,7 +598,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-degerlendirme
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-9200@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20260722
 DTEND;VALUE=DATE:20260725
 SUMMARY:2026 Güz yarıyılı için kurum dışı yatay geçiş başvurusunda bulunan adayların bilim sınavları
@@ -610,7 +610,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/2026-guz-yariyili-
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-9184@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20260629
 DTEND;VALUE=DATE:20260704
 SUMMARY:Mezuniyet Töreni
@@ -622,7 +622,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/mezuniyet-toreni/9
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-9179@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20260624
 DTEND;VALUE=DATE:20260625
 SUMMARY:Yaz Öğretimi ve II. Öğretim Yüksek Lisans Programlarının Yaz Dönemi derslerinin başlaması
@@ -634,7 +634,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-ve-ii
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-9175@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20260622
 DTEND;VALUE=DATE:20260627
 SUMMARY:Lisansüstü programlara başvuru yapan adaylar için bilim sınavları
@@ -646,7 +646,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/lisansustu-program
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-9166@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20260618
 DTEND;VALUE=DATE:20260619
 SUMMARY:I işareti verilen derslere not verme işlemi için sistemin kapanışı (23.59)
@@ -658,7 +658,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/i-isareti-verilen-
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-9165@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20260617
 DTEND;VALUE=DATE:20260618
 SUMMARY:I işareti verilen derslere not verme işlemi için sistemin açılışı (10:00)
@@ -670,7 +670,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/i-isareti-verilen-
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-9164@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20260616
 DTEND;VALUE=DATE:20260617
 SUMMARY:Not verme için sisteminin kapanışı (23:59)
@@ -682,7 +682,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/not-verme-icin-sis
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-9163@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20260611
 DTEND;VALUE=DATE:20260614
 SUMMARY:E ve Mazeret Sınavları
@@ -694,7 +694,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/e-ve-mazeret-sinav
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-9158@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20260608
 DTEND;VALUE=DATE:20260611
 SUMMARY:Yarıyıl sonu sınavları
@@ -706,7 +706,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yariyil-sonu-sinav
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-9156@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20260601
 DTEND;VALUE=DATE:20260607
 SUMMARY:Yarıyıl sonu sınavları
@@ -718,7 +718,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yariyil-sonu-sinav
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-9151@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20260520
 DTEND;VALUE=DATE:20260524
 SUMMARY:Yarıyıl sonu sınavları
@@ -730,7 +730,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yariyil-sonu-sinav
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-9149@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20260516
 DTEND;VALUE=DATE:20260517
 SUMMARY:Not verme için sistemin açılışı (10:00)
@@ -742,7 +742,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/not-verme-icin-sis
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-9148@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20260516
 DTEND;VALUE=DATE:20260517
 SUMMARY:Kültür ve Dil dersleri (HUM dahil) sınavları
@@ -754,7 +754,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/kultur-ve-dil-ders
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-9146@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20260515
 DTEND;VALUE=DATE:20260516
 SUMMARY:Derslerin son günü
@@ -766,7 +766,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/derslerin-son-gunu
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-9140@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20260508
 DTEND;VALUE=DATE:20260509
 SUMMARY:Yarıyıl izni başvurusu için son gün
@@ -778,7 +778,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yariyil-izni-basvu
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-9135@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20260424
 DTEND;VALUE=DATE:20260516
 SUMMARY:Ders değerlendirme dönemi (YADYOK Hazırlık Okulu dahil)
@@ -790,7 +790,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-degerlendirme
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-9133@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20260420
 DTEND;VALUE=DATE:20260425
 SUMMARY:Bahar Tatili
@@ -802,7 +802,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/bahar-tatili/9133
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-9110@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20260209
 DTEND;VALUE=DATE:20260210
 SUMMARY:Derslerin başlaması (YADYOK dersleri dahil)
@@ -814,7 +814,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/derslerin-baslamas
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-9104@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20260203
 DTEND;VALUE=DATE:20260204
 SUMMARY:Lisans programlarına yeni başlayan öğrenciler için Kimya\, Moleküler Biyoloji ve Genetik\, Fizik\, Bilgisayar Mühendisliği muafiyet sınavları
@@ -826,7 +826,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/lisans-programlari
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-9101@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20260202
 DTEND;VALUE=DATE:20260203
 SUMMARY:Misafir öğrencilerin ve değişim öğrencilerinin Üniversiteyi Tanıma Programı/Çevrimiçi Üniversiteyi Tanıma Programı
@@ -838,7 +838,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/misafir-ogrenciler
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-9086@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20260121
 DTEND;VALUE=DATE:20260122
 SUMMARY:I işareti verilen derslere not verme işlemi için sistemin kapanması (23:59)
@@ -850,7 +850,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/i-isareti-verilen-
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-9085@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20260120
 DTEND;VALUE=DATE:20260121
 SUMMARY:I işareti verilen derslere not verme işlemi için sistemin açılması (10:00)
@@ -862,7 +862,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/i-isareti-verilen-
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-9083@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20260119
 DTEND;VALUE=DATE:20260122
 SUMMARY:Lisansüstü Programlara 2026 Bahar yarıyılı için başvuru yapan adaylar için bilim sınavları
@@ -874,7 +874,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/lisansustu-program
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-9082@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20260119
 DTEND;VALUE=DATE:20260120
 SUMMARY:Not verme için sistemin kapanması (23:59)
@@ -886,7 +886,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/not-verme-icin-sis
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-9076@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20260113
 DTEND;VALUE=DATE:20260116
 SUMMARY:E ve Mazeret Sınavları
@@ -898,7 +898,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/e-ve-mazeret-sinav
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-9069@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20260105
 DTEND;VALUE=DATE:20260110
 SUMMARY:Yarıyıl sonu sınavları
@@ -910,7 +910,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yariyil-sonu-sinav
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-9066@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20260102
 DTEND;VALUE=DATE:20260104
 SUMMARY:Yarıyıl sonu sınavları
@@ -922,7 +922,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yariyil-sonu-sinav
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-9064@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20251229
 DTEND;VALUE=DATE:20251231
 SUMMARY:Yarıyıl sonu sınavları
@@ -934,7 +934,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yariyil-sonu-sinav
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-9063@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20251224
 DTEND;VALUE=DATE:20251228
 SUMMARY:Yarıyıl sonu sınavları
@@ -946,7 +946,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yariyil-sonu-sinav
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-9062@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20251222
 DTEND;VALUE=DATE:20251223
 SUMMARY:Ders notu girişi için sistemin açılışı (10:00)
@@ -958,7 +958,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-notu-girisi-i
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-9061@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20251222
 DTEND;VALUE=DATE:20251224
 SUMMARY:Kültür ve dil dersleri (HUM dersleri dahil) yarıyıl sonu sınavları
@@ -970,7 +970,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/kultur-ve-dil-ders
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-9059@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20251219
 DTEND;VALUE=DATE:20251220
 SUMMARY: Ders değerlendirme dönemi son günü (23:59) (YADYOK Hazırlık Okulu dersleri hariç) 
@@ -982,7 +982,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-degerlendirme
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-9058@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20251219
 DTEND;VALUE=DATE:20251220
 SUMMARY:Derslerin son günü
@@ -994,7 +994,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/derslerin-son-gunu
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-9054@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20251201
 DTEND;VALUE=DATE:20251220
 SUMMARY:Ders değerlendirme dönemi (YADYOK Hazırlık Okulu dersleri hariç)
@@ -1006,7 +1006,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-degerlendirme
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-9047@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20251117
 DTEND;VALUE=DATE:20251122
 SUMMARY:Dersten çekilme dönemi
@@ -1018,7 +1018,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/dersten-cekilme-do
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-9026@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20250922
 DTEND;VALUE=DATE:20250923
 SUMMARY:Derslerin başlaması (YADYOK hariç)
@@ -1030,7 +1030,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/derslerin-baslamas
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-9025@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20250922
 DTEND;VALUE=DATE:20250925
 SUMMARY:Üniversiteyi Tanıma Günleri
@@ -1042,7 +1042,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/universiteyi-tanim
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-9022@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20250919
 DTEND;VALUE=DATE:20250920
 SUMMARY:Lisans programlarına yeni başlayan öğrenciler için Kimya\, Moleküler Biyoloji ve Genetik\, Fizik\, Bilgisayar Mühendisliği muafiyet sınavları
@@ -1054,7 +1054,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/lisans-programlari
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-9014@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20250915
 DTEND;VALUE=DATE:20250916
 SUMMARY:Misafir öğrencilerin ve değişim öğrencilerinin Üniversiteyi Tanıma Programı/Çevrimiçi Üniversiteyi Tanıma Programı
@@ -1066,7 +1066,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/misafir-ogrenciler
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-8998@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20250819
 DTEND;VALUE=DATE:20250820
 SUMMARY:Ders notu girişi için sistemin kapanışı (23:59)
@@ -1078,7 +1078,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-notu-girisi-i
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-12114@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20250815
 DTEND;VALUE=DATE:20250816
 SUMMARY:Yaz Öğretimi ve II. Öğretim Yüksek Lisans Programlarının Yaz Dönemi dönem sonu sınavları (15 Ağustos 2025'te sadece ilk iki slot kullanılacaktır)
@@ -1090,7 +1090,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-ve-ii
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-12113@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20250813
 DTEND;VALUE=DATE:20250815
 SUMMARY:Yaz Öğretimi ve II. Öğretim Yüksek Lisans Programlarının Yaz Dönemi dönem sonu sınavları 
@@ -1102,7 +1102,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-ve-ii
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-8995@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20250812
 DTEND;VALUE=DATE:20250813
 SUMMARY:Yaz Öğretimi ve II. Öğretim Yüksek Lisans Programlarının Yaz Dönemi dönem sonu sınavları (12 Ağustos 2025'te BUEPT sebebiyle ilk iki slot kullanılmayacaktır )
@@ -1114,7 +1114,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-ve-ii
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-8993@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20250812
 DTEND;VALUE=DATE:20250813
 SUMMARY:Ders notu girişi için sistemin açılışı (10:00)
@@ -1126,7 +1126,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-notu-girisi-i
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-8992@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20250811
 DTEND;VALUE=DATE:20250812
 SUMMARY:Ders değerlendirme dönemi son günü
@@ -1138,7 +1138,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-degerlendirme
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-8991@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20250811
 DTEND;VALUE=DATE:20250812
 SUMMARY:Yaz Öğretimi ve II. Öğretim Yüksek Lisans Programlarının Yaz Dönemi derslerinin son günü
@@ -1150,7 +1150,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-ve-ii
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-8977@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20250801
 DTEND;VALUE=DATE:20250812
 SUMMARY:Ders değerlendirme dönemi (YADYOK Hazırlık Okulu dahil)
@@ -1162,7 +1162,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-degerlendirme
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-8972@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20250723
 DTEND;VALUE=DATE:20250726
 SUMMARY:2025 Güz yarıyılı için kurum dışı yatay geçiş başvurusunda bulunan adayların bilim sınavları
@@ -1174,7 +1174,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/2025-guz-yariyili-
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-8956@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20250701
 DTEND;VALUE=DATE:20250705
 SUMMARY:Mezuniyet Töreni
@@ -1186,7 +1186,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/mezuniyet-toreni/8
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-8951@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20250624
 DTEND;VALUE=DATE:20250625
 SUMMARY:Yaz Öğretimi ve II. Öğretim Yüksek Lisans Programlarının Yaz Dönemi derslerinin başlaması
@@ -1198,7 +1198,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-ve-ii
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-8947@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20250623
 DTEND;VALUE=DATE:20250628
 SUMMARY:Lisansüstü programlara başvuru yapan adaylar için bilim sınavları
@@ -1210,7 +1210,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/lisansustu-program
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-8938@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20250618
 DTEND;VALUE=DATE:20250619
 SUMMARY:I işareti verilen derslere not verme işlemi için sistemin kapanışı (13.00)
@@ -1222,7 +1222,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/i-isareti-verilen-
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-8936@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20250617
 DTEND;VALUE=DATE:20250618
 SUMMARY:I işareti verilen derslere not verme işlemi için sistemin açılışı (10:00)
@@ -1234,7 +1234,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/i-isareti-verilen-
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-8935@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20250616
 DTEND;VALUE=DATE:20250617
 SUMMARY:Not verme için sisteminin kapanışı (23:59)
@@ -1246,7 +1246,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/not-verme-icin-sis
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-8933@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20250611
 DTEND;VALUE=DATE:20250614
 SUMMARY:E ve Mazeret Sınavları
@@ -1258,7 +1258,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/e-ve-mazeret-sinav
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-8927@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20250602
 DTEND;VALUE=DATE:20250605
 SUMMARY:Yarıyıl sonu sınavları (27 Mayıs 3. Slot ve 28 Mayıs 2025 hariç)
@@ -1270,7 +1270,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yariyil-sonu-sinav
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-8926@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20250529
 DTEND;VALUE=DATE:20250601
 SUMMARY:Yarıyıl sonu sınavları (27 Mayıs 3. Slot ve 28 Mayıs 2025 hariç)
@@ -1282,7 +1282,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yariyil-sonu-sinav
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-8924@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20250526
 DTEND;VALUE=DATE:20250528
 SUMMARY:Yarıyıl sonu sınavları (27 Mayıs 3. Slot ve 28 Mayıs 2025 hariç)
@@ -1294,7 +1294,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yariyil-sonu-sinav
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-8923@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20250521
 DTEND;VALUE=DATE:20250525
 SUMMARY:Yarıyıl sonu sınavları (27 Mayıs 3. Slot ve 28 Mayıs 2025 hariç)
@@ -1306,7 +1306,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yariyil-sonu-sinav
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-8920@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20250520
 DTEND;VALUE=DATE:20250521
 SUMMARY:Kültür ve Dil dersleri (HUM dahil) sınavları
@@ -1318,7 +1318,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/kultur-ve-dil-ders
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-8918@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20250517
 DTEND;VALUE=DATE:20250518
 SUMMARY:Kültür ve Dil dersleri (HUM dahil) sınavları
@@ -1330,7 +1330,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/kultur-ve-dil-ders
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-8917@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20250517
 DTEND;VALUE=DATE:20250518
 SUMMARY:Not verme için sistemin açılışı (10:00)
@@ -1342,7 +1342,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/not-verme-icin-sis
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-8916@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20250516
 DTEND;VALUE=DATE:20250517
 SUMMARY:Derslerin son günü
@@ -1354,7 +1354,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/derslerin-son-gunu
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-8910@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20250501
 DTEND;VALUE=DATE:20250502
 SUMMARY:Emek ve Dayanışma günü (Tatil)
@@ -1366,7 +1366,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/emek-ve-dayanisma-
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-8908@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20250425
 DTEND;VALUE=DATE:20250517
 SUMMARY:Ders değerlendirme dönemi (YADYOK Hazırlık Okulu dahil)
@@ -1378,7 +1378,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-degerlendirme
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-8901@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20250414
 DTEND;VALUE=DATE:20250419
 SUMMARY:Dersten çekilme dönemi
@@ -1390,7 +1390,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/dersten-cekilme-do
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-8872@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20250204
 DTEND;VALUE=DATE:20250205
 SUMMARY:Lisans programlarına yeni başlayan öğrenciler için Kimya\, Moleküler Biyoloji ve Genetik\, Fizik\, Bilgisayar Mühendisliği muafiyet sınavları
@@ -1402,7 +1402,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/lisans-programlari
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-8869@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20250203
 DTEND;VALUE=DATE:20250204
 SUMMARY:Misafir öğrencilerin ve değişim öğrencilerinin Üniversiteyi Tanıma Programı/Çevrimiçi Üniversiteyi Tanıma Programı
@@ -1414,7 +1414,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/misafir-ogrenciler
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-8855@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20250122
 DTEND;VALUE=DATE:20250123
 SUMMARY:I işareti verilen derslere not verme işlemi için sistemin kapanışı (23:59)
@@ -1426,7 +1426,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/i-isareti-verilen-
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-8854@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20250121
 DTEND;VALUE=DATE:20250122
 SUMMARY:I işareti verilen derslere not verme işlemi için sistemin açılışı (10:00)
@@ -1438,7 +1438,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/i-isareti-verilen-
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-8853@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20250121
 DTEND;VALUE=DATE:20250124
 SUMMARY:Lisansüstü programlara 2025 Bahar yarıyılı için başvuru yapan adaylar için bilim sınavları
@@ -1450,7 +1450,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/lisansustu-program
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-8852@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20250120
 DTEND;VALUE=DATE:20250121
 SUMMARY:Not verme için sistemin kapanışı (23:59)
@@ -1462,7 +1462,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/not-verme-icin-sis
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-8847@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20250115
 DTEND;VALUE=DATE:20250118
 SUMMARY:E ve Mazeret Sınavları
@@ -1474,7 +1474,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/e-ve-mazeret-sinav
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-8837@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20250106
 DTEND;VALUE=DATE:20250111
 SUMMARY:Yarıyıl sonu sınavları
@@ -1486,7 +1486,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yariyil-sonu-sinav
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-8834@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20250102
 DTEND;VALUE=DATE:20250105
 SUMMARY:Yarıyıl sonu sınavları
@@ -1498,7 +1498,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yariyil-sonu-sinav
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-8830@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20241225
 DTEND;VALUE=DATE:20250110
 SUMMARY:YADYOK Hazırlık Okulu Ders Değerlendirme dönemi

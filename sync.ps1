@@ -1,5 +1,5 @@
 # Bogazici University Academic Calendar Sync Script (PowerShell)
-# For local execution and generating all ICS/JSON/HTML assets on Windows
+# For local execution and generating category-specific ICS/JSON/HTML assets on Windows
 
 [Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12
 
@@ -103,115 +103,77 @@ function ConvertTo-Ics($Events, $CalName, $CalDesc, $Lang) {
     return $sb.ToString()
 }
 
-# Main Feeds
-$IcsEn = ConvertTo-Ics -Events $EventsEn -CalName "Bogazici University Academic Calendar" -CalDesc "Official Bogazici University Academic Calendar" -Lang "en"
-[System.IO.File]::WriteAllText((Join-Path $OutputDir "academic-en.ics"), $IcsEn, [System.Text.Encoding]::UTF8)
+$feedsList = @()
 
-$IcsTr = ConvertTo-Ics -Events $EventsTr -CalName "Bogazici University Academic Calendar (TR)" -CalDesc "Official Bogazici University Academic Calendar (TR)" -Lang "tr"
-[System.IO.File]::WriteAllText((Join-Path $OutputDir "academic.ics"), $IcsTr, [System.Text.Encoding]::UTF8)
-
-$feedsList = @(
-    @{
-        filename = "academic-en.ics"
-        title = "Complete Academic Calendar (English)"
-        description = "Full calendar feed containing all academic, administrative, exam, and registration dates."
-        count = $EventsEn.Count
-    },
-    @{
-        filename = "academic.ics"
-        title = "Complete Academic Calendar (Turkish)"
-        description = "Original Turkish calendar feed with official event descriptions and categories."
-        count = $EventsTr.Count
-    }
-)
-
-# 5 Official Categories
 $officialCategories = @(
     @{
-        slug_en = "registration"
+        kat_id = "29"
+        slug = "registration"
         slug_tr = "kayit"
-        title_en = "Registration"
+        title = "Registration"
         title_tr = "Kayıt"
-        description_en = "Course registration windows, advisor approvals, add/drop periods, and fee payment deadlines."
-        match_en = @("Registration")
-        match_tr = @("Kayıt")
+        description = "Course registration windows, advisor approvals, add/drop periods, and fee payment deadlines."
     },
     @{
-        slug_en = "administrative"
+        kat_id = "24"
+        slug = "administrative"
         slug_tr = "idari"
-        title_en = "Administrative"
+        title = "Administrative"
         title_tr = "İdari"
-        description_en = "Administrative board meetings (ÜYK/FKK), official university deadlines, and department submissions."
-        match_en = @("Administrative")
-        match_tr = @("İdari")
+        description = "Administrative board meetings (ÜYK/FKK), official university deadlines, and department submissions."
     },
     @{
-        slug_en = "instruction"
+        kat_id = "23"
+        slug = "instruction"
         slug_tr = "egitim"
-        title_en = "Instruction & Exams"
+        title = "Instruction & Exams"
         title_tr = "Eğitim-Öğretim"
-        description_en = "First and last days of classes, midterm & final exam periods, grade submissions, and holidays."
-        match_en = @("Instruction")
-        match_tr = @("Eğitim-Öğretim", "Eğitim")
+        description = "First and last days of classes, midterm & final exam periods, grade submissions, and semester dates."
     },
     @{
-        slug_en = "sfl"
+        kat_id = "25"
+        slug = "sfl"
         slug_tr = "yadyok"
-        title_en = "School of Foreign Languages (SFL / YADYOK)"
+        title = "School of Foreign Languages (SFL / YADYOK)"
         title_tr = "YADYOK"
-        description_en = "BUEPT English proficiency exams, placement tests, preparatory classes terms, and result announcements."
-        match_en = @("SFL")
-        match_tr = @("YADYOK")
+        description = "BUEPT English proficiency exams, placement tests, preparatory classes terms, and result announcements."
     },
     @{
-        slug_en = "admission"
+        kat_id = "28"
+        slug = "admission"
         slug_tr = "basvuru"
-        title_en = "Admission & Applications"
+        title = "Admission & Applications"
         title_tr = "Başvuru"
-        description_en = "Undergraduate/graduate applications, double major/minor transfers, and exchange program deadlines."
-        match_en = @("Admission")
-        match_tr = @("Başvuru")
+        description = "Undergraduate/graduate applications, double major/minor transfers, and exchange program deadlines."
     }
 )
 
 foreach ($cat in $officialCategories) {
-    # English category feed
-    $filteredEn = $EventsEn | Where-Object {
-        $cName = [string]$_.kategoriadi
-        $matched = $false
-        foreach ($c in $cat.match_en) {
-            if ($cName.IndexOf($c, [System.StringComparison]::OrdinalIgnoreCase) -ge 0) { $matched = $true; break }
-        }
-        $matched
-    }
+    $katId = $cat.kat_id
+
+    # English Category Feed
+    $filteredEn = $EventsEn | Where-Object { [string]$_.kat_id -eq $katId }
     if ($filteredEn.Count -gt 0) {
-        $catIcsEn = ConvertTo-Ics -Events $filteredEn -CalName "Bogazici Academic Calendar - $($cat.title_en)" -CalDesc "Bogazici University $($cat.title_en) Calendar" -Lang "en"
-        $fnEn = "academic-$($cat.slug_en).ics"
+        $catIcsEn = ConvertTo-Ics -Events $filteredEn -CalName "Bogazici Academic Calendar - $($cat.title)" -CalDesc "Bogazici University $($cat.title) Calendar" -Lang "en"
+        $fnEn = "$($cat.slug).ics"
         [System.IO.File]::WriteAllText((Join-Path $OutputDir $fnEn), $catIcsEn, [System.Text.Encoding]::UTF8)
         Write-Host "Saved category feed: $fnEn ($($filteredEn.Count) events)"
 
         $feedsList += @{
             filename = $fnEn
-            title = $cat.title_en
-            description = $cat.description_en
+            title = $cat.title
+            description = $cat.description
             count = $filteredEn.Count
         }
     }
 
-    # Turkish category feed
-    $filteredTr = $EventsTr | Where-Object {
-        $cName = [string]$_.kategoriadi
-        $matched = $false
-        foreach ($c in $cat.match_tr) {
-            if ($cName.IndexOf($c, [System.StringComparison]::OrdinalIgnoreCase) -ge 0) { $matched = $true; break }
-        }
-        $matched
-    }
+    # Turkish Category Feed
+    $filteredTr = $EventsTr | Where-Object { [string]$_.kat_id -eq $katId }
     if ($filteredTr.Count -gt 0) {
         $catIcsTr = ConvertTo-Ics -Events $filteredTr -CalName "Bogazici Akademik Takvim - $($cat.title_tr)" -CalDesc "Bogazici Universitesi $($cat.title_tr) Takvimi" -Lang "tr"
-        $fnTr = "academic-$($cat.slug_tr).ics"
+        $fnTr = "$($cat.slug_tr).ics"
         [System.IO.File]::WriteAllText((Join-Path $OutputDir $fnTr), $catIcsTr, [System.Text.Encoding]::UTF8)
-        Write-Host "Saved category feed (TR): $fnTr ($($filteredTr.Count) events)"
+        Write-Host "Saved Turkish category feed: $fnTr ($($filteredTr.Count) events)"
     }
 }
 
@@ -236,8 +198,8 @@ $htmlContent = @"
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Bogazici University Academic Calendar Sync</title>
-    <meta name="description" content="Auto-synced Bogazici University Academic Calendar feeds for Google Calendar, Apple Calendar, and Microsoft Outlook.">
+    <title>Bogazici University Academic Calendar Feeds</title>
+    <meta name="description" content="Official Bogazici University Academic Calendar category-specific ICS feeds for Google Calendar, Apple Calendar, and Microsoft Outlook.">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
@@ -275,7 +237,7 @@ $htmlContent = @"
             line-height: 1.6;
         }
         .container {
-            max-width: 1120px;
+            max-width: 1080px;
             margin: 0 auto;
             padding: 2.5rem 1.5rem;
             width: 100%;
@@ -379,66 +341,43 @@ $htmlContent = @"
             margin-bottom: 1.25rem;
             min-height: 2.6em;
         }
-        .btn-group {
-            display: flex;
-            flex-direction: column;
-            gap: 0.5rem;
-        }
-        .btn {
-            display: inline-flex;
-            align-items: center;
-            justify-content: center;
-            gap: 0.5rem;
-            padding: 0.6rem 1rem;
-            border-radius: 0.5rem;
-            font-size: 0.875rem;
-            font-weight: 600;
-            text-decoration: none;
-            cursor: pointer;
-            transition: all 0.2s ease;
-            border: none;
-        }
-        .btn-google {
-            background: #ea4335;
-            color: white;
-        }
-        .btn-google:hover {
-            background: #d33426;
-        }
-        .btn-apple {
-            background: #334155;
-            color: white;
-        }
-        .btn-apple:hover {
-            background: #475569;
-        }
-        .btn-copy {
-            background: rgba(255, 255, 255, 0.08);
-            color: #cbd5e1;
-            border: 1px solid rgba(255, 255, 255, 0.15);
-        }
-        .btn-copy:hover {
-            background: rgba(255, 255, 255, 0.15);
-            color: white;
-        }
-        .url-box {
-            display: flex;
-            align-items: center;
+        .url-box-container {
             background: #0f172a;
             border: 1px solid #334155;
-            border-radius: 0.375rem;
-            padding: 0.4rem 0.6rem;
-            margin-top: 0.5rem;
+            border-radius: 0.5rem;
+            padding: 0.5rem 0.75rem;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            gap: 0.5rem;
         }
         .url-display {
-            font-size: 0.75rem;
+            font-size: 0.8rem;
             color: #94a3b8;
             word-break: break-all;
             font-family: monospace;
             flex: 1;
         }
+        .btn-copy {
+            background: var(--accent);
+            color: white;
+            padding: 0.45rem 0.85rem;
+            border-radius: 0.375rem;
+            font-size: 0.8rem;
+            font-weight: 600;
+            border: none;
+            cursor: pointer;
+            transition: background 0.2s ease;
+            white-space: nowrap;
+            display: inline-flex;
+            align-items: center;
+            gap: 0.35rem;
+        }
+        .btn-copy:hover {
+            background: var(--accent-hover);
+        }
         
-        /* Category Filter Bar (as in official site) */
+        /* Filter Bar */
         .filter-section {
             background: rgba(15, 23, 42, 0.6);
             border: 1px solid var(--card-border);
@@ -497,7 +436,7 @@ $htmlContent = @"
         .label-admission { color: var(--color-admission); }
 
         .instructions {
-            margin-top: 0.5rem;
+            margin-top: 1rem;
         }
         .step-list {
             list-style-position: inside;
@@ -610,28 +549,28 @@ $htmlContent = @"
 <div class="container">
     <header>
         <div class="badge-live">
-            <span class="pulse"></span> Live Auto-Synced Feed
+            <span class="pulse"></span> Live Auto-Synced Feeds
         </div>
-        <h1>Bogazici Academic Calendar</h1>
+        <h1>Bogazici Academic Calendar Feeds</h1>
         <p class="subtitle">
-            Official Bogazici University academic schedules, exam periods, and registration deadlines with 1-click auto-sync for Google Calendar, Apple Calendar, and Microsoft Outlook.
+            Official category-specific calendar feeds for Bogazici University. Copy any category link to subscribe in Google Calendar, Apple Calendar, or Outlook.
         </p>
     </header>
 
     <!-- Calendar Feeds Section -->
     <div class="card">
-        <h2 class="section-title">Available Calendar Feeds</h2>
+        <h2 class="section-title">Official Category Feeds</h2>
         <div class="grid-feeds" id="feeds-container">
             <!-- Dynamically populated via feeds metadata -->
         </div>
 
         <div class="instructions">
-            <h2 class="section-title" style="font-size: 1.1rem; margin-top: 1rem;">Subscription Instructions</h2>
+            <h2 class="section-title" style="font-size: 1.1rem; margin-top: 1rem;">How to Use the ICS Link</h2>
             <ol class="step-list">
-                <li><strong>Google Calendar:</strong> Click "Add to Google Calendar" to open Google Calendar and import the feed directly.</li>
-                <li><strong>Apple Calendar (iOS / macOS):</strong> Click "Add to Apple Calendar" to trigger the native calendar subscription dialog.</li>
-                <li><strong>Microsoft Outlook:</strong> Copy the .ics link and use "Add Calendar > Subscribe from web" in Outlook.</li>
-                <li><strong>Automatic Updates:</strong> Your calendar client will periodically pull schedule revisions made by the university.</li>
+                <li><strong>Google Calendar:</strong> Go to Other calendars (+) > From URL, paste the copied link, and click Add calendar.</li>
+                <li><strong>Apple Calendar (iPhone / Mac):</strong> Go to File > New Calendar Subscription, paste the link, and choose your auto-refresh frequency.</li>
+                <li><strong>Microsoft Outlook:</strong> Select Add Calendar > Subscribe from web, and paste the copied link.</li>
+                <li><strong>Automatic Sync:</strong> University schedule updates are automatically synced to your subscribed calendar.</li>
             </ol>
         </div>
     </div>
@@ -639,7 +578,7 @@ $htmlContent = @"
     <!-- Upcoming Events Preview with Interactive Filtering -->
     <div class="card">
         <div class="events-preview-header">
-            <h2 class="section-title" style="margin-bottom: 0;">Upcoming Events</h2>
+            <h2 class="section-title" style="margin-bottom: 0;">Upcoming Events Preview</h2>
             <span style="font-size: 0.85rem; color: var(--text-muted);">Last Synchronized: $nowStr</span>
         </div>
 
@@ -681,7 +620,7 @@ $htmlContent = @"
     </footer>
 </div>
 
-<div class="toast" id="toast">Link copied to clipboard</div>
+<div class="toast" id="toast">ICS link copied to clipboard</div>
 
 <script>
     const feeds = $feedsJson;
@@ -689,20 +628,6 @@ $htmlContent = @"
     
     function getFullIcsUrl(filename) {
         return window.location.href.split('#')[0].split('?')[0].replace(/index\.html$/, '') + filename;
-    }
-
-    function getWebcalUrl(filename) {
-        const icsUrl = getFullIcsUrl(filename);
-        return icsUrl.replace(/^https?:\/\//i, 'webcal://');
-    }
-
-    function subscribeGoogle(filename) {
-        const fullUrl = encodeURIComponent(getFullIcsUrl(filename));
-        window.open('https://calendar.google.com/calendar/render?cid=' + fullUrl, '_blank');
-    }
-
-    function subscribeApple(filename) {
-        window.location.href = getWebcalUrl(filename);
     }
 
     function copyIcsUrl(filename) {
@@ -732,19 +657,11 @@ $htmlContent = @"
                     </div>
                     <p>` + f.description + `</p>
                 </div>
-                <div class="btn-group">
-                    <button class="btn btn-google" onclick="subscribeGoogle('` + f.filename + `')">
-                        <i class="fa-brands fa-google"></i> Add to Google Calendar
+                <div class="url-box-container">
+                    <span class="url-display" id="url-` + f.filename + `">` + getFullIcsUrl(f.filename) + `</span>
+                    <button class="btn-copy" onclick="copyIcsUrl('` + f.filename + `')">
+                        <i class="fa-solid fa-copy"></i> Copy
                     </button>
-                    <button class="btn btn-apple" onclick="subscribeApple('` + f.filename + `')">
-                        <i class="fa-brands fa-apple"></i> Add to Apple Calendar
-                    </button>
-                    <button class="btn btn-copy" onclick="copyIcsUrl('` + f.filename + `')">
-                        <i class="fa-solid fa-copy"></i> Copy .ics Link
-                    </button>
-                    <div class="url-box">
-                        <span class="url-display" id="url-` + f.filename + `">` + getFullIcsUrl(f.filename) + `</span>
-                    </div>
                 </div>
             </div>
         `).join('');
@@ -813,4 +730,4 @@ $htmlContent = @"
 
 [System.IO.File]::WriteAllText((Join-Path $OutputDir "index.html"), $htmlContent, [System.Text.Encoding]::UTF8)
 
-Write-Host "Sync and English web UI with all 5 category filters completed successfully!"
+Write-Host "Sync completed successfully!"

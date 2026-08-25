@@ -10,7 +10,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:boun-academic-13480@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20271014
 DTEND;VALUE=DATE:20271015
 SUMMARY:Uluslararası Misafir öğrencilerin ve Uluslararası Değişim öğrencilerinin Bahar yarıyılı için son başvuru günü
@@ -22,7 +22,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/uluslararasi-misaf
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13469@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20270903
 DTEND;VALUE=DATE:20270904
 SUMMARY:Yurtiçi Misafir ve YÖK Özel öğrenci başvurusu için son gün
@@ -34,7 +34,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yurtici-misafir-ve
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13390@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20270825
 DTEND;VALUE=DATE:20270826
 SUMMARY:ÇAP ve yan dal programlarına başvuruların son günü
@@ -46,7 +46,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/cap-ve-yan-dal-pro
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13348@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20270818
 DTEND;VALUE=DATE:20270826
 SUMMARY:ÇAP ve yan dal programlarına başvuru dönemi
@@ -58,7 +58,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/cap-ve-yan-dal-pro
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13414@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20270802
 DTEND;VALUE=DATE:20270817
 SUMMARY:Merkezi puanla yatay geçiş başvuruları (YÖK tarafından belirlenen takvim)
@@ -70,7 +70,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/merkezi-puanla-yat
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13380@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20270706
 DTEND;VALUE=DATE:20270717
 SUMMARY:Kurum içi ve dışı yatay geçiş için başvuru dönemi (YÖK tarafından belirlenen takvim)
@@ -82,7 +82,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/kurum-ici-ve-disi-
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13301@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20270604
 DTEND;VALUE=DATE:20270605
 SUMMARY:2027-2028 Akademik yılında lisans programlarına yurt dışından öğrenci kabulü başvurusu için son gün 
@@ -94,7 +94,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/2027-2028-akademik
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13241@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20270414
 DTEND;VALUE=DATE:20270611
 SUMMARY:2027 Güz yarıyılı için I. öğretim lisansüstü programlarına başvuru dönemi
@@ -106,7 +106,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/2027-guz-yariyili-
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13227@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20270405
 DTEND;VALUE=DATE:20270605
 SUMMARY:2027-2028 Akademik yılında lisans programlarına yurt dışından öğrenci kabulü için başvuru dönemi
@@ -118,7 +118,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/2027-2028-akademik
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13225@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20270401
 DTEND;VALUE=DATE:20270611
 SUMMARY:2027 Güz yarıyılı için II. Öğretim Yüksek Lisans Programlarına başvuru dönemi
@@ -130,7 +130,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/2027-guz-yariyili-
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13175@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20270111
 DTEND;VALUE=DATE:20270112
 SUMMARY:Yurtiçi misafir öğrenci ve YÖK özel öğrenci başvurusu için son gün
@@ -142,7 +142,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yurtici-misafir-og
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13161@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20270103
 DTEND;VALUE=DATE:20270104
 SUMMARY:ÇAP ve yan dal programlarına başvuru için son gün
@@ -154,7 +154,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/cap-ve-yan-dal-pro
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13129@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20261222
 DTEND;VALUE=DATE:20270104
 SUMMARY:ÇAP ve yan dal programlarına başvuru dönemi
@@ -166,7 +166,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/cap-ve-yan-dal-pro
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13117@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20261214
 DTEND;VALUE=DATE:20261222
 SUMMARY:Bahar yarıyılı için lisansüstü programlara başvuru dönemi
@@ -178,7 +178,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/bahar-yariyili-ici
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-9242@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20261015
 SUMMARY:Uluslararası Misafir öğrencilerin ve Uluslararası Değişim öğrencilerinin Bahar yarıyılı için son başvuru günü
@@ -190,7 +190,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/uluslararasi-misaf
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-9239@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20260904
 DTEND;VALUE=DATE:20260905
 SUMMARY:Yurtiçi Misafir ve YÖK Özel öğrenci başvurusu için son gün
@@ -202,7 +202,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yurtici-misafir-ve
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-9209@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20260803
 DTEND;VALUE=DATE:20260818
 SUMMARY:Merkezi puanla yatay geçiş başvuruları (YÖK tarafından belirlenen takvim)
@@ -214,7 +214,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/merkezi-puanla-yat
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-9197@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20260714
 DTEND;VALUE=DATE:20260715
 SUMMARY:ÇAP ve yan dal programlarına başvuruların son günü
@@ -226,7 +226,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/cap-ve-yan-dal-pro
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-9193@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20260709
 DTEND;VALUE=DATE:20260717
 SUMMARY:Kurum içi ve dışı yatay geçiş için başvuru dönemi (YÖK tarafından belirlenen takvim)
@@ -238,7 +238,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/kurum-ici-ve-disi-
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13945@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260717
 SUMMARY:2026-2027 Akademik yılında lisans programlarına yurt dışından öğrenci kabulü için ikinci başvuru dönemi
@@ -250,7 +250,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/2026-2027-akademik
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-9176@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20260622
 DTEND;VALUE=DATE:20260715
 SUMMARY:ÇAP ve yan dal programlarına başvuru dönemi
@@ -262,7 +262,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/cap-ve-yan-dal-pro
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-9129@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20260415
 DTEND;VALUE=DATE:20260612
 SUMMARY:2026 Güz yarıyılı için I. öğretim lisansüstü programlarına başvuru dönemi
@@ -274,7 +274,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/2026-guz-yariyili-
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-9194@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20260406
 DTEND;VALUE=DATE:20260606
 SUMMARY:2026-2027 Akademik yılında lisans programlarına yurt dışından öğrenci kabulü için başvuru dönemi
@@ -286,7 +286,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/2026-2027-akademik
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-9122@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20260401
 DTEND;VALUE=DATE:20260612
 SUMMARY:2026 Güz yarıyılı için II. Öğretim Yüksek Lisans Programlarına başvuru dönemi
@@ -298,7 +298,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/2026-guz-yariyili-
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-9095@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20260129
 DTEND;VALUE=DATE:20260130
 SUMMARY:Yurtiçi misafir öğrenci ve YÖK özel öğrenci başvurusu için son gün
@@ -310,7 +310,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yurtici-misafir-og
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-9093@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20260129
 DTEND;VALUE=DATE:20260130
 SUMMARY:Kurum içi yatay geçiş kabulü alan öğrencilerin bölüm değişikliği için Fakülte Öğrenci İşleri sorumlularına başvuru günü
@@ -322,7 +322,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/kurum-ici-yatay-ge
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-9088@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20260122
 DTEND;VALUE=DATE:20260123
 SUMMARY:ÇAP ve yan dal programlarına başvuru için son gün
@@ -334,7 +334,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/cap-ve-yan-dal-pro
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-9072@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20260109
 DTEND;VALUE=DATE:20260123
 SUMMARY:ÇAP ve yan dal programlarına başvuru dönemi
@@ -346,7 +346,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/cap-ve-yan-dal-pro
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-9068@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20260102
 DTEND;VALUE=DATE:20260110
 SUMMARY:Bahar yarıyılı için lisansüstü programlara başvuru dönemi
@@ -358,7 +358,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/bahar-yariyili-ici
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-9005@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20250901
 DTEND;VALUE=DATE:20250902
 SUMMARY:Yurtiçi Misafir ve YÖK Özel öğrenci başvurusu için son gün
@@ -370,7 +370,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yurtici-misafir-ve
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-8978@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20250801
 DTEND;VALUE=DATE:20250816
 SUMMARY:Merkezi puanla yatay geçiş başvuruları (YÖK tarafından belirlenen takvim)
@@ -382,7 +382,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/merkezi-puanla-yat
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-8969@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20250716
 DTEND;VALUE=DATE:20250717
 SUMMARY:ÇAP ve yan dal programlarına başvuruların son günü
@@ -394,7 +394,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/cap-ve-yan-dal-pro
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-8965@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20250708
 DTEND;VALUE=DATE:20250717
 SUMMARY:2025-2026 Akademik yılında lisans programlarına yurt dışından öğrenci kabulü için başvuru dönemi (YÖK tarafından belirlenen takvim)
@@ -406,7 +406,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/2025-2026-akademik
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-8964@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20250708
 DTEND;VALUE=DATE:20250717
 SUMMARY:Kurum içi ve dışı yatay geçiş için başvuru dönemi (YÖK tarafından belirlenen takvim)
@@ -418,7 +418,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/kurum-ici-ve-disi-
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-8932@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20250610
 DTEND;VALUE=DATE:20250611
 SUMMARY:I. ve II. Öğretim lisansüstü programları başvurularının son günü
@@ -430,7 +430,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/i-ve-ii-ogretim-li
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-8903@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20250416
 DTEND;VALUE=DATE:20250611
 SUMMARY:2025 Güz yarıyılı için I. öğretim lisansüstü programlarına başvuru dönemi
@@ -442,7 +442,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/2025-guz-yariyili-
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-8896@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20250402
 DTEND;VALUE=DATE:20250611
 SUMMARY:2025 Güz yarıyılı için II. Öğretim Yüksek Lisans Programlarına başvuru dönemi
@@ -454,7 +454,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/2025-guz-yariyili-
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-8862@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20250130
 DTEND;VALUE=DATE:20250131
 SUMMARY:Yurtiçi misafir öğrenci ve YÖK özel öğrenci başvurusu için son gün
@@ -466,7 +466,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yurtici-misafir-og
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-8856@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20250123
 DTEND;VALUE=DATE:20250124
 SUMMARY:ÇAP ve yan dal programlarına başvuru için son gün
@@ -478,7 +478,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/cap-ve-yan-dal-pro
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-8836@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20250102
 DTEND;VALUE=DATE:20250110
 SUMMARY:Bahar yarıyılı için lisansüstü programlara başvuru dönemi

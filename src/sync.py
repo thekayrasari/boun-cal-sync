@@ -2,7 +2,7 @@
 """
 Bogazici University Academic Calendar Sync Script
 Fetches academic calendar from https://akademiktakvim.bogazici.edu.tr/
-Generates standard RFC 5545 compliant iCalendar (.ics) files and a web landing page.
+Generates category-specific RFC 5545 compliant iCalendar (.ics) files and a web landing page.
 Zero external dependencies - runs on standard Python 3.8+.
 """
 
@@ -20,51 +20,47 @@ USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTM
 
 TR_TZ = timezone(timedelta(hours=3))
 
-OFFICIAL_CATEGORIES = [
+# Exact 1-to-1 official category definitions mapped by university kat_id
+CATEGORIES = [
     {
-        "slug_en": "registration",
+        "kat_id": "29",
+        "slug": "registration",
         "slug_tr": "kayit",
-        "title_en": "Registration",
+        "title": "Registration",
         "title_tr": "Kayıt",
-        "description_en": "Course registration windows, advisor approvals, add/drop periods, and fee payment deadlines.",
-        "match_en": ["Registration"],
-        "match_tr": ["Kayıt"]
+        "description": "Course registration windows, advisor approvals, add/drop periods, and fee payment deadlines."
     },
     {
-        "slug_en": "administrative",
+        "kat_id": "24",
+        "slug": "administrative",
         "slug_tr": "idari",
-        "title_en": "Administrative",
+        "title": "Administrative",
         "title_tr": "İdari",
-        "description_en": "Administrative board meetings (ÜYK/FKK), official university deadlines, and department submissions.",
-        "match_en": ["Administrative"],
-        "match_tr": ["İdari"]
+        "description": "Administrative board meetings (ÜYK/FKK), official university deadlines, and department submissions."
     },
     {
-        "slug_en": "instruction",
+        "kat_id": "23",
+        "slug": "instruction",
         "slug_tr": "egitim",
-        "title_en": "Instruction & Exams",
+        "title": "Instruction & Exams",
         "title_tr": "Eğitim-Öğretim",
-        "description_en": "First and last days of classes, midterm & final exam periods, grade submissions, and holidays.",
-        "match_en": ["Instruction"],
-        "match_tr": ["Eğitim-Öğretim", "Eğitim"]
+        "description": "First and last days of classes, midterm & final exam periods, grade submissions, and semester dates."
     },
     {
-        "slug_en": "sfl",
+        "kat_id": "25",
+        "slug": "sfl",
         "slug_tr": "yadyok",
-        "title_en": "School of Foreign Languages (SFL / YADYOK)",
+        "title": "School of Foreign Languages (SFL / YADYOK)",
         "title_tr": "YADYOK",
-        "description_en": "BUEPT English proficiency exams, placement tests, preparatory classes terms, and result announcements.",
-        "match_en": ["SFL"],
-        "match_tr": ["YADYOK"]
+        "description": "BUEPT English proficiency exams, placement tests, preparatory classes terms, and result announcements."
     },
     {
-        "slug_en": "admission",
+        "kat_id": "28",
+        "slug": "admission",
         "slug_tr": "basvuru",
-        "title_en": "Admission & Applications",
+        "title": "Admission & Applications",
         "title_tr": "Başvuru",
-        "description_en": "Undergraduate/graduate applications, double major/minor transfers, and exchange program deadlines.",
-        "match_en": ["Admission"],
-        "match_tr": ["Başvuru"]
+        "description": "Undergraduate/graduate applications, double major/minor transfers, and exchange program deadlines."
     }
 ]
 
@@ -186,10 +182,9 @@ def generate_ics(events: list, cal_name: str, cal_desc: str, lang: str = "en") -
 
 def generate_html_landing_page(
     events_en: list, 
-    events_tr: list,
     feed_metadata: list
 ) -> str:
-    """Generate a clean, modern, zero-emoji English landing page with category filters."""
+    """Generate a clean, modern English landing page with ONLY ICS copy links."""
     now_str = datetime.now(TR_TZ).strftime("%B %d, %Y %H:%M (UTC+3)")
     
     sorted_en = sorted(events_en, key=lambda x: x.get("start_date", ""))
@@ -207,8 +202,8 @@ def generate_html_landing_page(
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Bogazici University Academic Calendar Sync</title>
-    <meta name="description" content="Auto-synced Bogazici University Academic Calendar feeds for Google Calendar, Apple Calendar, and Microsoft Outlook.">
+    <title>Bogazici University Academic Calendar Feeds</title>
+    <meta name="description" content="Official Bogazici University Academic Calendar category-specific ICS feeds for Google Calendar, Apple Calendar, and Microsoft Outlook.">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
@@ -246,7 +241,7 @@ def generate_html_landing_page(
             line-height: 1.6;
         }}
         .container {{
-            max-width: 1120px;
+            max-width: 1080px;
             margin: 0 auto;
             padding: 2.5rem 1.5rem;
             width: 100%;
@@ -350,66 +345,43 @@ def generate_html_landing_page(
             margin-bottom: 1.25rem;
             min-height: 2.6em;
         }}
-        .btn-group {{
-            display: flex;
-            flex-direction: column;
-            gap: 0.5rem;
-        }}
-        .btn {{
-            display: inline-flex;
-            align-items: center;
-            justify-content: center;
-            gap: 0.5rem;
-            padding: 0.6rem 1rem;
-            border-radius: 0.5rem;
-            font-size: 0.875rem;
-            font-weight: 600;
-            text-decoration: none;
-            cursor: pointer;
-            transition: all 0.2s ease;
-            border: none;
-        }}
-        .btn-google {{
-            background: #ea4335;
-            color: white;
-        }}
-        .btn-google:hover {{
-            background: #d33426;
-        }}
-        .btn-apple {{
-            background: #334155;
-            color: white;
-        }}
-        .btn-apple:hover {{
-            background: #475569;
-        }}
-        .btn-copy {{
-            background: rgba(255, 255, 255, 0.08);
-            color: #cbd5e1;
-            border: 1px solid rgba(255, 255, 255, 0.15);
-        }}
-        .btn-copy:hover {{
-            background: rgba(255, 255, 255, 0.15);
-            color: white;
-        }}
-        .url-box {{
-            display: flex;
-            align-items: center;
+        .url-box-container {{
             background: #0f172a;
             border: 1px solid #334155;
-            border-radius: 0.375rem;
-            padding: 0.4rem 0.6rem;
-            margin-top: 0.5rem;
+            border-radius: 0.5rem;
+            padding: 0.5rem 0.75rem;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            gap: 0.5rem;
         }}
         .url-display {{
-            font-size: 0.75rem;
+            font-size: 0.8rem;
             color: #94a3b8;
             word-break: break-all;
             font-family: monospace;
             flex: 1;
         }}
+        .btn-copy {{
+            background: var(--accent);
+            color: white;
+            padding: 0.45rem 0.85rem;
+            border-radius: 0.375rem;
+            font-size: 0.8rem;
+            font-weight: 600;
+            border: none;
+            cursor: pointer;
+            transition: background 0.2s ease;
+            white-space: nowrap;
+            display: inline-flex;
+            align-items: center;
+            gap: 0.35rem;
+        }}
+        .btn-copy:hover {{
+            background: var(--accent-hover);
+        }}
         
-        /* Category Filter Bar (as in official site) */
+        /* Filter Bar */
         .filter-section {{
             background: rgba(15, 23, 42, 0.6);
             border: 1px solid var(--card-border);
@@ -468,7 +440,7 @@ def generate_html_landing_page(
         .label-admission {{ color: var(--color-admission); }}
 
         .instructions {{
-            margin-top: 0.5rem;
+            margin-top: 1rem;
         }}
         .step-list {{
             list-style-position: inside;
@@ -581,28 +553,28 @@ def generate_html_landing_page(
 <div class="container">
     <header>
         <div class="badge-live">
-            <span class="pulse"></span> Live Auto-Synced Feed
+            <span class="pulse"></span> Live Auto-Synced Feeds
         </div>
-        <h1>Bogazici Academic Calendar</h1>
+        <h1>Bogazici Academic Calendar Feeds</h1>
         <p class="subtitle">
-            Official Bogazici University academic schedules, exam periods, and registration deadlines with 1-click auto-sync for Google Calendar, Apple Calendar, and Microsoft Outlook.
+            Official category-specific calendar feeds for Bogazici University. Copy any category link to subscribe in Google Calendar, Apple Calendar, or Outlook.
         </p>
     </header>
 
     <!-- Calendar Feeds Section -->
     <div class="card">
-        <h2 class="section-title">Available Calendar Feeds</h2>
+        <h2 class="section-title">Official Category Feeds</h2>
         <div class="grid-feeds" id="feeds-container">
             <!-- Dynamically populated via feeds metadata -->
         </div>
 
         <div class="instructions">
-            <h2 class="section-title" style="font-size: 1.1rem; margin-top: 1rem;">Subscription Instructions</h2>
+            <h2 class="section-title" style="font-size: 1.1rem; margin-top: 1rem;">How to Use the ICS Link</h2>
             <ol class="step-list">
-                <li><strong>Google Calendar:</strong> Click "Add to Google Calendar" to open Google Calendar and import the feed directly.</li>
-                <li><strong>Apple Calendar (iOS / macOS):</strong> Click "Add to Apple Calendar" to trigger the native calendar subscription dialog.</li>
-                <li><strong>Microsoft Outlook:</strong> Copy the .ics link and use "Add Calendar > Subscribe from web" in Outlook.</li>
-                <li><strong>Automatic Updates:</strong> Your calendar client will periodically pull schedule revisions made by the university.</li>
+                <li><strong>Google Calendar:</strong> Go to Other calendars (+) > From URL, paste the copied link, and click Add calendar.</li>
+                <li><strong>Apple Calendar (iPhone / Mac):</strong> Go to File > New Calendar Subscription, paste the link, and choose your auto-refresh frequency.</li>
+                <li><strong>Microsoft Outlook:</strong> Select Add Calendar > Subscribe from web, and paste the copied link.</li>
+                <li><strong>Automatic Sync:</strong> University schedule updates are automatically synced to your subscribed calendar.</li>
             </ol>
         </div>
     </div>
@@ -610,7 +582,7 @@ def generate_html_landing_page(
     <!-- Upcoming Events Preview with Interactive Filtering -->
     <div class="card">
         <div class="events-preview-header">
-            <h2 class="section-title" style="margin-bottom: 0;">Upcoming Events</h2>
+            <h2 class="section-title" style="margin-bottom: 0;">Upcoming Events Preview</h2>
             <span style="font-size: 0.85rem; color: var(--text-muted);">Last Synchronized: {now_str}</span>
         </div>
 
@@ -652,7 +624,7 @@ def generate_html_landing_page(
     </footer>
 </div>
 
-<div class="toast" id="toast">Link copied to clipboard</div>
+<div class="toast" id="toast">ICS link copied to clipboard</div>
 
 <script>
     const feeds = {feeds_json};
@@ -660,20 +632,6 @@ def generate_html_landing_page(
     
     function getFullIcsUrl(filename) {{
         return window.location.href.split('#')[0].split('?')[0].replace(/index\.html$/, '') + filename;
-    }}
-
-    function getWebcalUrl(filename) {{
-        const icsUrl = getFullIcsUrl(filename);
-        return icsUrl.replace(/^https?:\/\//i, 'webcal://');
-    }}
-
-    function subscribeGoogle(filename) {{
-        const fullUrl = encodeURIComponent(getFullIcsUrl(filename));
-        window.open('https://calendar.google.com/calendar/render?cid=' + fullUrl, '_blank');
-    }}
-
-    function subscribeApple(filename) {{
-        window.location.href = getWebcalUrl(filename);
     }}
 
     function copyIcsUrl(filename) {{
@@ -703,19 +661,11 @@ def generate_html_landing_page(
                     </div>
                     <p>${{f.description}}</p>
                 </div>
-                <div class="btn-group">
-                    <button class="btn btn-google" onclick="subscribeGoogle('${{f.filename}}')">
-                        <i class="fa-brands fa-google"></i> Add to Google Calendar
+                <div class="url-box-container">
+                    <span class="url-display" id="url-${{f.filename}}">${{getFullIcsUrl(f.filename)}}</span>
+                    <button class="btn-copy" onclick="copyIcsUrl('${{f.filename}}')">
+                        <i class="fa-solid fa-copy"></i> Copy
                     </button>
-                    <button class="btn btn-apple" onclick="subscribeApple('${{f.filename}}')">
-                        <i class="fa-brands fa-apple"></i> Add to Apple Calendar
-                    </button>
-                    <button class="btn btn-copy" onclick="copyIcsUrl('${{f.filename}}')">
-                        <i class="fa-solid fa-copy"></i> Copy .ics Link
-                    </button>
-                    <div class="url-box">
-                        <span class="url-display" id="url-${{f.filename}}">${{getFullIcsUrl(f.filename)}}</span>
-                    </div>
                 </div>
             </div>
         `).join('');
@@ -802,67 +752,35 @@ def main():
         print("Warning: No events fetched. Check network or API.")
         return
 
-    # Generate main full feeds
-    ics_en = generate_ics(
-        events_en,
-        cal_name="Bogazici University Academic Calendar",
-        cal_desc="Official Bogazici University Academic Calendar (Auto-synced)",
-        lang="en"
-    )
-    with open(output_dir / "academic-en.ics", "w", encoding="utf-8") as f:
-        f.write(ics_en)
-    print(f"Saved {output_dir / 'academic-en.ics'}")
+    feed_metadata = []
 
-    ics_tr = generate_ics(
-        events_tr, 
-        cal_name="Bogazici University Academic Calendar (TR)",
-        cal_desc="Official Bogazici University Academic Calendar (TR)",
-        lang="tr"
-    )
-    with open(output_dir / "academic.ics", "w", encoding="utf-8") as f:
-        f.write(ics_tr)
-    print(f"Saved {output_dir / 'academic.ics'}")
+    # Generate exact 1-to-1 category-specific feeds (no complete feed)
+    for cat in CATEGORIES:
+        kat_id = cat["kat_id"]
 
-    feed_metadata = [
-        {
-            "filename": "academic-en.ics",
-            "title": "Complete Academic Calendar (English)",
-            "description": "Full calendar feed containing all academic, administrative, exam, and registration dates.",
-            "count": len(events_en)
-        },
-        {
-            "filename": "academic.ics",
-            "title": "Complete Academic Calendar (Turkish)",
-            "description": "Original Turkish calendar feed with official event descriptions and categories.",
-            "count": len(events_tr)
-        }
-    ]
-
-    # Generate all 5 official category-specific feeds
-    for cat in OFFICIAL_CATEGORIES:
-        # English feed
-        filtered_en = [e for e in events_en if any(c.lower() in e.get("kategoriadi", "").lower() for c in cat["match_en"])]
+        # English Category Feed
+        filtered_en = [e for e in events_en if str(e.get("kat_id", "")) == kat_id]
         if filtered_en:
             cat_ics_en = generate_ics(
                 filtered_en,
-                cal_name=f"Bogazici Academic Calendar - {cat['title_en']}",
-                cal_desc=f"Bogazici University {cat['title_en']} Calendar",
+                cal_name=f"Bogazici Academic Calendar - {cat['title']}",
+                cal_desc=f"Bogazici University {cat['title']} Calendar",
                 lang="en"
             )
-            fn_en = f"academic-{cat['slug_en']}.ics"
+            fn_en = f"{cat['slug']}.ics"
             with open(output_dir / fn_en, "w", encoding="utf-8") as f:
                 f.write(cat_ics_en)
             print(f"Saved category feed: {output_dir / fn_en} ({len(filtered_en)} events)")
 
             feed_metadata.append({
                 "filename": fn_en,
-                "title": cat["title_en"],
-                "description": cat["description_en"],
+                "title": cat["title"],
+                "description": cat["description"],
                 "count": len(filtered_en)
             })
 
-        # Turkish feed
-        filtered_tr = [e for e in events_tr if any(c.lower() in e.get("kategoriadi", "").lower() for c in cat["match_tr"])]
+        # Turkish Category Feed
+        filtered_tr = [e for e in events_tr if str(e.get("kat_id", "")) == kat_id]
         if filtered_tr:
             cat_ics_tr = generate_ics(
                 filtered_tr,
@@ -870,10 +788,10 @@ def main():
                 cal_desc=f"Bogazici Universitesi {cat['title_tr']} Takvimi",
                 lang="tr"
             )
-            fn_tr = f"academic-{cat['slug_tr']}.ics"
+            fn_tr = f"{cat['slug_tr']}.ics"
             with open(output_dir / fn_tr, "w", encoding="utf-8") as f:
                 f.write(cat_ics_tr)
-            print(f"Saved category feed (TR): {output_dir / fn_tr} ({len(filtered_tr)} events)")
+            print(f"Saved Turkish category feed: {output_dir / fn_tr} ({len(filtered_tr)} events)")
 
     # Save JSON files
     with open(output_dir / "events-en.json", "w", encoding="utf-8") as f:
@@ -882,7 +800,7 @@ def main():
         json.dump(events_tr, f, ensure_ascii=False, indent=2)
 
     # Generate HTML landing page
-    html_content = generate_html_landing_page(events_en, events_tr, feed_metadata)
+    html_content = generate_html_landing_page(events_en, feed_metadata)
     with open(output_dir / "index.html", "w", encoding="utf-8") as f:
         f.write(html_content)
     print(f"Saved landing page {output_dir / 'index.html'}")

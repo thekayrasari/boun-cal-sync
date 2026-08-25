@@ -10,7 +10,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:boun-academic-13481@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20270918
 DTEND;VALUE=DATE:20270919
 SUMMARY:Commencement Ceremony for Second Education Masters Programs (End of the Summer Term)
@@ -22,7 +22,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/commencement-cerem
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-14221@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20270909
 DTEND;VALUE=DATE:20270910
 SUMMARY:Online registration date for students admitted off the wait-list to major and minor programs (10:00 – 23:59)
@@ -34,7 +34,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-registratio
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13476@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20270908
 DTEND;VALUE=DATE:20270910
 SUMMARY:Registration of students who are placed in undergraduate programs on waiting list within the scope of accepting students from abroad
@@ -46,7 +46,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-of-st
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-14220@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20270908
 DTEND;VALUE=DATE:20270909
 SUMMARY:Online registration date for students admitted off the main list to major and minor programs (10:00 – 23:59)
@@ -58,7 +58,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-registratio
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-14218@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20270907
 DTEND;VALUE=DATE:20270908
 SUMMARY:Deadline for Faculties to send admission acceptance decisions on double-major\, minor to the Faculty Student Affairs via the online application system.
@@ -70,7 +70,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-facul
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13472@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20270903
 DTEND;VALUE=DATE:20270908
 SUMMARY:Registration of students who are placed in undergraduate programs within the scope of accepting students from abroad
@@ -82,7 +82,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-of-st
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13468@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20270902
 DTEND;VALUE=DATE:20270903
 SUMMARY:Registration of transfer students accepted with central points
@@ -94,7 +94,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-of-tr
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13464@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20270830
 DTEND;VALUE=DATE:20270831
 SUMMARY:Victory Day (Holiday)
@@ -106,7 +106,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/victory-day-holida
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13462@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20270827
 DTEND;VALUE=DATE:20270828
 SUMMARY:Announcement of transfer acceptances with central points
@@ -118,7 +118,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/announcement-of-tr
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13460@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20270827
 DTEND;VALUE=DATE:20270828
 SUMMARY:Deadline for sending date changes of courses to the Registrar in the 2027/2028 Fall
@@ -130,7 +130,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-sendi
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13456@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20270825
 DTEND;VALUE=DATE:20270826
 SUMMARY:Deadline for the University Executive Board meeting for central transfer admission decisions
@@ -142,7 +142,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-the-u
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13454@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20270820
 DTEND;VALUE=DATE:20270821
 SUMMARY:Deadline for the meeting of the Commission to evaluate the applicants with the central transfer score
@@ -154,7 +154,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-the-m
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13436@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20270813
 DTEND;VALUE=DATE:20270814
 SUMMARY:Application date for students who have been accepted as internal transfer students from the wait list to the Faculty Student Affairs officers for department change
@@ -166,7 +166,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/application-date-f
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13440@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20270813
 DTEND;VALUE=DATE:20270814
 SUMMARY:Application date for students admitted off the wait-list to major and minor programs to the Faculty Student Affairs officers
@@ -178,7 +178,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/application-date-f
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13438@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20270813
 DTEND;VALUE=DATE:20270814
 SUMMARY:Registration day for students accepted from the wait list through external transfer
@@ -190,7 +190,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-day-f
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13442@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20270813
 DTEND;VALUE=DATE:20270814
 SUMMARY:SFL Summer Term Program I classes end
@@ -202,7 +202,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/sfl-summer-term-pr
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13426@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20270811
 DTEND;VALUE=DATE:20270812
 SUMMARY:Application date for students who have been accepted as internal transfer students from the main list to the Faculty Student Affairs officers for department change
@@ -214,7 +214,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/application-date-f
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13419@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20270806
 DTEND;VALUE=DATE:20270807
 SUMMARY:SFL Summer Term Program I-II classes end
@@ -226,7 +226,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/sfl-summer-term-pr
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13417@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20270804
 DTEND;VALUE=DATE:20270805
 SUMMARY:Deadline for notification of acceptance decisions for internal and external horizontal transfers to the Faculty Student Affairs Offices and the Directorate of Student Affairs
@@ -238,7 +238,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-notif
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13395@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20270721
 DTEND;VALUE=DATE:20270722
 SUMMARY:Deadline for sending applications for internal and external transfers to Faculties
@@ -250,7 +250,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-sendi
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13393@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20270715
 DTEND;VALUE=DATE:20270716
 SUMMARY:Democracy and Freedom Day (Holiday)
@@ -262,7 +262,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/democracy-and-free
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13387@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20270714
 DTEND;VALUE=DATE:20270715
 SUMMARY:Deadline for Institute Executive Committees to send admission decisions to Graduate Programs for 2027 Fall term to the Registrar
@@ -274,7 +274,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-insti
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13371@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20270708
 DTEND;VALUE=DATE:20270709
 SUMMARY:Online Consent Requests Close for Students (Add/Drop Period) (20:00)
@@ -286,7 +286,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-consent-req
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13389@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20270708
 DTEND;VALUE=DATE:20270709
 SUMMARY:Announcement to send admission decisions to undergraduate programs from abroad
@@ -298,7 +298,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/announcement-to-se
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13369@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20270708
 DTEND;VALUE=DATE:20270709
 SUMMARY:Online payment system closes (16:00)
@@ -310,7 +310,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-payment-sys
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13385@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20270707
 DTEND;VALUE=DATE:20270708
 SUMMARY:Deadline for international visitor students and exchange students admission decisions to Registrar and Office of International Relations
@@ -322,7 +322,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-inter
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13383@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20270707
 DTEND;VALUE=DATE:20270708
 SUMMARY:Deadline for Faculties/Schools/Institutes to send proposals for curriculum change\, introducing a new curriculum\, offering a new course\, changes in course name\, code and/or content (to be put in effect starting 2028 Spring term) to the Rectorate
@@ -334,7 +334,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-facul
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13363@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20270630
 DTEND;VALUE=DATE:20270701
 SUMMARY:Deadline for University Executive Board meeting admission decisions to undergraduate programs from abroad
@@ -346,7 +346,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-unive
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13323@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20270629
 DTEND;VALUE=DATE:20270630
 SUMMARY:Deadline for Commission meeting admission decisions to undergraduate programs from abroad
@@ -358,7 +358,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-commi
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13359@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20270628
 DTEND;VALUE=DATE:20270629
 SUMMARY:Deadline for sending the list of instructors with foreign nationalities to be employed in the 2028 Spring term to the Rectorate
@@ -370,7 +370,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-sendi
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13341@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20270628
 DTEND;VALUE=DATE:20270629
 SUMMARY:Online Consent Requests Close for Students (20:00)
@@ -382,7 +382,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-consent-req
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13339@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20270628
 DTEND;VALUE=DATE:20270629
 SUMMARY:Online payment system closes (16:00)
@@ -394,7 +394,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-payment-sys
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13313@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20270626
 DTEND;VALUE=DATE:20270627
 SUMMARY:Deadline for sending English Proficiency Exam (BUEPT) results to the Registrar
@@ -406,7 +406,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-sendi
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13357@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20270625
 DTEND;VALUE=DATE:20270626
 SUMMARY:Deadline to send admission decisions to undergraduate programs from abroad to the Rectorate
@@ -418,7 +418,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-to-send-a
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13333@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20270617
 DTEND;VALUE=DATE:20270618
 SUMMARY:Deadline for Graduate Programs to send 2026 Fall admission decisions to Institutes
@@ -430,7 +430,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-gradu
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13315@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20270611
 DTEND;VALUE=DATE:20270612
 SUMMARY:Deadline for sending applications to undergraduate programs from abroad to the Faculties
@@ -442,7 +442,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-sendi
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13306@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20270610
 DTEND;VALUE=DATE:20270611
 SUMMARY:Deadline applications for graduate programs for 2027 Fall term
@@ -454,7 +454,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-applicati
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13300@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20270604
 DTEND;VALUE=DATE:20270605
 SUMMARY:Deadline for international exchange and visitor students applications for Fall term
@@ -466,7 +466,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-inter
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13286@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20270519
 DTEND;VALUE=DATE:20270520
 SUMMARY:Commemoration of Atatürk\, Youth and Sports Day (Holiday)
@@ -478,7 +478,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/commemoration-of-a
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13284@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20270516
 DTEND;VALUE=DATE:20270520
 SUMMARY:Religious Holiday
@@ -490,7 +490,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/religious-holiday/
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13282@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20270515
 DTEND;VALUE=DATE:20270516
 SUMMARY:Religious Holiday (After 13:00)
@@ -502,7 +502,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/religious-holiday-
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13355@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20270512
 DTEND;VALUE=DATE:20270513
 SUMMARY:Deadline for Executive Committees to make graduation decisions
@@ -514,7 +514,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-execu
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13267@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20270507
 DTEND;VALUE=DATE:20270508
 SUMMARY:Deadline for sending the Registrar the minimum admission criteria (GPA\, etc.) and departmental exam dates for internal\, external transfers and minor programs and applications to double-major programs for 2027 Fall term
@@ -526,7 +526,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-sendi
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13304@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20270504
 DTEND;VALUE=DATE:20270505
 SUMMARY:Meeting of Excuse Commission (14:00)
@@ -538,7 +538,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/meeting-of-excuse-
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13259@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20270503
 DTEND;VALUE=DATE:20270504
 SUMMARY:Deadline for Faculties/Schools/Institutes to send 2027 Fall term course schedule to the Registrar
@@ -550,7 +550,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-facul
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13257@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20270501
 DTEND;VALUE=DATE:20270502
 SUMMARY:Labor Day (Holiday)
@@ -562,7 +562,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/labor-day-holiday/
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13253@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20270423
 DTEND;VALUE=DATE:20270424
 SUMMARY:National Sovereignty and Children's Day (Holiday)
@@ -574,7 +574,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/national-sovereign
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13234@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20270412
 DTEND;VALUE=DATE:20270413
 SUMMARY:Deadline for Executive Graduate Programs to send Summer term course schedule to the Registrar
@@ -586,7 +586,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-execu
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13271@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20270409
 DTEND;VALUE=DATE:20270410
 SUMMARY:Online Consent Requests Close for Students (Pre-registration for summer term) (16:00)
@@ -598,7 +598,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-consent-req
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13273@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20270409
 DTEND;VALUE=DATE:20270410
 SUMMARY:Online Consent Approval Close for Instructors (Pre-registration for summer term) (18:00)
@@ -610,7 +610,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-consent-app
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13251@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20270326
 DTEND;VALUE=DATE:20270327
 SUMMARY:Deadline for Institute Directorates to notify the Institute Student Affairs officers and the Registrar's Office about section changes for thesis courses (690\, 790)
@@ -622,7 +622,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-insti
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13248@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20270326
 DTEND;VALUE=DATE:20270327
 SUMMARY:Deadline for Faculties/Schools/Institutes to apply to University Executive Committee for changes in final exam dates for 2026 Spring term
@@ -634,7 +634,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-facul
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13224@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20270325
 DTEND;VALUE=DATE:20270326
 SUMMARY:Deadline for sending the 2027 Fall term schedule for mass courses to the Registrar
@@ -646,7 +646,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-sendi
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13240@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20270323
 DTEND;VALUE=DATE:20270324
 SUMMARY:Student consultations with academic advisors
@@ -658,7 +658,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/student-consultati
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13230@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20270322
 DTEND;VALUE=DATE:20270327
 SUMMARY:Course withdrawal period
@@ -670,7 +670,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/course-withdrawal-
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13222@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20270319
 DTEND;VALUE=DATE:20270320
 SUMMARY:Deadline for Faculties/Schools/Institutes to send proposals for curriculum change\, introducing a new curriculum\, offering a new course\, changes in course name\, code and/or content (to be put in effect starting 2027 Fall term) to the Rectorate
@@ -682,7 +682,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-facul
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13236@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20270315
 DTEND;VALUE=DATE:20270316
 SUMMARY:Announcement of the courses to be opened by the Summer Term Office
@@ -694,7 +694,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/announcement-of-th
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-14214@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20270127
 DTEND;VALUE=DATE:20270128
 SUMMARY:Online Consent Requests Close for Students Add/Drop (14:00)
@@ -706,7 +706,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-consent-req
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13214@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20270127
 DTEND;VALUE=DATE:20270128
 SUMMARY:Online Consent Approval Close for Instructors Add/Drop (21:00)
@@ -718,7 +718,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-consent-app
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13158@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20270121
 DTEND;VALUE=DATE:20270122
 SUMMARY:Deadline for sending the minimum application criteria for graduate programs for 2027-2028 academic year to the Registrar
@@ -730,7 +730,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-sendi
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13160@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20270121
 DTEND;VALUE=DATE:20270122
 SUMMARY:Deadline for sending the admission quota and departmental exam date for graduate programs to the Registrar in the 2027 Fall term
@@ -742,7 +742,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-sendi
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13204@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20270116
 DTEND;VALUE=DATE:20270117
 SUMMARY:Registration system closes to advisors (23:59)
@@ -754,7 +754,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-syste
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13142@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20270115
 DTEND;VALUE=DATE:20270116
 SUMMARY:Deadline for sending the list of instructors with foreign nationalities to be employed in the Summer term to the Rectorate
@@ -766,7 +766,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-sendi
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13212@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20270115
 DTEND;VALUE=DATE:20270116
 SUMMARY:Online Consent Requests Close for Students (14:00)
@@ -778,7 +778,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-consent-req
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13196@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20270114
 DTEND;VALUE=DATE:20270115
 SUMMARY:Student consultations with academic advisors
@@ -790,7 +790,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/student-consultati
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13190@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20270113
 DTEND;VALUE=DATE:20270116
 SUMMARY:Online Registration Period
@@ -802,7 +802,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-registratio
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-14212@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20270112
 DTEND;VALUE=DATE:20270113
 SUMMARY:Application date for students who have been accepted on waiting list for internal transfer to the Faculty Student Affairs for a change of department
@@ -814,7 +814,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/application-date-f
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13186@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20270112
 DTEND;VALUE=DATE:20270113
 SUMMARY:Deadline for entry of class quotas by academic units (17:00)
@@ -826,7 +826,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-entry
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13174@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20270111
 DTEND;VALUE=DATE:20270112
 SUMMARY:Application date for students who have been accepted for internal transfer to the Faculty Student Affairs for a change of department
@@ -838,7 +838,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/application-date-f
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13184@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20270110
 DTEND;VALUE=DATE:20270111
 SUMMARY:Online registration date for students admitted off the wait-list to major and minor programs (10:00 – 23:59)
@@ -850,7 +850,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-registratio
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13178@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20270109
 DTEND;VALUE=DATE:20270110
 SUMMARY:Online registration date for students admitted off the main list to major and minor programs (10:00 – 23:59)
@@ -862,7 +862,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-registratio
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-14210@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20270108
 DTEND;VALUE=DATE:20270109
 SUMMARY:Deadline for Faculties to send admission acceptance decisions on double-major\, minor to the Faculty Student Affairs via the online application system.
@@ -874,7 +874,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-facul
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13168@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20270108
 DTEND;VALUE=DATE:20270109
 SUMMARY:Deadline for Faculties to send admission decisions on internal transfer to the Faculty Student Affairs officers and Deadline for Institutes to send admission decisions graduate programs to the Registrar
@@ -886,7 +886,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-facul
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13122@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20270104
 DTEND;VALUE=DATE:20270105
 SUMMARY:Deadline for sending the list of instructors with foreign nationalities to be employed in the 2027 Fall term to the Rectorate
@@ -898,7 +898,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-sendi
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13120@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20270101
 DTEND;VALUE=DATE:20270102
 SUMMARY:New Year (Holiday)
@@ -910,7 +910,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/new-year-holiday/1
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13163@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
 SUMMARY:Deadline for sending English Proficiency Exam (BUEPT) results to the Registrar (14:00) 
@@ -922,7 +922,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-sendi
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13150@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20261228
 DTEND;VALUE=DATE:20261231
 SUMMARY:Applications period for internal transfer
@@ -934,7 +934,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/applications-perio
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13136@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20261223
 DTEND;VALUE=DATE:20261224
 SUMMARY:Deadline for Graduate Programs to send admission decisions to Institutes
@@ -946,7 +946,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-gradu
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13128@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20261222
 DTEND;VALUE=DATE:20261223
 SUMMARY:Meeting of Excuse Commission (13:30)
@@ -958,7 +958,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/meeting-of-excuse-
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13156@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20261216
 DTEND;VALUE=DATE:20261217
 SUMMARY:Deadline for sending date changes of courses to the Registrar in the 2026/2027 Spring
@@ -970,7 +970,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-sendi
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13100@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
 SUMMARY:Deadline for sending the Summer Term course schedule to the Registrar
@@ -982,7 +982,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-sendi
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13098@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:Deadline for leave of absence requests
@@ -994,7 +994,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-leave
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13091@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:Deadline for notifying the Registrar and the Office of the General Coordinator for International Relations of the admission decisions for international visiting students and international exchange students
@@ -1006,7 +1006,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-notif
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13084@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 SUMMARY:Deadline for applying to the University Executive Committee for changes in final exam dates to the Rectorate
@@ -1018,7 +1018,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-apply
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13087@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 SUMMARY:Deadline for Institute Directorates to notify the Institute Student Affairs officers and the Registrar about section changes for thesis courses (690\, 790)
@@ -1030,7 +1030,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-insti
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13080@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261111
 SUMMARY:Student consultations with academic advisors
@@ -1042,7 +1042,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/student-consultati
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13060@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261111
 SUMMARY:Atatürk Memorial Day
@@ -1054,7 +1054,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/ataturk-memorial-d
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13076@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20261109
 DTEND;VALUE=DATE:20261114
 SUMMARY:Course withdrawal period
@@ -1066,7 +1066,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/course-withdrawal-
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13064@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20261103
 DTEND;VALUE=DATE:20261104
 SUMMARY:Deadline for Faculties/Schools/Institutes to send Spring term all courses schedule to the Registrar
@@ -1078,7 +1078,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-facul
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13054@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20261029
 DTEND;VALUE=DATE:20251030
 SUMMARY:Republic Day (Holiday)
@@ -1090,7 +1090,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/republic-day-holid
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13052@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
 SUMMARY:Republic Day after 1 p.m. (Holiday)
@@ -1102,7 +1102,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/republic-day-after
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13062@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20261027
 DTEND;VALUE=DATE:20261028
 SUMMARY:Deadline for sending the minimum application criteria and quota for internal transfers and applications to double-major programs and minor programs for Spring term to the Registrar
@@ -1114,7 +1114,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-sendi
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13056@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20251017
 SUMMARY:Deadline for sending the admission quota and departmental exam date for graduate programs to the Registrar (2027 Spring)
@@ -1126,7 +1126,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-sendi
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-12099@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20261015
 SUMMARY:Deadline for international exchange and visitor students applications for Spring term
@@ -1138,7 +1138,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-inter
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13050@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20261007
 DTEND;VALUE=DATE:20261008
 SUMMARY:Deadline for sending the spring term schedule for mass courses to the Registrar
@@ -1150,7 +1150,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-sendi
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13044@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
 SUMMARY:Online Consent Approval Close for Instructors (Add/Drop Period) (21:00)
@@ -1162,7 +1162,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-consent-app
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13040@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
 SUMMARY:Online payment system closes (17:00)
@@ -1174,7 +1174,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-payment-sys
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13042@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
 SUMMARY:Online Consent Requests Close for Students (Add/Drop Period) (14:00)
@@ -1186,7 +1186,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-consent-req
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13038@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20260929
 SUMMARY:Student consultations with academic advisors
@@ -1198,7 +1198,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/student-consultati
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-12098@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20260920
 SUMMARY:Commencement Ceremony for Second Education Masters Programs (End of the Summer Term)
@@ -1210,7 +1210,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/commencement-cerem
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13020@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260919
 SUMMARY:Registration system closes to advisors (23:59)
@@ -1222,7 +1222,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-syste
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13012@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20260916
 DTEND;VALUE=DATE:20260917
 SUMMARY:Student consultations with academic advisors
@@ -1234,7 +1234,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/student-consultati
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13008@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260918
 SUMMARY:Online Registration Period
@@ -1246,7 +1246,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-registratio
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13006@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
 SUMMARY:Deadline for entry of class quotas by academic units (17:00)
@@ -1258,7 +1258,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-entry
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13002@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
 SUMMARY:Deadline for sending English Proficiency Exam (BUEPT) results to the Registrar (15:00)
@@ -1270,7 +1270,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-sendi
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13963@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20260909
 DTEND;VALUE=DATE:20260911
 SUMMARY:Registration of students admitted from the waiting list through the second application period for international undergraduate admissions.
@@ -1282,7 +1282,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-of-st
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-12096@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20260904
 DTEND;VALUE=DATE:20260905
 SUMMARY:Deadline for guest students (enrolled in domestic universities) applications
@@ -1294,7 +1294,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-guest
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-12094@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20260904
 DTEND;VALUE=DATE:20260905
 SUMMARY:Registration of newly admitted graduate students on waiting list
@@ -1306,7 +1306,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-of-ne
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13962@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20260904
 DTEND;VALUE=DATE:20260909
 SUMMARY:Registration of students admitted from the main list through the second application period for international undergraduate admissions.
@@ -1318,7 +1318,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-of-st
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-12093@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20260903
 DTEND;VALUE=DATE:20260904
 SUMMARY:Registration of transfer students accepted with central points
@@ -1330,7 +1330,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-of-tr
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-12092@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20260831
 DTEND;VALUE=DATE:20260904
 SUMMARY:Registration of newly admitted graduate students on primary list
@@ -1342,7 +1342,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-of-ne
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-12091@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20260831
 DTEND;VALUE=DATE:20260901
 SUMMARY:Announcement of transfer acceptances with central points
@@ -1354,7 +1354,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/announcement-of-tr
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-12090@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20260830
 DTEND;VALUE=DATE:20260831
 SUMMARY:Victory Day (Holiday)
@@ -1366,7 +1366,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/victory-day-holida
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-12089@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20260827
 DTEND;VALUE=DATE:20260828
 SUMMARY:Deadline for sending date changes of courses to the Registrar in the 2026/2027 Fall
@@ -1378,7 +1378,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-sendi
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-12088@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20260826
 DTEND;VALUE=DATE:20260827
 SUMMARY:Deadline for the University Executive Board meeting for central transfer admission decisions
@@ -1390,7 +1390,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-the-u
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-12087@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20260826
 DTEND;VALUE=DATE:20260827
 SUMMARY:Deadline for sending the English Proficiency Exam (BUEPT) results to the Registrar (SFL Summer)
@@ -1402,7 +1402,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-sendi
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-12086@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20260821
 DTEND;VALUE=DATE:20260822
 SUMMARY:Deadline for the meeting of the Commission to evaluate the applicants with the central transfer score
@@ -1414,7 +1414,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-the-m
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-12084@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20260820
 DTEND;VALUE=DATE:20260822
 SUMMARY:Online Registration for international visitor students and exchange students
@@ -1426,7 +1426,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-registratio
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13961@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20260814
 DTEND;VALUE=DATE:20260815
 SUMMARY:Announcement of the international undergraduate admission results for the second application period.
@@ -1438,7 +1438,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/announcement-of-th
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13960@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20260812
 DTEND;VALUE=DATE:20260813
 SUMMARY:Deadline for the University Executive Board (ÜYK) to convene to approve the international undergraduate admission decisions for the second application period.
@@ -1450,7 +1450,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-the-u
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13959@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20260810
 DTEND;VALUE=DATE:20260811
 SUMMARY:Deadline for the Admissions Commission to convene to review the international undergraduate admission decisions for the second application period.
@@ -1462,7 +1462,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-the-a
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-12072@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20260807
 DTEND;VALUE=DATE:20260808
 SUMMARY:Application date for students admitted off the wait-list to major and minor programs to the Faculty Student Affairs officers
@@ -1474,7 +1474,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/application-date-f
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-12071@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20260807
 DTEND;VALUE=DATE:20260808
 SUMMARY:Registration day for students accepted from the wait list through external transfer
@@ -1486,7 +1486,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-day-f
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-12070@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20260807
 DTEND;VALUE=DATE:20260808
 SUMMARY:Application date for students who have been accepted as internal transfer students from the wait list to the Faculty Student Affairs officers for department change.
@@ -1498,7 +1498,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/application-date-f
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-12069@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20260805
 DTEND;VALUE=DATE:20260806
 SUMMARY:Application date for students admitted off the main list to major and minor programs to the Faculty Student Affairs officers
@@ -1510,7 +1510,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/application-date-f
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-12068@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20260805
 DTEND;VALUE=DATE:20260806
 SUMMARY:Registration day for students accepted from the main list through external transfer
@@ -1522,7 +1522,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-day-f
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-12067@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20260805
 DTEND;VALUE=DATE:20260806
 SUMMARY:Application date for students who have been accepted as internal transfer students from the main list to the Faculty Student Affairs officers for department change.
@@ -1534,7 +1534,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/application-date-f
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13958@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20260804
 DTEND;VALUE=DATE:20260807
 SUMMARY:Registration of students admitted through the first application period for international undergraduate admissions for the 2026–2027 Academic Year.
@@ -1546,7 +1546,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-of-st
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13957@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20260731
 DTEND;VALUE=DATE:20260801
 SUMMARY:Deadline for Faculties to submit the international undergraduate admission decisions for the second application period to the Rectorate.
@@ -1558,7 +1558,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-facul
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-12062@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20260730
 DTEND;VALUE=DATE:20260731
 SUMMARY:Deadline for Faculties to send admission decisions on internal transfer\, external transfer\, double-major and minor to the Faculty Student Affairs officers and Registrar.
@@ -1570,7 +1570,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-facul
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-12057@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20260721
 DTEND;VALUE=DATE:20260722
 SUMMARY:Deadline for sending applications for internal and external transfers to Faculties
@@ -1582,7 +1582,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-sendi
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13956@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20260721
 DTEND;VALUE=DATE:20260722
 SUMMARY:Submission of the international undergraduate admission application files from the second application period to the Faculties.
@@ -1594,7 +1594,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/submission-of-the-
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-12055@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20260714
 DTEND;VALUE=DATE:20260715
 SUMMARY:Deadline to apply to double-major programs and minor programs
@@ -1606,7 +1606,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-to-apply-
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-12081@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20260710
 DTEND;VALUE=DATE:20260711
 SUMMARY:Announcement of the International Undergraduate Admission Results for the First Application Period (Candidates Admitted from the Main List)
@@ -1618,7 +1618,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/announcement-of-th
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-12054@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20260709
 DTEND;VALUE=DATE:20260710
 SUMMARY:Deadline for Institute Executive Committees to send admission decisions to Graduate Programs for 2026 Fall term to the Registrar
@@ -1630,7 +1630,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-insti
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-12053@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20260708
 DTEND;VALUE=DATE:20260709
 SUMMARY:Deadline for international visitor students and exchange students admission decisions to Registrar and Office of International Relations
@@ -1642,7 +1642,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-inter
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-12050@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20260703
 DTEND;VALUE=DATE:20260704
 SUMMARY:Deadline for Graduate Programs to send 2026 Fall admission decisions to Institutes
@@ -1654,7 +1654,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-gradu
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-12043@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260702
 SUMMARY:Deadline for Faculties/Schools/Institutes to send proposals for curriculum change\, introducing a new curriculum\, offering a new course\, changes in course name\, code and/or content (to be put in effect starting 2027 Spring term) to the Rectorate
@@ -1666,7 +1666,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-facul
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-12076@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260702
 SUMMARY:Deadline for University Executive Board meeting admission decisions to undergraduate programs from abroad
@@ -1678,7 +1678,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-unive
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-12075@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20260630
 DTEND;VALUE=DATE:20260701
 SUMMARY:Deadline for Commission meeting admission decisions to undergraduate programs from abroad
@@ -1690,7 +1690,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-commi
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-12042@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20260629
 DTEND;VALUE=DATE:20260704
 SUMMARY:Commencement Ceremony
@@ -1702,7 +1702,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/commencement-cerem
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-12074@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20260626
 DTEND;VALUE=DATE:20260627
 SUMMARY:Deadline to send admission decisions to undergraduate programs from abroad to the Rectorate
@@ -1714,7 +1714,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-to-send-a
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-12038@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20260624
 DTEND;VALUE=DATE:20260625
 SUMMARY:Deadline for Executive Committees to make graduation decisions
@@ -1726,7 +1726,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-execu
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-12036@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20260623
 DTEND;VALUE=DATE:20260624
 SUMMARY:Deadline for sending the list of instructors with foreign nationalities to be employed in the 2027 Spring term to the Rectorate
@@ -1738,7 +1738,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-sendi
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-12033@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20260622
 DTEND;VALUE=DATE:20260714
 SUMMARY:Application period to double-major programs and minor programs
@@ -1750,7 +1750,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/application-period
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-12031@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20260622
 DTEND;VALUE=DATE:20260627
 SUMMARY:Departmental exams for candidates applying to graduate programs
@@ -1762,7 +1762,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/departmental-exams
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-12025@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20260618
 DTEND;VALUE=DATE:20260619
 SUMMARY:The deadline for applications to the Executive and Other Graduate Programs sending to the Department.
@@ -1774,7 +1774,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/the-deadline-for-a
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-12059@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20260612
 DTEND;VALUE=DATE:20260613
 SUMMARY:Deadline for sending applications to undergraduate programs from abroad to the Faculties
@@ -1786,7 +1786,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-sendi
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-12019@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20260611
 DTEND;VALUE=DATE:20260612
 SUMMARY:Deadline for sending English Proficiency Exam (BUEPT) results to the Registrar
@@ -1798,7 +1798,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-sendi
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-12017@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20260610
 DTEND;VALUE=DATE:20260611
 SUMMARY:Meeting of Excuse Commission (13:30)
@@ -1810,7 +1810,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/meeting-of-excuse-
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-12013@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20260527
 DTEND;VALUE=DATE:20260531
 SUMMARY:Religious Holiday
@@ -1822,7 +1822,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/religious-holiday/
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-12012@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20260526
 DTEND;VALUE=DATE:20260527
 SUMMARY:Religious Holiday (After 13:00)
@@ -1834,7 +1834,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/religious-holiday-
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-12011@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20260522
 DTEND;VALUE=DATE:20260523
 SUMMARY:Deadline for international exchange and visitor students applications for Fall term
@@ -1846,7 +1846,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-inter
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-12008@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20260519
 DTEND;VALUE=DATE:20260520
 SUMMARY:Commemoration of Atatürk\, Youth and Sports Day (Holiday)
@@ -1858,7 +1858,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/commemoration-of-a
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11998@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20260508
 DTEND;VALUE=DATE:20260509
 SUMMARY:Deadline for leave of absence requests
@@ -1870,7 +1870,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-leave
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11999@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20260508
 DTEND;VALUE=DATE:20260509
 SUMMARY:Deadline for sending the Registrar the minimum admission criteria (GPA\, etc.) and departmental exam dates for internal\, external transfers and minor programs and applications to double-major programs for 2026 Fall term
@@ -1882,7 +1882,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-sendi
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11995@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20260504
 DTEND;VALUE=DATE:20260505
 SUMMARY:Deadline for Faculties/Schools/Institutes to send 2026 Fall term course schedule to the Registrar
@@ -1894,7 +1894,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-facul
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11994@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20260501
 DTEND;VALUE=DATE:20260502
 SUMMARY:Labor Day (Holiday)
@@ -1906,7 +1906,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/labor-day-holiday/
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11992@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20260423
 DTEND;VALUE=DATE:20260424
 SUMMARY:National Sovereignty and Children's Day (Holiday)
@@ -1918,7 +1918,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/national-sovereign
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11989@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20260417
 DTEND;VALUE=DATE:20260418
 SUMMARY:Deadline for Faculties/Schools/Institutes to apply to University Executive Committee for changes in final exam dates for 2025 Spring term
@@ -1930,7 +1930,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-facul
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11985@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20260413
 DTEND;VALUE=DATE:20260414
 SUMMARY:Announcement of the courses to be opened by the Summer Term Office
@@ -1942,7 +1942,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/announcement-of-th
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11983@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20260413
 DTEND;VALUE=DATE:20260414
 SUMMARY:Deadline for Executive Graduate Programs to send Summer term course schedule to the Registrar
@@ -1954,7 +1954,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-execu
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11979@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20260326
 DTEND;VALUE=DATE:20260327
 SUMMARY:Deadline for sending the 2026 Fall term schedule for mass courses to the Registrar
@@ -1966,7 +1966,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-sendi
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11978@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20260320
 DTEND;VALUE=DATE:20260323
 SUMMARY:Religious Holiday
@@ -1978,7 +1978,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/religious-holiday/
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11977@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20260319
 DTEND;VALUE=DATE:20260320
 SUMMARY:Religious Holiday (after 1 p.m.)
@@ -1990,7 +1990,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/religious-holiday-
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11976@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20260313
 DTEND;VALUE=DATE:20260314
 SUMMARY:Deadline for Faculties/Schools/Institutes to send proposals for curriculum change\, introducing a new curriculum\, offering a new course\, changes in course name\, code and/or content (to be put in effect starting 2026 Fall term) to the Rectorate
@@ -2002,7 +2002,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-facul
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11958@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20260202
 DTEND;VALUE=DATE:20260203
 SUMMARY:Deadline for entry of class quotas by academic units (17:00)
@@ -2014,7 +2014,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-entry
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11955@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20260130
 DTEND;VALUE=DATE:20260131
 SUMMARY:Registration for new graduate students admitted off the wait-list
@@ -2026,7 +2026,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-for-n
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11956@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20260130
 DTEND;VALUE=DATE:20260131
 SUMMARY:Application date for students admitted off the wait-list to major and minor programs to the Faculty Student Affairs officers
@@ -2038,7 +2038,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/application-date-f
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11954@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20260129
 DTEND;VALUE=DATE:20260130
 SUMMARY:Application date for students admitted off the main list to major and minor programs to the Faculty Student Affairs officers
@@ -2050,7 +2050,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/application-date-f
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11953@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20260129
 DTEND;VALUE=DATE:20260130
 SUMMARY:Deadline for special students (enrolled in domestic universities) applications
@@ -2062,7 +2062,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-speci
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11952@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20260129
 DTEND;VALUE=DATE:20260130
 SUMMARY:Registration of newly admitted graduate students on primary list
@@ -2074,7 +2074,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-of-ne
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11951@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20260129
 DTEND;VALUE=DATE:20260130
 SUMMARY:Application date for students who have been accepted for internal transfer to the Faculty Student Affairs for a change of department
@@ -2086,7 +2086,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/application-date-f
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11950@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20260129
 DTEND;VALUE=DATE:20260131
 SUMMARY:Registration for international guest and exchange students
@@ -2098,7 +2098,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-for-i
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11949@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20260128
 DTEND;VALUE=DATE:20260129
 SUMMARY:Deadline for Faculties to send admission decisions on internal transfer\, double-major\, minor to the Faculty Student Affairs officers and Deadline for Institutes to send admission decisions graduate programs to the Registrar
@@ -2110,7 +2110,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-facul
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11947@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20260122
 DTEND;VALUE=DATE:20260123
 SUMMARY:Deadline to apply to double-major programs and minor programs
@@ -2122,7 +2122,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-to-apply-
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11946@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20260122
 DTEND;VALUE=DATE:20260123
 SUMMARY:Deadline for sending the admission quota and departmental exam date for graduate programs to the Registrar
@@ -2134,7 +2134,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-sendi
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11945@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20260122
 DTEND;VALUE=DATE:20260123
 SUMMARY:Deadline for sending the minimum application criteria for graduate programs for 2026-2027 academic year to the Registrar
@@ -2146,7 +2146,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-sendi
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11942@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20260119
 DTEND;VALUE=DATE:20260123
 SUMMARY:Applications period for internal transfer
@@ -2158,7 +2158,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/applications-perio
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11939@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20260116
 DTEND;VALUE=DATE:20260117
 SUMMARY:Deadline for sending the list of instructors with foreign nationalities to be employed in the Summer term to the Rectorate
@@ -2170,7 +2170,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-sendi
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11936@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20260114
 DTEND;VALUE=DATE:20260115
 SUMMARY:Deadline for sending date changes of courses to the Registrar in the 2025/2026 Spring
@@ -2182,7 +2182,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-sendi
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11935@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20260114
 DTEND;VALUE=DATE:20260115
 SUMMARY:Deadline for Graduate Programs to send admission decisions to Institutes
@@ -2194,7 +2194,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-gradu
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11932@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20260112
 DTEND;VALUE=DATE:20260113
 SUMMARY:Meeting of Excuse Commission (13:30)
@@ -2206,7 +2206,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/meeting-of-excuse-
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11930@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20260109
 DTEND;VALUE=DATE:20260122
 SUMMARY:Application period to double-major programs and minor programs
@@ -2218,7 +2218,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/application-period
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11925@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20260102
 DTEND;VALUE=DATE:20260103
 SUMMARY:Deadline for sending the list of instructors with foreign nationalities to be employed in the 2026 Fall term to the Rectorate
@@ -2230,7 +2230,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-sendi
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11923@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20260101
 DTEND;VALUE=DATE:20260102
 SUMMARY:New Year (Holiday)
@@ -2242,7 +2242,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/new-year-holiday/1
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11914@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20251212
 DTEND;VALUE=DATE:20251213
 SUMMARY:Deadline for leave of absence requests
@@ -2254,7 +2254,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-leave
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11915@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20251212
 DTEND;VALUE=DATE:20251213
 SUMMARY:Deadline for sending the Summer Term course schedule to the Summer Term Office
@@ -2266,7 +2266,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-sendi
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11913@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20251201
 DTEND;VALUE=DATE:20251202
 SUMMARY:Deadline for international visitor students and exchange students admission decisions to Registrar and Office of International Relations
@@ -2278,7 +2278,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-inter
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11910@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20251120
 DTEND;VALUE=DATE:20251121
 SUMMARY:Deadline for Institutes to send section changes in thesis courses (690\,790) to the Registrar
@@ -2290,7 +2290,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-insti
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11908@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20251120
 DTEND;VALUE=DATE:20251121
 SUMMARY:Deadline for applying to the University Executive Committee for changes in final exam dates to the Rectorate
@@ -2302,7 +2302,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-apply
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11903@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20251114
 DTEND;VALUE=DATE:20251115
 SUMMARY:Deadline for Faculties/Schools/Institutes to send Spring term all courses schedule to the Registrar
@@ -2314,7 +2314,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-facul
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11904@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20251114
 DTEND;VALUE=DATE:20251115
 SUMMARY:Deadline for sending the minimum application criteria and quota for internal transfers and applications to double-major programs and minor programs for Spring term to the Registrar
@@ -2326,7 +2326,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-sendi
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11900@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20251031
 DTEND;VALUE=DATE:20251101
 SUMMARY:Deadline for sending the admission quota and departmental exam date for graduate programs to the Registrar (2026 Spring)
@@ -2338,7 +2338,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-sendi
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11899@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20251029
 DTEND;VALUE=DATE:20251030
 SUMMARY:Republic Day (Holiday)
@@ -2350,7 +2350,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/republic-day-holid
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11898@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20251028
 DTEND;VALUE=DATE:20251029
 SUMMARY:Republic Day after 1 p.m. (Holiday)
@@ -2362,7 +2362,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/republic-day-after
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11897@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20251020
 DTEND;VALUE=DATE:20251021
 SUMMARY:Deadline for sending the Spring term schedule for mass courses to the Registrar
@@ -2374,7 +2374,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-sendi
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11896@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20251015
 DTEND;VALUE=DATE:20251016
 SUMMARY:Deadline for international exchange and visitor students applications for Spring term
@@ -2386,7 +2386,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-inter
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11885@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20250922
 DTEND;VALUE=DATE:20250925
 SUMMARY:Orientation days
@@ -2398,7 +2398,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/orientation-days/1
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11881@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20250920
 DTEND;VALUE=DATE:20250921
 SUMMARY:Commencement Ceremony for Second Education Masters Programs (End of the Summer Term)
@@ -2410,7 +2410,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/commencement-cerem
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11873@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20250915
 DTEND;VALUE=DATE:20250916
 SUMMARY:Deadline for entry of class quotas by academic units (17:00)
@@ -2422,7 +2422,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-entry
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11868@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20250905
 DTEND;VALUE=DATE:20250906
 SUMMARY:Registration of newly admitted graduate students on waiting list
@@ -2434,7 +2434,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-of-ne
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11867@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20250903
 DTEND;VALUE=DATE:20250904
 SUMMARY:Registration of students who are placed in undergraduate programs within the scope of accepting students from abroad
@@ -2446,7 +2446,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-of-st
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11866@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20250903
 DTEND;VALUE=DATE:20250904
 SUMMARY:Registration of transfer students accepted with central points
@@ -2458,7 +2458,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-of-tr
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11864@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20250901
 DTEND;VALUE=DATE:20250902
 SUMMARY:Announcement of transfer acceptances with central points
@@ -2470,7 +2470,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/announcement-of-tr
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11865@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20250901
 DTEND;VALUE=DATE:20250905
 SUMMARY:Registration of newly admitted graduate students on primary list
@@ -2482,7 +2482,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-of-ne
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11863@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20250901
 DTEND;VALUE=DATE:20250902
 SUMMARY: Deadline for guest students (enrolled in domestic universities) applications
@@ -2494,7 +2494,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-guest
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11862@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20250830
 DTEND;VALUE=DATE:20250831
 SUMMARY:Victory Day (Holiday)
@@ -2506,7 +2506,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/victory-day-holida
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11861@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20250828
 DTEND;VALUE=DATE:20250829
 SUMMARY:Deadline for sending date changes of courses to the Registrar in the 2025 Fall
@@ -2518,7 +2518,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-sendi
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11860@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20250827
 DTEND;VALUE=DATE:20250828
 SUMMARY:Deadline for the University Executive Board meeting for central transfer admission decisions
@@ -2530,7 +2530,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-the-u
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11859@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20250822
 DTEND;VALUE=DATE:20250823
 SUMMARY:Deadline for the meeting of the Commission to evaluate the applicants with the central transfer score
@@ -2542,7 +2542,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-the-m
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11858@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20250821
 DTEND;VALUE=DATE:20250822
 SUMMARY:Deadline for sending the English Proficiency Exam (BUEPT) results to the Registrar (SFL Summer)
@@ -2554,7 +2554,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-sendi
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11857@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20250821
 DTEND;VALUE=DATE:20250823
 SUMMARY:Online Registration for international visitor students and exchange students
@@ -2566,7 +2566,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-registratio
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11855@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20250815
 DTEND;VALUE=DATE:20250816
 SUMMARY:Announcement to send admission decisions to undergraduate programs from abroad
@@ -2578,7 +2578,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/announcement-to-se
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11854@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20250813
 DTEND;VALUE=DATE:20250814
 SUMMARY:Deadline for University Executive Board meeting admission decisions to undergraduate programs from abroad
@@ -2590,7 +2590,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-unive
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11852@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20250812
 DTEND;VALUE=DATE:20250813
 SUMMARY:Grade submission system opens (10:00)
@@ -2602,7 +2602,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/grade-submission-s
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11848@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20250808
 DTEND;VALUE=DATE:20250809
 SUMMARY:Deadline for University Executive Board meeting admission decisions to undergraduate programs from abroad
@@ -2614,7 +2614,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-unive
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11846@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20250805
 DTEND;VALUE=DATE:20250806
 SUMMARY:Registration for students newly admitted via external transfer on waiting list
@@ -2626,7 +2626,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-for-s
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11844@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20250805
 DTEND;VALUE=DATE:20250806
 SUMMARY:Registration for students newly admitted via internal transfer on waiting list
@@ -2638,7 +2638,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-for-s
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11843@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20250801
 DTEND;VALUE=DATE:20250802
 SUMMARY:Registration for students newly admitted via internal transfer
@@ -2650,7 +2650,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-for-s
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11839@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20250801
 DTEND;VALUE=DATE:20250802
 SUMMARY:Registration for students newly admitted via external transfer
@@ -2662,7 +2662,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-for-s
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11838@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20250801
 DTEND;VALUE=DATE:20250802
 SUMMARY:Registration of students newly admitted to double-major programs and minor programs on primary list
@@ -2674,7 +2674,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-of-st
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11837@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20250801
 DTEND;VALUE=DATE:20250802
 SUMMARY:Deadline to send admission decisions to undergraduate programs from abroad to the Rectorate
@@ -2686,7 +2686,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-to-send-a
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11834@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20250731
 DTEND;VALUE=DATE:20250801
 SUMMARY:Deadline for sending the admission decisions to major and minor programs to the Registrar
@@ -2698,7 +2698,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-sendi
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11833@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20250731
 DTEND;VALUE=DATE:20250801
 SUMMARY:Deadline for sending the admission decisions to via external transfer and internal transfer to the Registrar
@@ -2710,7 +2710,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-sendi
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11829@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20250721
 DTEND;VALUE=DATE:20250722
 SUMMARY:Deadline for sending applications to undergraduate programs from abroad to the Faculties
@@ -2722,7 +2722,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-sendi
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11828@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20250721
 DTEND;VALUE=DATE:20250722
 SUMMARY:Deadline for sending applications for internal and external transfers to Faculties
@@ -2734,7 +2734,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-sendi
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11827@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20250716
 DTEND;VALUE=DATE:20250717
 SUMMARY:Deadline to apply to double-major programs and minor programs
@@ -2746,7 +2746,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-to-apply-
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11826@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20250715
 DTEND;VALUE=DATE:20250716
 SUMMARY:Democracy and Freedom Day (Holiday)
@@ -2758,7 +2758,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/democracy-and-free
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11825@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20250710
 DTEND;VALUE=DATE:20250711
 SUMMARY:Deadline for Institute Executive Committees to send admission decisions to Graduate Programs for 2025 Fall term to the Registrar
@@ -2770,7 +2770,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-insti
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11824@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20250709
 DTEND;VALUE=DATE:20250710
 SUMMARY:Deadline for international visitor students and exchange students admission decisions to Registrar and Office of International Relations
@@ -2782,7 +2782,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-inter
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11820@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20250704
 DTEND;VALUE=DATE:20250705
 SUMMARY:Deadline for Graduate Programs to send 2025 Fall admission decisions to Institutes
@@ -2794,7 +2794,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-gradu
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11814@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20250701
 DTEND;VALUE=DATE:20250705
 SUMMARY:Commencement Ceremony
@@ -2806,7 +2806,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/commencement-cerem
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11813@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20250701
 DTEND;VALUE=DATE:20250702
 SUMMARY:Deadline for Faculties/Schools/Institutes to send proposals for curriculum change\, introducing a new curriculum\, offering a new course\, changes in course name\, code and/or content (to be put in effect starting 2026 Spring term) to the Rectorate
@@ -2818,7 +2818,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-facul
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11808@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20250624
 DTEND;VALUE=DATE:20250625
 SUMMARY:Deadline for Executive Committees to make graduation decisions
@@ -2830,7 +2830,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-execu
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11807@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20250623
 DTEND;VALUE=DATE:20250716
 SUMMARY:Application period to double-major programs and minor programs
@@ -2842,7 +2842,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/application-period
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11803@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20250620
 DTEND;VALUE=DATE:20250621
 SUMMARY:Deadline for sending the list of instructors with foreign nationalities to be employed in the 2026 Spring term to the Rectorate
@@ -2854,7 +2854,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-sendi
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11795@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20250617
 DTEND;VALUE=DATE:20250618
 SUMMARY:Deadline for Graduate Programs to send 2025 Fall admission decisions to Institutes
@@ -2866,7 +2866,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-gradu
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11792@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20250611
 DTEND;VALUE=DATE:20250612
 SUMMARY:Deadline for sending English Proficiency Exam (BUEPT) results to the Registrar
@@ -2878,7 +2878,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-sendi
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11790@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20250610
 DTEND;VALUE=DATE:20250611
 SUMMARY:Deadline applications for graduate programs for 2025 Fall term
@@ -2890,7 +2890,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-applicati
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11788@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20250610
 DTEND;VALUE=DATE:20250611
 SUMMARY:Meeting of Excuse Commission (10:00)
@@ -2902,7 +2902,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/meeting-of-excuse-
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11787@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20250606
 DTEND;VALUE=DATE:20250610
 SUMMARY:Religious Holiday
@@ -2914,7 +2914,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/religious-holiday/
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11786@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20250605
 DTEND;VALUE=DATE:20250606
 SUMMARY:Religious Holiday (After 13:00)
@@ -2926,7 +2926,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/religious-holiday-
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11780@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20250521
 DTEND;VALUE=DATE:20250522
 SUMMARY:Deadline for international exchange and visitor students applications for Fall term
@@ -2938,7 +2938,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-inter
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11777@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20250519
 DTEND;VALUE=DATE:20250520
 SUMMARY:Commemoration of Atatürk\, Youth and Sports Day (Holiday)
@@ -2950,7 +2950,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/commemoration-of-a
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11772@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20250509
 DTEND;VALUE=DATE:20250510
 SUMMARY:Deadline for leave of absence requests
@@ -2962,7 +2962,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-leave
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11771@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20250509
 DTEND;VALUE=DATE:20250510
 SUMMARY:Deadline for sending the Registrar the minimum admission criteria (GPA\, etc.) and departmental exam dates for internal\, external transfers and minor programs and applications to double-major programs for 2025 Fall term
@@ -2974,7 +2974,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-sendi
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11769@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20250505
 DTEND;VALUE=DATE:20250506
 SUMMARY:Deadline for Faculties/Schools/Institutes to send 2025 Fall term course schedule to the Registrar
@@ -2986,7 +2986,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-facul
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11768@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20250501
 DTEND;VALUE=DATE:20250502
 SUMMARY:Labor Day (Holiday)
@@ -2998,7 +2998,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/labor-day-holiday/
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11765@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20250423
 DTEND;VALUE=DATE:20250424
 SUMMARY:National Sovereignty and Children's Day (Holiday)
@@ -3010,7 +3010,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/national-sovereign
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11764@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20250418
 DTEND;VALUE=DATE:20250419
 SUMMARY:Deadline for Faculties/Schools/Institutes to apply to University Executive Committee for changes in final exam dates for 2025 Spring term
@@ -3022,7 +3022,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-facul
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11757@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20250414
 DTEND;VALUE=DATE:20250415
 SUMMARY:Announcement of the courses to be opened by the Summer Term Office
@@ -3034,7 +3034,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/announcement-of-th
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11755@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20250414
 DTEND;VALUE=DATE:20250415
 SUMMARY:Deadline for Executive and Other Graduate Programs to send 2024 Summer term course schedule to the Registrar
@@ -3046,7 +3046,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-execu
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11753@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20250330
 DTEND;VALUE=DATE:20250402
 SUMMARY:Religious Holiday
@@ -3058,7 +3058,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/religious-holiday/
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11752@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20250329
 DTEND;VALUE=DATE:20250330
 SUMMARY:Religious Holiday (after 1 p.m.)
@@ -3070,7 +3070,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/religious-holiday-
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11751@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20250327
 DTEND;VALUE=DATE:20250328
 SUMMARY:Deadline for sending the 2025 Fall term schedule for mass courses to the Registrar
@@ -3082,7 +3082,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-sendi
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11750@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20250314
 DTEND;VALUE=DATE:20250315
 SUMMARY:Deadline for Faculties/Schools/Institutes to send proposals for curriculum change\, introducing a new curriculum\, offering a new course\, changes in course name\, code and/or content (to be put in effect starting 2025 Fall term) to the Rectorate
@@ -3094,7 +3094,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-facul
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11727@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20250203
 DTEND;VALUE=DATE:20250204
 SUMMARY:Deadline for entry of class quotas by academic units
@@ -3106,7 +3106,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-entry
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11725@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20250131
 DTEND;VALUE=DATE:20250201
 SUMMARY:Deadline for Registration of students admitted off the wait-list to major and minor programs to the Registrar
@@ -3118,7 +3118,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-regis
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11724@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20250131
 DTEND;VALUE=DATE:20250201
 SUMMARY:Registration for new graduate students admitted off the wait-list
@@ -3130,7 +3130,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-for-n
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11723@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20250130
 DTEND;VALUE=DATE:20250131
 SUMMARY:Deadline for Faculties/Schools to send admission decisions on major and minor programs to the Registrar
@@ -3142,7 +3142,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-facul
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11721@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20250130
 DTEND;VALUE=DATE:20250131
 SUMMARY:Deadline for special students (enrolled in domestic universities) applications
@@ -3154,7 +3154,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-speci
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11722@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20250130
 DTEND;VALUE=DATE:20250131
 SUMMARY:Registration for students newly admitted via internal transfer
@@ -3166,7 +3166,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-for-s
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11720@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20250130
 DTEND;VALUE=DATE:20250131
 SUMMARY:Registration of newly admitted graduate students on primary list
@@ -3178,7 +3178,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-of-ne
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11719@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20250130
 DTEND;VALUE=DATE:20250201
 SUMMARY:Registration for international guest and exchange students
@@ -3190,7 +3190,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-for-i
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11718@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20250129
 DTEND;VALUE=DATE:20250130
 SUMMARY:Deadline for sending date changes of courses to the Registrar in the 2025 Spring
@@ -3202,7 +3202,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-sendi
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11717@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20250129
 DTEND;VALUE=DATE:20250130
 SUMMARY:Deadline for Faculties/Schools/Institutes to send admission decisions on internal transfer\, double-major\, minor and graduate programs to the Registrar
@@ -3214,7 +3214,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-facul
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11716@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20250123
 DTEND;VALUE=DATE:20250124
 SUMMARY:Deadline to apply to double-major programs and minor programs
@@ -3226,7 +3226,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-to-apply-
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11711@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20250120
 DTEND;VALUE=DATE:20250124
 SUMMARY:Applications period for internal transfer
@@ -3238,7 +3238,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/applications-perio
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11709@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20250117
 DTEND;VALUE=DATE:20250118
 SUMMARY:Deadline for sending the list of instructors with foreign nationalities to be employed in the Summer term to the Rectorate
@@ -3250,7 +3250,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-sendi
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11707@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20250115
 DTEND;VALUE=DATE:20250116
 SUMMARY:Deadline for Graduate Programs to send admission decisions to Institutes
@@ -3262,7 +3262,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-gradu
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11704@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20250114
 DTEND;VALUE=DATE:20250115
 SUMMARY:Meeting of Excuse Commission (10:00)
@@ -3274,7 +3274,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/meeting-of-excuse-
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11702@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20250110
 DTEND;VALUE=DATE:20250123
 SUMMARY:Application period to double-major programs and minor programs
@@ -3286,7 +3286,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/application-period
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11698@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20250109
 DTEND;VALUE=DATE:20250110
 SUMMARY:Deadline for sending the admission quota and departmental exam date for graduate programs to the Registrar
@@ -3298,7 +3298,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-sendi
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11697@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20250109
 DTEND;VALUE=DATE:20250110
 SUMMARY:Deadline for sending the minimum application criteria for graduate programs for 2025-2026 academic year to the Registrar
@@ -3310,7 +3310,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-sendi
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11694@bogazici.edu.tr
-DTSTAMP:20260825T181923Z
+DTSTAMP:20260825T182903Z
 DTSTART;VALUE=DATE:20250102
 DTEND;VALUE=DATE:20250103
 SUMMARY:Deadline for sending the list of instructors with foreign nationalities to be employed in the 2025 Fall term to the Rectorate
