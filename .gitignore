@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.env
+
+# Output (Optional - we can keep dist committed so raw files work, or ignore if Pages only)
+# dist/ is committed by the GitHub Action workflow
+
+# OS metadata
+.DS_Store
+Thumbs.db
+*.tmp

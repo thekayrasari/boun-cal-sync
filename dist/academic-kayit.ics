@@ -1,0 +1,2387 @@
+﻿BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Bogazici University//Academic Calendar Sync//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Boğaziçi Akademik Takvim - Kayıt
+X-WR-CALDESC:Boğaziçi Üniversitesi Kayıt, Başvuru Takvimi
+X-WR-TIMEZONE:Europe/Istanbul
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:boun-academic-13480@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20271014
+DTEND;VALUE=DATE:20271015
+SUMMARY:Uluslararası Misafir öğrencilerin ve Uluslararası Değişim öğrencilerinin Bahar yarıyılı için son başvuru günü
+DESCRIPTION:Kategori: Başvuru\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/uluslararasi-misafir-ogrencilerin-ve-uluslara/13480\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Başvuru
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/uluslararasi-misafir-ogrencilerin-ve-uluslara/13480
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13473@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20270906
+DTEND;VALUE=DATE:20270907
+SUMMARY:Yedek listeden lisansüstü programlara kabul edilen öğrencilerin Üniversiteye kayıt günü
+DESCRIPTION:Kategori: Kayıt\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yedek-listeden-lisansustu-programlara-kabul-e/13473\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Kayıt
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yedek-listeden-lisansustu-programlara-kabul-e/13473
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13469@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20270903
+DTEND;VALUE=DATE:20270904
+SUMMARY:Yurtiçi Misafir ve YÖK Özel öğrenci başvurusu için son gün
+DESCRIPTION:Kategori: Başvuru\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yurtici-misafir-ve-yok-ozel-ogrenci-basvurusu/13469\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Başvuru
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yurtici-misafir-ve-yok-ozel-ogrenci-basvurusu/13469
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13465@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20270831
+DTEND;VALUE=DATE:20270904
+SUMMARY:Asıl listeden lisansüstü programlara kabul alan öğrencilerin Üniversiteye kayıt günü
+DESCRIPTION:Kategori: Kayıt\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/asil-listeden-lisansustu-programlara-kabul-al/13465\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Kayıt
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/asil-listeden-lisansustu-programlara-kabul-al/13465
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13390@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20270825
+DTEND;VALUE=DATE:20270826
+SUMMARY:ÇAP ve yan dal programlarına başvuruların son günü
+DESCRIPTION:Kategori: Başvuru\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/cap-ve-yan-dal-programlarina-basvurularin-son/13390\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Başvuru
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/cap-ve-yan-dal-programlarina-basvurularin-son/13390
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13451@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20270819
+DTEND;VALUE=DATE:20270821
+SUMMARY:Uluslararası Misafir öğrenci ve Uluslararası Değişim öğrencilerinin Üniversiteye çevrimiçi kayıtları
+DESCRIPTION:Kategori: Kayıt\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/uluslararasi-misafir-ogrenci-ve-uluslararasi-/13451\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Kayıt
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/uluslararasi-misafir-ogrenci-ve-uluslararasi-/13451
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13348@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20270818
+DTEND;VALUE=DATE:20270826
+SUMMARY:ÇAP ve yan dal programlarına başvuru dönemi
+DESCRIPTION:Kategori: Başvuru\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/cap-ve-yan-dal-programlarina-basvuru-donemi/13348\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Başvuru
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/cap-ve-yan-dal-programlarina-basvuru-donemi/13348
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13429@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20270811
+DTEND;VALUE=DATE:20270812
+SUMMARY:Asıl listeden ÇAP ve yan dal kabulü alan öğrencilerin ilgili programlara kayıt için Fakülte Öğrenci İşleri sorumlularına başvuru günü
+DESCRIPTION:Kategori: Kayıt\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/asil-listeden-cap-ve-yan-dal-kabulu-alan-ogre/13429\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Kayıt
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/asil-listeden-cap-ve-yan-dal-kabulu-alan-ogre/13429
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13427@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20270811
+DTEND;VALUE=DATE:20270812
+SUMMARY:Asıl listeden kurum dışı yatay geçiş ile kabul edilen öğrencilerin Üniversiteye kayıt günü
+DESCRIPTION:Kategori: Kayıt\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/asil-listeden-kurum-disi-yatay-gecis-ile-kabu/13427\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Kayıt
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/asil-listeden-kurum-disi-yatay-gecis-ile-kabu/13427
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13414@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20270802
+DTEND;VALUE=DATE:20270817
+SUMMARY:Merkezi puanla yatay geçiş başvuruları (YÖK tarafından belirlenen takvim)
+DESCRIPTION:Kategori: Başvuru\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/merkezi-puanla-yatay-gecis-basvurulari-yok-ta/13414\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Başvuru
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/merkezi-puanla-yatay-gecis-basvurulari-yok-ta/13414
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13410@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20270730
+DTEND;VALUE=DATE:20270731
+SUMMARY:II. Öğretim Yüksek Lisans Programlarının Yaz Dönemi dersten çekilme dönemi için akademik kayıt sisteminin danışman erişimine kapanışı (23:59)
+DESCRIPTION:Kategori: Kayıt\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ii-ogretim-yuksek-lisans-programlarinin-yaz-d/13410\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Kayıt
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ii-ogretim-yuksek-lisans-programlarinin-yaz-d/13410
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13408@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20270730
+DTEND;VALUE=DATE:20270731
+SUMMARY:Yaz Öğretimi ve II. Öğretim Yüksek Lisans Programlarının Yaz Dönemi dersten çekilme dönemi için akademik kayıt sisteminin öğrenci erişimine kapanışı (19:00)
+DESCRIPTION:Kategori: Kayıt\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-ve-ii-ogretim-yuksek-lisans-prog/13408\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Kayıt
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-ve-ii-ogretim-yuksek-lisans-prog/13408
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13404@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20270729
+DTEND;VALUE=DATE:20270731
+SUMMARY:Yaz Dönemi ve II. Öğretim Yüksek Lisans Programlarının Yaz Dönemi dersten çekilme dönemi
+DESCRIPTION:Kategori: Kayıt\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-donemi-ve-ii-ogretim-yuksek-lisans-progra/13404\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Kayıt
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-donemi-ve-ii-ogretim-yuksek-lisans-progra/13404
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13406@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20270729
+DTEND;VALUE=DATE:20270730
+SUMMARY:Yaz Öğretimi ve II. Öğretim Yüksek Lisans Programlarının Yaz Dönemi dersten çekilme dönemi için akademik kayıt sisteminin öğrenci erişimine açılışı (10:00)
+DESCRIPTION:Kategori: Kayıt\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-ve-ii-ogretim-yuksek-lisans-prog/13406\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Kayıt
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-ve-ii-ogretim-yuksek-lisans-prog/13406
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13376@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20270709
+DTEND;VALUE=DATE:20270710
+SUMMARY:Lisansüstü programların 2027 Güz yarıyılına kabul kararlarının Enstitü Müdürlüklerine bildirilmesi için son gün
+DESCRIPTION:Kategori: Kayıt\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/lisansustu-programlarin-2027-guz-yariyilina-k/13376\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Kayıt
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/lisansustu-programlarin-2027-guz-yariyilina-k/13376
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13378@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20270709
+DTEND;VALUE=DATE:20270710
+SUMMARY:Yaz Öğretimi ve II. Öğretim Yüksek Lisans Programlarının Yaz Dönemi ders ekleme/bırakma dönemi için akademik kayıt sisteminin danışman erişimine kapanışı (23:59)
+DESCRIPTION:Kategori: Kayıt\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-ve-ii-ogretim-yuksek-lisans-prog/13378\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Kayıt
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-ve-ii-ogretim-yuksek-lisans-prog/13378
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13372@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20270708
+DTEND;VALUE=DATE:20270709
+SUMMARY:Ders onayı (consent) sisteminin öğretim elemanına kapanışı (22:00)
+DESCRIPTION:Kategori: Kayıt\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-onayi-consent-sisteminin-ogretim-elemani/13372\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Kayıt
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-onayi-consent-sisteminin-ogretim-elemani/13372
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13374@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20270708
+DTEND;VALUE=DATE:20270709
+SUMMARY:Yaz Öğretimi ve II. Öğretim Yüksek Lisans Programlarının Yaz Dönemi ders ekleme/bırakma dönemi için akademik kayıt sisteminin öğrenci erişimine kapanışı (23:59)
+DESCRIPTION:Kategori: Kayıt\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-ve-ii-ogretim-yuksek-lisans-prog/13374\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Kayıt
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-ve-ii-ogretim-yuksek-lisans-prog/13374
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-14216@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20270707
+DTEND;VALUE=DATE:20270708
+SUMMARY:Registration system for Second Education Masters Programs Summer Session add/drop opens to students (10:00)
+DESCRIPTION:Kategori: Kayıt\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/registration-system-for-second-education-mast/14216\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Kayıt
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/registration-system-for-second-education-mast/14216
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-14215@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20270707
+DTEND;VALUE=DATE:20270708
+SUMMARY:Yaz Öğretimi ve II. Öğretim Yüksek Lisans Programlarının Yaz Dönemi ders ekleme/bırakma dönemi için akademik kayıt sisteminin öğrenci erişimine açılışı (10:00)
+DESCRIPTION:Kategori: Kayıt\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-ve-ii-ogretim-yuksek-lisans-prog/14215\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Kayıt
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-ve-ii-ogretim-yuksek-lisans-prog/14215
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13366@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20270707
+DTEND;VALUE=DATE:20270709
+SUMMARY:Yaz Öğretimi ve II. Öğretim Yüksek Lisans Programlarının Yaz Dönemi ders ekleme/bırakma dönemi
+DESCRIPTION:Kategori: Kayıt\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-ve-ii-ogretim-yuksek-lisans-prog/13366\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Kayıt
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-ve-ii-ogretim-yuksek-lisans-prog/13366
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13360@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20270706
+DTEND;VALUE=DATE:20270707
+SUMMARY:Yaz öğretimi ve II. Öğretim Yüksek Lisans Programlarının Yaz Dönemi ders ekleme/bırakma dönemi için ödeme sisteminin açılışı (10:00)
+DESCRIPTION:Kategori: Kayıt\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-ve-ii-ogretim-yuksek-lisans-prog/13360\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Kayıt
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-ve-ii-ogretim-yuksek-lisans-prog/13360
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13380@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20270706
+DTEND;VALUE=DATE:20270717
+SUMMARY:Kurum içi ve dışı yatay geçiş için başvuru dönemi (YÖK tarafından belirlenen takvim)
+DESCRIPTION:Kategori: Başvuru\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/kurum-ici-ve-disi-yatay-gecis-icin-basvuru-do/13380\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Başvuru
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/kurum-ici-ve-disi-yatay-gecis-icin-basvuru-do/13380
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13350@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20270629
+DTEND;VALUE=DATE:20270630
+SUMMARY:Yaz Öğretimi kesin kayıtları ve II. Öğretim Yüksek Lisans Programlarının Yaz Dönemi kayıtları için akademik kayıt sisteminin danışmanların erişimine kapanışı (12:00)
+DESCRIPTION:Kategori: Kayıt\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-kesin-kayitlari-ve-ii-ogretim-yu/13350\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Kayıt
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-kesin-kayitlari-ve-ii-ogretim-yu/13350
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13342@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20270628
+DTEND;VALUE=DATE:20270629
+SUMMARY:Ders onayı (consent) sisteminin öğretim elemanına kapanışı (22:00)
+DESCRIPTION:Kategori: Kayıt\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-onayi-consent-sisteminin-ogretim-elemani/13342\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Kayıt
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-onayi-consent-sisteminin-ogretim-elemani/13342
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13344@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20270628
+DTEND;VALUE=DATE:20270629
+SUMMARY:Yaz Öğretimi kesin kayıtları ve II. Öğretim Yüksek Lisans Programlarının Yaz Dönemi kayıtları için akademik kayıt sisteminin öğrenci erişimine kapanışı (23:59)
+DESCRIPTION:Kategori: Kayıt\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-kesin-kayitlari-ve-ii-ogretim-yu/13344\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Kayıt
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-kesin-kayitlari-ve-ii-ogretim-yu/13344
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13334@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20270625
+DTEND;VALUE=DATE:20270629
+SUMMARY:Yaz Öğretimi kesin kayıtları ve II. Öğretim Yüksek Lisans Programlarının Yaz Dönemi kayıtları 
+DESCRIPTION:Kategori: Kayıt\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-kesin-kayitlari-ve-ii-ogretim-yu/13334\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Kayıt
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-kesin-kayitlari-ve-ii-ogretim-yu/13334
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13336@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20270625
+DTEND;VALUE=DATE:20270629
+SUMMARY:Yaz Öğretimi kesin kayıtları ve II. Öğretim Yüksek Lisans Programlarının Yaz Dönemi kayıtları için akademik kayıt sisteminin açılışı (10:00)
+DESCRIPTION:Kategori: Kayıt\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-kesin-kayitlari-ve-ii-ogretim-yu/13336\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Kayıt
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-kesin-kayitlari-ve-ii-ogretim-yu/13336
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13309@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20270610
+DTEND;VALUE=DATE:20270611
+SUMMARY:Yaz Öğretimi ve II. Öğretim Yüksek Lisans Programları Yaz Dönemi için kayıt ödeme sisteminin açılışı (10:00)
+DESCRIPTION:Kategori: Kayıt\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-ve-ii-ogretim-yuksek-lisans-prog/13309\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Kayıt
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-ve-ii-ogretim-yuksek-lisans-prog/13309
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13301@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20270604
+DTEND;VALUE=DATE:20270605
+SUMMARY:2027-2028 Akademik yılında lisans programlarına yurt dışından öğrenci kabulü başvurusu için son gün 
+DESCRIPTION:Kategori: Başvuru\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/2027-2028-akademik-yilinda-lisans-programlari/13301\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Başvuru
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/2027-2028-akademik-yilinda-lisans-programlari/13301
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13241@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20270414
+DTEND;VALUE=DATE:20270611
+SUMMARY:2027 Güz yarıyılı için I. öğretim lisansüstü programlarına başvuru dönemi
+DESCRIPTION:Kategori: Başvuru\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/2027-guz-yariyili-icin-i-ogretim-lisansustu-p/13241\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Başvuru
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/2027-guz-yariyili-icin-i-ogretim-lisansustu-p/13241
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13268@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20270409
+DTEND;VALUE=DATE:20270410
+SUMMARY:Yaz Öğretimi ön kayıt ödeme sisteminin kapanışı (16:00)
+DESCRIPTION:Kategori: Kayıt\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-on-kayit-odeme-sisteminin-kapani/13268\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Kayıt
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-on-kayit-odeme-sisteminin-kapani/13268
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13604@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20270409
+DTEND;VALUE=DATE:20270410
+SUMMARY:Kayıt sisteminin öğrenci erişimine kapanışı (19:00)
+DESCRIPTION:Kategori: Kayıt\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/kayit-sisteminin-ogrenci-erisimine-kapanisi-1/13604\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Kayıt
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/kayit-sisteminin-ogrenci-erisimine-kapanisi-1/13604
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13262@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20270407
+DTEND;VALUE=DATE:20270410
+SUMMARY:Yaz Öğretimi ön kayıtları
+DESCRIPTION:Kategori: Kayıt\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-on-kayitlari/13262\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Kayıt
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-on-kayitlari/13262
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13264@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20270407
+DTEND;VALUE=DATE:20270408
+SUMMARY:Yaz Öğretimi kayıtları için akademik kayıt sisteminin öğrenci erişimine açılışı (10:00)
+DESCRIPTION:Kategori: Kayıt\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-kayitlari-icin-akademik-kayit-si/13264\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Kayıt
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-kayitlari-icin-akademik-kayit-si/13264
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13227@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20270405
+DTEND;VALUE=DATE:20270605
+SUMMARY:2027-2028 Akademik yılında lisans programlarına yurt dışından öğrenci kabulü için başvuru dönemi
+DESCRIPTION:Kategori: Başvuru\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/2027-2028-akademik-yilinda-lisans-programlari/13227\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Başvuru
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/2027-2028-akademik-yilinda-lisans-programlari/13227
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13225@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20270401
+DTEND;VALUE=DATE:20270611
+SUMMARY:2027 Güz yarıyılı için II. Öğretim Yüksek Lisans Programlarına başvuru dönemi
+DESCRIPTION:Kategori: Başvuru\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/2027-guz-yariyili-icin-ii-ogretim-yuksek-lisa/13225\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Başvuru
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/2027-guz-yariyili-icin-ii-ogretim-yuksek-lisa/13225
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13245@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20270326
+DTEND;VALUE=DATE:20270327
+SUMMARY:Dersten çekilme için akademik kayıt sisteminin danışman erişimine kapanışı (23:59)
+DESCRIPTION:Kategori: Kayıt\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/dersten-cekilme-icin-akademik-kayit-sistemini/13245\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Kayıt
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/dersten-cekilme-icin-akademik-kayit-sistemini/13245
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13243@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20270323
+DTEND;VALUE=DATE:20270326
+SUMMARY:Dersten çekilme için akademik kayıt sisteminin öğrenci erişimine kapanışı (23:59)
+DESCRIPTION:Kategori: Kayıt\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/dersten-cekilme-icin-akademik-kayit-sistemini/13243\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Kayıt
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/dersten-cekilme-icin-akademik-kayit-sistemini/13243
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13231@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20270322
+DTEND;VALUE=DATE:20270323
+SUMMARY:Dersten çekilme için akademik kayıt sisteminin açılışı (10:00)
+DESCRIPTION:Kategori: Kayıt\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/dersten-cekilme-icin-akademik-kayit-sistemini/13231\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Kayıt
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/dersten-cekilme-icin-akademik-kayit-sistemini/13231
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13237@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20270315
+DTEND;VALUE=DATE:20270316
+SUMMARY:Yaz Öğretimi ön kayıt ödeme sisteminin açılışı (10:00)
+DESCRIPTION:Kategori: Kayıt\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-on-kayit-odeme-sisteminin-acilis/13237\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Kayıt
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-on-kayit-odeme-sisteminin-acilis/13237
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13217@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20270128
+DTEND;VALUE=DATE:20270129
+SUMMARY:Ders ekleme/bırakma dönemi için akademik kayıt sisteminin danışman erişimine kapanışı (23:59)
+DESCRIPTION:Kategori: Kayıt\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-eklemebirakma-donemi-icin-akademik-kayit/13217\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Kayıt
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-eklemebirakma-donemi-icin-akademik-kayit/13217
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13215@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20270127
+DTEND;VALUE=DATE:20270128
+SUMMARY:Ders ekleme/bırakma dönemi için akademik kayıt sisteminin öğrenci erişimine kapanışı (23:59)
+DESCRIPTION:Kategori: Kayıt\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-eklemebirakma-donemi-icin-akademik-kayit/13215\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Kayıt
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-eklemebirakma-donemi-icin-akademik-kayit/13215
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13602@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20270127
+DTEND;VALUE=DATE:20270128
+SUMMARY:Kayıt ödeme sisteminin kapanışı (17:00)
+DESCRIPTION:Kategori: Kayıt\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/kayit-odeme-sisteminin-kapanisi-1700/13602\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Kayıt
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/kayit-odeme-sisteminin-kapanisi-1700/13602
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13207@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20270125
+DTEND;VALUE=DATE:20270128
+SUMMARY:Ders ekleme/bırakma dönemi
+DESCRIPTION:Kategori: Kayıt\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-eklemebirakma-donemi/13207\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Kayıt
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-eklemebirakma-donemi/13207
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13209@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20270125
+DTEND;VALUE=DATE:20270126
+SUMMARY:Ders ekleme/bırakma dönemi için akademik kayıt sisteminin açılışı (10:00)
+DESCRIPTION:Kategori: Kayıt\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-eklemebirakma-donemi-icin-akademik-kayit/13209\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Kayıt
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-eklemebirakma-donemi-icin-akademik-kayit/13209
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13201@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20270115
+DTEND;VALUE=DATE:20270116
+SUMMARY:Akademik kayıt sisteminin öğrenci erişimine kapanışı (23:59)
+DESCRIPTION:Kategori: Kayıt\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/akademik-kayit-sisteminin-ogrenci-erisimine-k/13201\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Kayıt
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/akademik-kayit-sisteminin-ogrenci-erisimine-k/13201
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13199@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20270115
+DTEND;VALUE=DATE:20270116
+SUMMARY:Ders onay (consent) sisteminin öğretim elemanına kapanışı (21:00)
+DESCRIPTION:Kategori: Kayıt\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-onay-consent-sisteminin-ogretim-elemanin/13199\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Kayıt
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-onay-consent-sisteminin-ogretim-elemanin/13199
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13191@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20270113
+DTEND;VALUE=DATE:20270114
+SUMMARY:Akademik kayıt sisteminin açılışı (10:00)
+DESCRIPTION:Kategori: Kayıt\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/akademik-kayit-sisteminin-acilisi-1000/13191\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Kayıt
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/akademik-kayit-sisteminin-acilisi-1000/13191
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13181@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20270112
+DTEND;VALUE=DATE:20270113
+SUMMARY:Yedek listeden lisansüstü programlara kabul edilen öğrencilerin Üniversiteye kayıt günü
+DESCRIPTION:Kategori: Kayıt\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yedek-listeden-lisansustu-programlara-kabul-e/13181\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Kayıt
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yedek-listeden-lisansustu-programlara-kabul-e/13181
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13179@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20270111
+DTEND;VALUE=DATE:20270113
+SUMMARY:Uluslararası misafir öğrenci ve uluslararası değişim öğrencilerinin Üniversiteye çevrimiçi kayıtları
+DESCRIPTION:Kategori: Kayıt\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/uluslararasi-misafir-ogrenci-ve-uluslararasi-/13179\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Kayıt
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/uluslararasi-misafir-ogrenci-ve-uluslararasi-/13179
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13171@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20270111
+DTEND;VALUE=DATE:20270112
+SUMMARY:Asıl listeden lisansüstü programlara kabul alan öğrencilerin Üniversiteye kayıt günü
+DESCRIPTION:Kategori: Kayıt\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/asil-listeden-lisansustu-programlara-kabul-al/13171\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Kayıt
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/asil-listeden-lisansustu-programlara-kabul-al/13171
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13175@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20270111
+DTEND;VALUE=DATE:20270112
+SUMMARY:Yurtiçi misafir öğrenci ve YÖK özel öğrenci başvurusu için son gün
+DESCRIPTION:Kategori: Başvuru\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yurtici-misafir-ogrenci-ve-yok-ozel-ogrenci-b/13175\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Başvuru
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yurtici-misafir-ogrenci-ve-yok-ozel-ogrenci-b/13175
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13169@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20270108
+DTEND;VALUE=DATE:20270109
+SUMMARY:Kayıt ödeme sisteminin açılışı (10:00)
+DESCRIPTION:Kategori: Kayıt\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/kayit-odeme-sisteminin-acilisi-1000/13169\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Kayıt
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/kayit-odeme-sisteminin-acilisi-1000/13169
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13161@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20270103
+DTEND;VALUE=DATE:20270104
+SUMMARY:ÇAP ve yan dal programlarına başvuru için son gün
+DESCRIPTION:Kategori: Başvuru\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/cap-ve-yan-dal-programlarina-basvuru-icin-son/13161\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Başvuru
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/cap-ve-yan-dal-programlarina-basvuru-icin-son/13161
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13129@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20261222
+DTEND;VALUE=DATE:20270104
+SUMMARY:ÇAP ve yan dal programlarına başvuru dönemi
+DESCRIPTION:Kategori: Başvuru\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/cap-ve-yan-dal-programlarina-basvuru-donemi/13129\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Başvuru
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/cap-ve-yan-dal-programlarina-basvuru-donemi/13129
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13117@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20261214
+DTEND;VALUE=DATE:20261222
+SUMMARY:Bahar yarıyılı için lisansüstü programlara başvuru dönemi
+DESCRIPTION:Kategori: Başvuru\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/bahar-yariyili-icin-lisansustu-programlara-ba/13117\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Başvuru
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/bahar-yariyili-icin-lisansustu-programlara-ba/13117
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13088@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:Dersten çekilme için akademik kayıt sisteminin danışman erişimine kapanışı (23:59)
+DESCRIPTION:Kategori: Kayıt\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/dersten-cekilme-icin-akademik-kayit-sistemini/13088\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Kayıt
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/dersten-cekilme-icin-akademik-kayit-sistemini/13088
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13081@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+SUMMARY:Dersten çekilme için akademik kayıt sisteminin öğrenci erişimine kapanışı (23:59)
+DESCRIPTION:Kategori: Kayıt\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/dersten-cekilme-icin-akademik-kayit-sistemini/13081\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Kayıt
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/dersten-cekilme-icin-akademik-kayit-sistemini/13081
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13077@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+SUMMARY:Dersten çekilme için akademik kayıt sisteminin açılışı (10:00)
+DESCRIPTION:Kategori: Kayıt\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/dersten-cekilme-icin-akademik-kayit-sistemini/13077\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Kayıt
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/dersten-cekilme-icin-akademik-kayit-sistemini/13077
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-9242@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+SUMMARY:Uluslararası Misafir öğrencilerin ve Uluslararası Değişim öğrencilerinin Bahar yarıyılı için son başvuru günü
+DESCRIPTION:Kategori: Başvuru\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/uluslararasi-misafir-ogrencilerin-ve-uluslara/9242\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Başvuru
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/uluslararasi-misafir-ogrencilerin-ve-uluslara/9242
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13047@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+SUMMARY:Ders ekleme/bırakma dönemi için akademik kayıt sisteminin danışman erişimine kapanışı (23:59)
+DESCRIPTION:Kategori: Kayıt\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-eklemebirakma-donemi-icin-akademik-kayit/13047\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Kayıt
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-eklemebirakma-donemi-icin-akademik-kayit/13047
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13045@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+SUMMARY:Ders ekleme/bırakma dönemi için akademik kayıt sisteminin öğrenci erişimine kapanışı (23:59)
+DESCRIPTION:Kategori: Kayıt\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-eklemebirakma-donemi-icin-akademik-kayit/13045\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Kayıt
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-eklemebirakma-donemi-icin-akademik-kayit/13045
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13033@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20261001
+SUMMARY:Ders ekleme/bırakma dönemi
+DESCRIPTION:Kategori: Kayıt\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-eklemebirakma-donemi/13033\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Kayıt
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-eklemebirakma-donemi/13033
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13035@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+SUMMARY:Ders ekleme/bırakma dönemi için akademik kayıt sisteminin açılışı (10:00)
+DESCRIPTION:Kategori: Kayıt\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-eklemebirakma-donemi-icin-akademik-kayit/13035\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Kayıt
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-eklemebirakma-donemi-icin-akademik-kayit/13035
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13017@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20260918
+SUMMARY:Akademik kayıt sisteminin öğrenci erişimine kapanışı (23:59)
+DESCRIPTION:Kategori: Kayıt\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/akademik-kayit-sisteminin-ogrenci-erisimine-k/13017\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Kayıt
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/akademik-kayit-sisteminin-ogrenci-erisimine-k/13017
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13013@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20260918
+SUMMARY:Ders onay (consent) sisteminin öğrenciye kapanışı (14:00)
+DESCRIPTION:Kategori: Kayıt\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-onay-consent-sisteminin-ogrenciye-kapani/13013\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Kayıt
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-onay-consent-sisteminin-ogrenciye-kapani/13013
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13015@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20260918
+SUMMARY:Ders onay (consent) sisteminin öğretim elemanına kapanışı (21:00)
+DESCRIPTION:Kategori: Kayıt\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-onay-consent-sisteminin-ogretim-elemanin/13015\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Kayıt
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-onay-consent-sisteminin-ogretim-elemanin/13015
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13009@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260916
+SUMMARY:Akademik kayıt sisteminin açılışı (10:00)
+DESCRIPTION:Kategori: Kayıt\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/akademik-kayit-sisteminin-acilisi-1000/13009\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Kayıt
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/akademik-kayit-sisteminin-acilisi-1000/13009
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-12998@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20260908
+DTEND;VALUE=DATE:20260909
+SUMMARY:Kayıt ödeme sisteminin açılışı (10:00)
+DESCRIPTION:Kategori: Kayıt\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/kayit-odeme-sisteminin-acilisi-1000/12998\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Kayıt
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/kayit-odeme-sisteminin-acilisi-1000/12998
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-9239@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260905
+SUMMARY:Yurtiçi Misafir ve YÖK Özel öğrenci başvurusu için son gün
+DESCRIPTION:Kategori: Başvuru\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yurtici-misafir-ve-yok-ozel-ogrenci-basvurusu/9239\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Başvuru
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yurtici-misafir-ve-yok-ozel-ogrenci-basvurusu/9239
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-9235@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20260831
+DTEND;VALUE=DATE:20260904
+SUMMARY:Lisansüstü programlara asıl listeden kabul edilen öğrencilerin üniversiteye kayıtları
+DESCRIPTION:Kategori: Kayıt\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/lisansustu-programlara-asil-listeden-kabul-ed/9235\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Kayıt
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/lisansustu-programlara-asil-listeden-kabul-ed/9235
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-9227@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20260820
+DTEND;VALUE=DATE:20260822
+SUMMARY:Uluslararası Misafir öğrenci ve Uluslararası Değişim öğrencilerinin Üniversiteye çevrimiçi kayıtları
+DESCRIPTION:Kategori: Kayıt\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/uluslararasi-misafir-ogrenci-ve-uluslararasi-/9227\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Kayıt
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/uluslararasi-misafir-ogrenci-ve-uluslararasi-/9227
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-9211@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20260805
+DTEND;VALUE=DATE:20260806
+SUMMARY:Asıl listeden kurum dışı yatay geçiş ile kabul edilen öğrencilerin Üniversiteye kayıt günü
+DESCRIPTION:Kategori: Kayıt\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/asil-listeden-kurum-disi-yatay-gecis-ile-kabu/9211\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Kayıt
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/asil-listeden-kurum-disi-yatay-gecis-ile-kabu/9211
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-9212@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20260805
+DTEND;VALUE=DATE:20260806
+SUMMARY:Asıl listeden ÇAP ve yan dal kabulü alan öğrencilerin ilgili programlara kayıt için Fakülte Öğrenci İşleri sorumlularına başvuru günü
+DESCRIPTION:Kategori: Kayıt\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/asil-listeden-cap-ve-yan-dal-kabulu-alan-ogre/9212\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Kayıt
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/asil-listeden-cap-ve-yan-dal-kabulu-alan-ogre/9212
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-9209@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20260803
+DTEND;VALUE=DATE:20260818
+SUMMARY:Merkezi puanla yatay geçiş başvuruları (YÖK tarafından belirlenen takvim)
+DESCRIPTION:Kategori: Başvuru\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/merkezi-puanla-yatay-gecis-basvurulari-yok-ta/9209\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Başvuru
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/merkezi-puanla-yatay-gecis-basvurulari-yok-ta/9209
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-9207@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20260731
+DTEND;VALUE=DATE:20260801
+SUMMARY:Yaz Öğretimi ve II. Öğretim Yüksek Lisans Programlarının Yaz Dönemi dersten çekilme dönemi için akademik kayıt sisteminin öğrenci erişimine kapanışı (19:00)
+DESCRIPTION:Kategori: Kayıt\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-ve-ii-ogretim-yuksek-lisans-prog/9207\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Kayıt
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-ve-ii-ogretim-yuksek-lisans-prog/9207
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-9206@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20260731
+DTEND;VALUE=DATE:20260801
+SUMMARY:II. Öğretim Yüksek Lisans Programlarının Yaz Dönemi dersten çekilme dönemi için akademik kayıt sisteminin danışman erişimine kapanışı (23:59)
+DESCRIPTION:Kategori: Kayıt\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ii-ogretim-yuksek-lisans-programlarinin-yaz-d/9206\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Kayıt
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ii-ogretim-yuksek-lisans-programlarinin-yaz-d/9206
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-9203@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20260730
+DTEND;VALUE=DATE:20260731
+SUMMARY:Yaz Öğretimi ve II. Öğretim Yüksek Lisans Programlarının Yaz Dönemi dersten çekilme dönemi için akademik kayıt sisteminin öğrenci erişimine açılışı (10:00)
+DESCRIPTION:Kategori: Kayıt\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-ve-ii-ogretim-yuksek-lisans-prog/9203\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Kayıt
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-ve-ii-ogretim-yuksek-lisans-prog/9203
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-9202@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20260730
+DTEND;VALUE=DATE:20260801
+SUMMARY:Yaz Dönemi ve II. Öğretim Yüksek Lisans Programlarının Yaz Dönemi dersten çekilme dönemi
+DESCRIPTION:Kategori: Kayıt\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-donemi-ve-ii-ogretim-yuksek-lisans-progra/9202\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Kayıt
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-donemi-ve-ii-ogretim-yuksek-lisans-progra/9202
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-9197@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20260714
+DTEND;VALUE=DATE:20260715
+SUMMARY:ÇAP ve yan dal programlarına başvuruların son günü
+DESCRIPTION:Kategori: Başvuru\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/cap-ve-yan-dal-programlarina-basvurularin-son/9197\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Başvuru
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/cap-ve-yan-dal-programlarina-basvurularin-son/9197
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-9193@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20260709
+DTEND;VALUE=DATE:20260717
+SUMMARY:Kurum içi ve dışı yatay geçiş için başvuru dönemi (YÖK tarafından belirlenen takvim)
+DESCRIPTION:Kategori: Başvuru\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/kurum-ici-ve-disi-yatay-gecis-icin-basvuru-do/9193\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Başvuru
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/kurum-ici-ve-disi-yatay-gecis-icin-basvuru-do/9193
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-9192@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20260703
+DTEND;VALUE=DATE:20260704
+SUMMARY:Lisansüstü programların 2026 Güz yarıyılına kabul kararlarının Enstitü Müdürlüklerine bildirilmesi için son gün
+DESCRIPTION:Kategori: Kayıt\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/lisansustu-programlarin-2026-guz-yariyilina-k/9192\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Kayıt
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/lisansustu-programlarin-2026-guz-yariyilina-k/9192
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-9191@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20260703
+DTEND;VALUE=DATE:20260704
+SUMMARY:Yaz Öğretimi ve II. Öğretim Yüksek Lisans Programlarının Yaz Dönemi ders ekleme/bırakma dönemi için akademik kayıt sisteminin danışman erişimine kapanışı (23:59)
+DESCRIPTION:Kategori: Kayıt\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-ve-ii-ogretim-yuksek-lisans-prog/9191\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Kayıt
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-ve-ii-ogretim-yuksek-lisans-prog/9191
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-9189@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20260702
+DTEND;VALUE=DATE:20260703
+SUMMARY:Ders onayı (consent) sisteminin öğretim elemanına kapanışı (22:00)
+DESCRIPTION:Kategori: Kayıt\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-onayi-consent-sisteminin-ogretim-elemani/9189\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Kayıt
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-onayi-consent-sisteminin-ogretim-elemani/9189
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-9190@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20260702
+DTEND;VALUE=DATE:20260703
+SUMMARY:Yaz Öğretimi ve II. Öğretim Yüksek Lisans Programlarının Yaz Dönemi ders ekleme/bırakma dönemi için akademik kayıt sisteminin öğrenci erişimine kapanışı (23:59)
+DESCRIPTION:Kategori: Kayıt\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-ve-ii-ogretim-yuksek-lisans-prog/9190\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Kayıt
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-ve-ii-ogretim-yuksek-lisans-prog/9190
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-9187@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20260702
+DTEND;VALUE=DATE:20260703
+SUMMARY:Kayıt ödeme sisteminin kapanışı (16:00)
+DESCRIPTION:Kategori: Kayıt\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/kayit-odeme-sisteminin-kapanisi-1600/9187\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Kayıt
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/kayit-odeme-sisteminin-kapanisi-1600/9187
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-9188@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20260702
+DTEND;VALUE=DATE:20260703
+SUMMARY:Ders onayı (consent) sisteminin öğrenciye kapanışı (20:00)
+DESCRIPTION:Kategori: Kayıt\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-onayi-consent-sisteminin-ogrenciye-kapan/9188\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Kayıt
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-onayi-consent-sisteminin-ogrenciye-kapan/9188
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-9186@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260703
+SUMMARY:Yaz Öğretimi ve II. Öğretim Yüksek Lisans Programlarının Yaz Dönemi ders ekleme/bırakma dönemi
+DESCRIPTION:Kategori: Kayıt\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-ve-ii-ogretim-yuksek-lisans-prog/9186\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Kayıt
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-ve-ii-ogretim-yuksek-lisans-prog/9186
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13945@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260717
+SUMMARY:2026-2027 Akademik yılında lisans programlarına yurt dışından öğrenci kabulü için ikinci başvuru dönemi
+DESCRIPTION:Kategori: Başvuru\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/2026-2027-akademik-yilinda-lisans-programlari/13945\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Başvuru
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/2026-2027-akademik-yilinda-lisans-programlari/13945
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-9183@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20260630
+DTEND;VALUE=DATE:20260701
+SUMMARY:Yaz öğretimi ve II. Öğretim Yüksek Lisans Programlarının Yaz Dönemi ders ekleme/bırakma dönemi için ödeme sisteminin açılışı (10:00)
+DESCRIPTION:Kategori: Kayıt\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-ve-ii-ogretim-yuksek-lisans-prog/9183\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Kayıt
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-ve-ii-ogretim-yuksek-lisans-prog/9183
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-9177@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20260623
+DTEND;VALUE=DATE:20260624
+SUMMARY:Yaz Öğretimi kesin kayıtları ve II. Öğretim Yüksek Lisans Programlarının Yaz Dönemi kayıtları için akademik kayıt sisteminin danışmanların erişimine kapanışı (12:00)
+DESCRIPTION:Kategori: Kayıt\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-kesin-kayitlari-ve-ii-ogretim-yu/9177\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Kayıt
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-kesin-kayitlari-ve-ii-ogretim-yu/9177
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-9176@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20260622
+DTEND;VALUE=DATE:20260715
+SUMMARY:ÇAP ve yan dal programlarına başvuru dönemi
+DESCRIPTION:Kategori: Başvuru\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/cap-ve-yan-dal-programlarina-basvuru-donemi/9176\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Başvuru
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/cap-ve-yan-dal-programlarina-basvuru-donemi/9176
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-9174@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20260622
+DTEND;VALUE=DATE:20260623
+SUMMARY:Yaz Öğretimi kesin kayıtları ve II. Öğretim Yüksek Lisans Programlarının Yaz Dönemi kayıtları için akademik kayıt sisteminin öğrenci erişimine kapanışı (23:59)
+DESCRIPTION:Kategori: Kayıt\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-kesin-kayitlari-ve-ii-ogretim-yu/9174\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Kayıt
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-kesin-kayitlari-ve-ii-ogretim-yu/9174
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-9173@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20260622
+DTEND;VALUE=DATE:20260623
+SUMMARY:Ders onayı (consent) sisteminin öğretim elemanına kapanışı (22:00)
+DESCRIPTION:Kategori: Kayıt\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-onayi-consent-sisteminin-ogretim-elemani/9173\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Kayıt
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-onayi-consent-sisteminin-ogretim-elemani/9173
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-9172@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20260622
+DTEND;VALUE=DATE:20260623
+SUMMARY:Ders onayı (consent) sisteminin öğrenciye kapanışı (20:00)
+DESCRIPTION:Kategori: Kayıt\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-onayi-consent-sisteminin-ogrenciye-kapan/9172\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Kayıt
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-onayi-consent-sisteminin-ogrenciye-kapan/9172
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-9171@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20260622
+DTEND;VALUE=DATE:20260623
+SUMMARY:Kayıt ödeme sisteminin kapanışı (16:00)
+DESCRIPTION:Kategori: Kayıt\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/kayit-odeme-sisteminin-kapanisi-1600/9171\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Kayıt
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/kayit-odeme-sisteminin-kapanisi-1600/9171
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-9169@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20260619
+DTEND;VALUE=DATE:20260620
+SUMMARY:Yaz Öğretimi kesin kayıtları ve II. Öğretim Yüksek Lisans Programlarının Yaz Dönemi kayıtları için akademik kayıt sisteminin açılışı (14:00) 
+DESCRIPTION:Kategori: Kayıt\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-kesin-kayitlari-ve-ii-ogretim-yu/9169\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Kayıt
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-kesin-kayitlari-ve-ii-ogretim-yu/9169
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-9168@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20260619
+DTEND;VALUE=DATE:20260623
+SUMMARY:Yaz Öğretimi kesin kayıtları ve II. Öğretim Yüksek Lisans Programlarının Yaz Dönemi kayıtları 
+DESCRIPTION:Kategori: Kayıt\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-kesin-kayitlari-ve-ii-ogretim-yu/9168\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Kayıt
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-kesin-kayitlari-ve-ii-ogretim-yu/9168
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-9160@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20260611
+DTEND;VALUE=DATE:20260612
+SUMMARY:Yaz Öğretimi ve II. Öğretim Yüksek Lisans Programları Yaz Dönemi için kayıt ödeme sisteminin açılışı (10:00)
+DESCRIPTION:Kategori: Kayıt\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-ve-ii-ogretim-yuksek-lisans-prog/9160\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Kayıt
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-ve-ii-ogretim-yuksek-lisans-prog/9160
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-9145@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20260508
+DTEND;VALUE=DATE:20260509
+SUMMARY:Ders onayı (consent) sisteminin öğretim elemanına kapanışı (18:00)
+DESCRIPTION:Kategori: Kayıt\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-onayi-consent-sisteminin-ogretim-elemani/9145\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Kayıt
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-onayi-consent-sisteminin-ogretim-elemani/9145
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-9144@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20260508
+DTEND;VALUE=DATE:20260509
+SUMMARY:Kayıt sisteminin öğrenci erişimine kapanışı (19:00)
+DESCRIPTION:Kategori: Kayıt\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/kayit-sisteminin-ogrenci-erisimine-kapanisi-1/9144\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Kayıt
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/kayit-sisteminin-ogrenci-erisimine-kapanisi-1/9144
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-9143@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20260508
+DTEND;VALUE=DATE:20260509
+SUMMARY:Ders onayı (consent) sisteminin öğrenciye kapanışı (16:00)
+DESCRIPTION:Kategori: Kayıt\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-onayi-consent-sisteminin-ogrenciye-kapan/9143\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Kayıt
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-onayi-consent-sisteminin-ogrenciye-kapan/9143
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-9142@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20260508
+DTEND;VALUE=DATE:20260509
+SUMMARY:Yaz Öğretimi ön kayıt ödeme sisteminin kapanışı (16:00)
+DESCRIPTION:Kategori: Kayıt\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-on-kayit-odeme-sisteminin-kapani/9142\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Kayıt
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-on-kayit-odeme-sisteminin-kapani/9142
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-9139@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20260506
+DTEND;VALUE=DATE:20260507
+SUMMARY:Yaz Öğretimi kayıtları için akademik kayıt sisteminin öğrenci erişimine açılışı (10:00)
+DESCRIPTION:Kategori: Kayıt\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-kayitlari-icin-akademik-kayit-si/9139\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Kayıt
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-kayitlari-icin-akademik-kayit-si/9139
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-9138@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20260506
+DTEND;VALUE=DATE:20260509
+SUMMARY:Yaz Öğretimi ön kayıtları
+DESCRIPTION:Kategori: Kayıt\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-on-kayitlari/9138\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Kayıt
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-on-kayitlari/9138
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-9131@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20260417
+DTEND;VALUE=DATE:20260418
+SUMMARY:Dersten çekilme için akademik kayıt sisteminin danışman erişimine kapanışı (23:59)
+DESCRIPTION:Kategori: Kayıt\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/dersten-cekilme-icin-akademik-kayit-sistemini/9131\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Kayıt
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/dersten-cekilme-icin-akademik-kayit-sistemini/9131
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-9130@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20260416
+DTEND;VALUE=DATE:20260417
+SUMMARY:Dersten çekilme için akademik kayıt sisteminin öğrenci erişimine kapanışı (23:59)
+DESCRIPTION:Kategori: Kayıt\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/dersten-cekilme-icin-akademik-kayit-sistemini/9130\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Kayıt
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/dersten-cekilme-icin-akademik-kayit-sistemini/9130
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-9129@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20260415
+DTEND;VALUE=DATE:20260612
+SUMMARY:2026 Güz yarıyılı için I. öğretim lisansüstü programlarına başvuru dönemi
+DESCRIPTION:Kategori: Başvuru\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/2026-guz-yariyili-icin-i-ogretim-lisansustu-p/9129\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Başvuru
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/2026-guz-yariyili-icin-i-ogretim-lisansustu-p/9129
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-9128@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20260414
+DTEND;VALUE=DATE:20260415
+SUMMARY:Akademik kayıt danışmanı ile görüşme günü
+DESCRIPTION:Kategori: Kayıt\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/akademik-kayit-danismani-ile-gorusme-gunu/9128\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Kayıt
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/akademik-kayit-danismani-ile-gorusme-gunu/9128
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-9126@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20260413
+DTEND;VALUE=DATE:20260414
+SUMMARY:Yaz Öğretimi ön kayıt ödeme sisteminin açılışı (10:00)
+DESCRIPTION:Kategori: Kayıt\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-on-kayit-odeme-sisteminin-acilis/9126\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Kayıt
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-on-kayit-odeme-sisteminin-acilis/9126
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-9124@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20260413
+DTEND;VALUE=DATE:20260414
+SUMMARY:Dersten çekilme için akademik kayıt sisteminin açılışı (10:00)
+DESCRIPTION:Kategori: Kayıt\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/dersten-cekilme-icin-akademik-kayit-sistemini/9124\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Kayıt
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/dersten-cekilme-icin-akademik-kayit-sistemini/9124
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-9194@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20260406
+DTEND;VALUE=DATE:20260606
+SUMMARY:2026-2027 Akademik yılında lisans programlarına yurt dışından öğrenci kabulü için başvuru dönemi
+DESCRIPTION:Kategori: Başvuru\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/2026-2027-akademik-yilinda-lisans-programlari/9194\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Başvuru
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/2026-2027-akademik-yilinda-lisans-programlari/9194
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-9122@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20260401
+DTEND;VALUE=DATE:20260612
+SUMMARY:2026 Güz yarıyılı için II. Öğretim Yüksek Lisans Programlarına başvuru dönemi
+DESCRIPTION:Kategori: Başvuru\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/2026-guz-yariyili-icin-ii-ogretim-yuksek-lisa/9122\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Başvuru
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/2026-guz-yariyili-icin-ii-ogretim-yuksek-lisa/9122
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-9113@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20260218
+DTEND;VALUE=DATE:20260219
+SUMMARY:Kayıt ödeme sisteminin kapanışı (17:00)
+DESCRIPTION:Kategori: Kayıt\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/kayit-odeme-sisteminin-kapanisi-1700/9113\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Kayıt
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/kayit-odeme-sisteminin-kapanisi-1700/9113
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-9112@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20260216
+DTEND;VALUE=DATE:20260217
+SUMMARY:Ders ekleme/bırakma dönemi için akademik kayıt sisteminin açılışı (10:00)
+DESCRIPTION:Kategori: Kayıt\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-eklemebirakma-donemi-icin-akademik-kayit/9112\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Kayıt
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-eklemebirakma-donemi-icin-akademik-kayit/9112
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-9109@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20260206
+DTEND;VALUE=DATE:20260207
+SUMMARY:Akademik kayıt sisteminin danışman erişimine kapanışı (23:59)
+DESCRIPTION:Kategori: Kayıt\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/akademik-kayit-sisteminin-danisman-erisimine-/9109\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Kayıt
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/akademik-kayit-sisteminin-danisman-erisimine-/9109
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-9108@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20260205
+DTEND;VALUE=DATE:20260206
+SUMMARY:Akademik kayıt sisteminin öğrenci erişimine kapanışı (23:59)
+DESCRIPTION:Kategori: Kayıt\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/akademik-kayit-sisteminin-ogrenci-erisimine-k/9108\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Kayıt
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/akademik-kayit-sisteminin-ogrenci-erisimine-k/9108
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-9106@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20260205
+DTEND;VALUE=DATE:20260206
+SUMMARY:Ders onay (consent) sisteminin öğrenciye kapanışı (14:00)
+DESCRIPTION:Kategori: Kayıt\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-onay-consent-sisteminin-ogrenciye-kapani/9106\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Kayıt
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-onay-consent-sisteminin-ogrenciye-kapani/9106
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-9107@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20260205
+DTEND;VALUE=DATE:20260206
+SUMMARY:Ders onay (consent) sisteminin öğretim elemanına kapanışı (21:00)
+DESCRIPTION:Kategori: Kayıt\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-onay-consent-sisteminin-ogretim-elemanin/9107\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Kayıt
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-onay-consent-sisteminin-ogretim-elemanin/9107
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-9099@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20260130
+DTEND;VALUE=DATE:20260131
+SUMMARY:Kayıt ödeme sisteminin açılışı (10:00)
+DESCRIPTION:Kategori: Kayıt\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/kayit-odeme-sisteminin-acilisi-1000/9099\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Kayıt
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/kayit-odeme-sisteminin-acilisi-1000/9099
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-9097@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20260130
+DTEND;VALUE=DATE:20260131
+SUMMARY:Lisansüstü programlara yedek listeden kabul edilen öğrencilerin Üniversiteye kayıt günü
+DESCRIPTION:Kategori: Kayıt\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/lisansustu-programlara-yedek-listeden-kabul-e/9097\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Kayıt
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/lisansustu-programlara-yedek-listeden-kabul-e/9097
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-9095@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20260129
+DTEND;VALUE=DATE:20260130
+SUMMARY:Yurtiçi misafir öğrenci ve YÖK özel öğrenci başvurusu için son gün
+DESCRIPTION:Kategori: Başvuru\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yurtici-misafir-ogrenci-ve-yok-ozel-ogrenci-b/9095\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Başvuru
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yurtici-misafir-ogrenci-ve-yok-ozel-ogrenci-b/9095
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-9094@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20260129
+DTEND;VALUE=DATE:20260130
+SUMMARY:Lisansüstü programlara asıl listeden kabul alan öğrencilerin Üniversiteye kayıt günü
+DESCRIPTION:Kategori: Kayıt\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/lisansustu-programlara-asil-listeden-kabul-al/9094\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Kayıt
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/lisansustu-programlara-asil-listeden-kabul-al/9094
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-9093@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20260129
+DTEND;VALUE=DATE:20260130
+SUMMARY:Kurum içi yatay geçiş kabulü alan öğrencilerin bölüm değişikliği için Fakülte Öğrenci İşleri sorumlularına başvuru günü
+DESCRIPTION:Kategori: Başvuru\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/kurum-ici-yatay-gecis-kabulu-alan-ogrencileri/9093\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Başvuru
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/kurum-ici-yatay-gecis-kabulu-alan-ogrencileri/9093
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-9092@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20260129
+DTEND;VALUE=DATE:20260131
+SUMMARY:Uluslararası misafir öğrenci ve uluslararası değişim öğrencilerinin Üniversiteye çevrimiçi kayıtları
+DESCRIPTION:Kategori: Kayıt\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/uluslararasi-misafir-ogrenci-ve-uluslararasi-/9092\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Kayıt
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/uluslararasi-misafir-ogrenci-ve-uluslararasi-/9092
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-9088@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20260122
+DTEND;VALUE=DATE:20260123
+SUMMARY:ÇAP ve yan dal programlarına başvuru için son gün
+DESCRIPTION:Kategori: Başvuru\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/cap-ve-yan-dal-programlarina-basvuru-icin-son/9088\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Başvuru
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/cap-ve-yan-dal-programlarina-basvuru-icin-son/9088
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-9072@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20260109
+DTEND;VALUE=DATE:20260123
+SUMMARY:ÇAP ve yan dal programlarına başvuru dönemi
+DESCRIPTION:Kategori: Başvuru\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/cap-ve-yan-dal-programlarina-basvuru-donemi/9072\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Başvuru
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/cap-ve-yan-dal-programlarina-basvuru-donemi/9072
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-9068@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20260102
+DTEND;VALUE=DATE:20260110
+SUMMARY:Bahar yarıyılı için lisansüstü programlara başvuru dönemi
+DESCRIPTION:Kategori: Başvuru\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/bahar-yariyili-icin-lisansustu-programlara-ba/9068\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Başvuru
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/bahar-yariyili-icin-lisansustu-programlara-ba/9068
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-9056@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20251212
+DTEND;VALUE=DATE:20251213
+SUMMARY:Yarıyıl izni başvurusu için son gün
+DESCRIPTION:Kategori: Kayıt\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yariyil-izni-basvurusu-icin-son-gun/9056\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Kayıt
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yariyil-izni-basvurusu-icin-son-gun/9056
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-9053@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20251121
+DTEND;VALUE=DATE:20251122
+SUMMARY:Dersten çekilme için akademik kayıt sisteminin danışman erişimine kapanışı (23:59)
+DESCRIPTION:Kategori: Kayıt\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/dersten-cekilme-icin-akademik-kayit-sistemini/9053\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Kayıt
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/dersten-cekilme-icin-akademik-kayit-sistemini/9053
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-9052@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20251120
+DTEND;VALUE=DATE:20251121
+SUMMARY:Dersten çekilme için akademik kayıt sisteminin öğrenci erişimine kapanışı (23:59)
+DESCRIPTION:Kategori: Kayıt\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/dersten-cekilme-icin-akademik-kayit-sistemini/9052\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Kayıt
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/dersten-cekilme-icin-akademik-kayit-sistemini/9052
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-9049@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20251118
+DTEND;VALUE=DATE:20251119
+SUMMARY:Akademik Kayıt Danışmanı ile görüşme günü
+DESCRIPTION:Kategori: Kayıt\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/akademik-kayit-danismani-ile-gorusme-gunu/9049\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Kayıt
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/akademik-kayit-danismani-ile-gorusme-gunu/9049
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-9048@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20251117
+DTEND;VALUE=DATE:20251118
+SUMMARY:Dersten çekilme için akademik kayıt sisteminin açılışı (10:00)
+DESCRIPTION:Kategori: Kayıt\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/dersten-cekilme-icin-akademik-kayit-sistemini/9048\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Kayıt
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/dersten-cekilme-icin-akademik-kayit-sistemini/9048
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-9037@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20251002
+DTEND;VALUE=DATE:20251003
+SUMMARY:Ders ekleme/bırakma dönemi için akademik kayıt sisteminin danışman erişimine kapanışı (23:59)
+DESCRIPTION:Kategori: Kayıt\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-eklemebirakma-donemi-icin-akademik-kayit/9037\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Kayıt
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-eklemebirakma-donemi-icin-akademik-kayit/9037
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-9036@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20251001
+DTEND;VALUE=DATE:20251002
+SUMMARY:Ders ekleme/bırakma dönemi için akademik kayıt sisteminin öğrenci erişimine kapanışı (23.59)
+DESCRIPTION:Kategori: Kayıt\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-eklemebirakma-donemi-icin-akademik-kayit/9036\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Kayıt
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-eklemebirakma-donemi-icin-akademik-kayit/9036
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-9031@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20250929
+DTEND;VALUE=DATE:20250930
+SUMMARY:Ders ekleme/bırakma dönemi için akademik kayıt sisteminin açılışı (10:00)
+DESCRIPTION:Kategori: Kayıt\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-eklemebirakma-donemi-icin-akademik-kayit/9031\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Kayıt
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-eklemebirakma-donemi-icin-akademik-kayit/9031
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-9030@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20250929
+DTEND;VALUE=DATE:20251002
+SUMMARY:Ders ekleme/bırakma dönemi
+DESCRIPTION:Kategori: Kayıt\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-eklemebirakma-donemi/9030\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Kayıt
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-eklemebirakma-donemi/9030
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-9021@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20250918
+DTEND;VALUE=DATE:20250919
+SUMMARY:Akademik kayıt sisteminin öğrenci erişimine kapanışı (23:59)
+DESCRIPTION:Kategori: Kayıt\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/akademik-kayit-sisteminin-ogrenci-erisimine-k/9021\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Kayıt
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/akademik-kayit-sisteminin-ogrenci-erisimine-k/9021
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-9020@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20250918
+DTEND;VALUE=DATE:20250919
+SUMMARY:Ders onay (consent) sisteminin öğretim elemanına kapanışı (21:00)
+DESCRIPTION:Kategori: Kayıt\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-onay-consent-sisteminin-ogretim-elemanin/9020\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Kayıt
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-onay-consent-sisteminin-ogretim-elemanin/9020
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-9019@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20250918
+DTEND;VALUE=DATE:20250919
+SUMMARY:Ders onay (consent) sisteminin öğrenciye kapanışı (14:00)
+DESCRIPTION:Kategori: Kayıt\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-onay-consent-sisteminin-ogrenciye-kapani/9019\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Kayıt
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-onay-consent-sisteminin-ogrenciye-kapani/9019
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-9018@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20250917
+DTEND;VALUE=DATE:20250918
+SUMMARY:Akademik kayıt danışmanı ile görüşme günü
+DESCRIPTION:Kategori: Kayıt\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/akademik-kayit-danismani-ile-gorusme-gunu/9018\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Kayıt
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/akademik-kayit-danismani-ile-gorusme-gunu/9018
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-9017@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20250916
+DTEND;VALUE=DATE:20250917
+SUMMARY:Akademik kayıt sisteminin açılışı (10:00)
+DESCRIPTION:Kategori: Kayıt\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/akademik-kayit-sisteminin-acilisi-1000/9017\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Kayıt
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/akademik-kayit-sisteminin-acilisi-1000/9017
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-9012@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20250909
+DTEND;VALUE=DATE:20250910
+SUMMARY:Kayıt ödeme sistemi açılışı (10:00)
+DESCRIPTION:Kategori: Kayıt\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/kayit-odeme-sistemi-acilisi-1000/9012\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Kayıt
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/kayit-odeme-sistemi-acilisi-1000/9012
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-9005@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20250901
+DTEND;VALUE=DATE:20250902
+SUMMARY:Yurtiçi Misafir ve YÖK Özel öğrenci başvurusu için son gün
+DESCRIPTION:Kategori: Başvuru\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yurtici-misafir-ve-yok-ozel-ogrenci-basvurusu/9005\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Başvuru
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yurtici-misafir-ve-yok-ozel-ogrenci-basvurusu/9005
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-8999@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20250821
+DTEND;VALUE=DATE:20250823
+SUMMARY:Uluslararası Misafir öğrenci ve Uluslararası Değişim öğrencilerinin Üniversiteye çevrimiçi kayıtları
+DESCRIPTION:Kategori: Kayıt\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/uluslararasi-misafir-ogrenci-ve-uluslararasi-/8999\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Kayıt
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/uluslararasi-misafir-ogrenci-ve-uluslararasi-/8999
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-8985@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20250801
+DTEND;VALUE=DATE:20250802
+SUMMARY:II. Öğretim Yüksek Lisans Programlarının Yaz Dönemi dersten çekilme dönemi için akademik kayıt sisteminin danışman erişimine kapanışı (23:59)
+DESCRIPTION:Kategori: Kayıt\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ii-ogretim-yuksek-lisans-programlarinin-yaz-d/8985\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Kayıt
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ii-ogretim-yuksek-lisans-programlarinin-yaz-d/8985
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-8984@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20250801
+DTEND;VALUE=DATE:20250802
+SUMMARY:Yaz Öğretimi ve II. Öğretim Yüksek Lisans Programlarının Yaz Dönemi dersten çekilme dönemi için akademik kayıt sisteminin öğrenci erişimine kapanışı (19:00)
+DESCRIPTION:Kategori: Kayıt\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-ve-ii-ogretim-yuksek-lisans-prog/8984\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Kayıt
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-ve-ii-ogretim-yuksek-lisans-prog/8984
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-8978@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20250801
+DTEND;VALUE=DATE:20250816
+SUMMARY:Merkezi puanla yatay geçiş başvuruları (YÖK tarafından belirlenen takvim)
+DESCRIPTION:Kategori: Başvuru\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/merkezi-puanla-yatay-gecis-basvurulari-yok-ta/8978\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Başvuru
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/merkezi-puanla-yatay-gecis-basvurulari-yok-ta/8978
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-8974@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20250731
+DTEND;VALUE=DATE:20250801
+SUMMARY:Yaz Öğretimi ve II. Öğretim Yüksek Lisans Programlarının Yaz Dönemi dersten çekilme dönemi için akademik kayıt sisteminin öğrenci erişimine açılışı (10:00)
+DESCRIPTION:Kategori: Kayıt\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-ve-ii-ogretim-yuksek-lisans-prog/8974\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Kayıt
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-ve-ii-ogretim-yuksek-lisans-prog/8974
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-8973@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20250731
+DTEND;VALUE=DATE:20250802
+SUMMARY:Yaz Dönemi ve II. Öğretim Yüksek Lisans Programlarının Yaz Dönemi dersten çekilme dönemi
+DESCRIPTION:Kategori: Kayıt\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-donemi-ve-ii-ogretim-yuksek-lisans-progra/8973\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Kayıt
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-donemi-ve-ii-ogretim-yuksek-lisans-progra/8973
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-8969@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20250716
+DTEND;VALUE=DATE:20250717
+SUMMARY:ÇAP ve yan dal programlarına başvuruların son günü
+DESCRIPTION:Kategori: Başvuru\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/cap-ve-yan-dal-programlarina-basvurularin-son/8969\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Başvuru
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/cap-ve-yan-dal-programlarina-basvurularin-son/8969
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-8965@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20250708
+DTEND;VALUE=DATE:20250717
+SUMMARY:2025-2026 Akademik yılında lisans programlarına yurt dışından öğrenci kabulü için başvuru dönemi (YÖK tarafından belirlenen takvim)
+DESCRIPTION:Kategori: Başvuru\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/2025-2026-akademik-yilinda-lisans-programlari/8965\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Başvuru
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/2025-2026-akademik-yilinda-lisans-programlari/8965
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-8964@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20250708
+DTEND;VALUE=DATE:20250717
+SUMMARY:Kurum içi ve dışı yatay geçiş için başvuru dönemi (YÖK tarafından belirlenen takvim)
+DESCRIPTION:Kategori: Başvuru\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/kurum-ici-ve-disi-yatay-gecis-icin-basvuru-do/8964\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Başvuru
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/kurum-ici-ve-disi-yatay-gecis-icin-basvuru-do/8964
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-8963@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20250707
+DTEND;VALUE=DATE:20250708
+SUMMARY:Yaz Öğretimi ve II. Öğretim Yüksek Lisans Programlarının Yaz Dönemi ders ekleme/bırakma dönemi için akademik kayıt sisteminin danışman erişimine kapanışı (23:59)
+DESCRIPTION:Kategori: Kayıt\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-ve-ii-ogretim-yuksek-lisans-prog/8963\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Kayıt
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-ve-ii-ogretim-yuksek-lisans-prog/8963
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-8960@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20250704
+DTEND;VALUE=DATE:20250705
+SUMMARY:Ders onayı (consent) sisteminin öğretim elemanına kapanışı (22:00)
+DESCRIPTION:Kategori: Kayıt\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-onayi-consent-sisteminin-ogretim-elemani/8960\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Kayıt
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-onayi-consent-sisteminin-ogretim-elemani/8960
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-8961@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20250704
+DTEND;VALUE=DATE:20250705
+SUMMARY:Yaz Öğretimi ve II. Öğretim Yüksek Lisans Programlarının Yaz Dönemi ders ekleme/bırakma dönemi için akademik kayıt sisteminin öğrenci erişimine kapanışı (23:59)
+DESCRIPTION:Kategori: Kayıt\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-ve-ii-ogretim-yuksek-lisans-prog/8961\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Kayıt
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-ve-ii-ogretim-yuksek-lisans-prog/8961
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-8958@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20250704
+DTEND;VALUE=DATE:20250705
+SUMMARY:Ders onayı (consent) sisteminin öğrenciye kapanışı (20:00)
+DESCRIPTION:Kategori: Kayıt\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-onayi-consent-sisteminin-ogrenciye-kapan/8958\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Kayıt
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-onayi-consent-sisteminin-ogrenciye-kapan/8958
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-8959@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20250704
+DTEND;VALUE=DATE:20250705
+SUMMARY:Kayıt ödeme sisteminin kapanışı (16:00)
+DESCRIPTION:Kategori: Kayıt\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/kayit-odeme-sisteminin-kapanisi-1600/8959\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Kayıt
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/kayit-odeme-sisteminin-kapanisi-1600/8959
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-8957@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20250703
+DTEND;VALUE=DATE:20250705
+SUMMARY:Yaz Öğretimi ve II. Öğretim Yüksek Lisans Programlarının Yaz Dönemi ders ekleme/bırakma dönemi
+DESCRIPTION:Kategori: Kayıt\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-ve-ii-ogretim-yuksek-lisans-prog/8957\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Kayıt
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-ve-ii-ogretim-yuksek-lisans-prog/8957
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-8954@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20250630
+DTEND;VALUE=DATE:20250701
+SUMMARY:Yaz öğretimi ve II. Öğretim Yüksek Lisans Programlarının Yaz Dönemi ders ekleme/bırakma dönemi için ödeme sisteminin açılışı (10:00)
+DESCRIPTION:Kategori: Kayıt\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-ve-ii-ogretim-yuksek-lisans-prog/8954\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Kayıt
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-ve-ii-ogretim-yuksek-lisans-prog/8954
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-8948@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20250623
+DTEND;VALUE=DATE:20250624
+SUMMARY:Yaz Öğretimi kesin kayıtları ve II. Öğretim Yüksek Lisans Programlarının Yaz Dönemi kayıtları için akademik kayıt sisteminin danışmanların erişimine kapanışı (12:00)
+DESCRIPTION:Kategori: Kayıt\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-kesin-kayitlari-ve-ii-ogretim-yu/8948\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Kayıt
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-kesin-kayitlari-ve-ii-ogretim-yu/8948
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-8945@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20250620
+DTEND;VALUE=DATE:20250621
+SUMMARY:Yaz Öğretimi kesin kayıtları ve II. Öğretim Yüksek Lisans Programlarının Yaz Dönemi kayıtları için akademik kayıt sisteminin öğrenci erişimine kapanışı (23:59)
+DESCRIPTION:Kategori: Kayıt\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-kesin-kayitlari-ve-ii-ogretim-yu/8945\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Kayıt
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-kesin-kayitlari-ve-ii-ogretim-yu/8945
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-8943@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20250620
+DTEND;VALUE=DATE:20250621
+SUMMARY:Ders onayı (consent) sisteminin öğretim elemanına kapanışı (22:00)
+DESCRIPTION:Kategori: Kayıt\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-onayi-consent-sisteminin-ogretim-elemani/8943\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Kayıt
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-onayi-consent-sisteminin-ogretim-elemani/8943
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-8942@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20250620
+DTEND;VALUE=DATE:20250621
+SUMMARY:Ders onayı (consent) sisteminin öğrenciye kapanışı (20:00)
+DESCRIPTION:Kategori: Kayıt\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-onayi-consent-sisteminin-ogrenciye-kapan/8942\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Kayıt
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-onayi-consent-sisteminin-ogrenciye-kapan/8942
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-8941@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20250620
+DTEND;VALUE=DATE:20250621
+SUMMARY:Kayıt ödeme sisteminin kapanışı (16:00)
+DESCRIPTION:Kategori: Kayıt\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/kayit-odeme-sisteminin-kapanisi-1600/8941\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Kayıt
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/kayit-odeme-sisteminin-kapanisi-1600/8941
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-8940@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20250619
+DTEND;VALUE=DATE:20250621
+SUMMARY:Yaz Öğretimi kesin kayıtları ve II. Öğretim Yüksek Lisans Programlarının Yaz Dönemi kayıtları
+DESCRIPTION:Kategori: Kayıt\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-kesin-kayitlari-ve-ii-ogretim-yu/8940\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Kayıt
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-kesin-kayitlari-ve-ii-ogretim-yu/8940
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-8939@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20250619
+DTEND;VALUE=DATE:20250620
+SUMMARY:Yaz Öğretimi kesin kayıtları ve II. Öğretim Yüksek Lisans Programlarının Yaz Dönemi kayıtları için akademik kayıt sisteminin açılışı (10:00)
+DESCRIPTION:Kategori: Kayıt\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-kesin-kayitlari-ve-ii-ogretim-yu/8939\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Kayıt
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-kesin-kayitlari-ve-ii-ogretim-yu/8939
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-8932@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20250610
+DTEND;VALUE=DATE:20250611
+SUMMARY:I. ve II. Öğretim lisansüstü programları başvurularının son günü
+DESCRIPTION:Kategori: Başvuru\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/i-ve-ii-ogretim-lisansustu-programlari-basvur/8932\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Başvuru
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/i-ve-ii-ogretim-lisansustu-programlari-basvur/8932
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-8931@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20250610
+DTEND;VALUE=DATE:20250611
+SUMMARY:Yaz Öğretimi kayıt ödeme sisteminin açılışı (10:00)
+DESCRIPTION:Kategori: Kayıt\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-kayit-odeme-sisteminin-acilisi-1/8931\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Kayıt
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-kayit-odeme-sisteminin-acilisi-1/8931
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-8915@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20250509
+DTEND;VALUE=DATE:20250510
+SUMMARY:Yaz Öğretimi ön kayıt ödeme sisteminin kapanışı (16:00)
+DESCRIPTION:Kategori: Kayıt\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-on-kayit-odeme-sisteminin-kapani/8915\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Kayıt
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-on-kayit-odeme-sisteminin-kapani/8915
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-8913@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20250509
+DTEND;VALUE=DATE:20250510
+SUMMARY:Yarıyıl izni başvurusu için son gün
+DESCRIPTION:Kategori: Kayıt\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yariyil-izni-basvurusu-icin-son-gun/8913\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Kayıt
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yariyil-izni-basvurusu-icin-son-gun/8913
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-8912@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20250507
+DTEND;VALUE=DATE:20250510
+SUMMARY:Yaz Öğretimi ön kayıtları
+DESCRIPTION:Kategori: Kayıt\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-on-kayitlari/8912\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Kayıt
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-on-kayitlari/8912
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-8905@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20250418
+DTEND;VALUE=DATE:20250419
+SUMMARY:Dersten çekilme için akademik kayıt sisteminin danışman erişimine kapanışı (23:59)
+DESCRIPTION:Kategori: Kayıt\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/dersten-cekilme-icin-akademik-kayit-sistemini/8905\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Kayıt
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/dersten-cekilme-icin-akademik-kayit-sistemini/8905
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-8904@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20250417
+DTEND;VALUE=DATE:20250418
+SUMMARY:Dersten çekilme için akademik kayıt sisteminin öğrenci erişimine kapanışı (23:59)
+DESCRIPTION:Kategori: Kayıt\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/dersten-cekilme-icin-akademik-kayit-sistemini/8904\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Kayıt
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/dersten-cekilme-icin-akademik-kayit-sistemini/8904
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-8903@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20250416
+DTEND;VALUE=DATE:20250611
+SUMMARY:2025 Güz yarıyılı için I. öğretim lisansüstü programlarına başvuru dönemi
+DESCRIPTION:Kategori: Başvuru\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/2025-guz-yariyili-icin-i-ogretim-lisansustu-p/8903\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Başvuru
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/2025-guz-yariyili-icin-i-ogretim-lisansustu-p/8903
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-8902@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20250415
+DTEND;VALUE=DATE:20250416
+SUMMARY:Akademik kayıt danışmanı ile görüşme günü
+DESCRIPTION:Kategori: Kayıt\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/akademik-kayit-danismani-ile-gorusme-gunu/8902\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Kayıt
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/akademik-kayit-danismani-ile-gorusme-gunu/8902
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-8900@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20250414
+DTEND;VALUE=DATE:20250415
+SUMMARY:Yaz Öğretimi ön kayıt ödeme sisteminin açılışı (10:00)
+DESCRIPTION:Kategori: Kayıt\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-on-kayit-odeme-sisteminin-acilis/8900\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Kayıt
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-on-kayit-odeme-sisteminin-acilis/8900
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-8897@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20250414
+DTEND;VALUE=DATE:20250415
+SUMMARY:Dersten çekilme için akademik kayıt sisteminin açılışı (10:00)
+DESCRIPTION:Kategori: Kayıt\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/dersten-cekilme-icin-akademik-kayit-sistemini/8897\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Kayıt
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/dersten-cekilme-icin-akademik-kayit-sistemini/8897
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-8896@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20250402
+DTEND;VALUE=DATE:20250611
+SUMMARY:2025 Güz yarıyılı için II. Öğretim Yüksek Lisans Programlarına başvuru dönemi
+DESCRIPTION:Kategori: Başvuru\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/2025-guz-yariyili-icin-ii-ogretim-yuksek-lisa/8896\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Başvuru
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/2025-guz-yariyili-icin-ii-ogretim-yuksek-lisa/8896
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-8887@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20250219
+DTEND;VALUE=DATE:20250220
+SUMMARY:Ders onayı (consent) sisteminin öğrenciye kapanışı (14:00)
+DESCRIPTION:Kategori: Kayıt\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-onayi-consent-sisteminin-ogrenciye-kapan/8887\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Kayıt
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-onayi-consent-sisteminin-ogrenciye-kapan/8887
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-8883@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20250211
+DTEND;VALUE=DATE:20250212
+SUMMARY:Programı reddedilen öğrenciler için akademik kayıt sisteminin danışman erişimine kapanışı (23:59)
+DESCRIPTION:Kategori: Kayıt\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/programi-reddedilen-ogrenciler-icin-akademik-/8883\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Kayıt
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/programi-reddedilen-ogrenciler-icin-akademik-/8883
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-8882@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20250210
+DTEND;VALUE=DATE:20250211
+SUMMARY:Programı reddedilen öğrenciler için akademik kayıt sisteminin öğrenci erişimine kapanışı (23:59)
+DESCRIPTION:Kategori: Kayıt\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/programi-reddedilen-ogrenciler-icin-akademik-/8882\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Kayıt
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/programi-reddedilen-ogrenciler-icin-akademik-/8882
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-8881@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20250210
+DTEND;VALUE=DATE:20250211
+SUMMARY:Programı reddedilen öğrenciler için ders onayı (consent) sisteminin öğretim elemanına kapanışı (21:00)
+DESCRIPTION:Kategori: Kayıt\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/programi-reddedilen-ogrenciler-icin-ders-onay/8881\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Kayıt
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/programi-reddedilen-ogrenciler-icin-ders-onay/8881
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-8880@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20250210
+DTEND;VALUE=DATE:20250211
+SUMMARY:Programı reddedilen öğrenciler için ders onayı (consent) sisteminin öğrenciye kapanışı (14:00)
+DESCRIPTION:Kategori: Kayıt\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/programi-reddedilen-ogrenciler-icin-ders-onay/8880\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Kayıt
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/programi-reddedilen-ogrenciler-icin-ders-onay/8880
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-8878@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20250208
+DTEND;VALUE=DATE:20250209
+SUMMARY:Programı danışman tarafından reddedilen öğrenciler ve danışmanlar için akademik kayıt sisteminin açılışı (10:00)
+DESCRIPTION:Kategori: Kayıt\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/programi-danisman-tarafindan-reddedilen-ogren/8878\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Kayıt
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/programi-danisman-tarafindan-reddedilen-ogren/8878
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-8877@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20250207
+DTEND;VALUE=DATE:20250208
+SUMMARY:Akademik kayıt sisteminin danışman erişimine kapanışı (23:59)
+DESCRIPTION:Kategori: Kayıt\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/akademik-kayit-sisteminin-danisman-erisimine-/8877\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Kayıt
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/akademik-kayit-sisteminin-danisman-erisimine-/8877
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-8876@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20250206
+DTEND;VALUE=DATE:20250207
+SUMMARY:Akademik kayıt sisteminin öğrenci erişimine kapanışı (23:59)
+DESCRIPTION:Kategori: Kayıt\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/akademik-kayit-sisteminin-ogrenci-erisimine-k/8876\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Kayıt
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/akademik-kayit-sisteminin-ogrenci-erisimine-k/8876
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-8875@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20250206
+DTEND;VALUE=DATE:20250207
+SUMMARY:Ders onay (consent) sisteminin öğretim elemanına kapanışı (21:00)
+DESCRIPTION:Kategori: Kayıt\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-onay-consent-sisteminin-ogretim-elemanin/8875\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Kayıt
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-onay-consent-sisteminin-ogretim-elemanin/8875
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-8874@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20250206
+DTEND;VALUE=DATE:20250207
+SUMMARY:Ders onay (consent) sisteminin öğrenciye kapanışı (14:00)
+DESCRIPTION:Kategori: Kayıt\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-onay-consent-sisteminin-ogrenciye-kapani/8874\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Kayıt
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-onay-consent-sisteminin-ogrenciye-kapani/8874
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-8873@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20250205
+DTEND;VALUE=DATE:20250206
+SUMMARY:Akademik kayıt danışmanı ile görüşme günü
+DESCRIPTION:Kategori: Kayıt\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/akademik-kayit-danismani-ile-gorusme-gunu/8873\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Kayıt
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/akademik-kayit-danismani-ile-gorusme-gunu/8873
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-8867@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20250131
+DTEND;VALUE=DATE:20250201
+SUMMARY:Kayıt ödeme sisteminin açılışı (10:00)
+DESCRIPTION:Kategori: Kayıt\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/kayit-odeme-sisteminin-acilisi-1000/8867\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Kayıt
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/kayit-odeme-sisteminin-acilisi-1000/8867
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-8865@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20250131
+DTEND;VALUE=DATE:20250201
+SUMMARY:Lisansüstü programlara yedek listeden kabul edilen öğrencilerin Üniversiteye kayıt günü
+DESCRIPTION:Kategori: Kayıt\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/lisansustu-programlara-yedek-listeden-kabul-e/8865\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Kayıt
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/lisansustu-programlara-yedek-listeden-kabul-e/8865
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-8862@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20250130
+DTEND;VALUE=DATE:20250131
+SUMMARY:Yurtiçi misafir öğrenci ve YÖK özel öğrenci başvurusu için son gün
+DESCRIPTION:Kategori: Başvuru\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yurtici-misafir-ogrenci-ve-yok-ozel-ogrenci-b/8862\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Başvuru
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yurtici-misafir-ogrenci-ve-yok-ozel-ogrenci-b/8862
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-8860@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20250130
+DTEND;VALUE=DATE:20250201
+SUMMARY:Uluslararası misafir öğrenci ve uluslararası değişim öğrencilerinin Üniversiteye çevrimiçi kayıtları
+DESCRIPTION:Kategori: Kayıt\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/uluslararasi-misafir-ogrenci-ve-uluslararasi-/8860\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Kayıt
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/uluslararasi-misafir-ogrenci-ve-uluslararasi-/8860
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-8861@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20250130
+DTEND;VALUE=DATE:20250131
+SUMMARY:Lisansüstü programlara asıl listeden kabul alan öğrencilerin Üniversiteye kayıt günü
+DESCRIPTION:Kategori: Kayıt\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/lisansustu-programlara-asil-listeden-kabul-al/8861\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Kayıt
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/lisansustu-programlara-asil-listeden-kabul-al/8861
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-8856@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20250123
+DTEND;VALUE=DATE:20250124
+SUMMARY:ÇAP ve yan dal programlarına başvuru için son gün
+DESCRIPTION:Kategori: Başvuru\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/cap-ve-yan-dal-programlarina-basvuru-icin-son/8856\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Başvuru
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/cap-ve-yan-dal-programlarina-basvuru-icin-son/8856
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-8836@bogazici.edu.tr
+DTSTAMP:20260825T173923Z
+DTSTART;VALUE=DATE:20250102
+DTEND;VALUE=DATE:20250110
+SUMMARY:Bahar yarıyılı için lisansüstü programlara başvuru dönemi
+DESCRIPTION:Kategori: Başvuru\n\nDetay: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/bahar-yariyili-icin-lisansustu-programlara-ba/8836\n\nOtomatik Güncellenen Boğaziçi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Başvuru
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/bahar-yariyili-icin-lisansustu-programlara-ba/8836
+END:VEVENT
+END:VCALENDAR
