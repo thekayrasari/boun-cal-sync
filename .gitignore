@@ -8,11 +8,18 @@ env/
 venv/
 ENV/
 .env
+.venv/
 
-# Output (Optional - we can keep dist committed so raw files work, or ignore if Pages only)
-# dist/ is committed by the GitHub Action workflow
+# Testing & Coverage
+.pytest_cache/
+.coverage
+htmlcov/
 
-# OS metadata
+# IDE & OS metadata
+.vscode/
+.idea/
 .DS_Store
 Thumbs.db
 *.tmp
+*.log
+

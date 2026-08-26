@@ -9,1311 +9,1678 @@ X-WR-TIMEZONE:Europe/Istanbul
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:boun-academic-13450@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20270818
-DTEND;VALUE=DATE:20270819
-SUMMARY:Grade submission system closes (23:59)
-DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/grade-submission-system-closes-2359/13450\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Instruction
-URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/grade-submission-system-closes-2359/13450
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-13434@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20270811
-DTEND;VALUE=DATE:20270814
-SUMMARY:Final exams for Executive and Other Graduate Programs Summer Session
-DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/final-exams-for-executive-and-other-graduate-/13434\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Instruction
-URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/final-exams-for-executive-and-other-graduate-/13434
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-13432@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20270811
-DTEND;VALUE=DATE:20270812
-SUMMARY:Grade submission system opens (10:00)
-DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/grade-submission-system-opens-1000/13432\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Instruction
-URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/grade-submission-system-opens-1000/13432
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-13423@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20270810
-DTEND;VALUE=DATE:20270811
-SUMMARY:Last Day of Course evaluations period (23:59) (Included SFL classes)
-DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/last-day-of-course-evaluations-period-2359-in/13423\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Instruction
-URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/last-day-of-course-evaluations-period-2359-in/13423
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-13421@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20270810
-DTEND;VALUE=DATE:20270811
-SUMMARY:Summer session classes for Executive and Other Graduate Programs end
-DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/summer-session-classes-for-executive-and-othe/13421\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Instruction
-URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/summer-session-classes-for-executive-and-othe/13421
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-13413@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20270802
-DTEND;VALUE=DATE:20270811
-SUMMARY:Course evaluations period( Except SFL classes)
-DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/course-evaluations-period-except-sfl-classes/13413\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Instruction
-URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/course-evaluations-period-except-sfl-classes/13413
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-13401@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20270726
-DTEND;VALUE=DATE:20270727
-SUMMARY:Departmental exams for candidates applying to external transfers for 2027 Fall term
-DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/departmental-exams-for-candidates-applying-to/13401\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Instruction
-URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/departmental-exams-for-candidates-applying-to/13401
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-13399@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20270722
-DTEND;VALUE=DATE:20270724
-SUMMARY:Departmental exams for candidates applying to external transfers for 2027 Fall term
-DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/departmental-exams-for-candidates-applying-to/13399\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Instruction
-URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/departmental-exams-for-candidates-applying-to/13399
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-13353@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20270630
-DTEND;VALUE=DATE:20270701
-SUMMARY:Executive and Other Graduate Programs Summer Session classes begin
-DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/executive-and-other-graduate-programs-summer-/13353\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Instruction
-URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/executive-and-other-graduate-programs-summer-/13353
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-13347@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20270628
-DTEND;VALUE=DATE:20270703
-SUMMARY:Departmental exams for candidates applying to graduate programs
-DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/departmental-exams-for-candidates-applying-to/13347\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Instruction
-URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/departmental-exams-for-candidates-applying-to/13347
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-13321@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20270524
-DTEND;VALUE=DATE:20270529
-SUMMARY:Commencement Ceremony
-DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/commencement-ceremony/13321\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Instruction
-URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/commencement-ceremony/13321
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-13607@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20270509
-DTEND;VALUE=DATE:20270510
-SUMMARY:Grade submission resumes (for students who received I signs only) (Close 23:59)
-DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/grade-submission-resumes-for-students-who-rec/13607\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Instruction
-URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/grade-submission-resumes-for-students-who-rec/13607
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-13327@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20270509
-DTEND;VALUE=DATE:20270510
-SUMMARY:Grade submission resumes (for students who received I signs only) (10:00)
-DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/grade-submission-resumes-for-students-who-rec/13327\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Instruction
-URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/grade-submission-resumes-for-students-who-rec/13327
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-13325@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20270508
-DTEND;VALUE=DATE:20270509
-SUMMARY:Grade submission ends (23:59)
-DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/grade-submission-ends-2359/13325\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Instruction
-URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/grade-submission-ends-2359/13325
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-13308@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20270505
-DTEND;VALUE=DATE:20270508
-SUMMARY:E and make-up exams
-DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/e-and-make-up-exams/13308\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Instruction
-URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/e-and-make-up-exams/13308
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-13292@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20270425
-DTEND;VALUE=DATE:20270505
-SUMMARY:Final exams (Sunday\, April 25\, 2026: the 3rd and 4th time slots will be used for Culture and Language courses)
-DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/final-exams-sunday-april-25-2026-the-3rd-and-/13292\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Instruction
-URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/final-exams-sunday-april-25-2026-the-3rd-and-/13292
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-13288@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20270424
-DTEND;VALUE=DATE:20270426
-SUMMARY:Final exams for culture and language courses (including HUM courses) Final exams (Sunday\, April 25\, 2026: the 3rd and 4th time slots will be used for Culture and Language courses)
-DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/final-exams-for-culture-and-language-courses-/13288\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Instruction
-URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/final-exams-for-culture-and-language-courses-/13288
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-13290@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20270424
-DTEND;VALUE=DATE:20270425
-SUMMARY:Grade submission system opens (10:00)
-DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/grade-submission-system-opens-1000/13290\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Instruction
-URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/grade-submission-system-opens-1000/13290
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-13280@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20270423
-DTEND;VALUE=DATE:20270424
-SUMMARY:Last Day of Course evaluations period (23:59)( Except SFL classes)
-DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/last-day-of-course-evaluations-period-2359-ex/13280\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Instruction
-URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/last-day-of-course-evaluations-period-2359-ex/13280
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-13278@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20270422
-DTEND;VALUE=DATE:20270423
-SUMMARY:Classes end
-DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/classes-end/13278\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Instruction
-URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/classes-end/13278
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-13276@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20270415
-DTEND;VALUE=DATE:20270416
-SUMMARY:Deadline for leave of absence requests
-DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-leave-of-absence-requests/13276\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Instruction
-URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-leave-of-absence-requests/13276
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-13255@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20270412
-DTEND;VALUE=DATE:20270424
-SUMMARY:Course evaluations period( Except SFL classes)
-DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/course-evaluations-period-except-sfl-classes/13255\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Instruction
-URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/course-evaluations-period-except-sfl-classes/13255
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-13220@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20270308
-DTEND;VALUE=DATE:20270313
-SUMMARY:Spring Break / Religious Holiday
-DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/spring-break-religious-holiday/13220\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Instruction
-URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/spring-break-religious-holiday/13220
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-13206@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20270118
-DTEND;VALUE=DATE:20270119
-SUMMARY:Classes begin (Including SFL classes)
-DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/classes-begin-including-sfl-classes/13206\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Instruction
-URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/classes-begin-including-sfl-classes/13206
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-13194@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20270113
-DTEND;VALUE=DATE:20270114
-SUMMARY:Chemistry\, Computer Engineering\, Molecular Biology and Genetic\, Physics waiver exams for new undergraduate students
-DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/chemistry-computer-engineering-molecular-biol/13194\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Instruction
-URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/chemistry-computer-engineering-molecular-biol/13194
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-13188@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20270112
-DTEND;VALUE=DATE:20270113
-SUMMARY:Online Orientation day for visitor students and exchange students
-DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-orientation-day-for-visitor-students-a/13188\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Instruction
-URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-orientation-day-for-visitor-students-a/13188
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-13154@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20261228
-DTEND;VALUE=DATE:20261229
-SUMMARY:Grade submission resumes (for students who received I signs only) (Close 23:59)
-DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/grade-submission-resumes-for-students-who-rec/13154\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Instruction
-URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/grade-submission-resumes-for-students-who-rec/13154
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-14208@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20261228
-DTEND;VALUE=DATE:20261230
-SUMMARY:Departmental exams for candidates applying for 2027 Spring term to graduate programs
-DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/departmental-exams-for-candidates-applying-fo/14208\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Instruction
-URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/departmental-exams-for-candidates-applying-fo/14208
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-13152@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20261228
-DTEND;VALUE=DATE:20261229
-SUMMARY:Grade submission resumes (for students who received I signs only) (Open 10:00)
-DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/grade-submission-resumes-for-students-who-rec/13152\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Instruction
-URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/grade-submission-resumes-for-students-who-rec/13152
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-13146@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20261227
-DTEND;VALUE=DATE:20261228
-SUMMARY:Grade submission ends (23:59)
-DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/grade-submission-ends-2359/13146\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Instruction
-URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/grade-submission-ends-2359/13146
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-13148@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20261225
-DTEND;VALUE=DATE:20261226
-SUMMARY:Departmental exams for candidates applying for 2027 Spring term to graduate programs
-DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/departmental-exams-for-candidates-applying-fo/13148\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Instruction
-URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/departmental-exams-for-candidates-applying-fo/13148
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-13134@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20261223
-DTEND;VALUE=DATE:20261226
-SUMMARY:E and make-up exams
-DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/e-and-make-up-exams/13134\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Instruction
-URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/e-and-make-up-exams/13134
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-13112@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20261213
-DTEND;VALUE=DATE:20261223
-SUMMARY:Final exams (Sunday\, December 13\, 2026: the 3rd and 4th time slots will be used for Culture and Language courses).
-DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/final-exams-sunday-december-13-2026-the-3rd-a/13112\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Instruction
-URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/final-exams-sunday-december-13-2026-the-3rd-a/13112
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-13108@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20261212
-DTEND;VALUE=DATE:20261214
-SUMMARY:Final exams for culture and language courses (including HUM courses) Final exams (Sunday\, December 13\, 2026: the 3rd and 4th time slots will be used for Culture and Language courses).
-DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/final-exams-for-culture-and-language-courses-/13108\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Instruction
-URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/final-exams-for-culture-and-language-courses-/13108
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-13110@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20261212
-DTEND;VALUE=DATE:20261213
-SUMMARY:Grade submission system opens (10 a.m.)
-DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/grade-submission-system-opens-10-am/13110\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Instruction
-URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/grade-submission-system-opens-10-am/13110
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-13104@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20261211
-DTEND;VALUE=DATE:20261212
-SUMMARY:Last Day of Course evaluations period (23:59)( Except SFL classes)
-DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/last-day-of-course-evaluations-period-2359-ex/13104\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Instruction
-URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/last-day-of-course-evaluations-period-2359-ex/13104
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-13102@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20261211
-DTEND;VALUE=DATE:20261212
-SUMMARY:Classes end
-DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/classes-end/13102\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Instruction
-URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/classes-end/13102
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-13096@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20261130
-DTEND;VALUE=DATE:20261212
-SUMMARY:Course evaluations period( Except SFL classes)
-DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/course-evaluations-period-except-sfl-classes/13096\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Instruction
-URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/course-evaluations-period-except-sfl-classes/13096
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-13024@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20260921
-DTEND;VALUE=DATE:20260922
-SUMMARY:Classes begin (Except SFL classes)
-DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/classes-begin-except-sfl-classes/13024\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Instruction
-URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/classes-begin-except-sfl-classes/13024
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-13022@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20260918
-DTEND;VALUE=DATE:20260919
-SUMMARY:Chemistry\, Computer Engineering\, Molecular Biology and Genetic\, Physics waiver exams
-DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/chemistry-computer-engineering-molecular-biol/13022\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Instruction
-URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/chemistry-computer-engineering-molecular-biol/13022
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-13004@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20260914
-DTEND;VALUE=DATE:20260915
-SUMMARY:Online Orientation day for visitor students and exchange students
-DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-orientation-day-for-visitor-students-a/13004\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Instruction
-URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-orientation-day-for-visitor-students-a/13004
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-12085@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20260820
-DTEND;VALUE=DATE:20260821
-SUMMARY:Grade submission system closes (23:59)
-DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/grade-submission-system-closes-2359/12085\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Instruction
-URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/grade-submission-system-closes-2359/12085
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-12080@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20260813
-DTEND;VALUE=DATE:20260816
-SUMMARY:Final exams for Executive and Other Graduate Programs Summer Session
-DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/final-exams-for-executive-and-other-graduate-/12080\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Instruction
-URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/final-exams-for-executive-and-other-graduate-/12080
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-12079@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20260813
-DTEND;VALUE=DATE:20260814
-SUMMARY:Grade submission system opens (10:00)
-DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/grade-submission-system-opens-1000/12079\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Instruction
-URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/grade-submission-system-opens-1000/12079
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-12077@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20260812
-DTEND;VALUE=DATE:20260813
-SUMMARY:Summer session classes for Executive and Other Graduate Programs end
-DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/summer-session-classes-for-executive-and-othe/12077\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Instruction
-URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/summer-session-classes-for-executive-and-othe/12077
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-12058@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20260722
-DTEND;VALUE=DATE:20260725
-SUMMARY:Departmental exams for candidates applying to external transfers for 2026 Fall term
-DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/departmental-exams-for-candidates-applying-to/12058\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Instruction
-URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/departmental-exams-for-candidates-applying-to/12058
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-12056@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20260715
-DTEND;VALUE=DATE:20260716
-SUMMARY:Democracy and Freedom Day (Holiday)
-DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/democracy-and-freedom-day-holiday/12056\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Instruction
-URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/democracy-and-freedom-day-holiday/12056
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-12037@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20260624
-DTEND;VALUE=DATE:20260625
-SUMMARY:Executive and Other Graduate Programs Summer Session classes begin
-DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/executive-and-other-graduate-programs-summer-/12037\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Instruction
-URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/executive-and-other-graduate-programs-summer-/12037
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-12024@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20260618
-DTEND;VALUE=DATE:20260619
-SUMMARY:Grade submission resumes (for students who received I signs only) (Close 23:59)
-DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/grade-submission-resumes-for-students-who-rec/12024\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Instruction
-URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/grade-submission-resumes-for-students-who-rec/12024
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-12023@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20260617
-DTEND;VALUE=DATE:20260618
-SUMMARY:Grade submission resumes (for students who received I signs only) (10:00)
-DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/grade-submission-resumes-for-students-who-rec/12023\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Instruction
-URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/grade-submission-resumes-for-students-who-rec/12023
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-12022@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20260616
-DTEND;VALUE=DATE:20260617
-SUMMARY:Grade submission ends (23:59)
-DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/grade-submission-ends-2359/12022\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Instruction
-URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/grade-submission-ends-2359/12022
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-12021@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20260611
-DTEND;VALUE=DATE:20260614
-SUMMARY:E and make-up exams
-DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/e-and-make-up-exams/12021\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Instruction
-URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/e-and-make-up-exams/12021
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-12016@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20260608
-DTEND;VALUE=DATE:20260611
-SUMMARY:Final exams
-DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/final-exams/12016\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Instruction
-URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/final-exams/12016
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-12014@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20260601
-DTEND;VALUE=DATE:20260607
-SUMMARY:Final exams
-DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/final-exams/12014\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Instruction
-URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/final-exams/12014
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-12009@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20260520
-DTEND;VALUE=DATE:20260524
-SUMMARY:Final exams
-DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/final-exams/12009\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Instruction
-URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/final-exams/12009
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-12007@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20260516
-DTEND;VALUE=DATE:20260517
-SUMMARY:Grade submission system opens (10:00)
-DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/grade-submission-system-opens-1000/12007\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Instruction
-URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/grade-submission-system-opens-1000/12007
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-12006@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20260516
-DTEND;VALUE=DATE:20260517
-SUMMARY:Final exams for culture and language courses (including HUM courses)
-DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/final-exams-for-culture-and-language-courses-/12006\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Instruction
-URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/final-exams-for-culture-and-language-courses-/12006
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-12004@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20260515
-DTEND;VALUE=DATE:20260516
-SUMMARY:Classes end
-DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/classes-end/12004\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Instruction
-URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/classes-end/12004
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-11986@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20260414
-DTEND;VALUE=DATE:20260415
-SUMMARY:Student consultations with academic advisors
-DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/student-consultations-with-academic-advisors/11986\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Instruction
-URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/student-consultations-with-academic-advisors/11986
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-11963@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20260204
-DTEND;VALUE=DATE:20260205
-SUMMARY:Student consultations with academic advisors
-DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/student-consultations-with-academic-advisors/11963\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Instruction
-URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/student-consultations-with-academic-advisors/11963
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-11959@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20260202
-DTEND;VALUE=DATE:20260203
-SUMMARY:Online Orientation day for visitor students and exchange students
-DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-orientation-day-for-visitor-students-a/11959\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Instruction
-URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-orientation-day-for-visitor-students-a/11959
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-11944@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20260121
-DTEND;VALUE=DATE:20260122
-SUMMARY:Grade submission resumes (for students who received I signs only) (Close 23:59)
-DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/grade-submission-resumes-for-students-who-rec/11944\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Instruction
-URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/grade-submission-resumes-for-students-who-rec/11944
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-11943@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20260120
-DTEND;VALUE=DATE:20260121
-SUMMARY:Grade submission resumes (for students who received I signs only) (Open 10:00)
-DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/grade-submission-resumes-for-students-who-rec/11943\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Instruction
-URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/grade-submission-resumes-for-students-who-rec/11943
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-11941@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20260119
-DTEND;VALUE=DATE:20260120
-SUMMARY:Grade submission ends (23:59)
-DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/grade-submission-ends-2359/11941\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Instruction
-URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/grade-submission-ends-2359/11941
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-11940@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20260119
-DTEND;VALUE=DATE:20260122
-SUMMARY:Departmental exams for candidates applying for 2026 Spring term to graduate programs
-DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/departmental-exams-for-candidates-applying-fo/11940\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Instruction
-URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/departmental-exams-for-candidates-applying-fo/11940
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-11934@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20260113
-DTEND;VALUE=DATE:20260116
-SUMMARY:E and make-up exams
-DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/e-and-make-up-exams/11934\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Instruction
-URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/e-and-make-up-exams/11934
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-11927@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20260105
-DTEND;VALUE=DATE:20260110
-SUMMARY:Final exams
-DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/final-exams/11927\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Instruction
-URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/final-exams/11927
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-11924@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20260102
-DTEND;VALUE=DATE:20260104
-SUMMARY:Final exams
-DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/final-exams/11924\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Instruction
-URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/final-exams/11924
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-11922@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20251229
-DTEND;VALUE=DATE:20251231
-SUMMARY:Final exams
-DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/final-exams/11922\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Instruction
-URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/final-exams/11922
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-11921@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20251224
-DTEND;VALUE=DATE:20251228
-SUMMARY:Final exams
-DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/final-exams/11921\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Instruction
-URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/final-exams/11921
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-11920@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20251222
-DTEND;VALUE=DATE:20251223
-SUMMARY:Grade submission system opens (10 a.m.)
-DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/grade-submission-system-opens-10-am/11920\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Instruction
-URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/grade-submission-system-opens-10-am/11920
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-11919@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20251222
-DTEND;VALUE=DATE:20251224
-SUMMARY:Final exams for culture and language courses (including HUM courses)
-DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/final-exams-for-culture-and-language-courses-/11919\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Instruction
-URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/final-exams-for-culture-and-language-courses-/11919
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-11916@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20251219
-DTEND;VALUE=DATE:20251220
-SUMMARY:Classes end
-DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/classes-end/11916\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Instruction
-URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/classes-end/11916
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-11912@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20251201
-DTEND;VALUE=DATE:20251220
-SUMMARY:Course evaluations period( Except SFL classes)
-DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/course-evaluations-period-except-sfl-classes/11912\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Instruction
-URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/course-evaluations-period-except-sfl-classes/11912
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-11876@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20250917
-DTEND;VALUE=DATE:20250918
-SUMMARY:Student consultations with academic advisors
-DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/student-consultations-with-academic-advisors/11876\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Instruction
-URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/student-consultations-with-academic-advisors/11876
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-11871@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20250915
-DTEND;VALUE=DATE:20250916
-SUMMARY:Online Orientation day for visitor students and exchange students
-DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-orientation-day-for-visitor-students-a/11871\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Instruction
-URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-orientation-day-for-visitor-students-a/11871
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-11856@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20250819
-DTEND;VALUE=DATE:20250820
-SUMMARY:Grade submission system closes (23:59)
-DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/grade-submission-system-closes-2359/11856\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Instruction
-URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/grade-submission-system-closes-2359/11856
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-12116@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20250815
-DTEND;VALUE=DATE:20250816
-SUMMARY:Final exams for Executive and Other Graduate Programs Summer Session (On August 15\, 2025\, only the first two slots will be used.)
-DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/final-exams-for-executive-and-other-graduate-/12116\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Instruction
-URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/final-exams-for-executive-and-other-graduate-/12116
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-12115@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20250813
-DTEND;VALUE=DATE:20250815
-SUMMARY:Final exams for Executive and Other Graduate Programs Summer Session
-DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/final-exams-for-executive-and-other-graduate-/12115\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Instruction
-URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/final-exams-for-executive-and-other-graduate-/12115
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-11853@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20250812
-DTEND;VALUE=DATE:20250813
-SUMMARY:Final exams for Executive and Other Graduate Programs Summer Session (On August 12\, 2025\, the first two slots will not be used due to BUEPT)
-DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/final-exams-for-executive-and-other-graduate-/11853\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Instruction
-URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/final-exams-for-executive-and-other-graduate-/11853
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-11850@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20250811
-DTEND;VALUE=DATE:20250812
-SUMMARY:Deadline for Course Evaluations Period Summer Term
-DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-course-evaluations-period-summer/11850\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Instruction
-URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-course-evaluations-period-summer/11850
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-11849@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20250811
-DTEND;VALUE=DATE:20250812
-SUMMARY:Summer session classes for Executive and Other Graduate Programs end
-DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/summer-session-classes-for-executive-and-othe/11849\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Instruction
-URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/summer-session-classes-for-executive-and-othe/11849
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-11840@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20250801
-DTEND;VALUE=DATE:20250802
-SUMMARY:SFL Summer Term Program II and III classes end
-DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/sfl-summer-term-program-ii-and-iii-classes-en/11840\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Instruction
-URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/sfl-summer-term-program-ii-and-iii-classes-en/11840
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-11830@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20250723
-DTEND;VALUE=DATE:20250726
-SUMMARY:Departmental exams for candidates applying to external transfers for 2025 Fall term
-DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/departmental-exams-for-candidates-applying-to/11830\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Instruction
-URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/departmental-exams-for-candidates-applying-to/11830
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-11809@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20250624
-DTEND;VALUE=DATE:20250625
-SUMMARY:Executive and Other Graduate Programs Summer Session classes begin
-DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/executive-and-other-graduate-programs-summer-/11809\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Instruction
-URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/executive-and-other-graduate-programs-summer-/11809
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-11806@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20250623
-DTEND;VALUE=DATE:20250628
-SUMMARY:Departmental exams for candidates applying to graduate programs
-DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/departmental-exams-for-candidates-applying-to/11806\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Instruction
-URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/departmental-exams-for-candidates-applying-to/11806
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-11796@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20250618
-DTEND;VALUE=DATE:20250619
-SUMMARY:Grade submission resumes (for students who received I signs only) (Close 13:00)
-DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/grade-submission-resumes-for-students-who-rec/11796\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Instruction
-URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/grade-submission-resumes-for-students-who-rec/11796
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-11794@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20250617
-DTEND;VALUE=DATE:20250618
-SUMMARY:Grade submission resumes (for students who received I signs only) (10:00)
-DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/grade-submission-resumes-for-students-who-rec/11794\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Instruction
-URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/grade-submission-resumes-for-students-who-rec/11794
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-11793@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20250616
-DTEND;VALUE=DATE:20250617
-SUMMARY:Grade submission ends (23:59)
-DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/grade-submission-ends-2359/11793\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Instruction
-URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/grade-submission-ends-2359/11793
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-11791@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20250611
-DTEND;VALUE=DATE:20250614
-SUMMARY:E and make-up exams
-DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/e-and-make-up-exams/11791\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Instruction
-URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/e-and-make-up-exams/11791
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-11785@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20250602
-DTEND;VALUE=DATE:20250605
-SUMMARY:Final exams (Except May 27\, 3rd slot and May 28\, 2025)
-DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/final-exams-except-may-27-3rd-slot-and-may-28/11785\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Instruction
-URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/final-exams-except-may-27-3rd-slot-and-may-28/11785
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-11784@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20250529
-DTEND;VALUE=DATE:20250601
-SUMMARY:Final exams (Except May 27\, 3rd slot and May 28\, 2025)
-DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/final-exams-except-may-27-3rd-slot-and-may-28/11784\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Instruction
-URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/final-exams-except-may-27-3rd-slot-and-may-28/11784
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-11782@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20250526
-DTEND;VALUE=DATE:20250528
-SUMMARY:Final exams (Except May 27\, 3rd slot and May 28\, 2025)
-DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/final-exams-except-may-27-3rd-slot-and-may-28/11782\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Instruction
-URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/final-exams-except-may-27-3rd-slot-and-may-28/11782
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-11781@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20250521
-DTEND;VALUE=DATE:20250525
-SUMMARY:Final exams (Except May 27\, 3rd slot and May 28\, 2025)
-DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/final-exams-except-may-27-3rd-slot-and-may-28/11781\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Instruction
-URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/final-exams-except-may-27-3rd-slot-and-may-28/11781
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-11778@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20250520
-DTEND;VALUE=DATE:20250521
-SUMMARY:Final exams for culture and language courses
-DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/final-exams-for-culture-and-language-courses/11778\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Instruction
-URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/final-exams-for-culture-and-language-courses/11778
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-11776@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20250517
-DTEND;VALUE=DATE:20250518
-SUMMARY:Grade submission system opens (10:00)
-DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/grade-submission-system-opens-1000/11776\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Instruction
-URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/grade-submission-system-opens-1000/11776
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-11775@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20250517
-DTEND;VALUE=DATE:20250518
-SUMMARY:Final exams for culture and language courses
-DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/final-exams-for-culture-and-language-courses/11775\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Instruction
-URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/final-exams-for-culture-and-language-courses/11775
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-11774@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20250516
-DTEND;VALUE=DATE:20250517
-SUMMARY:Classes end
-DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/classes-end/11774\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Instruction
-URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/classes-end/11774
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-11767@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20250428
-DTEND;VALUE=DATE:20250503
-SUMMARY:Spring Break
-DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/spring-break/11767\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Instruction
-URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/spring-break/11767
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-11760@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20250415
-DTEND;VALUE=DATE:20250416
-SUMMARY:Student consultations with academic advisors
-DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/student-consultations-with-academic-advisors/11760\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Instruction
-URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/student-consultations-with-academic-advisors/11760
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-11732@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20250205
-DTEND;VALUE=DATE:20250206
-SUMMARY:Student consultations with academic advisors
-DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/student-consultations-with-academic-advisors/11732\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Instruction
-URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/student-consultations-with-academic-advisors/11732
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-11728@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20250203
-DTEND;VALUE=DATE:20250204
-SUMMARY:Online Orientation day for visitor students and exchange students
-DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-orientation-day-for-visitor-students-a/11728\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Instruction
-URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-orientation-day-for-visitor-students-a/11728
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-11714@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20250122
-DTEND;VALUE=DATE:20250123
-SUMMARY:Grade submission resumes (for students who received I signs only) (Close 23:59)
-DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/grade-submission-resumes-for-students-who-rec/11714\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Instruction
-URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/grade-submission-resumes-for-students-who-rec/11714
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-11713@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20250121
-DTEND;VALUE=DATE:20250122
-SUMMARY:Grade submission resumes (for students who received I signs only) (Open 10:00)
-DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/grade-submission-resumes-for-students-who-rec/11713\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Instruction
-URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/grade-submission-resumes-for-students-who-rec/11713
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-11712@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20250121
-DTEND;VALUE=DATE:20250124
-SUMMARY:Departmental exams for candidates applying for 2025 Spring term to graduate programs
-DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/departmental-exams-for-candidates-applying-fo/11712\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Instruction
-URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/departmental-exams-for-candidates-applying-fo/11712
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-11710@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20250120
-DTEND;VALUE=DATE:20250121
-SUMMARY:Grade submission ends (23:59)
-DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/grade-submission-ends-2359/11710\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Instruction
-URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/grade-submission-ends-2359/11710
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-11706@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20250115
-DTEND;VALUE=DATE:20250118
-SUMMARY:E and make-up exams
-DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/e-and-make-up-exams/11706\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Instruction
-URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/e-and-make-up-exams/11706
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-11696@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20250106
-DTEND;VALUE=DATE:20250111
-SUMMARY:Final exams
-DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/final-exams/11696\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Instruction
-URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/final-exams/11696
-END:VEVENT
-BEGIN:VEVENT
 UID:boun-academic-11693@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
+DTSTAMP:20260826T105727Z
 DTSTART;VALUE=DATE:20250102
 DTEND;VALUE=DATE:20250105
 SUMMARY:Final exams
-DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazici.edu.tr/en/events/akademik/final-exams/11693\n\nAuto-synced Bogazici University Academic Calendar
+DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazi
+ ci.edu.tr/en/events/akademik/final-exams/11693\n\nAuto-synced Bogazici Uni
+ versity Academic Calendar
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:Instruction
-URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/final-exams/11693
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/final-exams/1
+ 1693
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11696@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20250106
+DTEND;VALUE=DATE:20250111
+SUMMARY:Final exams
+DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazi
+ ci.edu.tr/en/events/akademik/final-exams/11696\n\nAuto-synced Bogazici Uni
+ versity Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Instruction
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/final-exams/1
+ 1696
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11706@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20250115
+DTEND;VALUE=DATE:20250118
+SUMMARY:E and make-up exams
+DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazi
+ ci.edu.tr/en/events/akademik/e-and-make-up-exams/11706\n\nAuto-synced Boga
+ zici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Instruction
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/e-and-make-up
+ -exams/11706
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11710@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20250120
+DTEND;VALUE=DATE:20250121
+SUMMARY:Grade submission ends (23:59)
+DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazi
+ ci.edu.tr/en/events/akademik/grade-submission-ends-2359/11710\n\nAuto-sync
+ ed Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Instruction
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/grade-submiss
+ ion-ends-2359/11710
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11712@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20250121
+DTEND;VALUE=DATE:20250124
+SUMMARY:Departmental exams for candidates applying for 2025 Spring term to 
+ graduate programs
+DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazi
+ ci.edu.tr/en/events/akademik/departmental-exams-for-candidates-applying-fo
+ /11712\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Instruction
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/departmental-
+ exams-for-candidates-applying-fo/11712
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11713@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20250121
+DTEND;VALUE=DATE:20250122
+SUMMARY:Grade submission resumes (for students who received I signs only) (
+ Open 10:00)
+DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazi
+ ci.edu.tr/en/events/akademik/grade-submission-resumes-for-students-who-rec
+ /11713\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Instruction
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/grade-submiss
+ ion-resumes-for-students-who-rec/11713
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11714@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20250122
+DTEND;VALUE=DATE:20250123
+SUMMARY:Grade submission resumes (for students who received I signs only) (
+ Close 23:59)
+DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazi
+ ci.edu.tr/en/events/akademik/grade-submission-resumes-for-students-who-rec
+ /11714\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Instruction
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/grade-submiss
+ ion-resumes-for-students-who-rec/11714
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11728@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20250203
+DTEND;VALUE=DATE:20250204
+SUMMARY:Online Orientation day for visitor students and exchange students
+DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazi
+ ci.edu.tr/en/events/akademik/online-orientation-day-for-visitor-students-a
+ /11728\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Instruction
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-orient
+ ation-day-for-visitor-students-a/11728
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11732@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20250205
+DTEND;VALUE=DATE:20250206
+SUMMARY:Student consultations with academic advisors
+DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazi
+ ci.edu.tr/en/events/akademik/student-consultations-with-academic-advisors/
+ 11732\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Instruction
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/student-consu
+ ltations-with-academic-advisors/11732
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11760@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20250415
+DTEND;VALUE=DATE:20250416
+SUMMARY:Student consultations with academic advisors
+DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazi
+ ci.edu.tr/en/events/akademik/student-consultations-with-academic-advisors/
+ 11760\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Instruction
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/student-consu
+ ltations-with-academic-advisors/11760
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11767@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20250428
+DTEND;VALUE=DATE:20250503
+SUMMARY:Spring Break
+DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazi
+ ci.edu.tr/en/events/akademik/spring-break/11767\n\nAuto-synced Bogazici Un
+ iversity Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Instruction
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/spring-break/
+ 11767
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11774@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20250516
+DTEND;VALUE=DATE:20250517
+SUMMARY:Classes end
+DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazi
+ ci.edu.tr/en/events/akademik/classes-end/11774\n\nAuto-synced Bogazici Uni
+ versity Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Instruction
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/classes-end/1
+ 1774
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11775@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20250517
+DTEND;VALUE=DATE:20250518
+SUMMARY:Final exams for culture and language courses
+DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazi
+ ci.edu.tr/en/events/akademik/final-exams-for-culture-and-language-courses/
+ 11775\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Instruction
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/final-exams-f
+ or-culture-and-language-courses/11775
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11776@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20250517
+DTEND;VALUE=DATE:20250518
+SUMMARY:Grade submission system opens (10:00)
+DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazi
+ ci.edu.tr/en/events/akademik/grade-submission-system-opens-1000/11776\n\nA
+ uto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Instruction
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/grade-submiss
+ ion-system-opens-1000/11776
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11778@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20250520
+DTEND;VALUE=DATE:20250521
+SUMMARY:Final exams for culture and language courses
+DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazi
+ ci.edu.tr/en/events/akademik/final-exams-for-culture-and-language-courses/
+ 11778\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Instruction
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/final-exams-f
+ or-culture-and-language-courses/11778
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11781@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20250521
+DTEND;VALUE=DATE:20250525
+SUMMARY:Final exams (Except May 27\, 3rd slot and May 28\, 2025)
+DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazi
+ ci.edu.tr/en/events/akademik/final-exams-except-may-27-3rd-slot-and-may-28
+ /11781\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Instruction
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/final-exams-e
+ xcept-may-27-3rd-slot-and-may-28/11781
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11782@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20250526
+DTEND;VALUE=DATE:20250528
+SUMMARY:Final exams (Except May 27\, 3rd slot and May 28\, 2025)
+DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazi
+ ci.edu.tr/en/events/akademik/final-exams-except-may-27-3rd-slot-and-may-28
+ /11782\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Instruction
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/final-exams-e
+ xcept-may-27-3rd-slot-and-may-28/11782
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11784@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20250529
+DTEND;VALUE=DATE:20250601
+SUMMARY:Final exams (Except May 27\, 3rd slot and May 28\, 2025)
+DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazi
+ ci.edu.tr/en/events/akademik/final-exams-except-may-27-3rd-slot-and-may-28
+ /11784\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Instruction
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/final-exams-e
+ xcept-may-27-3rd-slot-and-may-28/11784
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11785@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20250602
+DTEND;VALUE=DATE:20250605
+SUMMARY:Final exams (Except May 27\, 3rd slot and May 28\, 2025)
+DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazi
+ ci.edu.tr/en/events/akademik/final-exams-except-may-27-3rd-slot-and-may-28
+ /11785\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Instruction
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/final-exams-e
+ xcept-may-27-3rd-slot-and-may-28/11785
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11791@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20250611
+DTEND;VALUE=DATE:20250614
+SUMMARY:E and make-up exams
+DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazi
+ ci.edu.tr/en/events/akademik/e-and-make-up-exams/11791\n\nAuto-synced Boga
+ zici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Instruction
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/e-and-make-up
+ -exams/11791
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11793@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20250616
+DTEND;VALUE=DATE:20250617
+SUMMARY:Grade submission ends (23:59)
+DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazi
+ ci.edu.tr/en/events/akademik/grade-submission-ends-2359/11793\n\nAuto-sync
+ ed Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Instruction
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/grade-submiss
+ ion-ends-2359/11793
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11794@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20250617
+DTEND;VALUE=DATE:20250618
+SUMMARY:Grade submission resumes (for students who received I signs only) (
+ 10:00)
+DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazi
+ ci.edu.tr/en/events/akademik/grade-submission-resumes-for-students-who-rec
+ /11794\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Instruction
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/grade-submiss
+ ion-resumes-for-students-who-rec/11794
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11796@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20250618
+DTEND;VALUE=DATE:20250619
+SUMMARY:Grade submission resumes (for students who received I signs only) (
+ Close 13:00)
+DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazi
+ ci.edu.tr/en/events/akademik/grade-submission-resumes-for-students-who-rec
+ /11796\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Instruction
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/grade-submiss
+ ion-resumes-for-students-who-rec/11796
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11806@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20250623
+DTEND;VALUE=DATE:20250628
+SUMMARY:Departmental exams for candidates applying to graduate programs
+DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazi
+ ci.edu.tr/en/events/akademik/departmental-exams-for-candidates-applying-to
+ /11806\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Instruction
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/departmental-
+ exams-for-candidates-applying-to/11806
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11809@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20250624
+DTEND;VALUE=DATE:20250625
+SUMMARY:Executive and Other Graduate Programs Summer Session classes begin
+DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazi
+ ci.edu.tr/en/events/akademik/executive-and-other-graduate-programs-summer-
+ /11809\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Instruction
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/executive-and
+ -other-graduate-programs-summer-/11809
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11830@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20250723
+DTEND;VALUE=DATE:20250726
+SUMMARY:Departmental exams for candidates applying to external transfers fo
+ r 2025 Fall term
+DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazi
+ ci.edu.tr/en/events/akademik/departmental-exams-for-candidates-applying-to
+ /11830\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Instruction
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/departmental-
+ exams-for-candidates-applying-to/11830
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11840@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20250801
+DTEND;VALUE=DATE:20250802
+SUMMARY:SFL Summer Term Program II and III classes end
+DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazi
+ ci.edu.tr/en/events/akademik/sfl-summer-term-program-ii-and-iii-classes-en
+ /11840\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Instruction
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/sfl-summer-te
+ rm-program-ii-and-iii-classes-en/11840
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11849@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20250811
+DTEND;VALUE=DATE:20250812
+SUMMARY:Summer session classes for Executive and Other Graduate Programs en
+ d
+DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazi
+ ci.edu.tr/en/events/akademik/summer-session-classes-for-executive-and-othe
+ /11849\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Instruction
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/summer-sessio
+ n-classes-for-executive-and-othe/11849
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11850@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20250811
+DTEND;VALUE=DATE:20250812
+SUMMARY:Deadline for Course Evaluations Period Summer Term
+DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazi
+ ci.edu.tr/en/events/akademik/deadline-for-course-evaluations-period-summer
+ /11850\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Instruction
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-
+ course-evaluations-period-summer/11850
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11853@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20250812
+DTEND;VALUE=DATE:20250813
+SUMMARY:Final exams for Executive and Other Graduate Programs Summer Sessio
+ n (On August 12\, 2025\, the first two slots will not be used due to BUEPT
+ )
+DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazi
+ ci.edu.tr/en/events/akademik/final-exams-for-executive-and-other-graduate-
+ /11853\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Instruction
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/final-exams-f
+ or-executive-and-other-graduate-/11853
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-12115@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20250813
+DTEND;VALUE=DATE:20250815
+SUMMARY:Final exams for Executive and Other Graduate Programs Summer Sessio
+ n
+DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazi
+ ci.edu.tr/en/events/akademik/final-exams-for-executive-and-other-graduate-
+ /12115\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Instruction
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/final-exams-f
+ or-executive-and-other-graduate-/12115
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-12116@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20250815
+DTEND;VALUE=DATE:20250816
+SUMMARY:Final exams for Executive and Other Graduate Programs Summer Sessio
+ n (On August 15\, 2025\, only the first two slots will be used.)
+DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazi
+ ci.edu.tr/en/events/akademik/final-exams-for-executive-and-other-graduate-
+ /12116\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Instruction
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/final-exams-f
+ or-executive-and-other-graduate-/12116
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11856@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20250819
+DTEND;VALUE=DATE:20250820
+SUMMARY:Grade submission system closes (23:59)
+DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazi
+ ci.edu.tr/en/events/akademik/grade-submission-system-closes-2359/11856\n\n
+ Auto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Instruction
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/grade-submiss
+ ion-system-closes-2359/11856
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11871@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20250915
+DTEND;VALUE=DATE:20250916
+SUMMARY:Online Orientation day for visitor students and exchange students
+DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazi
+ ci.edu.tr/en/events/akademik/online-orientation-day-for-visitor-students-a
+ /11871\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Instruction
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-orient
+ ation-day-for-visitor-students-a/11871
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11876@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20250917
+DTEND;VALUE=DATE:20250918
+SUMMARY:Student consultations with academic advisors
+DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazi
+ ci.edu.tr/en/events/akademik/student-consultations-with-academic-advisors/
+ 11876\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Instruction
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/student-consu
+ ltations-with-academic-advisors/11876
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11912@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20251201
+DTEND;VALUE=DATE:20251220
+SUMMARY:Course evaluations period( Except SFL classes)
+DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazi
+ ci.edu.tr/en/events/akademik/course-evaluations-period-except-sfl-classes/
+ 11912\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Instruction
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/course-evalua
+ tions-period-except-sfl-classes/11912
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11916@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20251219
+DTEND;VALUE=DATE:20251220
+SUMMARY:Classes end
+DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazi
+ ci.edu.tr/en/events/akademik/classes-end/11916\n\nAuto-synced Bogazici Uni
+ versity Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Instruction
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/classes-end/1
+ 1916
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11919@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20251222
+DTEND;VALUE=DATE:20251224
+SUMMARY:Final exams for culture and language courses (including HUM courses
+ )
+DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazi
+ ci.edu.tr/en/events/akademik/final-exams-for-culture-and-language-courses-
+ /11919\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Instruction
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/final-exams-f
+ or-culture-and-language-courses-/11919
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11920@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20251222
+DTEND;VALUE=DATE:20251223
+SUMMARY:Grade submission system opens (10 a.m.)
+DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazi
+ ci.edu.tr/en/events/akademik/grade-submission-system-opens-10-am/11920\n\n
+ Auto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Instruction
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/grade-submiss
+ ion-system-opens-10-am/11920
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11921@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20251224
+DTEND;VALUE=DATE:20251228
+SUMMARY:Final exams
+DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazi
+ ci.edu.tr/en/events/akademik/final-exams/11921\n\nAuto-synced Bogazici Uni
+ versity Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Instruction
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/final-exams/1
+ 1921
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11922@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20251229
+DTEND;VALUE=DATE:20251231
+SUMMARY:Final exams
+DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazi
+ ci.edu.tr/en/events/akademik/final-exams/11922\n\nAuto-synced Bogazici Uni
+ versity Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Instruction
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/final-exams/1
+ 1922
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11924@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20260102
+DTEND;VALUE=DATE:20260104
+SUMMARY:Final exams
+DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazi
+ ci.edu.tr/en/events/akademik/final-exams/11924\n\nAuto-synced Bogazici Uni
+ versity Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Instruction
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/final-exams/1
+ 1924
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11927@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20260105
+DTEND;VALUE=DATE:20260110
+SUMMARY:Final exams
+DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazi
+ ci.edu.tr/en/events/akademik/final-exams/11927\n\nAuto-synced Bogazici Uni
+ versity Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Instruction
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/final-exams/1
+ 1927
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11934@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20260113
+DTEND;VALUE=DATE:20260116
+SUMMARY:E and make-up exams
+DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazi
+ ci.edu.tr/en/events/akademik/e-and-make-up-exams/11934\n\nAuto-synced Boga
+ zici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Instruction
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/e-and-make-up
+ -exams/11934
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11940@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20260119
+DTEND;VALUE=DATE:20260122
+SUMMARY:Departmental exams for candidates applying for 2026 Spring term to 
+ graduate programs
+DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazi
+ ci.edu.tr/en/events/akademik/departmental-exams-for-candidates-applying-fo
+ /11940\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Instruction
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/departmental-
+ exams-for-candidates-applying-fo/11940
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11941@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20260119
+DTEND;VALUE=DATE:20260120
+SUMMARY:Grade submission ends (23:59)
+DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazi
+ ci.edu.tr/en/events/akademik/grade-submission-ends-2359/11941\n\nAuto-sync
+ ed Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Instruction
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/grade-submiss
+ ion-ends-2359/11941
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11943@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20260120
+DTEND;VALUE=DATE:20260121
+SUMMARY:Grade submission resumes (for students who received I signs only) (
+ Open 10:00)
+DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazi
+ ci.edu.tr/en/events/akademik/grade-submission-resumes-for-students-who-rec
+ /11943\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Instruction
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/grade-submiss
+ ion-resumes-for-students-who-rec/11943
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11944@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20260121
+DTEND;VALUE=DATE:20260122
+SUMMARY:Grade submission resumes (for students who received I signs only) (
+ Close 23:59)
+DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazi
+ ci.edu.tr/en/events/akademik/grade-submission-resumes-for-students-who-rec
+ /11944\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Instruction
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/grade-submiss
+ ion-resumes-for-students-who-rec/11944
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11959@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20260202
+DTEND;VALUE=DATE:20260203
+SUMMARY:Online Orientation day for visitor students and exchange students
+DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazi
+ ci.edu.tr/en/events/akademik/online-orientation-day-for-visitor-students-a
+ /11959\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Instruction
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-orient
+ ation-day-for-visitor-students-a/11959
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11963@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20260204
+DTEND;VALUE=DATE:20260205
+SUMMARY:Student consultations with academic advisors
+DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazi
+ ci.edu.tr/en/events/akademik/student-consultations-with-academic-advisors/
+ 11963\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Instruction
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/student-consu
+ ltations-with-academic-advisors/11963
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-11986@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20260414
+DTEND;VALUE=DATE:20260415
+SUMMARY:Student consultations with academic advisors
+DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazi
+ ci.edu.tr/en/events/akademik/student-consultations-with-academic-advisors/
+ 11986\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Instruction
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/student-consu
+ ltations-with-academic-advisors/11986
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-12004@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20260515
+DTEND;VALUE=DATE:20260516
+SUMMARY:Classes end
+DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazi
+ ci.edu.tr/en/events/akademik/classes-end/12004\n\nAuto-synced Bogazici Uni
+ versity Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Instruction
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/classes-end/1
+ 2004
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-12006@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20260516
+DTEND;VALUE=DATE:20260517
+SUMMARY:Final exams for culture and language courses (including HUM courses
+ )
+DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazi
+ ci.edu.tr/en/events/akademik/final-exams-for-culture-and-language-courses-
+ /12006\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Instruction
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/final-exams-f
+ or-culture-and-language-courses-/12006
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-12007@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20260516
+DTEND;VALUE=DATE:20260517
+SUMMARY:Grade submission system opens (10:00)
+DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazi
+ ci.edu.tr/en/events/akademik/grade-submission-system-opens-1000/12007\n\nA
+ uto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Instruction
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/grade-submiss
+ ion-system-opens-1000/12007
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-12009@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20260520
+DTEND;VALUE=DATE:20260524
+SUMMARY:Final exams
+DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazi
+ ci.edu.tr/en/events/akademik/final-exams/12009\n\nAuto-synced Bogazici Uni
+ versity Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Instruction
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/final-exams/1
+ 2009
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-12014@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20260601
+DTEND;VALUE=DATE:20260607
+SUMMARY:Final exams
+DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazi
+ ci.edu.tr/en/events/akademik/final-exams/12014\n\nAuto-synced Bogazici Uni
+ versity Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Instruction
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/final-exams/1
+ 2014
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-12016@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20260608
+DTEND;VALUE=DATE:20260611
+SUMMARY:Final exams
+DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazi
+ ci.edu.tr/en/events/akademik/final-exams/12016\n\nAuto-synced Bogazici Uni
+ versity Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Instruction
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/final-exams/1
+ 2016
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-12021@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20260611
+DTEND;VALUE=DATE:20260614
+SUMMARY:E and make-up exams
+DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazi
+ ci.edu.tr/en/events/akademik/e-and-make-up-exams/12021\n\nAuto-synced Boga
+ zici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Instruction
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/e-and-make-up
+ -exams/12021
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-12022@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20260616
+DTEND;VALUE=DATE:20260617
+SUMMARY:Grade submission ends (23:59)
+DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazi
+ ci.edu.tr/en/events/akademik/grade-submission-ends-2359/12022\n\nAuto-sync
+ ed Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Instruction
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/grade-submiss
+ ion-ends-2359/12022
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-12023@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20260617
+DTEND;VALUE=DATE:20260618
+SUMMARY:Grade submission resumes (for students who received I signs only) (
+ 10:00)
+DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazi
+ ci.edu.tr/en/events/akademik/grade-submission-resumes-for-students-who-rec
+ /12023\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Instruction
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/grade-submiss
+ ion-resumes-for-students-who-rec/12023
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-12024@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20260618
+DTEND;VALUE=DATE:20260619
+SUMMARY:Grade submission resumes (for students who received I signs only) (
+ Close 23:59)
+DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazi
+ ci.edu.tr/en/events/akademik/grade-submission-resumes-for-students-who-rec
+ /12024\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Instruction
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/grade-submiss
+ ion-resumes-for-students-who-rec/12024
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-12037@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20260624
+DTEND;VALUE=DATE:20260625
+SUMMARY:Executive and Other Graduate Programs Summer Session classes begin
+DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazi
+ ci.edu.tr/en/events/akademik/executive-and-other-graduate-programs-summer-
+ /12037\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Instruction
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/executive-and
+ -other-graduate-programs-summer-/12037
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-12056@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20260715
+DTEND;VALUE=DATE:20260716
+SUMMARY:Democracy and Freedom Day (Holiday)
+DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazi
+ ci.edu.tr/en/events/akademik/democracy-and-freedom-day-holiday/12056\n\nAu
+ to-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Instruction
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/democracy-and
+ -freedom-day-holiday/12056
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-12058@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20260722
+DTEND;VALUE=DATE:20260725
+SUMMARY:Departmental exams for candidates applying to external transfers fo
+ r 2026 Fall term
+DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazi
+ ci.edu.tr/en/events/akademik/departmental-exams-for-candidates-applying-to
+ /12058\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Instruction
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/departmental-
+ exams-for-candidates-applying-to/12058
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-12077@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20260812
+DTEND;VALUE=DATE:20260813
+SUMMARY:Summer session classes for Executive and Other Graduate Programs en
+ d
+DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazi
+ ci.edu.tr/en/events/akademik/summer-session-classes-for-executive-and-othe
+ /12077\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Instruction
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/summer-sessio
+ n-classes-for-executive-and-othe/12077
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-12079@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20260813
+DTEND;VALUE=DATE:20260814
+SUMMARY:Grade submission system opens (10:00)
+DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazi
+ ci.edu.tr/en/events/akademik/grade-submission-system-opens-1000/12079\n\nA
+ uto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Instruction
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/grade-submiss
+ ion-system-opens-1000/12079
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-12080@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20260813
+DTEND;VALUE=DATE:20260816
+SUMMARY:Final exams for Executive and Other Graduate Programs Summer Sessio
+ n
+DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazi
+ ci.edu.tr/en/events/akademik/final-exams-for-executive-and-other-graduate-
+ /12080\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Instruction
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/final-exams-f
+ or-executive-and-other-graduate-/12080
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-12085@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20260820
+DTEND;VALUE=DATE:20260821
+SUMMARY:Grade submission system closes (23:59)
+DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazi
+ ci.edu.tr/en/events/akademik/grade-submission-system-closes-2359/12085\n\n
+ Auto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Instruction
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/grade-submiss
+ ion-system-closes-2359/12085
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13004@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20260914
+DTEND;VALUE=DATE:20260915
+SUMMARY:Online Orientation day for visitor students and exchange students
+DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazi
+ ci.edu.tr/en/events/akademik/online-orientation-day-for-visitor-students-a
+ /13004\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Instruction
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-orient
+ ation-day-for-visitor-students-a/13004
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13022@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260919
+SUMMARY:Chemistry\, Computer Engineering\, Molecular Biology and Genetic\, 
+ Physics waiver exams
+DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazi
+ ci.edu.tr/en/events/akademik/chemistry-computer-engineering-molecular-biol
+ /13022\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Instruction
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/chemistry-com
+ puter-engineering-molecular-biol/13022
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13024@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+SUMMARY:Classes begin (Except SFL classes)
+DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazi
+ ci.edu.tr/en/events/akademik/classes-begin-except-sfl-classes/13024\n\nAut
+ o-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Instruction
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/classes-begin
+ -except-sfl-classes/13024
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13096@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261212
+SUMMARY:Course evaluations period( Except SFL classes)
+DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazi
+ ci.edu.tr/en/events/akademik/course-evaluations-period-except-sfl-classes/
+ 13096\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Instruction
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/course-evalua
+ tions-period-except-sfl-classes/13096
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13102@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+SUMMARY:Classes end
+DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazi
+ ci.edu.tr/en/events/akademik/classes-end/13102\n\nAuto-synced Bogazici Uni
+ versity Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Instruction
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/classes-end/1
+ 3102
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13104@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+SUMMARY:Last Day of Course evaluations period (23:59)( Except SFL classes)
+DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazi
+ ci.edu.tr/en/events/akademik/last-day-of-course-evaluations-period-2359-ex
+ /13104\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Instruction
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/last-day-of-c
+ ourse-evaluations-period-2359-ex/13104
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13108@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261214
+SUMMARY:Final exams for culture and language courses (including HUM courses
+ ) Final exams (Sunday\, December 13\, 2026: the 3rd and 4th time slots wil
+ l be used for Culture and Language courses).
+DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazi
+ ci.edu.tr/en/events/akademik/final-exams-for-culture-and-language-courses-
+ /13108\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Instruction
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/final-exams-f
+ or-culture-and-language-courses-/13108
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13110@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:Grade submission system opens (10 a.m.)
+DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazi
+ ci.edu.tr/en/events/akademik/grade-submission-system-opens-10-am/13110\n\n
+ Auto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Instruction
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/grade-submiss
+ ion-system-opens-10-am/13110
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13112@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261223
+SUMMARY:Final exams (Sunday\, December 13\, 2026: the 3rd and 4th time slot
+ s will be used for Culture and Language courses).
+DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazi
+ ci.edu.tr/en/events/akademik/final-exams-sunday-december-13-2026-the-3rd-a
+ /13112\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Instruction
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/final-exams-s
+ unday-december-13-2026-the-3rd-a/13112
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13134@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20261223
+DTEND;VALUE=DATE:20261226
+SUMMARY:E and make-up exams
+DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazi
+ ci.edu.tr/en/events/akademik/e-and-make-up-exams/13134\n\nAuto-synced Boga
+ zici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Instruction
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/e-and-make-up
+ -exams/13134
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13148@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20261225
+DTEND;VALUE=DATE:20261226
+SUMMARY:Departmental exams for candidates applying for 2027 Spring term to 
+ graduate programs
+DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazi
+ ci.edu.tr/en/events/akademik/departmental-exams-for-candidates-applying-fo
+ /13148\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Instruction
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/departmental-
+ exams-for-candidates-applying-fo/13148
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13146@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20261227
+DTEND;VALUE=DATE:20261228
+SUMMARY:Grade submission ends (23:59)
+DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazi
+ ci.edu.tr/en/events/akademik/grade-submission-ends-2359/13146\n\nAuto-sync
+ ed Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Instruction
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/grade-submiss
+ ion-ends-2359/13146
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13152@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20261228
+DTEND;VALUE=DATE:20261229
+SUMMARY:Grade submission resumes (for students who received I signs only) (
+ Open 10:00)
+DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazi
+ ci.edu.tr/en/events/akademik/grade-submission-resumes-for-students-who-rec
+ /13152\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Instruction
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/grade-submiss
+ ion-resumes-for-students-who-rec/13152
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13154@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20261228
+DTEND;VALUE=DATE:20261229
+SUMMARY:Grade submission resumes (for students who received I signs only) (
+ Close 23:59)
+DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazi
+ ci.edu.tr/en/events/akademik/grade-submission-resumes-for-students-who-rec
+ /13154\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Instruction
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/grade-submiss
+ ion-resumes-for-students-who-rec/13154
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-14208@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20261228
+DTEND;VALUE=DATE:20261230
+SUMMARY:Departmental exams for candidates applying for 2027 Spring term to 
+ graduate programs
+DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazi
+ ci.edu.tr/en/events/akademik/departmental-exams-for-candidates-applying-fo
+ /14208\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Instruction
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/departmental-
+ exams-for-candidates-applying-fo/14208
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13188@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20270112
+DTEND;VALUE=DATE:20270113
+SUMMARY:Online Orientation day for visitor students and exchange students
+DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazi
+ ci.edu.tr/en/events/akademik/online-orientation-day-for-visitor-students-a
+ /13188\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Instruction
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/online-orient
+ ation-day-for-visitor-students-a/13188
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13194@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20270113
+DTEND;VALUE=DATE:20270114
+SUMMARY:Chemistry\, Computer Engineering\, Molecular Biology and Genetic\, 
+ Physics waiver exams for new undergraduate students
+DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazi
+ ci.edu.tr/en/events/akademik/chemistry-computer-engineering-molecular-biol
+ /13194\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Instruction
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/chemistry-com
+ puter-engineering-molecular-biol/13194
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13206@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20270118
+DTEND;VALUE=DATE:20270119
+SUMMARY:Classes begin (Including SFL classes)
+DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazi
+ ci.edu.tr/en/events/akademik/classes-begin-including-sfl-classes/13206\n\n
+ Auto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Instruction
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/classes-begin
+ -including-sfl-classes/13206
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13220@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20270308
+DTEND;VALUE=DATE:20270313
+SUMMARY:Spring Break / Religious Holiday
+DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazi
+ ci.edu.tr/en/events/akademik/spring-break-religious-holiday/13220\n\nAuto-
+ synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Instruction
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/spring-break-
+ religious-holiday/13220
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13255@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20270412
+DTEND;VALUE=DATE:20270424
+SUMMARY:Course evaluations period( Except SFL classes)
+DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazi
+ ci.edu.tr/en/events/akademik/course-evaluations-period-except-sfl-classes/
+ 13255\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Instruction
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/course-evalua
+ tions-period-except-sfl-classes/13255
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13276@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20270415
+DTEND;VALUE=DATE:20270416
+SUMMARY:Deadline for leave of absence requests
+DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazi
+ ci.edu.tr/en/events/akademik/deadline-for-leave-of-absence-requests/13276\
+ n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Instruction
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-
+ leave-of-absence-requests/13276
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13278@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20270422
+DTEND;VALUE=DATE:20270423
+SUMMARY:Classes end
+DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazi
+ ci.edu.tr/en/events/akademik/classes-end/13278\n\nAuto-synced Bogazici Uni
+ versity Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Instruction
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/classes-end/1
+ 3278
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13280@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20270423
+DTEND;VALUE=DATE:20270424
+SUMMARY:Last Day of Course evaluations period (23:59)( Except SFL classes)
+DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazi
+ ci.edu.tr/en/events/akademik/last-day-of-course-evaluations-period-2359-ex
+ /13280\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Instruction
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/last-day-of-c
+ ourse-evaluations-period-2359-ex/13280
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13288@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20270424
+DTEND;VALUE=DATE:20270426
+SUMMARY:Final exams for culture and language courses (including HUM courses
+ ) Final exams (Sunday\, April 25\, 2026: the 3rd and 4th time slots will b
+ e used for Culture and Language courses)
+DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazi
+ ci.edu.tr/en/events/akademik/final-exams-for-culture-and-language-courses-
+ /13288\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Instruction
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/final-exams-f
+ or-culture-and-language-courses-/13288
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13290@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20270424
+DTEND;VALUE=DATE:20270425
+SUMMARY:Grade submission system opens (10:00)
+DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazi
+ ci.edu.tr/en/events/akademik/grade-submission-system-opens-1000/13290\n\nA
+ uto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Instruction
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/grade-submiss
+ ion-system-opens-1000/13290
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13292@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20270425
+DTEND;VALUE=DATE:20270505
+SUMMARY:Final exams (Sunday\, April 25\, 2026: the 3rd and 4th time slots w
+ ill be used for Culture and Language courses)
+DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazi
+ ci.edu.tr/en/events/akademik/final-exams-sunday-april-25-2026-the-3rd-and-
+ /13292\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Instruction
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/final-exams-s
+ unday-april-25-2026-the-3rd-and-/13292
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13308@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20270505
+DTEND;VALUE=DATE:20270508
+SUMMARY:E and make-up exams
+DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazi
+ ci.edu.tr/en/events/akademik/e-and-make-up-exams/13308\n\nAuto-synced Boga
+ zici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Instruction
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/e-and-make-up
+ -exams/13308
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13325@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270509
+SUMMARY:Grade submission ends (23:59)
+DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazi
+ ci.edu.tr/en/events/akademik/grade-submission-ends-2359/13325\n\nAuto-sync
+ ed Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Instruction
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/grade-submiss
+ ion-ends-2359/13325
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13327@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270510
+SUMMARY:Grade submission resumes (for students who received I signs only) (
+ 10:00)
+DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazi
+ ci.edu.tr/en/events/akademik/grade-submission-resumes-for-students-who-rec
+ /13327\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Instruction
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/grade-submiss
+ ion-resumes-for-students-who-rec/13327
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13607@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270510
+SUMMARY:Grade submission resumes (for students who received I signs only) (
+ Close 23:59)
+DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazi
+ ci.edu.tr/en/events/akademik/grade-submission-resumes-for-students-who-rec
+ /13607\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Instruction
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/grade-submiss
+ ion-resumes-for-students-who-rec/13607
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13321@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20270524
+DTEND;VALUE=DATE:20270529
+SUMMARY:Commencement Ceremony
+DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazi
+ ci.edu.tr/en/events/akademik/commencement-ceremony/13321\n\nAuto-synced Bo
+ gazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Instruction
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/commencement-
+ ceremony/13321
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13347@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20270628
+DTEND;VALUE=DATE:20270703
+SUMMARY:Departmental exams for candidates applying to graduate programs
+DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazi
+ ci.edu.tr/en/events/akademik/departmental-exams-for-candidates-applying-to
+ /13347\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Instruction
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/departmental-
+ exams-for-candidates-applying-to/13347
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13353@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20270630
+DTEND;VALUE=DATE:20270701
+SUMMARY:Executive and Other Graduate Programs Summer Session classes begin
+DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazi
+ ci.edu.tr/en/events/akademik/executive-and-other-graduate-programs-summer-
+ /13353\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Instruction
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/executive-and
+ -other-graduate-programs-summer-/13353
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13399@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20270722
+DTEND;VALUE=DATE:20270724
+SUMMARY:Departmental exams for candidates applying to external transfers fo
+ r 2027 Fall term
+DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazi
+ ci.edu.tr/en/events/akademik/departmental-exams-for-candidates-applying-to
+ /13399\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Instruction
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/departmental-
+ exams-for-candidates-applying-to/13399
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13401@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20270726
+DTEND;VALUE=DATE:20270727
+SUMMARY:Departmental exams for candidates applying to external transfers fo
+ r 2027 Fall term
+DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazi
+ ci.edu.tr/en/events/akademik/departmental-exams-for-candidates-applying-to
+ /13401\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Instruction
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/departmental-
+ exams-for-candidates-applying-to/13401
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13413@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20270802
+DTEND;VALUE=DATE:20270811
+SUMMARY:Course evaluations period( Except SFL classes)
+DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazi
+ ci.edu.tr/en/events/akademik/course-evaluations-period-except-sfl-classes/
+ 13413\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Instruction
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/course-evalua
+ tions-period-except-sfl-classes/13413
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13421@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20270810
+DTEND;VALUE=DATE:20270811
+SUMMARY:Summer session classes for Executive and Other Graduate Programs en
+ d
+DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazi
+ ci.edu.tr/en/events/akademik/summer-session-classes-for-executive-and-othe
+ /13421\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Instruction
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/summer-sessio
+ n-classes-for-executive-and-othe/13421
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13423@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20270810
+DTEND;VALUE=DATE:20270811
+SUMMARY:Last Day of Course evaluations period (23:59) (Included SFL classes
+ )
+DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazi
+ ci.edu.tr/en/events/akademik/last-day-of-course-evaluations-period-2359-in
+ /13423\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Instruction
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/last-day-of-c
+ ourse-evaluations-period-2359-in/13423
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13432@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20270811
+DTEND;VALUE=DATE:20270812
+SUMMARY:Grade submission system opens (10:00)
+DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazi
+ ci.edu.tr/en/events/akademik/grade-submission-system-opens-1000/13432\n\nA
+ uto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Instruction
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/grade-submiss
+ ion-system-opens-1000/13432
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13434@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20270811
+DTEND;VALUE=DATE:20270814
+SUMMARY:Final exams for Executive and Other Graduate Programs Summer Sessio
+ n
+DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazi
+ ci.edu.tr/en/events/akademik/final-exams-for-executive-and-other-graduate-
+ /13434\n\nAuto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Instruction
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/final-exams-f
+ or-executive-and-other-graduate-/13434
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13450@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20270818
+DTEND;VALUE=DATE:20270819
+SUMMARY:Grade submission system closes (23:59)
+DESCRIPTION:Category: Instruction\n\nDetails: https://akademiktakvim.bogazi
+ ci.edu.tr/en/events/akademik/grade-submission-system-closes-2359/13450\n\n
+ Auto-synced Bogazici University Academic Calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Instruction
+URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/grade-submiss
+ ion-system-closes-2359/13450
 END:VEVENT
 END:VCALENDAR

@@ -1,93 +1,93 @@
-# Bogazici University Academic Calendar Synchronization (iCal / .ics)
+# Boğaziçi University Academic Calendar Synchronization (iCal / .ics)
 
-This project automatically fetches academic dates, exams, course registrations, and administrative deadlines from the official [Boğaziçi University Academic Calendar](https://akademiktakvim.bogazici.edu.tr/) portal and generates dedicated, category-specific **RFC 5545** compliant `.ics` calendar feeds.
+Automated synchronization and generation of dedicated, category-specific **RFC 5545** compliant `.ics` calendar feeds and JSON exports from the official [Boğaziçi University Academic Calendar](https://akademiktakvim.bogazici.edu.tr/) portal.
 
-Once subscribed in **Google Calendar**, **Apple Calendar (iOS / macOS)**, or **Microsoft Outlook**, any schedule updates or changes made by the university will automatically sync to your devices.
+Once subscribed in **Google Calendar**, **Apple Calendar (iOS / macOS)**, or **Microsoft Outlook**, any academic schedule updates published by the university will automatically sync to your devices.
 
 ---
 
-## Category Feeds
+## Official Category Feeds
 
-Each feed is mapped strictly to the official university category IDs with zero overlaps or duplicates:
+Feeds are strictly mapped 1-to-1 to official university category IDs with zero overlaps or duplicates:
 
 ### English Feeds
-- **Registration (`registration.ics`):** Course registration windows, advisor approvals, add/drop periods, and fee payment deadlines.
-- **Administrative (`administrative.ics`):** University administrative meetings (ÜYK/FKK), official deadlines, and department submissions.
-- **Instruction & Exams (`instruction.ics`):** First and last days of classes, exam periods, grade submissions, and semester dates.
-- **School of Foreign Languages (`sfl.ics`):** BUEPT English proficiency exams, placement tests, and preparatory school terms.
-- **Admission & Applications (`admission.ics`):** Undergraduate/graduate applications, double major/minor transfers, and exchange programs.
+| Category | File | Description |
+| :--- | :--- | :--- |
+| **Registration** | `registration.ics` | Course registration windows, advisor approvals, add/drop periods, and fee deadlines. |
+| **Administrative** | `administrative.ics` | University board meetings (ÜYK/FKK), official deadlines, and departmental submissions. |
+| **Instruction & Exams** | `instruction.ics` | First/last days of classes, midterm & final exams, grade submissions, and semester dates. |
+| **School of Foreign Languages** | `sfl.ics` | BUEPT English proficiency exams, placement tests, and preparatory school terms. |
+| **Admission & Applications** | `admission.ics` | Undergraduate/graduate applications, double major/minor transfers, and exchange programs. |
 
-### Turkish Feeds
-- **Kayıt:** `kayit.ics`
-- **İdari:** `idari.ics`
-- **Eğitim-Öğretim:** `egitim.ics`
-- **YADYOK:** `yadyok.ics`
-- **Başvuru:** `basvuru.ics`
+### Turkish Feeds (Türkçe Takvimler)
+| Kategori | Dosya | Açıklama |
+| :--- | :--- | :--- |
+| **Kayıt** | `kayit.ics` | Ders kayıtları, danışman onayları, ekle/bırak günleri ve katkı payı ödeme tarihleri. |
+| **İdari** | `idari.ics` | ÜYK/FYK toplantıları, resmi son tarihler ve idari takvim. |
+| **Eğitim-Öğretim** | `egitim.ics` | Derslerin başlangıç/bitiş günleri, ara sınavlar, final dönemleri ve not girişleri. |
+| **YADYOK** | `yadyok.ics` | BUEPT İngilizce yeterlilik sınavları, düzey belirleme testleri ve hazırlık takvimi. |
+| **Başvuru** | `basvuru.ics` | Lisans/lisansüstü başvurular, çift anadal/yandal yatay geçişler ve değişim programları. |
 
 ---
 
-## Setup and Deployment (GitHub Pages)
+## Setup & Deployment (GitHub Pages)
 
-### 1. Push to Your GitHub Repository
+### 1. Push to GitHub
 ```bash
 git add .
-git commit -m "feat: strict 1-to-1 category feeds and clean ics links"
-git push -f origin main
+git commit -m "feat: automated academic calendar sync"
+git push origin main
 ```
 
 ### 2. Enable GitHub Pages
-1. Go to your repository settings: **Settings** > **Pages**.
+1. In your GitHub repository, navigate to **Settings** > **Pages**.
 2. Under **Build and deployment** > **Source**, select **GitHub Actions**.
 
-### 3. Access Your Feeds
-Once the workflow runs, your calendar web page and `.ics` feeds will be live at:
-- **Landing Page:** `https://YOUR_GITHUB_USERNAME.github.io/boun-cal-sync/`
-- **Registration:** `https://YOUR_GITHUB_USERNAME.github.io/boun-cal-sync/registration.ics`
-- **Administrative:** `https://YOUR_GITHUB_USERNAME.github.io/boun-cal-sync/administrative.ics`
-- **Instruction & Exams:** `https://YOUR_GITHUB_USERNAME.github.io/boun-cal-sync/instruction.ics`
-- **SFL / YADYOK:** `https://YOUR_GITHUB_USERNAME.github.io/boun-cal-sync/sfl.ics`
-- **Admission:** `https://YOUR_GITHUB_USERNAME.github.io/boun-cal-sync/admission.ics`
+### 3. Access Feeds
+The automated GitHub Actions workflow will build and publish your landing page and feeds to:
+- **Interactive Landing Page:** `https://<USERNAME>.github.io/<REPO>/`
+- **Category Feeds:** `https://<USERNAME>.github.io/<REPO>/<category>.ics`
+- **JSON Data:** `https://<USERNAME>.github.io/<REPO>/events-en.json` (and `events-tr.json`)
 
 ---
 
 ## How to Subscribe
 
-Copy the category `.ics` link you need and add it to your calendar client:
+### 1-Click Subscription (`webcal://`)
+On iOS, macOS, or modern calendar clients, click the **Subscribe** button directly on the web landing page, or replace `https://` with `webcal://` in your calendar app.
 
 ### Google Calendar (Web / Android)
 1. Open [Google Calendar](https://calendar.google.com/).
-2. On the left sidebar, click the **+** icon next to **Other calendars**.
-3. Select **From URL**.
-4. Paste your category `.ics` feed URL and click **Add calendar**.
+2. In the left sidebar, click the **+** button next to **Other calendars** > **From URL**.
+3. Paste the `.ics` link (e.g. `https://<USERNAME>.github.io/<REPO>/registration.ics`) and click **Add calendar**.
 
 ### Apple Calendar (iPhone, iPad, Mac)
-- **iPhone / iPad:** Go to Settings > Calendar > Accounts > Add Account > Other > Add Subscribed Calendar, paste the `.ics` link, and tap Next.
-- **Mac:** Open Calendar, go to **File** > **New Calendar Subscription...**, paste the `.ics` link, and click **Subscribe**.
+- **iPhone / iPad:** Settings > Calendar > Accounts > Add Account > Other > Add Subscribed Calendar > paste the `.ics` link.
+- **Mac:** Calendar app > **File** > **New Calendar Subscription...** > paste the link.
 
 ### Microsoft Outlook
-1. Open [Outlook Calendar](https://outlook.live.com/calendar/) or the Outlook desktop app.
+1. Open [Outlook Calendar](https://outlook.live.com/calendar/).
 2. Select **Add Calendar** > **Subscribe from web**.
-3. Paste the category `.ics` feed URL and click **Import**.
+3. Paste the `.ics` link and click **Import**.
 
 ---
 
-## Local Development and Testing
+## Local Development
 
-You can run the synchronization manually in your local environment:
+The synchronization script has **zero external dependencies** and runs on standard Python 3.8+:
 
-- **Using Python:**
-  ```bash
-  python src/sync.py
-  ```
-- **Using PowerShell (Windows):**
-  ```powershell
-  .\sync.ps1
-  ```
+```bash
+python src/sync.py
+```
 
-All output files will be generated under the `dist/` directory.
+All output assets are generated in the `dist/` directory:
+- 10 RFC 5545 compliant `.ics` calendar files
+- `events-en.json` and `events-tr.json`
+- `index.html` (Interactive landing page with category filtering and search)
 
 ---
 
 ## License
 
 MIT License. Calendar data is sourced from the official [Boğaziçi University Academic Calendar](https://akademiktakvim.bogazici.edu.tr/) portal.
+

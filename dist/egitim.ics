@@ -4,1508 +4,2025 @@ PRODID:-//Bogazici University//Academic Calendar Sync//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Bogazici Akademik Takvim - Eğitim-Öğretim
-X-WR-CALDESC:Bogazici Universitesi Eğitim-Öğretim Takvimi
+X-WR-CALDESC:Boğaziçi Üniversitesi Eğitim-Öğretim Takvimi
 X-WR-TIMEZONE:Europe/Istanbul
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:boun-academic-13449@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20270818
-DTEND;VALUE=DATE:20270819
-SUMMARY:Ders notu girişi için sistemin kapanışı (23:59)
-DESCRIPTION:Category: Eğitim-Öğretim\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-notu-girisi-icin-sistemin-kapanisi-2359/13449\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Eğitim-Öğretim
-URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-notu-girisi-icin-sistemin-kapanisi-2359/13449
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-13433@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20270811
-DTEND;VALUE=DATE:20270814
-SUMMARY:Yaz Öğretimi ve II. Öğretim Yüksek Lisans Programlarının Yaz Dönemi dönem sonu sınavları
-DESCRIPTION:Category: Eğitim-Öğretim\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-ve-ii-ogretim-yuksek-lisans-prog/13433\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Eğitim-Öğretim
-URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-ve-ii-ogretim-yuksek-lisans-prog/13433
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-13431@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20270811
-DTEND;VALUE=DATE:20270812
-SUMMARY:Ders notu girişi için sistemin açılışı (10:00)
-DESCRIPTION:Category: Eğitim-Öğretim\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-notu-girisi-icin-sistemin-acilisi-1000/13431\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Eğitim-Öğretim
-URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-notu-girisi-icin-sistemin-acilisi-1000/13431
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-13422@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20270810
-DTEND;VALUE=DATE:20270811
-SUMMARY:Ders değerlendirme dönemi son günü (23:59)
-DESCRIPTION:Category: Eğitim-Öğretim\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-degerlendirme-donemi-son-gunu-2359/13422\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Eğitim-Öğretim
-URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-degerlendirme-donemi-son-gunu-2359/13422
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-13420@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20270810
-DTEND;VALUE=DATE:20270811
-SUMMARY:Yaz Öğretimi ve II. Öğretim Yüksek Lisans Programlarının Yaz Dönemi derslerinin son günü
-DESCRIPTION:Category: Eğitim-Öğretim\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-ve-ii-ogretim-yuksek-lisans-prog/13420\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Eğitim-Öğretim
-URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-ve-ii-ogretim-yuksek-lisans-prog/13420
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-13412@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20270802
-DTEND;VALUE=DATE:20270811
-SUMMARY:Ders değerlendirme dönemi (YADYOK Hazırlık Okulu dersleri hariç)
-DESCRIPTION:Category: Eğitim-Öğretim\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-degerlendirme-donemi-yadyok-hazirlik-oku/13412\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Eğitim-Öğretim
-URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-degerlendirme-donemi-yadyok-hazirlik-oku/13412
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-13400@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20270726
-DTEND;VALUE=DATE:20270727
-SUMMARY:2027 Güz yarıyılı için kurum dışı yatay geçiş başvurusunda bulunan adayların bilim sınavları
-DESCRIPTION:Category: Eğitim-Öğretim\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/2027-guz-yariyili-icin-kurum-disi-yatay-gecis/13400\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Eğitim-Öğretim
-URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/2027-guz-yariyili-icin-kurum-disi-yatay-gecis/13400
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-13398@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20270722
-DTEND;VALUE=DATE:20270724
-SUMMARY:2027 Güz yarıyılı için kurum dışı yatay geçiş başvurusunda bulunan adayların bilim sınavları
-DESCRIPTION:Category: Eğitim-Öğretim\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/2027-guz-yariyili-icin-kurum-disi-yatay-gecis/13398\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Eğitim-Öğretim
-URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/2027-guz-yariyili-icin-kurum-disi-yatay-gecis/13398
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-13352@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20270630
-DTEND;VALUE=DATE:20270701
-SUMMARY:Yaz Öğretimi ve II. Öğretim Yüksek Lisans Programlarının Yaz Dönemi derslerinin başlaması
-DESCRIPTION:Category: Eğitim-Öğretim\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-ve-ii-ogretim-yuksek-lisans-prog/13352\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Eğitim-Öğretim
-URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-ve-ii-ogretim-yuksek-lisans-prog/13352
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-13346@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20270628
-DTEND;VALUE=DATE:20270703
-SUMMARY:Lisansüstü programlara başvuru yapan adaylar için bilim sınavları
-DESCRIPTION:Category: Eğitim-Öğretim\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/lisansustu-programlara-basvuru-yapan-adaylar-/13346\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Eğitim-Öğretim
-URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/lisansustu-programlara-basvuru-yapan-adaylar-/13346
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-13320@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20270524
-DTEND;VALUE=DATE:20270529
-SUMMARY:Mezuniyet Töreni
-DESCRIPTION:Category: Eğitim-Öğretim\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/mezuniyet-toreni/13320\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Eğitim-Öğretim
-URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/mezuniyet-toreni/13320
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-13606@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20270509
-DTEND;VALUE=DATE:20270510
-SUMMARY:I işareti verilen derslere not verme işlemi için sistemin kapanışı (23:59)
-DESCRIPTION:Category: Eğitim-Öğretim\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/i-isareti-verilen-derslere-not-verme-islemi-i/13606\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Eğitim-Öğretim
-URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/i-isareti-verilen-derslere-not-verme-islemi-i/13606
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-13326@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20270509
-DTEND;VALUE=DATE:20270510
-SUMMARY:I işareti verilen derslere not verme işlemi için sistemin açılması (10:00)
-DESCRIPTION:Category: Eğitim-Öğretim\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/i-isareti-verilen-derslere-not-verme-islemi-i/13326\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Eğitim-Öğretim
-URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/i-isareti-verilen-derslere-not-verme-islemi-i/13326
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-13324@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20270508
-DTEND;VALUE=DATE:20270509
-SUMMARY:Not verme için sisteminin kapanışı (23:59)
-DESCRIPTION:Category: Eğitim-Öğretim\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/not-verme-icin-sisteminin-kapanisi-2359/13324\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Eğitim-Öğretim
-URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/not-verme-icin-sisteminin-kapanisi-2359/13324
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-13307@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20270505
-DTEND;VALUE=DATE:20270508
-SUMMARY:E ve Mazeret Sınavları
-DESCRIPTION:Category: Eğitim-Öğretim\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/e-ve-mazeret-sinavlari/13307\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Eğitim-Öğretim
-URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/e-ve-mazeret-sinavlari/13307
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-13291@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20270425
-DTEND;VALUE=DATE:20270505
-SUMMARY:Yarıyıl sonu sınavları (25 Nisan 2027 Pazar günü 3. ve 4. slotlar Kültür ve Dil dersleri için kullanılacak.)
-DESCRIPTION:Category: Eğitim-Öğretim\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yariyil-sonu-sinavlari-25-nisan-2027-pazar-gu/13291\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Eğitim-Öğretim
-URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yariyil-sonu-sinavlari-25-nisan-2027-pazar-gu/13291
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-13287@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20270424
-DTEND;VALUE=DATE:20270426
-SUMMARY:Kültür ve Dil dersleri (HUM dahil) sınavları (25 Nisan 2027 Pazar günü 3. ve 4. slotlar Kültür ve Dil dersleri için kullanılacak.)
-DESCRIPTION:Category: Eğitim-Öğretim\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/kultur-ve-dil-dersleri-hum-dahil-sinavlari-25/13287\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Eğitim-Öğretim
-URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/kultur-ve-dil-dersleri-hum-dahil-sinavlari-25/13287
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-13289@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20270424
-DTEND;VALUE=DATE:20270425
-SUMMARY:Not verme için sistemin açılışı (10:00)
-DESCRIPTION:Category: Eğitim-Öğretim\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/not-verme-icin-sistemin-acilisi-1000/13289\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Eğitim-Öğretim
-URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/not-verme-icin-sistemin-acilisi-1000/13289
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-13279@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20270423
-DTEND;VALUE=DATE:20270424
-SUMMARY:Ders değerlendirme dönemi son günü (23:59) (YADYOK Hazırlık Okulu dersleri hariç)
-DESCRIPTION:Category: Eğitim-Öğretim\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-degerlendirme-donemi-son-gunu-2359-yadyo/13279\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Eğitim-Öğretim
-URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-degerlendirme-donemi-son-gunu-2359-yadyo/13279
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-13277@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20270422
-DTEND;VALUE=DATE:20270423
-SUMMARY:Derslerin son günü
-DESCRIPTION:Category: Eğitim-Öğretim\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/derslerin-son-gunu/13277\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Eğitim-Öğretim
-URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/derslerin-son-gunu/13277
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-13275@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20270415
-DTEND;VALUE=DATE:20270416
-SUMMARY:Yarıyıl izni başvurusu için son gün
-DESCRIPTION:Category: Eğitim-Öğretim\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yariyil-izni-basvurusu-icin-son-gun/13275\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Eğitim-Öğretim
-URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yariyil-izni-basvurusu-icin-son-gun/13275
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-13254@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20270412
-DTEND;VALUE=DATE:20270424
-SUMMARY:Ders değerlendirme dönemi (YADYOK Hazırlık Okulu dersleri hariç)
-DESCRIPTION:Category: Eğitim-Öğretim\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-degerlendirme-donemi-yadyok-hazirlik-oku/13254\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Eğitim-Öğretim
-URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-degerlendirme-donemi-yadyok-hazirlik-oku/13254
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-13219@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20270308
-DTEND;VALUE=DATE:20270313
-SUMMARY:Bahar Tatili / Ramazan Bayramı (Tatil)
-DESCRIPTION:Category: Eğitim-Öğretim\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/bahar-tatili-ramazan-bayrami-tatil/13219\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Eğitim-Öğretim
-URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/bahar-tatili-ramazan-bayrami-tatil/13219
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-13205@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20270118
-DTEND;VALUE=DATE:20270119
-SUMMARY:Derslerin başlaması (YADYOK dersleri dahil)
-DESCRIPTION:Category: Eğitim-Öğretim\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/derslerin-baslamasi-yadyok-dersleri-dahil/13205\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Eğitim-Öğretim
-URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/derslerin-baslamasi-yadyok-dersleri-dahil/13205
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-13193@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20270113
-DTEND;VALUE=DATE:20270114
-SUMMARY:Lisans programlarına yeni başlayan öğrenciler için Kimya\, Moleküler Biyoloji ve Genetik\, Fizik\, Bilgisayar Mühendisliği muafiyet sınavları
-DESCRIPTION:Category: Eğitim-Öğretim\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/lisans-programlarina-yeni-baslayan-ogrenciler/13193\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Eğitim-Öğretim
-URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/lisans-programlarina-yeni-baslayan-ogrenciler/13193
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-13187@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20270112
-DTEND;VALUE=DATE:20270113
-SUMMARY:Misafir öğrencilerin ve değişim öğrencilerinin Üniversiteyi Tanıma Programı/Çevrimiçi Üniversiteyi Tanıma Programı
-DESCRIPTION:Category: Eğitim-Öğretim\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/misafir-ogrencilerin-ve-degisim-ogrencilerini/13187\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Eğitim-Öğretim
-URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/misafir-ogrencilerin-ve-degisim-ogrencilerini/13187
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-14207@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20261228
-DTEND;VALUE=DATE:20261230
-SUMMARY:Lisansüstü Programlara 2027 Bahar yarıyılı için başvuru yapan adaylar için bilim sınavları
-DESCRIPTION:Category: Eğitim-Öğretim\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/lisansustu-programlara-2027-bahar-yariyili-ic/14207\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Eğitim-Öğretim
-URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/lisansustu-programlara-2027-bahar-yariyili-ic/14207
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-13151@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20261228
-DTEND;VALUE=DATE:20261229
-SUMMARY:I işareti verilen derslere not verme işlemi için sistemin açılması (10:00)
-DESCRIPTION:Category: Eğitim-Öğretim\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/i-isareti-verilen-derslere-not-verme-islemi-i/13151\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Eğitim-Öğretim
-URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/i-isareti-verilen-derslere-not-verme-islemi-i/13151
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-13153@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20261228
-DTEND;VALUE=DATE:20261229
-SUMMARY:I işareti verilen derslere not verme işlemi için sistemin kapanışı (23.59)
-DESCRIPTION:Category: Eğitim-Öğretim\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/i-isareti-verilen-derslere-not-verme-islemi-i/13153\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Eğitim-Öğretim
-URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/i-isareti-verilen-derslere-not-verme-islemi-i/13153
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-13145@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20261227
-DTEND;VALUE=DATE:20261228
-SUMMARY:Ders notu girişi için sistemin kapanışı (23:59)
-DESCRIPTION:Category: Eğitim-Öğretim\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-notu-girisi-icin-sistemin-kapanisi-2359/13145\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Eğitim-Öğretim
-URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-notu-girisi-icin-sistemin-kapanisi-2359/13145
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-13147@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20261225
-DTEND;VALUE=DATE:20261226
-SUMMARY:Lisansüstü Programlara 2027 Bahar yarıyılı için başvuru yapan adaylar için bilim sınavları
-DESCRIPTION:Category: Eğitim-Öğretim\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/lisansustu-programlara-2027-bahar-yariyili-ic/13147\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Eğitim-Öğretim
-URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/lisansustu-programlara-2027-bahar-yariyili-ic/13147
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-13133@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20261223
-DTEND;VALUE=DATE:20261226
-SUMMARY:E ve Mazeret Sınavları
-DESCRIPTION:Category: Eğitim-Öğretim\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/e-ve-mazeret-sinavlari/13133\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Eğitim-Öğretim
-URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/e-ve-mazeret-sinavlari/13133
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-13111@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20261213
-DTEND;VALUE=DATE:20261223
-SUMMARY:Yarıyıl sonu sınavları (13 Aralık 2026 Pazar günü 3. ve 4. slotlar Kültür ve Dil dersleri için kullanılacak.)
-DESCRIPTION:Category: Eğitim-Öğretim\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yariyil-sonu-sinavlari-13-aralik-2026-pazar-g/13111\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Eğitim-Öğretim
-URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yariyil-sonu-sinavlari-13-aralik-2026-pazar-g/13111
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-13107@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20261212
-DTEND;VALUE=DATE:20261214
-SUMMARY:Kültür ve dil dersleri (HUM dersleri dahil) yarıyıl sonu sınavları (13 Aralık 2026 Pazar günü 3. ve 4. slotlar Kültür ve Dil dersleri için kullanılacak.)
-DESCRIPTION:Category: Eğitim-Öğretim\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/kultur-ve-dil-dersleri-hum-dersleri-dahil-yar/13107\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Eğitim-Öğretim
-URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/kultur-ve-dil-dersleri-hum-dersleri-dahil-yar/13107
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-13109@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20261212
-DTEND;VALUE=DATE:20261213
-SUMMARY:Ders notu girişi için sistemin açılışı (10:00)
-DESCRIPTION:Category: Eğitim-Öğretim\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-notu-girisi-icin-sistemin-acilisi-1000/13109\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Eğitim-Öğretim
-URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-notu-girisi-icin-sistemin-acilisi-1000/13109
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-13103@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20261211
-DTEND;VALUE=DATE:20261212
-SUMMARY:Ders değerlendirme dönemi son günü (23:59) (YADYOK Hazırlık Okulu dersleri hariç)
-DESCRIPTION:Category: Eğitim-Öğretim\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-degerlendirme-donemi-son-gunu-2359-yadyo/13103\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Eğitim-Öğretim
-URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-degerlendirme-donemi-son-gunu-2359-yadyo/13103
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-13101@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20261211
-DTEND;VALUE=DATE:20261212
-SUMMARY:Derslerin son günü
-DESCRIPTION:Category: Eğitim-Öğretim\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/derslerin-son-gunu/13101\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Eğitim-Öğretim
-URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/derslerin-son-gunu/13101
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-13097@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20261204
-DTEND;VALUE=DATE:20261205
-SUMMARY:Yarıyıl izni başvurusu için son gün
-DESCRIPTION:Category: Eğitim-Öğretim\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yariyil-izni-basvurusu-icin-son-gun/13097\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Eğitim-Öğretim
-URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yariyil-izni-basvurusu-icin-son-gun/13097
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-13095@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20261130
-DTEND;VALUE=DATE:20261212
-SUMMARY:Ders değerlendirme dönemi (YADYOK Hazırlık Okulu dersleri hariç)
-DESCRIPTION:Category: Eğitim-Öğretim\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-degerlendirme-donemi-yadyok-hazirlik-oku/13095\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Eğitim-Öğretim
-URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-degerlendirme-donemi-yadyok-hazirlik-oku/13095
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-13027@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20260921
-DTEND;VALUE=DATE:20260924
-SUMMARY:Üniversiteyi Tanıma Günleri
-DESCRIPTION:Category: Eğitim-Öğretim\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/universiteyi-tanima-gunleri/13027\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Eğitim-Öğretim
-URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/universiteyi-tanima-gunleri/13027
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-13023@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20260921
-DTEND;VALUE=DATE:20260922
-SUMMARY:Derslerin başlaması (YADYOK hariç)
-DESCRIPTION:Category: Eğitim-Öğretim\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/derslerin-baslamasi-yadyok-haric/13023\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Eğitim-Öğretim
-URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/derslerin-baslamasi-yadyok-haric/13023
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-13021@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20260918
-DTEND;VALUE=DATE:20260919
-SUMMARY:Lisans programlarına yeni başlayan öğrenciler için Kimya\, Moleküler Biyoloji ve Genetik\, Fizik\, Bilgisayar Mühendisliği muafiyet sınavları
-DESCRIPTION:Category: Eğitim-Öğretim\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/lisans-programlarina-yeni-baslayan-ogrenciler/13021\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Eğitim-Öğretim
-URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/lisans-programlarina-yeni-baslayan-ogrenciler/13021
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-13003@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20260914
-DTEND;VALUE=DATE:20260915
-SUMMARY:Misafir öğrencilerin ve değişim öğrencilerinin Üniversiteyi Tanıma Programı/Çevrimiçi Üniversiteyi Tanıma Programı
-DESCRIPTION:Category: Eğitim-Öğretim\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/misafir-ogrencilerin-ve-degisim-ogrencilerini/13003\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Eğitim-Öğretim
-URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/misafir-ogrencilerin-ve-degisim-ogrencilerini/13003
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-9228@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20260820
-DTEND;VALUE=DATE:20260821
-SUMMARY:Ders notu girişi için sistemin kapanışı (23:59)
-DESCRIPTION:Category: Eğitim-Öğretim\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-notu-girisi-icin-sistemin-kapanisi-2359/9228\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Eğitim-Öğretim
-URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-notu-girisi-icin-sistemin-kapanisi-2359/9228
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-9223@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20260813
-DTEND;VALUE=DATE:20260816
-SUMMARY:Yaz Öğretimi ve II. Öğretim Yüksek Lisans Programlarının Yaz Dönemi dönem sonu sınavları
-DESCRIPTION:Category: Eğitim-Öğretim\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-ve-ii-ogretim-yuksek-lisans-prog/9223\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Eğitim-Öğretim
-URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-ve-ii-ogretim-yuksek-lisans-prog/9223
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-9222@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20260813
-DTEND;VALUE=DATE:20260814
-SUMMARY:Ders notu girişi için sistemin açılışı (10:00)
-DESCRIPTION:Category: Eğitim-Öğretim\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-notu-girisi-icin-sistemin-acilisi-1000/9222\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Eğitim-Öğretim
-URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-notu-girisi-icin-sistemin-acilisi-1000/9222
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-9221@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20260812
-DTEND;VALUE=DATE:20260813
-SUMMARY:Ders değerlendirme dönemi son günü (23:59)
-DESCRIPTION:Category: Eğitim-Öğretim\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-degerlendirme-donemi-son-gunu-2359/9221\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Eğitim-Öğretim
-URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-degerlendirme-donemi-son-gunu-2359/9221
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-9220@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20260812
-DTEND;VALUE=DATE:20260813
-SUMMARY:Yaz Öğretimi ve II. Öğretim Yüksek Lisans Programlarının Yaz Dönemi derslerinin son günü
-DESCRIPTION:Category: Eğitim-Öğretim\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-ve-ii-ogretim-yuksek-lisans-prog/9220\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Eğitim-Öğretim
-URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-ve-ii-ogretim-yuksek-lisans-prog/9220
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-9208@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20260801
-DTEND;VALUE=DATE:20260813
-SUMMARY:Ders değerlendirme dönemi (YADYOK Hazırlık Okulu dahil)
-DESCRIPTION:Category: Eğitim-Öğretim\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-degerlendirme-donemi-yadyok-hazirlik-oku/9208\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Eğitim-Öğretim
-URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-degerlendirme-donemi-yadyok-hazirlik-oku/9208
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-9200@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20260722
-DTEND;VALUE=DATE:20260725
-SUMMARY:2026 Güz yarıyılı için kurum dışı yatay geçiş başvurusunda bulunan adayların bilim sınavları
-DESCRIPTION:Category: Eğitim-Öğretim\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/2026-guz-yariyili-icin-kurum-disi-yatay-gecis/9200\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Eğitim-Öğretim
-URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/2026-guz-yariyili-icin-kurum-disi-yatay-gecis/9200
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-9184@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20260629
-DTEND;VALUE=DATE:20260704
-SUMMARY:Mezuniyet Töreni
-DESCRIPTION:Category: Eğitim-Öğretim\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/mezuniyet-toreni/9184\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Eğitim-Öğretim
-URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/mezuniyet-toreni/9184
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-9179@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20260624
-DTEND;VALUE=DATE:20260625
-SUMMARY:Yaz Öğretimi ve II. Öğretim Yüksek Lisans Programlarının Yaz Dönemi derslerinin başlaması
-DESCRIPTION:Category: Eğitim-Öğretim\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-ve-ii-ogretim-yuksek-lisans-prog/9179\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Eğitim-Öğretim
-URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-ve-ii-ogretim-yuksek-lisans-prog/9179
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-9175@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20260622
-DTEND;VALUE=DATE:20260627
-SUMMARY:Lisansüstü programlara başvuru yapan adaylar için bilim sınavları
-DESCRIPTION:Category: Eğitim-Öğretim\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/lisansustu-programlara-basvuru-yapan-adaylar-/9175\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Eğitim-Öğretim
-URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/lisansustu-programlara-basvuru-yapan-adaylar-/9175
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-9166@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20260618
-DTEND;VALUE=DATE:20260619
-SUMMARY:I işareti verilen derslere not verme işlemi için sistemin kapanışı (23.59)
-DESCRIPTION:Category: Eğitim-Öğretim\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/i-isareti-verilen-derslere-not-verme-islemi-i/9166\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Eğitim-Öğretim
-URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/i-isareti-verilen-derslere-not-verme-islemi-i/9166
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-9165@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20260617
-DTEND;VALUE=DATE:20260618
-SUMMARY:I işareti verilen derslere not verme işlemi için sistemin açılışı (10:00)
-DESCRIPTION:Category: Eğitim-Öğretim\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/i-isareti-verilen-derslere-not-verme-islemi-i/9165\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Eğitim-Öğretim
-URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/i-isareti-verilen-derslere-not-verme-islemi-i/9165
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-9164@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20260616
-DTEND;VALUE=DATE:20260617
-SUMMARY:Not verme için sisteminin kapanışı (23:59)
-DESCRIPTION:Category: Eğitim-Öğretim\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/not-verme-icin-sisteminin-kapanisi-2359/9164\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Eğitim-Öğretim
-URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/not-verme-icin-sisteminin-kapanisi-2359/9164
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-9163@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20260611
-DTEND;VALUE=DATE:20260614
-SUMMARY:E ve Mazeret Sınavları
-DESCRIPTION:Category: Eğitim-Öğretim\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/e-ve-mazeret-sinavlari/9163\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Eğitim-Öğretim
-URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/e-ve-mazeret-sinavlari/9163
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-9158@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20260608
-DTEND;VALUE=DATE:20260611
-SUMMARY:Yarıyıl sonu sınavları
-DESCRIPTION:Category: Eğitim-Öğretim\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yariyil-sonu-sinavlari/9158\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Eğitim-Öğretim
-URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yariyil-sonu-sinavlari/9158
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-9156@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20260601
-DTEND;VALUE=DATE:20260607
-SUMMARY:Yarıyıl sonu sınavları
-DESCRIPTION:Category: Eğitim-Öğretim\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yariyil-sonu-sinavlari/9156\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Eğitim-Öğretim
-URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yariyil-sonu-sinavlari/9156
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-9151@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20260520
-DTEND;VALUE=DATE:20260524
-SUMMARY:Yarıyıl sonu sınavları
-DESCRIPTION:Category: Eğitim-Öğretim\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yariyil-sonu-sinavlari/9151\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Eğitim-Öğretim
-URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yariyil-sonu-sinavlari/9151
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-9149@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20260516
-DTEND;VALUE=DATE:20260517
-SUMMARY:Not verme için sistemin açılışı (10:00)
-DESCRIPTION:Category: Eğitim-Öğretim\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/not-verme-icin-sistemin-acilisi-1000/9149\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Eğitim-Öğretim
-URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/not-verme-icin-sistemin-acilisi-1000/9149
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-9148@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20260516
-DTEND;VALUE=DATE:20260517
-SUMMARY:Kültür ve Dil dersleri (HUM dahil) sınavları
-DESCRIPTION:Category: Eğitim-Öğretim\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/kultur-ve-dil-dersleri-hum-dahil-sinavlari/9148\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Eğitim-Öğretim
-URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/kultur-ve-dil-dersleri-hum-dahil-sinavlari/9148
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-9146@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20260515
-DTEND;VALUE=DATE:20260516
-SUMMARY:Derslerin son günü
-DESCRIPTION:Category: Eğitim-Öğretim\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/derslerin-son-gunu/9146\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Eğitim-Öğretim
-URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/derslerin-son-gunu/9146
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-9140@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20260508
-DTEND;VALUE=DATE:20260509
-SUMMARY:Yarıyıl izni başvurusu için son gün
-DESCRIPTION:Category: Eğitim-Öğretim\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yariyil-izni-basvurusu-icin-son-gun/9140\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Eğitim-Öğretim
-URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yariyil-izni-basvurusu-icin-son-gun/9140
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-9135@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20260424
-DTEND;VALUE=DATE:20260516
-SUMMARY:Ders değerlendirme dönemi (YADYOK Hazırlık Okulu dahil)
-DESCRIPTION:Category: Eğitim-Öğretim\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-degerlendirme-donemi-yadyok-hazirlik-oku/9135\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Eğitim-Öğretim
-URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-degerlendirme-donemi-yadyok-hazirlik-oku/9135
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-9133@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20260420
-DTEND;VALUE=DATE:20260425
-SUMMARY:Bahar Tatili
-DESCRIPTION:Category: Eğitim-Öğretim\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/bahar-tatili/9133\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Eğitim-Öğretim
-URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/bahar-tatili/9133
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-9110@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20260209
-DTEND;VALUE=DATE:20260210
-SUMMARY:Derslerin başlaması (YADYOK dersleri dahil)
-DESCRIPTION:Category: Eğitim-Öğretim\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/derslerin-baslamasi-yadyok-dersleri-dahil/9110\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Eğitim-Öğretim
-URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/derslerin-baslamasi-yadyok-dersleri-dahil/9110
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-9104@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20260203
-DTEND;VALUE=DATE:20260204
-SUMMARY:Lisans programlarına yeni başlayan öğrenciler için Kimya\, Moleküler Biyoloji ve Genetik\, Fizik\, Bilgisayar Mühendisliği muafiyet sınavları
-DESCRIPTION:Category: Eğitim-Öğretim\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/lisans-programlarina-yeni-baslayan-ogrenciler/9104\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Eğitim-Öğretim
-URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/lisans-programlarina-yeni-baslayan-ogrenciler/9104
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-9101@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20260202
-DTEND;VALUE=DATE:20260203
-SUMMARY:Misafir öğrencilerin ve değişim öğrencilerinin Üniversiteyi Tanıma Programı/Çevrimiçi Üniversiteyi Tanıma Programı
-DESCRIPTION:Category: Eğitim-Öğretim\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/misafir-ogrencilerin-ve-degisim-ogrencilerini/9101\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Eğitim-Öğretim
-URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/misafir-ogrencilerin-ve-degisim-ogrencilerini/9101
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-9086@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20260121
-DTEND;VALUE=DATE:20260122
-SUMMARY:I işareti verilen derslere not verme işlemi için sistemin kapanması (23:59)
-DESCRIPTION:Category: Eğitim-Öğretim\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/i-isareti-verilen-derslere-not-verme-islemi-i/9086\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Eğitim-Öğretim
-URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/i-isareti-verilen-derslere-not-verme-islemi-i/9086
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-9085@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20260120
-DTEND;VALUE=DATE:20260121
-SUMMARY:I işareti verilen derslere not verme işlemi için sistemin açılması (10:00)
-DESCRIPTION:Category: Eğitim-Öğretim\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/i-isareti-verilen-derslere-not-verme-islemi-i/9085\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Eğitim-Öğretim
-URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/i-isareti-verilen-derslere-not-verme-islemi-i/9085
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-9083@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20260119
-DTEND;VALUE=DATE:20260122
-SUMMARY:Lisansüstü Programlara 2026 Bahar yarıyılı için başvuru yapan adaylar için bilim sınavları
-DESCRIPTION:Category: Eğitim-Öğretim\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/lisansustu-programlara-2026-bahar-yariyili-ic/9083\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Eğitim-Öğretim
-URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/lisansustu-programlara-2026-bahar-yariyili-ic/9083
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-9082@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20260119
-DTEND;VALUE=DATE:20260120
-SUMMARY:Not verme için sistemin kapanması (23:59)
-DESCRIPTION:Category: Eğitim-Öğretim\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/not-verme-icin-sistemin-kapanmasi-2359/9082\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Eğitim-Öğretim
-URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/not-verme-icin-sistemin-kapanmasi-2359/9082
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-9076@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20260113
-DTEND;VALUE=DATE:20260116
-SUMMARY:E ve Mazeret Sınavları
-DESCRIPTION:Category: Eğitim-Öğretim\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/e-ve-mazeret-sinavlari/9076\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Eğitim-Öğretim
-URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/e-ve-mazeret-sinavlari/9076
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-9069@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20260105
-DTEND;VALUE=DATE:20260110
-SUMMARY:Yarıyıl sonu sınavları
-DESCRIPTION:Category: Eğitim-Öğretim\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yariyil-sonu-sinavlari/9069\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Eğitim-Öğretim
-URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yariyil-sonu-sinavlari/9069
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-9066@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20260102
-DTEND;VALUE=DATE:20260104
-SUMMARY:Yarıyıl sonu sınavları
-DESCRIPTION:Category: Eğitim-Öğretim\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yariyil-sonu-sinavlari/9066\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Eğitim-Öğretim
-URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yariyil-sonu-sinavlari/9066
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-9064@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20251229
-DTEND;VALUE=DATE:20251231
-SUMMARY:Yarıyıl sonu sınavları
-DESCRIPTION:Category: Eğitim-Öğretim\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yariyil-sonu-sinavlari/9064\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Eğitim-Öğretim
-URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yariyil-sonu-sinavlari/9064
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-9063@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20251224
-DTEND;VALUE=DATE:20251228
-SUMMARY:Yarıyıl sonu sınavları
-DESCRIPTION:Category: Eğitim-Öğretim\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yariyil-sonu-sinavlari/9063\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Eğitim-Öğretim
-URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yariyil-sonu-sinavlari/9063
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-9062@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20251222
-DTEND;VALUE=DATE:20251223
-SUMMARY:Ders notu girişi için sistemin açılışı (10:00)
-DESCRIPTION:Category: Eğitim-Öğretim\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-notu-girisi-icin-sistemin-acilisi-1000/9062\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Eğitim-Öğretim
-URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-notu-girisi-icin-sistemin-acilisi-1000/9062
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-9061@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20251222
-DTEND;VALUE=DATE:20251224
-SUMMARY:Kültür ve dil dersleri (HUM dersleri dahil) yarıyıl sonu sınavları
-DESCRIPTION:Category: Eğitim-Öğretim\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/kultur-ve-dil-dersleri-hum-dersleri-dahil-yar/9061\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Eğitim-Öğretim
-URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/kultur-ve-dil-dersleri-hum-dersleri-dahil-yar/9061
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-9059@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20251219
-DTEND;VALUE=DATE:20251220
-SUMMARY:Ders değerlendirme dönemi son günü (23:59) (YADYOK Hazırlık Okulu dersleri hariç)
-DESCRIPTION:Category: Eğitim-Öğretim\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-degerlendirme-donemi-son-gunu-2359-yadyo/9059\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Eğitim-Öğretim
-URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-degerlendirme-donemi-son-gunu-2359-yadyo/9059
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-9058@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20251219
-DTEND;VALUE=DATE:20251220
-SUMMARY:Derslerin son günü
-DESCRIPTION:Category: Eğitim-Öğretim\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/derslerin-son-gunu/9058\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Eğitim-Öğretim
-URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/derslerin-son-gunu/9058
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-9054@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20251201
-DTEND;VALUE=DATE:20251220
-SUMMARY:Ders değerlendirme dönemi (YADYOK Hazırlık Okulu dersleri hariç)
-DESCRIPTION:Category: Eğitim-Öğretim\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-degerlendirme-donemi-yadyok-hazirlik-oku/9054\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Eğitim-Öğretim
-URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-degerlendirme-donemi-yadyok-hazirlik-oku/9054
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-9047@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20251117
-DTEND;VALUE=DATE:20251122
-SUMMARY:Dersten çekilme dönemi
-DESCRIPTION:Category: Eğitim-Öğretim\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/dersten-cekilme-donemi/9047\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Eğitim-Öğretim
-URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/dersten-cekilme-donemi/9047
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-9026@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20250922
-DTEND;VALUE=DATE:20250923
-SUMMARY:Derslerin başlaması (YADYOK hariç)
-DESCRIPTION:Category: Eğitim-Öğretim\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/derslerin-baslamasi-yadyok-haric/9026\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Eğitim-Öğretim
-URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/derslerin-baslamasi-yadyok-haric/9026
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-9025@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20250922
-DTEND;VALUE=DATE:20250925
-SUMMARY:Üniversiteyi Tanıma Günleri
-DESCRIPTION:Category: Eğitim-Öğretim\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/universiteyi-tanima-gunleri/9025\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Eğitim-Öğretim
-URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/universiteyi-tanima-gunleri/9025
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-9022@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20250919
-DTEND;VALUE=DATE:20250920
-SUMMARY:Lisans programlarına yeni başlayan öğrenciler için Kimya\, Moleküler Biyoloji ve Genetik\, Fizik\, Bilgisayar Mühendisliği muafiyet sınavları
-DESCRIPTION:Category: Eğitim-Öğretim\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/lisans-programlarina-yeni-baslayan-ogrenciler/9022\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Eğitim-Öğretim
-URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/lisans-programlarina-yeni-baslayan-ogrenciler/9022
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-9014@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20250915
-DTEND;VALUE=DATE:20250916
-SUMMARY:Misafir öğrencilerin ve değişim öğrencilerinin Üniversiteyi Tanıma Programı/Çevrimiçi Üniversiteyi Tanıma Programı
-DESCRIPTION:Category: Eğitim-Öğretim\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/misafir-ogrencilerin-ve-degisim-ogrencilerini/9014\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Eğitim-Öğretim
-URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/misafir-ogrencilerin-ve-degisim-ogrencilerini/9014
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-8998@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20250819
-DTEND;VALUE=DATE:20250820
-SUMMARY:Ders notu girişi için sistemin kapanışı (23:59)
-DESCRIPTION:Category: Eğitim-Öğretim\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-notu-girisi-icin-sistemin-kapanisi-2359/8998\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Eğitim-Öğretim
-URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-notu-girisi-icin-sistemin-kapanisi-2359/8998
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-12114@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20250815
-DTEND;VALUE=DATE:20250816
-SUMMARY:Yaz Öğretimi ve II. Öğretim Yüksek Lisans Programlarının Yaz Dönemi dönem sonu sınavları (15 Ağustos 2025'te sadece ilk iki slot kullanılacaktır)
-DESCRIPTION:Category: Eğitim-Öğretim\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-ve-ii-ogretim-yuksek-lisans-prog/12114\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Eğitim-Öğretim
-URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-ve-ii-ogretim-yuksek-lisans-prog/12114
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-12113@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20250813
-DTEND;VALUE=DATE:20250815
-SUMMARY:Yaz Öğretimi ve II. Öğretim Yüksek Lisans Programlarının Yaz Dönemi dönem sonu sınavları
-DESCRIPTION:Category: Eğitim-Öğretim\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-ve-ii-ogretim-yuksek-lisans-prog/12113\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Eğitim-Öğretim
-URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-ve-ii-ogretim-yuksek-lisans-prog/12113
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-8995@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20250812
-DTEND;VALUE=DATE:20250813
-SUMMARY:Yaz Öğretimi ve II. Öğretim Yüksek Lisans Programlarının Yaz Dönemi dönem sonu sınavları (12 Ağustos 2025'te BUEPT sebebiyle ilk iki slot kullanılmayacaktır )
-DESCRIPTION:Category: Eğitim-Öğretim\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-ve-ii-ogretim-yuksek-lisans-prog/8995\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Eğitim-Öğretim
-URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-ve-ii-ogretim-yuksek-lisans-prog/8995
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-8993@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20250812
-DTEND;VALUE=DATE:20250813
-SUMMARY:Ders notu girişi için sistemin açılışı (10:00)
-DESCRIPTION:Category: Eğitim-Öğretim\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-notu-girisi-icin-sistemin-acilisi-1000/8993\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Eğitim-Öğretim
-URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-notu-girisi-icin-sistemin-acilisi-1000/8993
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-8992@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20250811
-DTEND;VALUE=DATE:20250812
-SUMMARY:Ders değerlendirme dönemi son günü
-DESCRIPTION:Category: Eğitim-Öğretim\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-degerlendirme-donemi-son-gunu/8992\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Eğitim-Öğretim
-URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-degerlendirme-donemi-son-gunu/8992
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-8991@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20250811
-DTEND;VALUE=DATE:20250812
-SUMMARY:Yaz Öğretimi ve II. Öğretim Yüksek Lisans Programlarının Yaz Dönemi derslerinin son günü
-DESCRIPTION:Category: Eğitim-Öğretim\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-ve-ii-ogretim-yuksek-lisans-prog/8991\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Eğitim-Öğretim
-URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-ve-ii-ogretim-yuksek-lisans-prog/8991
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-8977@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20250801
-DTEND;VALUE=DATE:20250812
-SUMMARY:Ders değerlendirme dönemi (YADYOK Hazırlık Okulu dahil)
-DESCRIPTION:Category: Eğitim-Öğretim\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-degerlendirme-donemi-yadyok-hazirlik-oku/8977\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Eğitim-Öğretim
-URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-degerlendirme-donemi-yadyok-hazirlik-oku/8977
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-8972@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20250723
-DTEND;VALUE=DATE:20250726
-SUMMARY:2025 Güz yarıyılı için kurum dışı yatay geçiş başvurusunda bulunan adayların bilim sınavları
-DESCRIPTION:Category: Eğitim-Öğretim\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/2025-guz-yariyili-icin-kurum-disi-yatay-gecis/8972\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Eğitim-Öğretim
-URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/2025-guz-yariyili-icin-kurum-disi-yatay-gecis/8972
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-8956@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20250701
-DTEND;VALUE=DATE:20250705
-SUMMARY:Mezuniyet Töreni
-DESCRIPTION:Category: Eğitim-Öğretim\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/mezuniyet-toreni/8956\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Eğitim-Öğretim
-URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/mezuniyet-toreni/8956
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-8951@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20250624
-DTEND;VALUE=DATE:20250625
-SUMMARY:Yaz Öğretimi ve II. Öğretim Yüksek Lisans Programlarının Yaz Dönemi derslerinin başlaması
-DESCRIPTION:Category: Eğitim-Öğretim\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-ve-ii-ogretim-yuksek-lisans-prog/8951\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Eğitim-Öğretim
-URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-ve-ii-ogretim-yuksek-lisans-prog/8951
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-8947@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20250623
-DTEND;VALUE=DATE:20250628
-SUMMARY:Lisansüstü programlara başvuru yapan adaylar için bilim sınavları
-DESCRIPTION:Category: Eğitim-Öğretim\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/lisansustu-programlara-basvuru-yapan-adaylar-/8947\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Eğitim-Öğretim
-URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/lisansustu-programlara-basvuru-yapan-adaylar-/8947
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-8938@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20250618
-DTEND;VALUE=DATE:20250619
-SUMMARY:I işareti verilen derslere not verme işlemi için sistemin kapanışı (13.00)
-DESCRIPTION:Category: Eğitim-Öğretim\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/i-isareti-verilen-derslere-not-verme-islemi-i/8938\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Eğitim-Öğretim
-URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/i-isareti-verilen-derslere-not-verme-islemi-i/8938
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-8936@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20250617
-DTEND;VALUE=DATE:20250618
-SUMMARY:I işareti verilen derslere not verme işlemi için sistemin açılışı (10:00)
-DESCRIPTION:Category: Eğitim-Öğretim\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/i-isareti-verilen-derslere-not-verme-islemi-i/8936\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Eğitim-Öğretim
-URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/i-isareti-verilen-derslere-not-verme-islemi-i/8936
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-8935@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20250616
-DTEND;VALUE=DATE:20250617
-SUMMARY:Not verme için sisteminin kapanışı (23:59)
-DESCRIPTION:Category: Eğitim-Öğretim\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/not-verme-icin-sisteminin-kapanisi-2359/8935\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Eğitim-Öğretim
-URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/not-verme-icin-sisteminin-kapanisi-2359/8935
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-8933@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20250611
-DTEND;VALUE=DATE:20250614
-SUMMARY:E ve Mazeret Sınavları
-DESCRIPTION:Category: Eğitim-Öğretim\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/e-ve-mazeret-sinavlari/8933\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Eğitim-Öğretim
-URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/e-ve-mazeret-sinavlari/8933
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-8927@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20250602
-DTEND;VALUE=DATE:20250605
-SUMMARY:Yarıyıl sonu sınavları (27 Mayıs 3. Slot ve 28 Mayıs 2025 hariç)
-DESCRIPTION:Category: Eğitim-Öğretim\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yariyil-sonu-sinavlari-27-mayis-3-slot-ve-28-/8927\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Eğitim-Öğretim
-URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yariyil-sonu-sinavlari-27-mayis-3-slot-ve-28-/8927
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-8926@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20250529
-DTEND;VALUE=DATE:20250601
-SUMMARY:Yarıyıl sonu sınavları (27 Mayıs 3. Slot ve 28 Mayıs 2025 hariç)
-DESCRIPTION:Category: Eğitim-Öğretim\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yariyil-sonu-sinavlari-27-mayis-3-slot-ve-28-/8926\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Eğitim-Öğretim
-URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yariyil-sonu-sinavlari-27-mayis-3-slot-ve-28-/8926
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-8924@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20250526
-DTEND;VALUE=DATE:20250528
-SUMMARY:Yarıyıl sonu sınavları (27 Mayıs 3. Slot ve 28 Mayıs 2025 hariç)
-DESCRIPTION:Category: Eğitim-Öğretim\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yariyil-sonu-sinavlari-27-mayis-3-slot-ve-28-/8924\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Eğitim-Öğretim
-URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yariyil-sonu-sinavlari-27-mayis-3-slot-ve-28-/8924
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-8923@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20250521
-DTEND;VALUE=DATE:20250525
-SUMMARY:Yarıyıl sonu sınavları (27 Mayıs 3. Slot ve 28 Mayıs 2025 hariç)
-DESCRIPTION:Category: Eğitim-Öğretim\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yariyil-sonu-sinavlari-27-mayis-3-slot-ve-28-/8923\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Eğitim-Öğretim
-URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yariyil-sonu-sinavlari-27-mayis-3-slot-ve-28-/8923
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-8920@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20250520
-DTEND;VALUE=DATE:20250521
-SUMMARY:Kültür ve Dil dersleri (HUM dahil) sınavları
-DESCRIPTION:Category: Eğitim-Öğretim\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/kultur-ve-dil-dersleri-hum-dahil-sinavlari/8920\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Eğitim-Öğretim
-URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/kultur-ve-dil-dersleri-hum-dahil-sinavlari/8920
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-8918@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20250517
-DTEND;VALUE=DATE:20250518
-SUMMARY:Kültür ve Dil dersleri (HUM dahil) sınavları
-DESCRIPTION:Category: Eğitim-Öğretim\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/kultur-ve-dil-dersleri-hum-dahil-sinavlari/8918\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Eğitim-Öğretim
-URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/kultur-ve-dil-dersleri-hum-dahil-sinavlari/8918
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-8917@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20250517
-DTEND;VALUE=DATE:20250518
-SUMMARY:Not verme için sistemin açılışı (10:00)
-DESCRIPTION:Category: Eğitim-Öğretim\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/not-verme-icin-sistemin-acilisi-1000/8917\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Eğitim-Öğretim
-URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/not-verme-icin-sistemin-acilisi-1000/8917
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-8916@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20250516
-DTEND;VALUE=DATE:20250517
-SUMMARY:Derslerin son günü
-DESCRIPTION:Category: Eğitim-Öğretim\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/derslerin-son-gunu/8916\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Eğitim-Öğretim
-URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/derslerin-son-gunu/8916
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-8910@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20250501
-DTEND;VALUE=DATE:20250502
-SUMMARY:Emek ve Dayanışma günü (Tatil)
-DESCRIPTION:Category: Eğitim-Öğretim\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/emek-ve-dayanisma-gunu-tatil/8910\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Eğitim-Öğretim
-URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/emek-ve-dayanisma-gunu-tatil/8910
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-8908@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20250425
-DTEND;VALUE=DATE:20250517
-SUMMARY:Ders değerlendirme dönemi (YADYOK Hazırlık Okulu dahil)
-DESCRIPTION:Category: Eğitim-Öğretim\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-degerlendirme-donemi-yadyok-hazirlik-oku/8908\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Eğitim-Öğretim
-URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-degerlendirme-donemi-yadyok-hazirlik-oku/8908
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-8901@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20250414
-DTEND;VALUE=DATE:20250419
-SUMMARY:Dersten çekilme dönemi
-DESCRIPTION:Category: Eğitim-Öğretim\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/dersten-cekilme-donemi/8901\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Eğitim-Öğretim
-URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/dersten-cekilme-donemi/8901
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-8872@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20250204
-DTEND;VALUE=DATE:20250205
-SUMMARY:Lisans programlarına yeni başlayan öğrenciler için Kimya\, Moleküler Biyoloji ve Genetik\, Fizik\, Bilgisayar Mühendisliği muafiyet sınavları
-DESCRIPTION:Category: Eğitim-Öğretim\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/lisans-programlarina-yeni-baslayan-ogrenciler/8872\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Eğitim-Öğretim
-URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/lisans-programlarina-yeni-baslayan-ogrenciler/8872
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-8869@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20250203
-DTEND;VALUE=DATE:20250204
-SUMMARY:Misafir öğrencilerin ve değişim öğrencilerinin Üniversiteyi Tanıma Programı/Çevrimiçi Üniversiteyi Tanıma Programı
-DESCRIPTION:Category: Eğitim-Öğretim\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/misafir-ogrencilerin-ve-degisim-ogrencilerini/8869\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Eğitim-Öğretim
-URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/misafir-ogrencilerin-ve-degisim-ogrencilerini/8869
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-8855@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20250122
-DTEND;VALUE=DATE:20250123
-SUMMARY:I işareti verilen derslere not verme işlemi için sistemin kapanışı (23:59)
-DESCRIPTION:Category: Eğitim-Öğretim\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/i-isareti-verilen-derslere-not-verme-islemi-i/8855\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Eğitim-Öğretim
-URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/i-isareti-verilen-derslere-not-verme-islemi-i/8855
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-8854@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20250121
-DTEND;VALUE=DATE:20250122
-SUMMARY:I işareti verilen derslere not verme işlemi için sistemin açılışı (10:00)
-DESCRIPTION:Category: Eğitim-Öğretim\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/i-isareti-verilen-derslere-not-verme-islemi-i/8854\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Eğitim-Öğretim
-URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/i-isareti-verilen-derslere-not-verme-islemi-i/8854
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-8853@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20250121
-DTEND;VALUE=DATE:20250124
-SUMMARY:Lisansüstü programlara 2025 Bahar yarıyılı için başvuru yapan adaylar için bilim sınavları
-DESCRIPTION:Category: Eğitim-Öğretim\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/lisansustu-programlara-2025-bahar-yariyili-ic/8853\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Eğitim-Öğretim
-URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/lisansustu-programlara-2025-bahar-yariyili-ic/8853
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-8852@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20250120
-DTEND;VALUE=DATE:20250121
-SUMMARY:Not verme için sistemin kapanışı (23:59)
-DESCRIPTION:Category: Eğitim-Öğretim\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/not-verme-icin-sistemin-kapanisi-2359/8852\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Eğitim-Öğretim
-URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/not-verme-icin-sistemin-kapanisi-2359/8852
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-8847@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20250115
-DTEND;VALUE=DATE:20250118
-SUMMARY:E ve Mazeret Sınavları
-DESCRIPTION:Category: Eğitim-Öğretim\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/e-ve-mazeret-sinavlari/8847\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Eğitim-Öğretim
-URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/e-ve-mazeret-sinavlari/8847
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-8837@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20250106
-DTEND;VALUE=DATE:20250111
-SUMMARY:Yarıyıl sonu sınavları
-DESCRIPTION:Category: Eğitim-Öğretim\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yariyil-sonu-sinavlari/8837\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Eğitim-Öğretim
-URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yariyil-sonu-sinavlari/8837
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-8834@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20250102
-DTEND;VALUE=DATE:20250105
-SUMMARY:Yarıyıl sonu sınavları
-DESCRIPTION:Category: Eğitim-Öğretim\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yariyil-sonu-sinavlari/8834\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Eğitim-Öğretim
-URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yariyil-sonu-sinavlari/8834
-END:VEVENT
-BEGIN:VEVENT
 UID:boun-academic-8830@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
+DTSTAMP:20260826T105727Z
 DTSTART;VALUE=DATE:20241225
 DTEND;VALUE=DATE:20250110
 SUMMARY:YADYOK Hazırlık Okulu Ders Değerlendirme dönemi
-DESCRIPTION:Category: Eğitim-Öğretim\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-hazirlik-okulu-ders-degerlendirme-done/8830\n\nAuto-synced Bogazici University Academic Calendar
+DESCRIPTION:Kategori: Eğitim-Öğretim\n\nDetaylar: https://akademiktakvim
+ .bogazici.edu.tr/tr/events/akademik/yadyok-hazirlik-okulu-ders-degerlendir
+ me-done/8830\n\nOtomatik Senkronize Boğaziçi Üniversitesi Akademik Takv
+ imi
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:Eğitim-Öğretim
-URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-hazirlik-okulu-ders-degerlendirme-done/8830
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yadyok-hazirl
+ ik-okulu-ders-degerlendirme-done/8830
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-8834@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20250102
+DTEND;VALUE=DATE:20250105
+SUMMARY:Yarıyıl sonu sınavları
+DESCRIPTION:Kategori: Eğitim-Öğretim\n\nDetaylar: https://akademiktakvim
+ .bogazici.edu.tr/tr/events/akademik/yariyil-sonu-sinavlari/8834\n\nOtomati
+ k Senkronize Boğaziçi Üniversitesi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Eğitim-Öğretim
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yariyil-sonu-
+ sinavlari/8834
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-8837@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20250106
+DTEND;VALUE=DATE:20250111
+SUMMARY:Yarıyıl sonu sınavları
+DESCRIPTION:Kategori: Eğitim-Öğretim\n\nDetaylar: https://akademiktakvim
+ .bogazici.edu.tr/tr/events/akademik/yariyil-sonu-sinavlari/8837\n\nOtomati
+ k Senkronize Boğaziçi Üniversitesi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Eğitim-Öğretim
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yariyil-sonu-
+ sinavlari/8837
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-8847@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20250115
+DTEND;VALUE=DATE:20250118
+SUMMARY:E ve Mazeret Sınavları
+DESCRIPTION:Kategori: Eğitim-Öğretim\n\nDetaylar: https://akademiktakvim
+ .bogazici.edu.tr/tr/events/akademik/e-ve-mazeret-sinavlari/8847\n\nOtomati
+ k Senkronize Boğaziçi Üniversitesi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Eğitim-Öğretim
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/e-ve-mazeret-
+ sinavlari/8847
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-8852@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20250120
+DTEND;VALUE=DATE:20250121
+SUMMARY:Not verme için sistemin kapanışı (23:59)
+DESCRIPTION:Kategori: Eğitim-Öğretim\n\nDetaylar: https://akademiktakvim
+ .bogazici.edu.tr/tr/events/akademik/not-verme-icin-sistemin-kapanisi-2359/
+ 8852\n\nOtomatik Senkronize Boğaziçi Üniversitesi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Eğitim-Öğretim
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/not-verme-ici
+ n-sistemin-kapanisi-2359/8852
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-8853@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20250121
+DTEND;VALUE=DATE:20250124
+SUMMARY:Lisansüstü programlara 2025 Bahar yarıyılı için başvuru yapa
+ n adaylar için bilim sınavları
+DESCRIPTION:Kategori: Eğitim-Öğretim\n\nDetaylar: https://akademiktakvim
+ .bogazici.edu.tr/tr/events/akademik/lisansustu-programlara-2025-bahar-yari
+ yili-ic/8853\n\nOtomatik Senkronize Boğaziçi Üniversitesi Akademik Takv
+ imi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Eğitim-Öğretim
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/lisansustu-pr
+ ogramlara-2025-bahar-yariyili-ic/8853
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-8854@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20250121
+DTEND;VALUE=DATE:20250122
+SUMMARY:I işareti verilen derslere not verme işlemi için sistemin açıl
+ ışı (10:00)
+DESCRIPTION:Kategori: Eğitim-Öğretim\n\nDetaylar: https://akademiktakvim
+ .bogazici.edu.tr/tr/events/akademik/i-isareti-verilen-derslere-not-verme-i
+ slemi-i/8854\n\nOtomatik Senkronize Boğaziçi Üniversitesi Akademik Takv
+ imi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Eğitim-Öğretim
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/i-isareti-ver
+ ilen-derslere-not-verme-islemi-i/8854
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-8855@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20250122
+DTEND;VALUE=DATE:20250123
+SUMMARY:I işareti verilen derslere not verme işlemi için sistemin kapan
+ ışı (23:59)
+DESCRIPTION:Kategori: Eğitim-Öğretim\n\nDetaylar: https://akademiktakvim
+ .bogazici.edu.tr/tr/events/akademik/i-isareti-verilen-derslere-not-verme-i
+ slemi-i/8855\n\nOtomatik Senkronize Boğaziçi Üniversitesi Akademik Takv
+ imi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Eğitim-Öğretim
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/i-isareti-ver
+ ilen-derslere-not-verme-islemi-i/8855
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-8869@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20250203
+DTEND;VALUE=DATE:20250204
+SUMMARY:Misafir öğrencilerin ve değişim öğrencilerinin Üniversiteyi 
+ Tanıma Programı/Çevrimiçi Üniversiteyi Tanıma Programı
+DESCRIPTION:Kategori: Eğitim-Öğretim\n\nDetaylar: https://akademiktakvim
+ .bogazici.edu.tr/tr/events/akademik/misafir-ogrencilerin-ve-degisim-ogrenc
+ ilerini/8869\n\nOtomatik Senkronize Boğaziçi Üniversitesi Akademik Takv
+ imi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Eğitim-Öğretim
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/misafir-ogren
+ cilerin-ve-degisim-ogrencilerini/8869
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-8872@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20250204
+DTEND;VALUE=DATE:20250205
+SUMMARY:Lisans programlarına yeni başlayan öğrenciler için Kimya\, Mol
+ eküler Biyoloji ve Genetik\, Fizik\, Bilgisayar Mühendisliği muafiyet s
+ ınavları
+DESCRIPTION:Kategori: Eğitim-Öğretim\n\nDetaylar: https://akademiktakvim
+ .bogazici.edu.tr/tr/events/akademik/lisans-programlarina-yeni-baslayan-ogr
+ enciler/8872\n\nOtomatik Senkronize Boğaziçi Üniversitesi Akademik Takv
+ imi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Eğitim-Öğretim
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/lisans-progra
+ mlarina-yeni-baslayan-ogrenciler/8872
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-8901@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20250414
+DTEND;VALUE=DATE:20250419
+SUMMARY:Dersten çekilme dönemi
+DESCRIPTION:Kategori: Eğitim-Öğretim\n\nDetaylar: https://akademiktakvim
+ .bogazici.edu.tr/tr/events/akademik/dersten-cekilme-donemi/8901\n\nOtomati
+ k Senkronize Boğaziçi Üniversitesi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Eğitim-Öğretim
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/dersten-cekil
+ me-donemi/8901
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-8908@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20250425
+DTEND;VALUE=DATE:20250517
+SUMMARY:Ders değerlendirme dönemi (YADYOK Hazırlık Okulu dahil)
+DESCRIPTION:Kategori: Eğitim-Öğretim\n\nDetaylar: https://akademiktakvim
+ .bogazici.edu.tr/tr/events/akademik/ders-degerlendirme-donemi-yadyok-hazir
+ lik-oku/8908\n\nOtomatik Senkronize Boğaziçi Üniversitesi Akademik Takv
+ imi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Eğitim-Öğretim
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-degerlen
+ dirme-donemi-yadyok-hazirlik-oku/8908
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-8910@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20250501
+DTEND;VALUE=DATE:20250502
+SUMMARY:Emek ve Dayanışma günü (Tatil)
+DESCRIPTION:Kategori: Eğitim-Öğretim\n\nDetaylar: https://akademiktakvim
+ .bogazici.edu.tr/tr/events/akademik/emek-ve-dayanisma-gunu-tatil/8910\n\nO
+ tomatik Senkronize Boğaziçi Üniversitesi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Eğitim-Öğretim
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/emek-ve-dayan
+ isma-gunu-tatil/8910
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-8916@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20250516
+DTEND;VALUE=DATE:20250517
+SUMMARY:Derslerin son günü
+DESCRIPTION:Kategori: Eğitim-Öğretim\n\nDetaylar: https://akademiktakvim
+ .bogazici.edu.tr/tr/events/akademik/derslerin-son-gunu/8916\n\nOtomatik Se
+ nkronize Boğaziçi Üniversitesi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Eğitim-Öğretim
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/derslerin-son
+ -gunu/8916
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-8917@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20250517
+DTEND;VALUE=DATE:20250518
+SUMMARY:Not verme için sistemin açılışı (10:00)
+DESCRIPTION:Kategori: Eğitim-Öğretim\n\nDetaylar: https://akademiktakvim
+ .bogazici.edu.tr/tr/events/akademik/not-verme-icin-sistemin-acilisi-1000/8
+ 917\n\nOtomatik Senkronize Boğaziçi Üniversitesi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Eğitim-Öğretim
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/not-verme-ici
+ n-sistemin-acilisi-1000/8917
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-8918@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20250517
+DTEND;VALUE=DATE:20250518
+SUMMARY:Kültür ve Dil dersleri (HUM dahil) sınavları
+DESCRIPTION:Kategori: Eğitim-Öğretim\n\nDetaylar: https://akademiktakvim
+ .bogazici.edu.tr/tr/events/akademik/kultur-ve-dil-dersleri-hum-dahil-sinav
+ lari/8918\n\nOtomatik Senkronize Boğaziçi Üniversitesi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Eğitim-Öğretim
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/kultur-ve-dil
+ -dersleri-hum-dahil-sinavlari/8918
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-8920@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20250520
+DTEND;VALUE=DATE:20250521
+SUMMARY:Kültür ve Dil dersleri (HUM dahil) sınavları
+DESCRIPTION:Kategori: Eğitim-Öğretim\n\nDetaylar: https://akademiktakvim
+ .bogazici.edu.tr/tr/events/akademik/kultur-ve-dil-dersleri-hum-dahil-sinav
+ lari/8920\n\nOtomatik Senkronize Boğaziçi Üniversitesi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Eğitim-Öğretim
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/kultur-ve-dil
+ -dersleri-hum-dahil-sinavlari/8920
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-8923@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20250521
+DTEND;VALUE=DATE:20250525
+SUMMARY:Yarıyıl sonu sınavları (27 Mayıs 3. Slot ve 28 Mayıs 2025 har
+ iç)
+DESCRIPTION:Kategori: Eğitim-Öğretim\n\nDetaylar: https://akademiktakvim
+ .bogazici.edu.tr/tr/events/akademik/yariyil-sonu-sinavlari-27-mayis-3-slot
+ -ve-28-/8923\n\nOtomatik Senkronize Boğaziçi Üniversitesi Akademik Takv
+ imi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Eğitim-Öğretim
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yariyil-sonu-
+ sinavlari-27-mayis-3-slot-ve-28-/8923
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-8924@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20250526
+DTEND;VALUE=DATE:20250528
+SUMMARY:Yarıyıl sonu sınavları (27 Mayıs 3. Slot ve 28 Mayıs 2025 har
+ iç)
+DESCRIPTION:Kategori: Eğitim-Öğretim\n\nDetaylar: https://akademiktakvim
+ .bogazici.edu.tr/tr/events/akademik/yariyil-sonu-sinavlari-27-mayis-3-slot
+ -ve-28-/8924\n\nOtomatik Senkronize Boğaziçi Üniversitesi Akademik Takv
+ imi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Eğitim-Öğretim
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yariyil-sonu-
+ sinavlari-27-mayis-3-slot-ve-28-/8924
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-8926@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20250529
+DTEND;VALUE=DATE:20250601
+SUMMARY:Yarıyıl sonu sınavları (27 Mayıs 3. Slot ve 28 Mayıs 2025 har
+ iç)
+DESCRIPTION:Kategori: Eğitim-Öğretim\n\nDetaylar: https://akademiktakvim
+ .bogazici.edu.tr/tr/events/akademik/yariyil-sonu-sinavlari-27-mayis-3-slot
+ -ve-28-/8926\n\nOtomatik Senkronize Boğaziçi Üniversitesi Akademik Takv
+ imi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Eğitim-Öğretim
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yariyil-sonu-
+ sinavlari-27-mayis-3-slot-ve-28-/8926
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-8927@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20250602
+DTEND;VALUE=DATE:20250605
+SUMMARY:Yarıyıl sonu sınavları (27 Mayıs 3. Slot ve 28 Mayıs 2025 har
+ iç)
+DESCRIPTION:Kategori: Eğitim-Öğretim\n\nDetaylar: https://akademiktakvim
+ .bogazici.edu.tr/tr/events/akademik/yariyil-sonu-sinavlari-27-mayis-3-slot
+ -ve-28-/8927\n\nOtomatik Senkronize Boğaziçi Üniversitesi Akademik Takv
+ imi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Eğitim-Öğretim
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yariyil-sonu-
+ sinavlari-27-mayis-3-slot-ve-28-/8927
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-8933@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20250611
+DTEND;VALUE=DATE:20250614
+SUMMARY:E ve Mazeret Sınavları
+DESCRIPTION:Kategori: Eğitim-Öğretim\n\nDetaylar: https://akademiktakvim
+ .bogazici.edu.tr/tr/events/akademik/e-ve-mazeret-sinavlari/8933\n\nOtomati
+ k Senkronize Boğaziçi Üniversitesi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Eğitim-Öğretim
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/e-ve-mazeret-
+ sinavlari/8933
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-8935@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20250616
+DTEND;VALUE=DATE:20250617
+SUMMARY:Not verme için sisteminin kapanışı (23:59)
+DESCRIPTION:Kategori: Eğitim-Öğretim\n\nDetaylar: https://akademiktakvim
+ .bogazici.edu.tr/tr/events/akademik/not-verme-icin-sisteminin-kapanisi-235
+ 9/8935\n\nOtomatik Senkronize Boğaziçi Üniversitesi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Eğitim-Öğretim
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/not-verme-ici
+ n-sisteminin-kapanisi-2359/8935
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-8936@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20250617
+DTEND;VALUE=DATE:20250618
+SUMMARY:I işareti verilen derslere not verme işlemi için sistemin açıl
+ ışı (10:00)
+DESCRIPTION:Kategori: Eğitim-Öğretim\n\nDetaylar: https://akademiktakvim
+ .bogazici.edu.tr/tr/events/akademik/i-isareti-verilen-derslere-not-verme-i
+ slemi-i/8936\n\nOtomatik Senkronize Boğaziçi Üniversitesi Akademik Takv
+ imi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Eğitim-Öğretim
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/i-isareti-ver
+ ilen-derslere-not-verme-islemi-i/8936
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-8938@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20250618
+DTEND;VALUE=DATE:20250619
+SUMMARY:I işareti verilen derslere not verme işlemi için sistemin kapan
+ ışı (13.00)
+DESCRIPTION:Kategori: Eğitim-Öğretim\n\nDetaylar: https://akademiktakvim
+ .bogazici.edu.tr/tr/events/akademik/i-isareti-verilen-derslere-not-verme-i
+ slemi-i/8938\n\nOtomatik Senkronize Boğaziçi Üniversitesi Akademik Takv
+ imi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Eğitim-Öğretim
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/i-isareti-ver
+ ilen-derslere-not-verme-islemi-i/8938
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-8947@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20250623
+DTEND;VALUE=DATE:20250628
+SUMMARY:Lisansüstü programlara başvuru yapan adaylar için bilim sınavl
+ arı
+DESCRIPTION:Kategori: Eğitim-Öğretim\n\nDetaylar: https://akademiktakvim
+ .bogazici.edu.tr/tr/events/akademik/lisansustu-programlara-basvuru-yapan-a
+ daylar-/8947\n\nOtomatik Senkronize Boğaziçi Üniversitesi Akademik Takv
+ imi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Eğitim-Öğretim
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/lisansustu-pr
+ ogramlara-basvuru-yapan-adaylar-/8947
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-8951@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20250624
+DTEND;VALUE=DATE:20250625
+SUMMARY:Yaz Öğretimi ve II. Öğretim Yüksek Lisans Programlarının Yaz
+  Dönemi derslerinin başlaması
+DESCRIPTION:Kategori: Eğitim-Öğretim\n\nDetaylar: https://akademiktakvim
+ .bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-ve-ii-ogretim-yuksek-lisa
+ ns-prog/8951\n\nOtomatik Senkronize Boğaziçi Üniversitesi Akademik Takv
+ imi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Eğitim-Öğretim
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-
+ ve-ii-ogretim-yuksek-lisans-prog/8951
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-8956@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20250701
+DTEND;VALUE=DATE:20250705
+SUMMARY:Mezuniyet Töreni
+DESCRIPTION:Kategori: Eğitim-Öğretim\n\nDetaylar: https://akademiktakvim
+ .bogazici.edu.tr/tr/events/akademik/mezuniyet-toreni/8956\n\nOtomatik Senk
+ ronize Boğaziçi Üniversitesi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Eğitim-Öğretim
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/mezuniyet-tor
+ eni/8956
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-8972@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20250723
+DTEND;VALUE=DATE:20250726
+SUMMARY:2025 Güz yarıyılı için kurum dışı yatay geçiş başvurusun
+ da bulunan adayların bilim sınavları
+DESCRIPTION:Kategori: Eğitim-Öğretim\n\nDetaylar: https://akademiktakvim
+ .bogazici.edu.tr/tr/events/akademik/2025-guz-yariyili-icin-kurum-disi-yata
+ y-gecis/8972\n\nOtomatik Senkronize Boğaziçi Üniversitesi Akademik Takv
+ imi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Eğitim-Öğretim
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/2025-guz-yari
+ yili-icin-kurum-disi-yatay-gecis/8972
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-8977@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20250801
+DTEND;VALUE=DATE:20250812
+SUMMARY:Ders değerlendirme dönemi (YADYOK Hazırlık Okulu dahil)
+DESCRIPTION:Kategori: Eğitim-Öğretim\n\nDetaylar: https://akademiktakvim
+ .bogazici.edu.tr/tr/events/akademik/ders-degerlendirme-donemi-yadyok-hazir
+ lik-oku/8977\n\nOtomatik Senkronize Boğaziçi Üniversitesi Akademik Takv
+ imi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Eğitim-Öğretim
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-degerlen
+ dirme-donemi-yadyok-hazirlik-oku/8977
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-8991@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20250811
+DTEND;VALUE=DATE:20250812
+SUMMARY:Yaz Öğretimi ve II. Öğretim Yüksek Lisans Programlarının Yaz
+  Dönemi derslerinin son günü
+DESCRIPTION:Kategori: Eğitim-Öğretim\n\nDetaylar: https://akademiktakvim
+ .bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-ve-ii-ogretim-yuksek-lisa
+ ns-prog/8991\n\nOtomatik Senkronize Boğaziçi Üniversitesi Akademik Takv
+ imi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Eğitim-Öğretim
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-
+ ve-ii-ogretim-yuksek-lisans-prog/8991
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-8992@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20250811
+DTEND;VALUE=DATE:20250812
+SUMMARY:Ders değerlendirme dönemi son günü
+DESCRIPTION:Kategori: Eğitim-Öğretim\n\nDetaylar: https://akademiktakvim
+ .bogazici.edu.tr/tr/events/akademik/ders-degerlendirme-donemi-son-gunu/899
+ 2\n\nOtomatik Senkronize Boğaziçi Üniversitesi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Eğitim-Öğretim
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-degerlen
+ dirme-donemi-son-gunu/8992
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-8993@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20250812
+DTEND;VALUE=DATE:20250813
+SUMMARY:Ders notu girişi için sistemin açılışı (10:00)
+DESCRIPTION:Kategori: Eğitim-Öğretim\n\nDetaylar: https://akademiktakvim
+ .bogazici.edu.tr/tr/events/akademik/ders-notu-girisi-icin-sistemin-acilisi
+ -1000/8993\n\nOtomatik Senkronize Boğaziçi Üniversitesi Akademik Takvim
+ i
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Eğitim-Öğretim
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-notu-gir
+ isi-icin-sistemin-acilisi-1000/8993
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-8995@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20250812
+DTEND;VALUE=DATE:20250813
+SUMMARY:Yaz Öğretimi ve II. Öğretim Yüksek Lisans Programlarının Yaz
+  Dönemi dönem sonu sınavları (12 Ağustos 2025'te BUEPT sebebiyle ilk 
+ iki slot kullanılmayacaktır )
+DESCRIPTION:Kategori: Eğitim-Öğretim\n\nDetaylar: https://akademiktakvim
+ .bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-ve-ii-ogretim-yuksek-lisa
+ ns-prog/8995\n\nOtomatik Senkronize Boğaziçi Üniversitesi Akademik Takv
+ imi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Eğitim-Öğretim
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-
+ ve-ii-ogretim-yuksek-lisans-prog/8995
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-12113@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20250813
+DTEND;VALUE=DATE:20250815
+SUMMARY:Yaz Öğretimi ve II. Öğretim Yüksek Lisans Programlarının Yaz
+  Dönemi dönem sonu sınavları
+DESCRIPTION:Kategori: Eğitim-Öğretim\n\nDetaylar: https://akademiktakvim
+ .bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-ve-ii-ogretim-yuksek-lisa
+ ns-prog/12113\n\nOtomatik Senkronize Boğaziçi Üniversitesi Akademik Tak
+ vimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Eğitim-Öğretim
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-
+ ve-ii-ogretim-yuksek-lisans-prog/12113
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-12114@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20250815
+DTEND;VALUE=DATE:20250816
+SUMMARY:Yaz Öğretimi ve II. Öğretim Yüksek Lisans Programlarının Yaz
+  Dönemi dönem sonu sınavları (15 Ağustos 2025'te sadece ilk iki slot 
+ kullanılacaktır)
+DESCRIPTION:Kategori: Eğitim-Öğretim\n\nDetaylar: https://akademiktakvim
+ .bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-ve-ii-ogretim-yuksek-lisa
+ ns-prog/12114\n\nOtomatik Senkronize Boğaziçi Üniversitesi Akademik Tak
+ vimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Eğitim-Öğretim
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-
+ ve-ii-ogretim-yuksek-lisans-prog/12114
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-8998@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20250819
+DTEND;VALUE=DATE:20250820
+SUMMARY:Ders notu girişi için sistemin kapanışı (23:59)
+DESCRIPTION:Kategori: Eğitim-Öğretim\n\nDetaylar: https://akademiktakvim
+ .bogazici.edu.tr/tr/events/akademik/ders-notu-girisi-icin-sistemin-kapanis
+ i-2359/8998\n\nOtomatik Senkronize Boğaziçi Üniversitesi Akademik Takvi
+ mi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Eğitim-Öğretim
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-notu-gir
+ isi-icin-sistemin-kapanisi-2359/8998
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-9014@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20250915
+DTEND;VALUE=DATE:20250916
+SUMMARY:Misafir öğrencilerin ve değişim öğrencilerinin Üniversiteyi 
+ Tanıma Programı/Çevrimiçi Üniversiteyi Tanıma Programı
+DESCRIPTION:Kategori: Eğitim-Öğretim\n\nDetaylar: https://akademiktakvim
+ .bogazici.edu.tr/tr/events/akademik/misafir-ogrencilerin-ve-degisim-ogrenc
+ ilerini/9014\n\nOtomatik Senkronize Boğaziçi Üniversitesi Akademik Takv
+ imi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Eğitim-Öğretim
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/misafir-ogren
+ cilerin-ve-degisim-ogrencilerini/9014
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-9022@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20250919
+DTEND;VALUE=DATE:20250920
+SUMMARY:Lisans programlarına yeni başlayan öğrenciler için Kimya\, Mol
+ eküler Biyoloji ve Genetik\, Fizik\, Bilgisayar Mühendisliği muafiyet s
+ ınavları
+DESCRIPTION:Kategori: Eğitim-Öğretim\n\nDetaylar: https://akademiktakvim
+ .bogazici.edu.tr/tr/events/akademik/lisans-programlarina-yeni-baslayan-ogr
+ enciler/9022\n\nOtomatik Senkronize Boğaziçi Üniversitesi Akademik Takv
+ imi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Eğitim-Öğretim
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/lisans-progra
+ mlarina-yeni-baslayan-ogrenciler/9022
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-9025@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20250922
+DTEND;VALUE=DATE:20250925
+SUMMARY:Üniversiteyi Tanıma Günleri
+DESCRIPTION:Kategori: Eğitim-Öğretim\n\nDetaylar: https://akademiktakvim
+ .bogazici.edu.tr/tr/events/akademik/universiteyi-tanima-gunleri/9025\n\nOt
+ omatik Senkronize Boğaziçi Üniversitesi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Eğitim-Öğretim
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/universiteyi-
+ tanima-gunleri/9025
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-9026@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20250922
+DTEND;VALUE=DATE:20250923
+SUMMARY:Derslerin başlaması (YADYOK hariç)
+DESCRIPTION:Kategori: Eğitim-Öğretim\n\nDetaylar: https://akademiktakvim
+ .bogazici.edu.tr/tr/events/akademik/derslerin-baslamasi-yadyok-haric/9026\
+ n\nOtomatik Senkronize Boğaziçi Üniversitesi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Eğitim-Öğretim
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/derslerin-bas
+ lamasi-yadyok-haric/9026
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-9047@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20251117
+DTEND;VALUE=DATE:20251122
+SUMMARY:Dersten çekilme dönemi
+DESCRIPTION:Kategori: Eğitim-Öğretim\n\nDetaylar: https://akademiktakvim
+ .bogazici.edu.tr/tr/events/akademik/dersten-cekilme-donemi/9047\n\nOtomati
+ k Senkronize Boğaziçi Üniversitesi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Eğitim-Öğretim
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/dersten-cekil
+ me-donemi/9047
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-9054@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20251201
+DTEND;VALUE=DATE:20251220
+SUMMARY:Ders değerlendirme dönemi (YADYOK Hazırlık Okulu dersleri hari
+ ç)
+DESCRIPTION:Kategori: Eğitim-Öğretim\n\nDetaylar: https://akademiktakvim
+ .bogazici.edu.tr/tr/events/akademik/ders-degerlendirme-donemi-yadyok-hazir
+ lik-oku/9054\n\nOtomatik Senkronize Boğaziçi Üniversitesi Akademik Takv
+ imi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Eğitim-Öğretim
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-degerlen
+ dirme-donemi-yadyok-hazirlik-oku/9054
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-9058@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20251219
+DTEND;VALUE=DATE:20251220
+SUMMARY:Derslerin son günü
+DESCRIPTION:Kategori: Eğitim-Öğretim\n\nDetaylar: https://akademiktakvim
+ .bogazici.edu.tr/tr/events/akademik/derslerin-son-gunu/9058\n\nOtomatik Se
+ nkronize Boğaziçi Üniversitesi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Eğitim-Öğretim
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/derslerin-son
+ -gunu/9058
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-9059@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20251219
+DTEND;VALUE=DATE:20251220
+SUMMARY:Ders değerlendirme dönemi son günü (23:59) (YADYOK Hazırlık O
+ kulu dersleri hariç)
+DESCRIPTION:Kategori: Eğitim-Öğretim\n\nDetaylar: https://akademiktakvim
+ .bogazici.edu.tr/tr/events/akademik/ders-degerlendirme-donemi-son-gunu-235
+ 9-yadyo/9059\n\nOtomatik Senkronize Boğaziçi Üniversitesi Akademik Takv
+ imi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Eğitim-Öğretim
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-degerlen
+ dirme-donemi-son-gunu-2359-yadyo/9059
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-9061@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20251222
+DTEND;VALUE=DATE:20251224
+SUMMARY:Kültür ve dil dersleri (HUM dersleri dahil) yarıyıl sonu sınav
+ ları
+DESCRIPTION:Kategori: Eğitim-Öğretim\n\nDetaylar: https://akademiktakvim
+ .bogazici.edu.tr/tr/events/akademik/kultur-ve-dil-dersleri-hum-dersleri-da
+ hil-yar/9061\n\nOtomatik Senkronize Boğaziçi Üniversitesi Akademik Takv
+ imi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Eğitim-Öğretim
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/kultur-ve-dil
+ -dersleri-hum-dersleri-dahil-yar/9061
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-9062@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20251222
+DTEND;VALUE=DATE:20251223
+SUMMARY:Ders notu girişi için sistemin açılışı (10:00)
+DESCRIPTION:Kategori: Eğitim-Öğretim\n\nDetaylar: https://akademiktakvim
+ .bogazici.edu.tr/tr/events/akademik/ders-notu-girisi-icin-sistemin-acilisi
+ -1000/9062\n\nOtomatik Senkronize Boğaziçi Üniversitesi Akademik Takvim
+ i
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Eğitim-Öğretim
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-notu-gir
+ isi-icin-sistemin-acilisi-1000/9062
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-9063@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20251224
+DTEND;VALUE=DATE:20251228
+SUMMARY:Yarıyıl sonu sınavları
+DESCRIPTION:Kategori: Eğitim-Öğretim\n\nDetaylar: https://akademiktakvim
+ .bogazici.edu.tr/tr/events/akademik/yariyil-sonu-sinavlari/9063\n\nOtomati
+ k Senkronize Boğaziçi Üniversitesi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Eğitim-Öğretim
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yariyil-sonu-
+ sinavlari/9063
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-9064@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20251229
+DTEND;VALUE=DATE:20251231
+SUMMARY:Yarıyıl sonu sınavları
+DESCRIPTION:Kategori: Eğitim-Öğretim\n\nDetaylar: https://akademiktakvim
+ .bogazici.edu.tr/tr/events/akademik/yariyil-sonu-sinavlari/9064\n\nOtomati
+ k Senkronize Boğaziçi Üniversitesi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Eğitim-Öğretim
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yariyil-sonu-
+ sinavlari/9064
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-9066@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20260102
+DTEND;VALUE=DATE:20260104
+SUMMARY:Yarıyıl sonu sınavları
+DESCRIPTION:Kategori: Eğitim-Öğretim\n\nDetaylar: https://akademiktakvim
+ .bogazici.edu.tr/tr/events/akademik/yariyil-sonu-sinavlari/9066\n\nOtomati
+ k Senkronize Boğaziçi Üniversitesi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Eğitim-Öğretim
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yariyil-sonu-
+ sinavlari/9066
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-9069@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20260105
+DTEND;VALUE=DATE:20260110
+SUMMARY:Yarıyıl sonu sınavları
+DESCRIPTION:Kategori: Eğitim-Öğretim\n\nDetaylar: https://akademiktakvim
+ .bogazici.edu.tr/tr/events/akademik/yariyil-sonu-sinavlari/9069\n\nOtomati
+ k Senkronize Boğaziçi Üniversitesi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Eğitim-Öğretim
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yariyil-sonu-
+ sinavlari/9069
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-9076@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20260113
+DTEND;VALUE=DATE:20260116
+SUMMARY:E ve Mazeret Sınavları
+DESCRIPTION:Kategori: Eğitim-Öğretim\n\nDetaylar: https://akademiktakvim
+ .bogazici.edu.tr/tr/events/akademik/e-ve-mazeret-sinavlari/9076\n\nOtomati
+ k Senkronize Boğaziçi Üniversitesi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Eğitim-Öğretim
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/e-ve-mazeret-
+ sinavlari/9076
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-9082@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20260119
+DTEND;VALUE=DATE:20260120
+SUMMARY:Not verme için sistemin kapanması (23:59)
+DESCRIPTION:Kategori: Eğitim-Öğretim\n\nDetaylar: https://akademiktakvim
+ .bogazici.edu.tr/tr/events/akademik/not-verme-icin-sistemin-kapanmasi-2359
+ /9082\n\nOtomatik Senkronize Boğaziçi Üniversitesi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Eğitim-Öğretim
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/not-verme-ici
+ n-sistemin-kapanmasi-2359/9082
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-9083@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20260119
+DTEND;VALUE=DATE:20260122
+SUMMARY:Lisansüstü Programlara 2026 Bahar yarıyılı için başvuru yapa
+ n adaylar için bilim sınavları
+DESCRIPTION:Kategori: Eğitim-Öğretim\n\nDetaylar: https://akademiktakvim
+ .bogazici.edu.tr/tr/events/akademik/lisansustu-programlara-2026-bahar-yari
+ yili-ic/9083\n\nOtomatik Senkronize Boğaziçi Üniversitesi Akademik Takv
+ imi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Eğitim-Öğretim
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/lisansustu-pr
+ ogramlara-2026-bahar-yariyili-ic/9083
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-9085@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20260120
+DTEND;VALUE=DATE:20260121
+SUMMARY:I işareti verilen derslere not verme işlemi için sistemin açıl
+ ması (10:00)
+DESCRIPTION:Kategori: Eğitim-Öğretim\n\nDetaylar: https://akademiktakvim
+ .bogazici.edu.tr/tr/events/akademik/i-isareti-verilen-derslere-not-verme-i
+ slemi-i/9085\n\nOtomatik Senkronize Boğaziçi Üniversitesi Akademik Takv
+ imi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Eğitim-Öğretim
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/i-isareti-ver
+ ilen-derslere-not-verme-islemi-i/9085
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-9086@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20260121
+DTEND;VALUE=DATE:20260122
+SUMMARY:I işareti verilen derslere not verme işlemi için sistemin kapanm
+ ası (23:59)
+DESCRIPTION:Kategori: Eğitim-Öğretim\n\nDetaylar: https://akademiktakvim
+ .bogazici.edu.tr/tr/events/akademik/i-isareti-verilen-derslere-not-verme-i
+ slemi-i/9086\n\nOtomatik Senkronize Boğaziçi Üniversitesi Akademik Takv
+ imi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Eğitim-Öğretim
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/i-isareti-ver
+ ilen-derslere-not-verme-islemi-i/9086
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-9101@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20260202
+DTEND;VALUE=DATE:20260203
+SUMMARY:Misafir öğrencilerin ve değişim öğrencilerinin Üniversiteyi 
+ Tanıma Programı/Çevrimiçi Üniversiteyi Tanıma Programı
+DESCRIPTION:Kategori: Eğitim-Öğretim\n\nDetaylar: https://akademiktakvim
+ .bogazici.edu.tr/tr/events/akademik/misafir-ogrencilerin-ve-degisim-ogrenc
+ ilerini/9101\n\nOtomatik Senkronize Boğaziçi Üniversitesi Akademik Takv
+ imi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Eğitim-Öğretim
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/misafir-ogren
+ cilerin-ve-degisim-ogrencilerini/9101
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-9104@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20260203
+DTEND;VALUE=DATE:20260204
+SUMMARY:Lisans programlarına yeni başlayan öğrenciler için Kimya\, Mol
+ eküler Biyoloji ve Genetik\, Fizik\, Bilgisayar Mühendisliği muafiyet s
+ ınavları
+DESCRIPTION:Kategori: Eğitim-Öğretim\n\nDetaylar: https://akademiktakvim
+ .bogazici.edu.tr/tr/events/akademik/lisans-programlarina-yeni-baslayan-ogr
+ enciler/9104\n\nOtomatik Senkronize Boğaziçi Üniversitesi Akademik Takv
+ imi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Eğitim-Öğretim
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/lisans-progra
+ mlarina-yeni-baslayan-ogrenciler/9104
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-9110@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20260209
+DTEND;VALUE=DATE:20260210
+SUMMARY:Derslerin başlaması (YADYOK dersleri dahil)
+DESCRIPTION:Kategori: Eğitim-Öğretim\n\nDetaylar: https://akademiktakvim
+ .bogazici.edu.tr/tr/events/akademik/derslerin-baslamasi-yadyok-dersleri-da
+ hil/9110\n\nOtomatik Senkronize Boğaziçi Üniversitesi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Eğitim-Öğretim
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/derslerin-bas
+ lamasi-yadyok-dersleri-dahil/9110
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-9133@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20260420
+DTEND;VALUE=DATE:20260425
+SUMMARY:Bahar Tatili
+DESCRIPTION:Kategori: Eğitim-Öğretim\n\nDetaylar: https://akademiktakvim
+ .bogazici.edu.tr/tr/events/akademik/bahar-tatili/9133\n\nOtomatik Senkroni
+ ze Boğaziçi Üniversitesi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Eğitim-Öğretim
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/bahar-tatili/
+ 9133
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-9135@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20260424
+DTEND;VALUE=DATE:20260516
+SUMMARY:Ders değerlendirme dönemi (YADYOK Hazırlık Okulu dahil)
+DESCRIPTION:Kategori: Eğitim-Öğretim\n\nDetaylar: https://akademiktakvim
+ .bogazici.edu.tr/tr/events/akademik/ders-degerlendirme-donemi-yadyok-hazir
+ lik-oku/9135\n\nOtomatik Senkronize Boğaziçi Üniversitesi Akademik Takv
+ imi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Eğitim-Öğretim
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-degerlen
+ dirme-donemi-yadyok-hazirlik-oku/9135
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-9140@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20260508
+DTEND;VALUE=DATE:20260509
+SUMMARY:Yarıyıl izni başvurusu için son gün
+DESCRIPTION:Kategori: Eğitim-Öğretim\n\nDetaylar: https://akademiktakvim
+ .bogazici.edu.tr/tr/events/akademik/yariyil-izni-basvurusu-icin-son-gun/91
+ 40\n\nOtomatik Senkronize Boğaziçi Üniversitesi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Eğitim-Öğretim
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yariyil-izni-
+ basvurusu-icin-son-gun/9140
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-9146@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20260515
+DTEND;VALUE=DATE:20260516
+SUMMARY:Derslerin son günü
+DESCRIPTION:Kategori: Eğitim-Öğretim\n\nDetaylar: https://akademiktakvim
+ .bogazici.edu.tr/tr/events/akademik/derslerin-son-gunu/9146\n\nOtomatik Se
+ nkronize Boğaziçi Üniversitesi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Eğitim-Öğretim
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/derslerin-son
+ -gunu/9146
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-9148@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20260516
+DTEND;VALUE=DATE:20260517
+SUMMARY:Kültür ve Dil dersleri (HUM dahil) sınavları
+DESCRIPTION:Kategori: Eğitim-Öğretim\n\nDetaylar: https://akademiktakvim
+ .bogazici.edu.tr/tr/events/akademik/kultur-ve-dil-dersleri-hum-dahil-sinav
+ lari/9148\n\nOtomatik Senkronize Boğaziçi Üniversitesi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Eğitim-Öğretim
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/kultur-ve-dil
+ -dersleri-hum-dahil-sinavlari/9148
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-9149@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20260516
+DTEND;VALUE=DATE:20260517
+SUMMARY:Not verme için sistemin açılışı (10:00)
+DESCRIPTION:Kategori: Eğitim-Öğretim\n\nDetaylar: https://akademiktakvim
+ .bogazici.edu.tr/tr/events/akademik/not-verme-icin-sistemin-acilisi-1000/9
+ 149\n\nOtomatik Senkronize Boğaziçi Üniversitesi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Eğitim-Öğretim
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/not-verme-ici
+ n-sistemin-acilisi-1000/9149
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-9151@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20260520
+DTEND;VALUE=DATE:20260524
+SUMMARY:Yarıyıl sonu sınavları
+DESCRIPTION:Kategori: Eğitim-Öğretim\n\nDetaylar: https://akademiktakvim
+ .bogazici.edu.tr/tr/events/akademik/yariyil-sonu-sinavlari/9151\n\nOtomati
+ k Senkronize Boğaziçi Üniversitesi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Eğitim-Öğretim
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yariyil-sonu-
+ sinavlari/9151
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-9156@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20260601
+DTEND;VALUE=DATE:20260607
+SUMMARY:Yarıyıl sonu sınavları
+DESCRIPTION:Kategori: Eğitim-Öğretim\n\nDetaylar: https://akademiktakvim
+ .bogazici.edu.tr/tr/events/akademik/yariyil-sonu-sinavlari/9156\n\nOtomati
+ k Senkronize Boğaziçi Üniversitesi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Eğitim-Öğretim
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yariyil-sonu-
+ sinavlari/9156
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-9158@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20260608
+DTEND;VALUE=DATE:20260611
+SUMMARY:Yarıyıl sonu sınavları
+DESCRIPTION:Kategori: Eğitim-Öğretim\n\nDetaylar: https://akademiktakvim
+ .bogazici.edu.tr/tr/events/akademik/yariyil-sonu-sinavlari/9158\n\nOtomati
+ k Senkronize Boğaziçi Üniversitesi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Eğitim-Öğretim
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yariyil-sonu-
+ sinavlari/9158
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-9163@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20260611
+DTEND;VALUE=DATE:20260614
+SUMMARY:E ve Mazeret Sınavları
+DESCRIPTION:Kategori: Eğitim-Öğretim\n\nDetaylar: https://akademiktakvim
+ .bogazici.edu.tr/tr/events/akademik/e-ve-mazeret-sinavlari/9163\n\nOtomati
+ k Senkronize Boğaziçi Üniversitesi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Eğitim-Öğretim
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/e-ve-mazeret-
+ sinavlari/9163
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-9164@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20260616
+DTEND;VALUE=DATE:20260617
+SUMMARY:Not verme için sisteminin kapanışı (23:59)
+DESCRIPTION:Kategori: Eğitim-Öğretim\n\nDetaylar: https://akademiktakvim
+ .bogazici.edu.tr/tr/events/akademik/not-verme-icin-sisteminin-kapanisi-235
+ 9/9164\n\nOtomatik Senkronize Boğaziçi Üniversitesi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Eğitim-Öğretim
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/not-verme-ici
+ n-sisteminin-kapanisi-2359/9164
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-9165@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20260617
+DTEND;VALUE=DATE:20260618
+SUMMARY:I işareti verilen derslere not verme işlemi için sistemin açıl
+ ışı (10:00)
+DESCRIPTION:Kategori: Eğitim-Öğretim\n\nDetaylar: https://akademiktakvim
+ .bogazici.edu.tr/tr/events/akademik/i-isareti-verilen-derslere-not-verme-i
+ slemi-i/9165\n\nOtomatik Senkronize Boğaziçi Üniversitesi Akademik Takv
+ imi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Eğitim-Öğretim
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/i-isareti-ver
+ ilen-derslere-not-verme-islemi-i/9165
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-9166@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20260618
+DTEND;VALUE=DATE:20260619
+SUMMARY:I işareti verilen derslere not verme işlemi için sistemin kapan
+ ışı (23.59)
+DESCRIPTION:Kategori: Eğitim-Öğretim\n\nDetaylar: https://akademiktakvim
+ .bogazici.edu.tr/tr/events/akademik/i-isareti-verilen-derslere-not-verme-i
+ slemi-i/9166\n\nOtomatik Senkronize Boğaziçi Üniversitesi Akademik Takv
+ imi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Eğitim-Öğretim
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/i-isareti-ver
+ ilen-derslere-not-verme-islemi-i/9166
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-9175@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20260622
+DTEND;VALUE=DATE:20260627
+SUMMARY:Lisansüstü programlara başvuru yapan adaylar için bilim sınavl
+ arı
+DESCRIPTION:Kategori: Eğitim-Öğretim\n\nDetaylar: https://akademiktakvim
+ .bogazici.edu.tr/tr/events/akademik/lisansustu-programlara-basvuru-yapan-a
+ daylar-/9175\n\nOtomatik Senkronize Boğaziçi Üniversitesi Akademik Takv
+ imi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Eğitim-Öğretim
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/lisansustu-pr
+ ogramlara-basvuru-yapan-adaylar-/9175
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-9179@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20260624
+DTEND;VALUE=DATE:20260625
+SUMMARY:Yaz Öğretimi ve II. Öğretim Yüksek Lisans Programlarının Yaz
+  Dönemi derslerinin başlaması
+DESCRIPTION:Kategori: Eğitim-Öğretim\n\nDetaylar: https://akademiktakvim
+ .bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-ve-ii-ogretim-yuksek-lisa
+ ns-prog/9179\n\nOtomatik Senkronize Boğaziçi Üniversitesi Akademik Takv
+ imi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Eğitim-Öğretim
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-
+ ve-ii-ogretim-yuksek-lisans-prog/9179
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-9184@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20260629
+DTEND;VALUE=DATE:20260704
+SUMMARY:Mezuniyet Töreni
+DESCRIPTION:Kategori: Eğitim-Öğretim\n\nDetaylar: https://akademiktakvim
+ .bogazici.edu.tr/tr/events/akademik/mezuniyet-toreni/9184\n\nOtomatik Senk
+ ronize Boğaziçi Üniversitesi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Eğitim-Öğretim
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/mezuniyet-tor
+ eni/9184
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-9200@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20260722
+DTEND;VALUE=DATE:20260725
+SUMMARY:2026 Güz yarıyılı için kurum dışı yatay geçiş başvurusun
+ da bulunan adayların bilim sınavları
+DESCRIPTION:Kategori: Eğitim-Öğretim\n\nDetaylar: https://akademiktakvim
+ .bogazici.edu.tr/tr/events/akademik/2026-guz-yariyili-icin-kurum-disi-yata
+ y-gecis/9200\n\nOtomatik Senkronize Boğaziçi Üniversitesi Akademik Takv
+ imi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Eğitim-Öğretim
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/2026-guz-yari
+ yili-icin-kurum-disi-yatay-gecis/9200
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-9208@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20260801
+DTEND;VALUE=DATE:20260813
+SUMMARY:Ders değerlendirme dönemi (YADYOK Hazırlık Okulu dahil)
+DESCRIPTION:Kategori: Eğitim-Öğretim\n\nDetaylar: https://akademiktakvim
+ .bogazici.edu.tr/tr/events/akademik/ders-degerlendirme-donemi-yadyok-hazir
+ lik-oku/9208\n\nOtomatik Senkronize Boğaziçi Üniversitesi Akademik Takv
+ imi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Eğitim-Öğretim
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-degerlen
+ dirme-donemi-yadyok-hazirlik-oku/9208
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-9220@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20260812
+DTEND;VALUE=DATE:20260813
+SUMMARY:Yaz Öğretimi ve II. Öğretim Yüksek Lisans Programlarının Yaz
+  Dönemi derslerinin son günü
+DESCRIPTION:Kategori: Eğitim-Öğretim\n\nDetaylar: https://akademiktakvim
+ .bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-ve-ii-ogretim-yuksek-lisa
+ ns-prog/9220\n\nOtomatik Senkronize Boğaziçi Üniversitesi Akademik Takv
+ imi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Eğitim-Öğretim
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-
+ ve-ii-ogretim-yuksek-lisans-prog/9220
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-9221@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20260812
+DTEND;VALUE=DATE:20260813
+SUMMARY:Ders değerlendirme dönemi son günü (23:59)
+DESCRIPTION:Kategori: Eğitim-Öğretim\n\nDetaylar: https://akademiktakvim
+ .bogazici.edu.tr/tr/events/akademik/ders-degerlendirme-donemi-son-gunu-235
+ 9/9221\n\nOtomatik Senkronize Boğaziçi Üniversitesi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Eğitim-Öğretim
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-degerlen
+ dirme-donemi-son-gunu-2359/9221
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-9222@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20260813
+DTEND;VALUE=DATE:20260814
+SUMMARY:Ders notu girişi için sistemin açılışı (10:00)
+DESCRIPTION:Kategori: Eğitim-Öğretim\n\nDetaylar: https://akademiktakvim
+ .bogazici.edu.tr/tr/events/akademik/ders-notu-girisi-icin-sistemin-acilisi
+ -1000/9222\n\nOtomatik Senkronize Boğaziçi Üniversitesi Akademik Takvim
+ i
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Eğitim-Öğretim
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-notu-gir
+ isi-icin-sistemin-acilisi-1000/9222
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-9223@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20260813
+DTEND;VALUE=DATE:20260816
+SUMMARY:Yaz Öğretimi ve II. Öğretim Yüksek Lisans Programlarının Yaz
+  Dönemi dönem sonu sınavları
+DESCRIPTION:Kategori: Eğitim-Öğretim\n\nDetaylar: https://akademiktakvim
+ .bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-ve-ii-ogretim-yuksek-lisa
+ ns-prog/9223\n\nOtomatik Senkronize Boğaziçi Üniversitesi Akademik Takv
+ imi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Eğitim-Öğretim
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-
+ ve-ii-ogretim-yuksek-lisans-prog/9223
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-9228@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20260820
+DTEND;VALUE=DATE:20260821
+SUMMARY:Ders notu girişi için sistemin kapanışı (23:59)
+DESCRIPTION:Kategori: Eğitim-Öğretim\n\nDetaylar: https://akademiktakvim
+ .bogazici.edu.tr/tr/events/akademik/ders-notu-girisi-icin-sistemin-kapanis
+ i-2359/9228\n\nOtomatik Senkronize Boğaziçi Üniversitesi Akademik Takvi
+ mi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Eğitim-Öğretim
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-notu-gir
+ isi-icin-sistemin-kapanisi-2359/9228
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13003@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20260914
+DTEND;VALUE=DATE:20260915
+SUMMARY:Misafir öğrencilerin ve değişim öğrencilerinin Üniversiteyi 
+ Tanıma Programı/Çevrimiçi Üniversiteyi Tanıma Programı
+DESCRIPTION:Kategori: Eğitim-Öğretim\n\nDetaylar: https://akademiktakvim
+ .bogazici.edu.tr/tr/events/akademik/misafir-ogrencilerin-ve-degisim-ogrenc
+ ilerini/13003\n\nOtomatik Senkronize Boğaziçi Üniversitesi Akademik Tak
+ vimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Eğitim-Öğretim
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/misafir-ogren
+ cilerin-ve-degisim-ogrencilerini/13003
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13021@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260919
+SUMMARY:Lisans programlarına yeni başlayan öğrenciler için Kimya\, Mol
+ eküler Biyoloji ve Genetik\, Fizik\, Bilgisayar Mühendisliği muafiyet s
+ ınavları
+DESCRIPTION:Kategori: Eğitim-Öğretim\n\nDetaylar: https://akademiktakvim
+ .bogazici.edu.tr/tr/events/akademik/lisans-programlarina-yeni-baslayan-ogr
+ enciler/13021\n\nOtomatik Senkronize Boğaziçi Üniversitesi Akademik Tak
+ vimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Eğitim-Öğretim
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/lisans-progra
+ mlarina-yeni-baslayan-ogrenciler/13021
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13023@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+SUMMARY:Derslerin başlaması (YADYOK hariç)
+DESCRIPTION:Kategori: Eğitim-Öğretim\n\nDetaylar: https://akademiktakvim
+ .bogazici.edu.tr/tr/events/akademik/derslerin-baslamasi-yadyok-haric/13023
+ \n\nOtomatik Senkronize Boğaziçi Üniversitesi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Eğitim-Öğretim
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/derslerin-bas
+ lamasi-yadyok-haric/13023
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13027@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260924
+SUMMARY:Üniversiteyi Tanıma Günleri
+DESCRIPTION:Kategori: Eğitim-Öğretim\n\nDetaylar: https://akademiktakvim
+ .bogazici.edu.tr/tr/events/akademik/universiteyi-tanima-gunleri/13027\n\nO
+ tomatik Senkronize Boğaziçi Üniversitesi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Eğitim-Öğretim
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/universiteyi-
+ tanima-gunleri/13027
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13095@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261212
+SUMMARY:Ders değerlendirme dönemi (YADYOK Hazırlık Okulu dersleri hari
+ ç)
+DESCRIPTION:Kategori: Eğitim-Öğretim\n\nDetaylar: https://akademiktakvim
+ .bogazici.edu.tr/tr/events/akademik/ders-degerlendirme-donemi-yadyok-hazir
+ lik-oku/13095\n\nOtomatik Senkronize Boğaziçi Üniversitesi Akademik Tak
+ vimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Eğitim-Öğretim
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-degerlen
+ dirme-donemi-yadyok-hazirlik-oku/13095
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13097@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:Yarıyıl izni başvurusu için son gün
+DESCRIPTION:Kategori: Eğitim-Öğretim\n\nDetaylar: https://akademiktakvim
+ .bogazici.edu.tr/tr/events/akademik/yariyil-izni-basvurusu-icin-son-gun/13
+ 097\n\nOtomatik Senkronize Boğaziçi Üniversitesi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Eğitim-Öğretim
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yariyil-izni-
+ basvurusu-icin-son-gun/13097
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13101@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+SUMMARY:Derslerin son günü
+DESCRIPTION:Kategori: Eğitim-Öğretim\n\nDetaylar: https://akademiktakvim
+ .bogazici.edu.tr/tr/events/akademik/derslerin-son-gunu/13101\n\nOtomatik S
+ enkronize Boğaziçi Üniversitesi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Eğitim-Öğretim
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/derslerin-son
+ -gunu/13101
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13103@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+SUMMARY:Ders değerlendirme dönemi son günü (23:59) (YADYOK Hazırlık O
+ kulu dersleri hariç)
+DESCRIPTION:Kategori: Eğitim-Öğretim\n\nDetaylar: https://akademiktakvim
+ .bogazici.edu.tr/tr/events/akademik/ders-degerlendirme-donemi-son-gunu-235
+ 9-yadyo/13103\n\nOtomatik Senkronize Boğaziçi Üniversitesi Akademik Tak
+ vimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Eğitim-Öğretim
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-degerlen
+ dirme-donemi-son-gunu-2359-yadyo/13103
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13107@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261214
+SUMMARY:Kültür ve dil dersleri (HUM dersleri dahil) yarıyıl sonu sınav
+ ları (13 Aralık 2026 Pazar günü 3. ve 4. slotlar Kültür ve Dil dersl
+ eri için kullanılacak.)
+DESCRIPTION:Kategori: Eğitim-Öğretim\n\nDetaylar: https://akademiktakvim
+ .bogazici.edu.tr/tr/events/akademik/kultur-ve-dil-dersleri-hum-dersleri-da
+ hil-yar/13107\n\nOtomatik Senkronize Boğaziçi Üniversitesi Akademik Tak
+ vimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Eğitim-Öğretim
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/kultur-ve-dil
+ -dersleri-hum-dersleri-dahil-yar/13107
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13109@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:Ders notu girişi için sistemin açılışı (10:00)
+DESCRIPTION:Kategori: Eğitim-Öğretim\n\nDetaylar: https://akademiktakvim
+ .bogazici.edu.tr/tr/events/akademik/ders-notu-girisi-icin-sistemin-acilisi
+ -1000/13109\n\nOtomatik Senkronize Boğaziçi Üniversitesi Akademik Takvi
+ mi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Eğitim-Öğretim
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-notu-gir
+ isi-icin-sistemin-acilisi-1000/13109
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13111@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261223
+SUMMARY:Yarıyıl sonu sınavları (13 Aralık 2026 Pazar günü 3. ve 4. s
+ lotlar Kültür ve Dil dersleri için kullanılacak.)
+DESCRIPTION:Kategori: Eğitim-Öğretim\n\nDetaylar: https://akademiktakvim
+ .bogazici.edu.tr/tr/events/akademik/yariyil-sonu-sinavlari-13-aralik-2026-
+ pazar-g/13111\n\nOtomatik Senkronize Boğaziçi Üniversitesi Akademik Tak
+ vimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Eğitim-Öğretim
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yariyil-sonu-
+ sinavlari-13-aralik-2026-pazar-g/13111
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13133@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20261223
+DTEND;VALUE=DATE:20261226
+SUMMARY:E ve Mazeret Sınavları
+DESCRIPTION:Kategori: Eğitim-Öğretim\n\nDetaylar: https://akademiktakvim
+ .bogazici.edu.tr/tr/events/akademik/e-ve-mazeret-sinavlari/13133\n\nOtomat
+ ik Senkronize Boğaziçi Üniversitesi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Eğitim-Öğretim
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/e-ve-mazeret-
+ sinavlari/13133
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13147@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20261225
+DTEND;VALUE=DATE:20261226
+SUMMARY:Lisansüstü Programlara 2027 Bahar yarıyılı için başvuru yapa
+ n adaylar için bilim sınavları
+DESCRIPTION:Kategori: Eğitim-Öğretim\n\nDetaylar: https://akademiktakvim
+ .bogazici.edu.tr/tr/events/akademik/lisansustu-programlara-2027-bahar-yari
+ yili-ic/13147\n\nOtomatik Senkronize Boğaziçi Üniversitesi Akademik Tak
+ vimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Eğitim-Öğretim
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/lisansustu-pr
+ ogramlara-2027-bahar-yariyili-ic/13147
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13145@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20261227
+DTEND;VALUE=DATE:20261228
+SUMMARY:Ders notu girişi için sistemin kapanışı (23:59)
+DESCRIPTION:Kategori: Eğitim-Öğretim\n\nDetaylar: https://akademiktakvim
+ .bogazici.edu.tr/tr/events/akademik/ders-notu-girisi-icin-sistemin-kapanis
+ i-2359/13145\n\nOtomatik Senkronize Boğaziçi Üniversitesi Akademik Takv
+ imi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Eğitim-Öğretim
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-notu-gir
+ isi-icin-sistemin-kapanisi-2359/13145
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13151@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20261228
+DTEND;VALUE=DATE:20261229
+SUMMARY:I işareti verilen derslere not verme işlemi için sistemin açıl
+ ması (10:00)
+DESCRIPTION:Kategori: Eğitim-Öğretim\n\nDetaylar: https://akademiktakvim
+ .bogazici.edu.tr/tr/events/akademik/i-isareti-verilen-derslere-not-verme-i
+ slemi-i/13151\n\nOtomatik Senkronize Boğaziçi Üniversitesi Akademik Tak
+ vimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Eğitim-Öğretim
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/i-isareti-ver
+ ilen-derslere-not-verme-islemi-i/13151
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13153@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20261228
+DTEND;VALUE=DATE:20261229
+SUMMARY:I işareti verilen derslere not verme işlemi için sistemin kapan
+ ışı (23.59)
+DESCRIPTION:Kategori: Eğitim-Öğretim\n\nDetaylar: https://akademiktakvim
+ .bogazici.edu.tr/tr/events/akademik/i-isareti-verilen-derslere-not-verme-i
+ slemi-i/13153\n\nOtomatik Senkronize Boğaziçi Üniversitesi Akademik Tak
+ vimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Eğitim-Öğretim
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/i-isareti-ver
+ ilen-derslere-not-verme-islemi-i/13153
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-14207@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20261228
+DTEND;VALUE=DATE:20261230
+SUMMARY:Lisansüstü Programlara 2027 Bahar yarıyılı için başvuru yapa
+ n adaylar için bilim sınavları
+DESCRIPTION:Kategori: Eğitim-Öğretim\n\nDetaylar: https://akademiktakvim
+ .bogazici.edu.tr/tr/events/akademik/lisansustu-programlara-2027-bahar-yari
+ yili-ic/14207\n\nOtomatik Senkronize Boğaziçi Üniversitesi Akademik Tak
+ vimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Eğitim-Öğretim
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/lisansustu-pr
+ ogramlara-2027-bahar-yariyili-ic/14207
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13187@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20270112
+DTEND;VALUE=DATE:20270113
+SUMMARY:Misafir öğrencilerin ve değişim öğrencilerinin Üniversiteyi 
+ Tanıma Programı/Çevrimiçi Üniversiteyi Tanıma Programı
+DESCRIPTION:Kategori: Eğitim-Öğretim\n\nDetaylar: https://akademiktakvim
+ .bogazici.edu.tr/tr/events/akademik/misafir-ogrencilerin-ve-degisim-ogrenc
+ ilerini/13187\n\nOtomatik Senkronize Boğaziçi Üniversitesi Akademik Tak
+ vimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Eğitim-Öğretim
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/misafir-ogren
+ cilerin-ve-degisim-ogrencilerini/13187
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13193@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20270113
+DTEND;VALUE=DATE:20270114
+SUMMARY:Lisans programlarına yeni başlayan öğrenciler için Kimya\, Mol
+ eküler Biyoloji ve Genetik\, Fizik\, Bilgisayar Mühendisliği muafiyet s
+ ınavları
+DESCRIPTION:Kategori: Eğitim-Öğretim\n\nDetaylar: https://akademiktakvim
+ .bogazici.edu.tr/tr/events/akademik/lisans-programlarina-yeni-baslayan-ogr
+ enciler/13193\n\nOtomatik Senkronize Boğaziçi Üniversitesi Akademik Tak
+ vimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Eğitim-Öğretim
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/lisans-progra
+ mlarina-yeni-baslayan-ogrenciler/13193
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13205@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20270118
+DTEND;VALUE=DATE:20270119
+SUMMARY:Derslerin başlaması (YADYOK dersleri dahil)
+DESCRIPTION:Kategori: Eğitim-Öğretim\n\nDetaylar: https://akademiktakvim
+ .bogazici.edu.tr/tr/events/akademik/derslerin-baslamasi-yadyok-dersleri-da
+ hil/13205\n\nOtomatik Senkronize Boğaziçi Üniversitesi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Eğitim-Öğretim
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/derslerin-bas
+ lamasi-yadyok-dersleri-dahil/13205
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13219@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20270308
+DTEND;VALUE=DATE:20270313
+SUMMARY:Bahar Tatili / Ramazan Bayramı (Tatil)
+DESCRIPTION:Kategori: Eğitim-Öğretim\n\nDetaylar: https://akademiktakvim
+ .bogazici.edu.tr/tr/events/akademik/bahar-tatili-ramazan-bayrami-tatil/132
+ 19\n\nOtomatik Senkronize Boğaziçi Üniversitesi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Eğitim-Öğretim
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/bahar-tatili-
+ ramazan-bayrami-tatil/13219
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13254@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20270412
+DTEND;VALUE=DATE:20270424
+SUMMARY:Ders değerlendirme dönemi (YADYOK Hazırlık Okulu dersleri hari
+ ç)
+DESCRIPTION:Kategori: Eğitim-Öğretim\n\nDetaylar: https://akademiktakvim
+ .bogazici.edu.tr/tr/events/akademik/ders-degerlendirme-donemi-yadyok-hazir
+ lik-oku/13254\n\nOtomatik Senkronize Boğaziçi Üniversitesi Akademik Tak
+ vimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Eğitim-Öğretim
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-degerlen
+ dirme-donemi-yadyok-hazirlik-oku/13254
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13275@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20270415
+DTEND;VALUE=DATE:20270416
+SUMMARY:Yarıyıl izni başvurusu için son gün
+DESCRIPTION:Kategori: Eğitim-Öğretim\n\nDetaylar: https://akademiktakvim
+ .bogazici.edu.tr/tr/events/akademik/yariyil-izni-basvurusu-icin-son-gun/13
+ 275\n\nOtomatik Senkronize Boğaziçi Üniversitesi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Eğitim-Öğretim
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yariyil-izni-
+ basvurusu-icin-son-gun/13275
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13277@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20270422
+DTEND;VALUE=DATE:20270423
+SUMMARY:Derslerin son günü
+DESCRIPTION:Kategori: Eğitim-Öğretim\n\nDetaylar: https://akademiktakvim
+ .bogazici.edu.tr/tr/events/akademik/derslerin-son-gunu/13277\n\nOtomatik S
+ enkronize Boğaziçi Üniversitesi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Eğitim-Öğretim
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/derslerin-son
+ -gunu/13277
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13279@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20270423
+DTEND;VALUE=DATE:20270424
+SUMMARY:Ders değerlendirme dönemi son günü (23:59) (YADYOK Hazırlık O
+ kulu dersleri hariç)
+DESCRIPTION:Kategori: Eğitim-Öğretim\n\nDetaylar: https://akademiktakvim
+ .bogazici.edu.tr/tr/events/akademik/ders-degerlendirme-donemi-son-gunu-235
+ 9-yadyo/13279\n\nOtomatik Senkronize Boğaziçi Üniversitesi Akademik Tak
+ vimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Eğitim-Öğretim
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-degerlen
+ dirme-donemi-son-gunu-2359-yadyo/13279
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13287@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20270424
+DTEND;VALUE=DATE:20270426
+SUMMARY:Kültür ve Dil dersleri (HUM dahil) sınavları (25 Nisan 2027 Paz
+ ar günü 3. ve 4. slotlar Kültür ve Dil dersleri için kullanılacak.)
+DESCRIPTION:Kategori: Eğitim-Öğretim\n\nDetaylar: https://akademiktakvim
+ .bogazici.edu.tr/tr/events/akademik/kultur-ve-dil-dersleri-hum-dahil-sinav
+ lari-25/13287\n\nOtomatik Senkronize Boğaziçi Üniversitesi Akademik Tak
+ vimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Eğitim-Öğretim
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/kultur-ve-dil
+ -dersleri-hum-dahil-sinavlari-25/13287
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13289@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20270424
+DTEND;VALUE=DATE:20270425
+SUMMARY:Not verme için sistemin açılışı (10:00)
+DESCRIPTION:Kategori: Eğitim-Öğretim\n\nDetaylar: https://akademiktakvim
+ .bogazici.edu.tr/tr/events/akademik/not-verme-icin-sistemin-acilisi-1000/1
+ 3289\n\nOtomatik Senkronize Boğaziçi Üniversitesi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Eğitim-Öğretim
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/not-verme-ici
+ n-sistemin-acilisi-1000/13289
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13291@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20270425
+DTEND;VALUE=DATE:20270505
+SUMMARY:Yarıyıl sonu sınavları (25 Nisan 2027 Pazar günü 3. ve 4. slo
+ tlar Kültür ve Dil dersleri için kullanılacak.)
+DESCRIPTION:Kategori: Eğitim-Öğretim\n\nDetaylar: https://akademiktakvim
+ .bogazici.edu.tr/tr/events/akademik/yariyil-sonu-sinavlari-25-nisan-2027-p
+ azar-gu/13291\n\nOtomatik Senkronize Boğaziçi Üniversitesi Akademik Tak
+ vimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Eğitim-Öğretim
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yariyil-sonu-
+ sinavlari-25-nisan-2027-pazar-gu/13291
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13307@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20270505
+DTEND;VALUE=DATE:20270508
+SUMMARY:E ve Mazeret Sınavları
+DESCRIPTION:Kategori: Eğitim-Öğretim\n\nDetaylar: https://akademiktakvim
+ .bogazici.edu.tr/tr/events/akademik/e-ve-mazeret-sinavlari/13307\n\nOtomat
+ ik Senkronize Boğaziçi Üniversitesi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Eğitim-Öğretim
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/e-ve-mazeret-
+ sinavlari/13307
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13324@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270509
+SUMMARY:Not verme için sisteminin kapanışı (23:59)
+DESCRIPTION:Kategori: Eğitim-Öğretim\n\nDetaylar: https://akademiktakvim
+ .bogazici.edu.tr/tr/events/akademik/not-verme-icin-sisteminin-kapanisi-235
+ 9/13324\n\nOtomatik Senkronize Boğaziçi Üniversitesi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Eğitim-Öğretim
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/not-verme-ici
+ n-sisteminin-kapanisi-2359/13324
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13326@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270510
+SUMMARY:I işareti verilen derslere not verme işlemi için sistemin açıl
+ ması (10:00)
+DESCRIPTION:Kategori: Eğitim-Öğretim\n\nDetaylar: https://akademiktakvim
+ .bogazici.edu.tr/tr/events/akademik/i-isareti-verilen-derslere-not-verme-i
+ slemi-i/13326\n\nOtomatik Senkronize Boğaziçi Üniversitesi Akademik Tak
+ vimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Eğitim-Öğretim
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/i-isareti-ver
+ ilen-derslere-not-verme-islemi-i/13326
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13606@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270510
+SUMMARY:I işareti verilen derslere not verme işlemi için sistemin kapan
+ ışı (23:59)
+DESCRIPTION:Kategori: Eğitim-Öğretim\n\nDetaylar: https://akademiktakvim
+ .bogazici.edu.tr/tr/events/akademik/i-isareti-verilen-derslere-not-verme-i
+ slemi-i/13606\n\nOtomatik Senkronize Boğaziçi Üniversitesi Akademik Tak
+ vimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Eğitim-Öğretim
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/i-isareti-ver
+ ilen-derslere-not-verme-islemi-i/13606
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13320@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20270524
+DTEND;VALUE=DATE:20270529
+SUMMARY:Mezuniyet Töreni
+DESCRIPTION:Kategori: Eğitim-Öğretim\n\nDetaylar: https://akademiktakvim
+ .bogazici.edu.tr/tr/events/akademik/mezuniyet-toreni/13320\n\nOtomatik Sen
+ kronize Boğaziçi Üniversitesi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Eğitim-Öğretim
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/mezuniyet-tor
+ eni/13320
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13346@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20270628
+DTEND;VALUE=DATE:20270703
+SUMMARY:Lisansüstü programlara başvuru yapan adaylar için bilim sınavl
+ arı
+DESCRIPTION:Kategori: Eğitim-Öğretim\n\nDetaylar: https://akademiktakvim
+ .bogazici.edu.tr/tr/events/akademik/lisansustu-programlara-basvuru-yapan-a
+ daylar-/13346\n\nOtomatik Senkronize Boğaziçi Üniversitesi Akademik Tak
+ vimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Eğitim-Öğretim
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/lisansustu-pr
+ ogramlara-basvuru-yapan-adaylar-/13346
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13352@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20270630
+DTEND;VALUE=DATE:20270701
+SUMMARY:Yaz Öğretimi ve II. Öğretim Yüksek Lisans Programlarının Yaz
+  Dönemi derslerinin başlaması
+DESCRIPTION:Kategori: Eğitim-Öğretim\n\nDetaylar: https://akademiktakvim
+ .bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-ve-ii-ogretim-yuksek-lisa
+ ns-prog/13352\n\nOtomatik Senkronize Boğaziçi Üniversitesi Akademik Tak
+ vimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Eğitim-Öğretim
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-
+ ve-ii-ogretim-yuksek-lisans-prog/13352
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13398@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20270722
+DTEND;VALUE=DATE:20270724
+SUMMARY:2027 Güz yarıyılı için kurum dışı yatay geçiş başvurusun
+ da bulunan adayların bilim sınavları
+DESCRIPTION:Kategori: Eğitim-Öğretim\n\nDetaylar: https://akademiktakvim
+ .bogazici.edu.tr/tr/events/akademik/2027-guz-yariyili-icin-kurum-disi-yata
+ y-gecis/13398\n\nOtomatik Senkronize Boğaziçi Üniversitesi Akademik Tak
+ vimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Eğitim-Öğretim
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/2027-guz-yari
+ yili-icin-kurum-disi-yatay-gecis/13398
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13400@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20270726
+DTEND;VALUE=DATE:20270727
+SUMMARY:2027 Güz yarıyılı için kurum dışı yatay geçiş başvurusun
+ da bulunan adayların bilim sınavları
+DESCRIPTION:Kategori: Eğitim-Öğretim\n\nDetaylar: https://akademiktakvim
+ .bogazici.edu.tr/tr/events/akademik/2027-guz-yariyili-icin-kurum-disi-yata
+ y-gecis/13400\n\nOtomatik Senkronize Boğaziçi Üniversitesi Akademik Tak
+ vimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Eğitim-Öğretim
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/2027-guz-yari
+ yili-icin-kurum-disi-yatay-gecis/13400
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13412@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20270802
+DTEND;VALUE=DATE:20270811
+SUMMARY:Ders değerlendirme dönemi (YADYOK Hazırlık Okulu dersleri hari
+ ç)
+DESCRIPTION:Kategori: Eğitim-Öğretim\n\nDetaylar: https://akademiktakvim
+ .bogazici.edu.tr/tr/events/akademik/ders-degerlendirme-donemi-yadyok-hazir
+ lik-oku/13412\n\nOtomatik Senkronize Boğaziçi Üniversitesi Akademik Tak
+ vimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Eğitim-Öğretim
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-degerlen
+ dirme-donemi-yadyok-hazirlik-oku/13412
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13420@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20270810
+DTEND;VALUE=DATE:20270811
+SUMMARY:Yaz Öğretimi ve II. Öğretim Yüksek Lisans Programlarının Yaz
+  Dönemi derslerinin son günü
+DESCRIPTION:Kategori: Eğitim-Öğretim\n\nDetaylar: https://akademiktakvim
+ .bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-ve-ii-ogretim-yuksek-lisa
+ ns-prog/13420\n\nOtomatik Senkronize Boğaziçi Üniversitesi Akademik Tak
+ vimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Eğitim-Öğretim
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-
+ ve-ii-ogretim-yuksek-lisans-prog/13420
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13422@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20270810
+DTEND;VALUE=DATE:20270811
+SUMMARY:Ders değerlendirme dönemi son günü (23:59)
+DESCRIPTION:Kategori: Eğitim-Öğretim\n\nDetaylar: https://akademiktakvim
+ .bogazici.edu.tr/tr/events/akademik/ders-degerlendirme-donemi-son-gunu-235
+ 9/13422\n\nOtomatik Senkronize Boğaziçi Üniversitesi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Eğitim-Öğretim
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-degerlen
+ dirme-donemi-son-gunu-2359/13422
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13431@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20270811
+DTEND;VALUE=DATE:20270812
+SUMMARY:Ders notu girişi için sistemin açılışı (10:00)
+DESCRIPTION:Kategori: Eğitim-Öğretim\n\nDetaylar: https://akademiktakvim
+ .bogazici.edu.tr/tr/events/akademik/ders-notu-girisi-icin-sistemin-acilisi
+ -1000/13431\n\nOtomatik Senkronize Boğaziçi Üniversitesi Akademik Takvi
+ mi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Eğitim-Öğretim
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-notu-gir
+ isi-icin-sistemin-acilisi-1000/13431
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13433@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20270811
+DTEND;VALUE=DATE:20270814
+SUMMARY:Yaz Öğretimi ve II. Öğretim Yüksek Lisans Programlarının Yaz
+  Dönemi dönem sonu sınavları
+DESCRIPTION:Kategori: Eğitim-Öğretim\n\nDetaylar: https://akademiktakvim
+ .bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-ve-ii-ogretim-yuksek-lisa
+ ns-prog/13433\n\nOtomatik Senkronize Boğaziçi Üniversitesi Akademik Tak
+ vimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Eğitim-Öğretim
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-
+ ve-ii-ogretim-yuksek-lisans-prog/13433
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13449@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20270818
+DTEND;VALUE=DATE:20270819
+SUMMARY:Ders notu girişi için sistemin kapanışı (23:59)
+DESCRIPTION:Kategori: Eğitim-Öğretim\n\nDetaylar: https://akademiktakvim
+ .bogazici.edu.tr/tr/events/akademik/ders-notu-girisi-icin-sistemin-kapanis
+ i-2359/13449\n\nOtomatik Senkronize Boğaziçi Üniversitesi Akademik Takv
+ imi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Eğitim-Öğretim
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-notu-gir
+ isi-icin-sistemin-kapanisi-2359/13449
 END:VEVENT
 END:VCALENDAR

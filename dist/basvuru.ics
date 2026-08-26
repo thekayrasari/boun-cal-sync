@@ -4,488 +4,633 @@ PRODID:-//Bogazici University//Academic Calendar Sync//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Bogazici Akademik Takvim - Başvuru
-X-WR-CALDESC:Bogazici Universitesi Başvuru Takvimi
+X-WR-CALDESC:Boğaziçi Üniversitesi Başvuru Takvimi
 X-WR-TIMEZONE:Europe/Istanbul
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:boun-academic-13480@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20271014
-DTEND;VALUE=DATE:20271015
-SUMMARY:Uluslararası Misafir öğrencilerin ve Uluslararası Değişim öğrencilerinin Bahar yarıyılı için son başvuru günü
-DESCRIPTION:Category: Başvuru\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/uluslararasi-misafir-ogrencilerin-ve-uluslara/13480\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Başvuru
-URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/uluslararasi-misafir-ogrencilerin-ve-uluslara/13480
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-13469@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20270903
-DTEND;VALUE=DATE:20270904
-SUMMARY:Yurtiçi Misafir ve YÖK Özel öğrenci başvurusu için son gün
-DESCRIPTION:Category: Başvuru\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yurtici-misafir-ve-yok-ozel-ogrenci-basvurusu/13469\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Başvuru
-URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yurtici-misafir-ve-yok-ozel-ogrenci-basvurusu/13469
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-13390@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20270825
-DTEND;VALUE=DATE:20270826
-SUMMARY:ÇAP ve yan dal programlarına başvuruların son günü
-DESCRIPTION:Category: Başvuru\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/cap-ve-yan-dal-programlarina-basvurularin-son/13390\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Başvuru
-URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/cap-ve-yan-dal-programlarina-basvurularin-son/13390
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-13348@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20270818
-DTEND;VALUE=DATE:20270826
-SUMMARY:ÇAP ve yan dal programlarına başvuru dönemi
-DESCRIPTION:Category: Başvuru\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/cap-ve-yan-dal-programlarina-basvuru-donemi/13348\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Başvuru
-URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/cap-ve-yan-dal-programlarina-basvuru-donemi/13348
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-13414@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20270802
-DTEND;VALUE=DATE:20270817
-SUMMARY:Merkezi puanla yatay geçiş başvuruları (YÖK tarafından belirlenen takvim)
-DESCRIPTION:Category: Başvuru\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/merkezi-puanla-yatay-gecis-basvurulari-yok-ta/13414\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Başvuru
-URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/merkezi-puanla-yatay-gecis-basvurulari-yok-ta/13414
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-13380@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20270706
-DTEND;VALUE=DATE:20270717
-SUMMARY:Kurum içi ve dışı yatay geçiş için başvuru dönemi (YÖK tarafından belirlenen takvim)
-DESCRIPTION:Category: Başvuru\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/kurum-ici-ve-disi-yatay-gecis-icin-basvuru-do/13380\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Başvuru
-URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/kurum-ici-ve-disi-yatay-gecis-icin-basvuru-do/13380
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-13301@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20270604
-DTEND;VALUE=DATE:20270605
-SUMMARY:2027-2028 Akademik yılında lisans programlarına yurt dışından öğrenci kabulü başvurusu için son gün
-DESCRIPTION:Category: Başvuru\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/2027-2028-akademik-yilinda-lisans-programlari/13301\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Başvuru
-URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/2027-2028-akademik-yilinda-lisans-programlari/13301
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-13241@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20270414
-DTEND;VALUE=DATE:20270611
-SUMMARY:2027 Güz yarıyılı için I. öğretim lisansüstü programlarına başvuru dönemi
-DESCRIPTION:Category: Başvuru\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/2027-guz-yariyili-icin-i-ogretim-lisansustu-p/13241\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Başvuru
-URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/2027-guz-yariyili-icin-i-ogretim-lisansustu-p/13241
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-13227@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20270405
-DTEND;VALUE=DATE:20270605
-SUMMARY:2027-2028 Akademik yılında lisans programlarına yurt dışından öğrenci kabulü için başvuru dönemi
-DESCRIPTION:Category: Başvuru\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/2027-2028-akademik-yilinda-lisans-programlari/13227\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Başvuru
-URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/2027-2028-akademik-yilinda-lisans-programlari/13227
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-13225@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20270401
-DTEND;VALUE=DATE:20270611
-SUMMARY:2027 Güz yarıyılı için II. Öğretim Yüksek Lisans Programlarına başvuru dönemi
-DESCRIPTION:Category: Başvuru\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/2027-guz-yariyili-icin-ii-ogretim-yuksek-lisa/13225\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Başvuru
-URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/2027-guz-yariyili-icin-ii-ogretim-yuksek-lisa/13225
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-13175@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20270111
-DTEND;VALUE=DATE:20270112
-SUMMARY:Yurtiçi misafir öğrenci ve YÖK özel öğrenci başvurusu için son gün
-DESCRIPTION:Category: Başvuru\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yurtici-misafir-ogrenci-ve-yok-ozel-ogrenci-b/13175\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Başvuru
-URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yurtici-misafir-ogrenci-ve-yok-ozel-ogrenci-b/13175
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-13161@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20270103
-DTEND;VALUE=DATE:20270104
-SUMMARY:ÇAP ve yan dal programlarına başvuru için son gün
-DESCRIPTION:Category: Başvuru\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/cap-ve-yan-dal-programlarina-basvuru-icin-son/13161\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Başvuru
-URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/cap-ve-yan-dal-programlarina-basvuru-icin-son/13161
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-13129@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20261222
-DTEND;VALUE=DATE:20270104
-SUMMARY:ÇAP ve yan dal programlarına başvuru dönemi
-DESCRIPTION:Category: Başvuru\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/cap-ve-yan-dal-programlarina-basvuru-donemi/13129\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Başvuru
-URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/cap-ve-yan-dal-programlarina-basvuru-donemi/13129
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-13117@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20261214
-DTEND;VALUE=DATE:20261222
-SUMMARY:Bahar yarıyılı için lisansüstü programlara başvuru dönemi
-DESCRIPTION:Category: Başvuru\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/bahar-yariyili-icin-lisansustu-programlara-ba/13117\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Başvuru
-URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/bahar-yariyili-icin-lisansustu-programlara-ba/13117
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-9242@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20261014
-DTEND;VALUE=DATE:20261015
-SUMMARY:Uluslararası Misafir öğrencilerin ve Uluslararası Değişim öğrencilerinin Bahar yarıyılı için son başvuru günü
-DESCRIPTION:Category: Başvuru\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/uluslararasi-misafir-ogrencilerin-ve-uluslara/9242\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Başvuru
-URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/uluslararasi-misafir-ogrencilerin-ve-uluslara/9242
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-9239@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20260904
-DTEND;VALUE=DATE:20260905
-SUMMARY:Yurtiçi Misafir ve YÖK Özel öğrenci başvurusu için son gün
-DESCRIPTION:Category: Başvuru\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yurtici-misafir-ve-yok-ozel-ogrenci-basvurusu/9239\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Başvuru
-URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yurtici-misafir-ve-yok-ozel-ogrenci-basvurusu/9239
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-9209@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20260803
-DTEND;VALUE=DATE:20260818
-SUMMARY:Merkezi puanla yatay geçiş başvuruları (YÖK tarafından belirlenen takvim)
-DESCRIPTION:Category: Başvuru\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/merkezi-puanla-yatay-gecis-basvurulari-yok-ta/9209\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Başvuru
-URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/merkezi-puanla-yatay-gecis-basvurulari-yok-ta/9209
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-9197@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20260714
-DTEND;VALUE=DATE:20260715
-SUMMARY:ÇAP ve yan dal programlarına başvuruların son günü
-DESCRIPTION:Category: Başvuru\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/cap-ve-yan-dal-programlarina-basvurularin-son/9197\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Başvuru
-URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/cap-ve-yan-dal-programlarina-basvurularin-son/9197
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-9193@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20260709
-DTEND;VALUE=DATE:20260717
-SUMMARY:Kurum içi ve dışı yatay geçiş için başvuru dönemi (YÖK tarafından belirlenen takvim)
-DESCRIPTION:Category: Başvuru\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/kurum-ici-ve-disi-yatay-gecis-icin-basvuru-do/9193\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Başvuru
-URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/kurum-ici-ve-disi-yatay-gecis-icin-basvuru-do/9193
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-13945@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20260701
-DTEND;VALUE=DATE:20260717
-SUMMARY:2026-2027 Akademik yılında lisans programlarına yurt dışından öğrenci kabulü için ikinci başvuru dönemi
-DESCRIPTION:Category: Başvuru\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/2026-2027-akademik-yilinda-lisans-programlari/13945\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Başvuru
-URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/2026-2027-akademik-yilinda-lisans-programlari/13945
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-9176@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20260622
-DTEND;VALUE=DATE:20260715
-SUMMARY:ÇAP ve yan dal programlarına başvuru dönemi
-DESCRIPTION:Category: Başvuru\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/cap-ve-yan-dal-programlarina-basvuru-donemi/9176\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Başvuru
-URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/cap-ve-yan-dal-programlarina-basvuru-donemi/9176
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-9129@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20260415
-DTEND;VALUE=DATE:20260612
-SUMMARY:2026 Güz yarıyılı için I. öğretim lisansüstü programlarına başvuru dönemi
-DESCRIPTION:Category: Başvuru\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/2026-guz-yariyili-icin-i-ogretim-lisansustu-p/9129\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Başvuru
-URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/2026-guz-yariyili-icin-i-ogretim-lisansustu-p/9129
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-9194@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20260406
-DTEND;VALUE=DATE:20260606
-SUMMARY:2026-2027 Akademik yılında lisans programlarına yurt dışından öğrenci kabulü için başvuru dönemi
-DESCRIPTION:Category: Başvuru\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/2026-2027-akademik-yilinda-lisans-programlari/9194\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Başvuru
-URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/2026-2027-akademik-yilinda-lisans-programlari/9194
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-9122@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20260401
-DTEND;VALUE=DATE:20260612
-SUMMARY:2026 Güz yarıyılı için II. Öğretim Yüksek Lisans Programlarına başvuru dönemi
-DESCRIPTION:Category: Başvuru\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/2026-guz-yariyili-icin-ii-ogretim-yuksek-lisa/9122\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Başvuru
-URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/2026-guz-yariyili-icin-ii-ogretim-yuksek-lisa/9122
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-9095@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20260129
-DTEND;VALUE=DATE:20260130
-SUMMARY:Yurtiçi misafir öğrenci ve YÖK özel öğrenci başvurusu için son gün
-DESCRIPTION:Category: Başvuru\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yurtici-misafir-ogrenci-ve-yok-ozel-ogrenci-b/9095\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Başvuru
-URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yurtici-misafir-ogrenci-ve-yok-ozel-ogrenci-b/9095
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-9093@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20260129
-DTEND;VALUE=DATE:20260130
-SUMMARY:Kurum içi yatay geçiş kabulü alan öğrencilerin bölüm değişikliği için Fakülte Öğrenci İşleri sorumlularına başvuru günü
-DESCRIPTION:Category: Başvuru\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/kurum-ici-yatay-gecis-kabulu-alan-ogrencileri/9093\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Başvuru
-URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/kurum-ici-yatay-gecis-kabulu-alan-ogrencileri/9093
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-9088@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20260122
-DTEND;VALUE=DATE:20260123
-SUMMARY:ÇAP ve yan dal programlarına başvuru için son gün
-DESCRIPTION:Category: Başvuru\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/cap-ve-yan-dal-programlarina-basvuru-icin-son/9088\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Başvuru
-URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/cap-ve-yan-dal-programlarina-basvuru-icin-son/9088
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-9072@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20260109
-DTEND;VALUE=DATE:20260123
-SUMMARY:ÇAP ve yan dal programlarına başvuru dönemi
-DESCRIPTION:Category: Başvuru\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/cap-ve-yan-dal-programlarina-basvuru-donemi/9072\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Başvuru
-URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/cap-ve-yan-dal-programlarina-basvuru-donemi/9072
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-9068@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20260102
-DTEND;VALUE=DATE:20260110
-SUMMARY:Bahar yarıyılı için lisansüstü programlara başvuru dönemi
-DESCRIPTION:Category: Başvuru\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/bahar-yariyili-icin-lisansustu-programlara-ba/9068\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Başvuru
-URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/bahar-yariyili-icin-lisansustu-programlara-ba/9068
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-9005@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20250901
-DTEND;VALUE=DATE:20250902
-SUMMARY:Yurtiçi Misafir ve YÖK Özel öğrenci başvurusu için son gün
-DESCRIPTION:Category: Başvuru\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yurtici-misafir-ve-yok-ozel-ogrenci-basvurusu/9005\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Başvuru
-URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yurtici-misafir-ve-yok-ozel-ogrenci-basvurusu/9005
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-8978@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20250801
-DTEND;VALUE=DATE:20250816
-SUMMARY:Merkezi puanla yatay geçiş başvuruları (YÖK tarafından belirlenen takvim)
-DESCRIPTION:Category: Başvuru\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/merkezi-puanla-yatay-gecis-basvurulari-yok-ta/8978\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Başvuru
-URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/merkezi-puanla-yatay-gecis-basvurulari-yok-ta/8978
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-8969@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20250716
-DTEND;VALUE=DATE:20250717
-SUMMARY:ÇAP ve yan dal programlarına başvuruların son günü
-DESCRIPTION:Category: Başvuru\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/cap-ve-yan-dal-programlarina-basvurularin-son/8969\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Başvuru
-URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/cap-ve-yan-dal-programlarina-basvurularin-son/8969
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-8965@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20250708
-DTEND;VALUE=DATE:20250717
-SUMMARY:2025-2026 Akademik yılında lisans programlarına yurt dışından öğrenci kabulü için başvuru dönemi (YÖK tarafından belirlenen takvim)
-DESCRIPTION:Category: Başvuru\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/2025-2026-akademik-yilinda-lisans-programlari/8965\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Başvuru
-URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/2025-2026-akademik-yilinda-lisans-programlari/8965
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-8964@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20250708
-DTEND;VALUE=DATE:20250717
-SUMMARY:Kurum içi ve dışı yatay geçiş için başvuru dönemi (YÖK tarafından belirlenen takvim)
-DESCRIPTION:Category: Başvuru\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/kurum-ici-ve-disi-yatay-gecis-icin-basvuru-do/8964\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Başvuru
-URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/kurum-ici-ve-disi-yatay-gecis-icin-basvuru-do/8964
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-8932@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20250610
-DTEND;VALUE=DATE:20250611
-SUMMARY:I. ve II. Öğretim lisansüstü programları başvurularının son günü
-DESCRIPTION:Category: Başvuru\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/i-ve-ii-ogretim-lisansustu-programlari-basvur/8932\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Başvuru
-URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/i-ve-ii-ogretim-lisansustu-programlari-basvur/8932
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-8903@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20250416
-DTEND;VALUE=DATE:20250611
-SUMMARY:2025 Güz yarıyılı için I. öğretim lisansüstü programlarına başvuru dönemi
-DESCRIPTION:Category: Başvuru\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/2025-guz-yariyili-icin-i-ogretim-lisansustu-p/8903\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Başvuru
-URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/2025-guz-yariyili-icin-i-ogretim-lisansustu-p/8903
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-8896@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20250402
-DTEND;VALUE=DATE:20250611
-SUMMARY:2025 Güz yarıyılı için II. Öğretim Yüksek Lisans Programlarına başvuru dönemi
-DESCRIPTION:Category: Başvuru\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/2025-guz-yariyili-icin-ii-ogretim-yuksek-lisa/8896\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Başvuru
-URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/2025-guz-yariyili-icin-ii-ogretim-yuksek-lisa/8896
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-8862@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20250130
-DTEND;VALUE=DATE:20250131
-SUMMARY:Yurtiçi misafir öğrenci ve YÖK özel öğrenci başvurusu için son gün
-DESCRIPTION:Category: Başvuru\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yurtici-misafir-ogrenci-ve-yok-ozel-ogrenci-b/8862\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Başvuru
-URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yurtici-misafir-ogrenci-ve-yok-ozel-ogrenci-b/8862
-END:VEVENT
-BEGIN:VEVENT
-UID:boun-academic-8856@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
-DTSTART;VALUE=DATE:20250123
-DTEND;VALUE=DATE:20250124
-SUMMARY:ÇAP ve yan dal programlarına başvuru için son gün
-DESCRIPTION:Category: Başvuru\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/cap-ve-yan-dal-programlarina-basvuru-icin-son/8856\n\nAuto-synced Bogazici University Academic Calendar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:Başvuru
-URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/cap-ve-yan-dal-programlarina-basvuru-icin-son/8856
-END:VEVENT
-BEGIN:VEVENT
 UID:boun-academic-8836@bogazici.edu.tr
-DTSTAMP:20260826T044642Z
+DTSTAMP:20260826T105727Z
 DTSTART;VALUE=DATE:20250102
 DTEND;VALUE=DATE:20250110
 SUMMARY:Bahar yarıyılı için lisansüstü programlara başvuru dönemi
-DESCRIPTION:Category: Başvuru\n\nDetails: https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/bahar-yariyili-icin-lisansustu-programlara-ba/8836\n\nAuto-synced Bogazici University Academic Calendar
+DESCRIPTION:Kategori: Başvuru\n\nDetaylar: https://akademiktakvim.bogazici
+ .edu.tr/tr/events/akademik/bahar-yariyili-icin-lisansustu-programlara-ba/8
+ 836\n\nOtomatik Senkronize Boğaziçi Üniversitesi Akademik Takvimi
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:Başvuru
-URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/bahar-yariyili-icin-lisansustu-programlara-ba/8836
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/bahar-yariyil
+ i-icin-lisansustu-programlara-ba/8836
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-8856@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20250123
+DTEND;VALUE=DATE:20250124
+SUMMARY:ÇAP ve yan dal programlarına başvuru için son gün
+DESCRIPTION:Kategori: Başvuru\n\nDetaylar: https://akademiktakvim.bogazici
+ .edu.tr/tr/events/akademik/cap-ve-yan-dal-programlarina-basvuru-icin-son/8
+ 856\n\nOtomatik Senkronize Boğaziçi Üniversitesi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Başvuru
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/cap-ve-yan-da
+ l-programlarina-basvuru-icin-son/8856
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-8862@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20250130
+DTEND;VALUE=DATE:20250131
+SUMMARY:Yurtiçi misafir öğrenci ve YÖK özel öğrenci başvurusu için
+  son gün
+DESCRIPTION:Kategori: Başvuru\n\nDetaylar: https://akademiktakvim.bogazici
+ .edu.tr/tr/events/akademik/yurtici-misafir-ogrenci-ve-yok-ozel-ogrenci-b/8
+ 862\n\nOtomatik Senkronize Boğaziçi Üniversitesi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Başvuru
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yurtici-misaf
+ ir-ogrenci-ve-yok-ozel-ogrenci-b/8862
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-8896@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20250402
+DTEND;VALUE=DATE:20250611
+SUMMARY:2025 Güz yarıyılı için II. Öğretim Yüksek Lisans Programlar
+ ına başvuru dönemi
+DESCRIPTION:Kategori: Başvuru\n\nDetaylar: https://akademiktakvim.bogazici
+ .edu.tr/tr/events/akademik/2025-guz-yariyili-icin-ii-ogretim-yuksek-lisa/8
+ 896\n\nOtomatik Senkronize Boğaziçi Üniversitesi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Başvuru
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/2025-guz-yari
+ yili-icin-ii-ogretim-yuksek-lisa/8896
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-8903@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20250416
+DTEND;VALUE=DATE:20250611
+SUMMARY:2025 Güz yarıyılı için I. öğretim lisansüstü programların
+ a başvuru dönemi
+DESCRIPTION:Kategori: Başvuru\n\nDetaylar: https://akademiktakvim.bogazici
+ .edu.tr/tr/events/akademik/2025-guz-yariyili-icin-i-ogretim-lisansustu-p/8
+ 903\n\nOtomatik Senkronize Boğaziçi Üniversitesi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Başvuru
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/2025-guz-yari
+ yili-icin-i-ogretim-lisansustu-p/8903
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-8932@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20250610
+DTEND;VALUE=DATE:20250611
+SUMMARY:I. ve II. Öğretim lisansüstü programları başvurularının son
+  günü
+DESCRIPTION:Kategori: Başvuru\n\nDetaylar: https://akademiktakvim.bogazici
+ .edu.tr/tr/events/akademik/i-ve-ii-ogretim-lisansustu-programlari-basvur/8
+ 932\n\nOtomatik Senkronize Boğaziçi Üniversitesi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Başvuru
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/i-ve-ii-ogret
+ im-lisansustu-programlari-basvur/8932
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-8964@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20250708
+DTEND;VALUE=DATE:20250717
+SUMMARY:Kurum içi ve dışı yatay geçiş için başvuru dönemi (YÖK ta
+ rafından belirlenen takvim)
+DESCRIPTION:Kategori: Başvuru\n\nDetaylar: https://akademiktakvim.bogazici
+ .edu.tr/tr/events/akademik/kurum-ici-ve-disi-yatay-gecis-icin-basvuru-do/8
+ 964\n\nOtomatik Senkronize Boğaziçi Üniversitesi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Başvuru
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/kurum-ici-ve-
+ disi-yatay-gecis-icin-basvuru-do/8964
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-8965@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20250708
+DTEND;VALUE=DATE:20250717
+SUMMARY:2025-2026 Akademik yılında lisans programlarına yurt dışından
+  öğrenci kabulü için başvuru dönemi (YÖK tarafından belirlenen tak
+ vim)
+DESCRIPTION:Kategori: Başvuru\n\nDetaylar: https://akademiktakvim.bogazici
+ .edu.tr/tr/events/akademik/2025-2026-akademik-yilinda-lisans-programlari/8
+ 965\n\nOtomatik Senkronize Boğaziçi Üniversitesi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Başvuru
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/2025-2026-aka
+ demik-yilinda-lisans-programlari/8965
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-8969@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20250716
+DTEND;VALUE=DATE:20250717
+SUMMARY:ÇAP ve yan dal programlarına başvuruların son günü
+DESCRIPTION:Kategori: Başvuru\n\nDetaylar: https://akademiktakvim.bogazici
+ .edu.tr/tr/events/akademik/cap-ve-yan-dal-programlarina-basvurularin-son/8
+ 969\n\nOtomatik Senkronize Boğaziçi Üniversitesi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Başvuru
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/cap-ve-yan-da
+ l-programlarina-basvurularin-son/8969
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-8978@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20250801
+DTEND;VALUE=DATE:20250816
+SUMMARY:Merkezi puanla yatay geçiş başvuruları (YÖK tarafından belirl
+ enen takvim)
+DESCRIPTION:Kategori: Başvuru\n\nDetaylar: https://akademiktakvim.bogazici
+ .edu.tr/tr/events/akademik/merkezi-puanla-yatay-gecis-basvurulari-yok-ta/8
+ 978\n\nOtomatik Senkronize Boğaziçi Üniversitesi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Başvuru
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/merkezi-puanl
+ a-yatay-gecis-basvurulari-yok-ta/8978
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-9005@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20250901
+DTEND;VALUE=DATE:20250902
+SUMMARY:Yurtiçi Misafir ve YÖK Özel öğrenci başvurusu için son gün
+DESCRIPTION:Kategori: Başvuru\n\nDetaylar: https://akademiktakvim.bogazici
+ .edu.tr/tr/events/akademik/yurtici-misafir-ve-yok-ozel-ogrenci-basvurusu/9
+ 005\n\nOtomatik Senkronize Boğaziçi Üniversitesi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Başvuru
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yurtici-misaf
+ ir-ve-yok-ozel-ogrenci-basvurusu/9005
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-9068@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20260102
+DTEND;VALUE=DATE:20260110
+SUMMARY:Bahar yarıyılı için lisansüstü programlara başvuru dönemi
+DESCRIPTION:Kategori: Başvuru\n\nDetaylar: https://akademiktakvim.bogazici
+ .edu.tr/tr/events/akademik/bahar-yariyili-icin-lisansustu-programlara-ba/9
+ 068\n\nOtomatik Senkronize Boğaziçi Üniversitesi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Başvuru
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/bahar-yariyil
+ i-icin-lisansustu-programlara-ba/9068
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-9072@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20260109
+DTEND;VALUE=DATE:20260123
+SUMMARY:ÇAP ve yan dal programlarına başvuru dönemi
+DESCRIPTION:Kategori: Başvuru\n\nDetaylar: https://akademiktakvim.bogazici
+ .edu.tr/tr/events/akademik/cap-ve-yan-dal-programlarina-basvuru-donemi/907
+ 2\n\nOtomatik Senkronize Boğaziçi Üniversitesi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Başvuru
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/cap-ve-yan-da
+ l-programlarina-basvuru-donemi/9072
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-9088@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20260122
+DTEND;VALUE=DATE:20260123
+SUMMARY:ÇAP ve yan dal programlarına başvuru için son gün
+DESCRIPTION:Kategori: Başvuru\n\nDetaylar: https://akademiktakvim.bogazici
+ .edu.tr/tr/events/akademik/cap-ve-yan-dal-programlarina-basvuru-icin-son/9
+ 088\n\nOtomatik Senkronize Boğaziçi Üniversitesi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Başvuru
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/cap-ve-yan-da
+ l-programlarina-basvuru-icin-son/9088
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-9093@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20260129
+DTEND;VALUE=DATE:20260130
+SUMMARY:Kurum içi yatay geçiş kabulü alan öğrencilerin bölüm deği
+ şikliği için Fakülte Öğrenci İşleri sorumlularına başvuru günü
+DESCRIPTION:Kategori: Başvuru\n\nDetaylar: https://akademiktakvim.bogazici
+ .edu.tr/tr/events/akademik/kurum-ici-yatay-gecis-kabulu-alan-ogrencileri/9
+ 093\n\nOtomatik Senkronize Boğaziçi Üniversitesi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Başvuru
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/kurum-ici-yat
+ ay-gecis-kabulu-alan-ogrencileri/9093
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-9095@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20260129
+DTEND;VALUE=DATE:20260130
+SUMMARY:Yurtiçi misafir öğrenci ve YÖK özel öğrenci başvurusu için
+  son gün
+DESCRIPTION:Kategori: Başvuru\n\nDetaylar: https://akademiktakvim.bogazici
+ .edu.tr/tr/events/akademik/yurtici-misafir-ogrenci-ve-yok-ozel-ogrenci-b/9
+ 095\n\nOtomatik Senkronize Boğaziçi Üniversitesi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Başvuru
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yurtici-misaf
+ ir-ogrenci-ve-yok-ozel-ogrenci-b/9095
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-9122@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20260401
+DTEND;VALUE=DATE:20260612
+SUMMARY:2026 Güz yarıyılı için II. Öğretim Yüksek Lisans Programlar
+ ına başvuru dönemi
+DESCRIPTION:Kategori: Başvuru\n\nDetaylar: https://akademiktakvim.bogazici
+ .edu.tr/tr/events/akademik/2026-guz-yariyili-icin-ii-ogretim-yuksek-lisa/9
+ 122\n\nOtomatik Senkronize Boğaziçi Üniversitesi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Başvuru
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/2026-guz-yari
+ yili-icin-ii-ogretim-yuksek-lisa/9122
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-9194@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20260406
+DTEND;VALUE=DATE:20260606
+SUMMARY:2026-2027 Akademik yılında lisans programlarına yurt dışından
+  öğrenci kabulü için başvuru dönemi
+DESCRIPTION:Kategori: Başvuru\n\nDetaylar: https://akademiktakvim.bogazici
+ .edu.tr/tr/events/akademik/2026-2027-akademik-yilinda-lisans-programlari/9
+ 194\n\nOtomatik Senkronize Boğaziçi Üniversitesi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Başvuru
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/2026-2027-aka
+ demik-yilinda-lisans-programlari/9194
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-9129@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20260415
+DTEND;VALUE=DATE:20260612
+SUMMARY:2026 Güz yarıyılı için I. öğretim lisansüstü programların
+ a başvuru dönemi
+DESCRIPTION:Kategori: Başvuru\n\nDetaylar: https://akademiktakvim.bogazici
+ .edu.tr/tr/events/akademik/2026-guz-yariyili-icin-i-ogretim-lisansustu-p/9
+ 129\n\nOtomatik Senkronize Boğaziçi Üniversitesi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Başvuru
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/2026-guz-yari
+ yili-icin-i-ogretim-lisansustu-p/9129
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-9176@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20260622
+DTEND;VALUE=DATE:20260715
+SUMMARY:ÇAP ve yan dal programlarına başvuru dönemi
+DESCRIPTION:Kategori: Başvuru\n\nDetaylar: https://akademiktakvim.bogazici
+ .edu.tr/tr/events/akademik/cap-ve-yan-dal-programlarina-basvuru-donemi/917
+ 6\n\nOtomatik Senkronize Boğaziçi Üniversitesi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Başvuru
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/cap-ve-yan-da
+ l-programlarina-basvuru-donemi/9176
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13945@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260717
+SUMMARY:2026-2027 Akademik yılında lisans programlarına yurt dışından
+  öğrenci kabulü için ikinci başvuru dönemi
+DESCRIPTION:Kategori: Başvuru\n\nDetaylar: https://akademiktakvim.bogazici
+ .edu.tr/tr/events/akademik/2026-2027-akademik-yilinda-lisans-programlari/1
+ 3945\n\nOtomatik Senkronize Boğaziçi Üniversitesi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Başvuru
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/2026-2027-aka
+ demik-yilinda-lisans-programlari/13945
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-9193@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20260709
+DTEND;VALUE=DATE:20260717
+SUMMARY:Kurum içi ve dışı yatay geçiş için başvuru dönemi (YÖK ta
+ rafından belirlenen takvim)
+DESCRIPTION:Kategori: Başvuru\n\nDetaylar: https://akademiktakvim.bogazici
+ .edu.tr/tr/events/akademik/kurum-ici-ve-disi-yatay-gecis-icin-basvuru-do/9
+ 193\n\nOtomatik Senkronize Boğaziçi Üniversitesi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Başvuru
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/kurum-ici-ve-
+ disi-yatay-gecis-icin-basvuru-do/9193
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-9197@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20260714
+DTEND;VALUE=DATE:20260715
+SUMMARY:ÇAP ve yan dal programlarına başvuruların son günü
+DESCRIPTION:Kategori: Başvuru\n\nDetaylar: https://akademiktakvim.bogazici
+ .edu.tr/tr/events/akademik/cap-ve-yan-dal-programlarina-basvurularin-son/9
+ 197\n\nOtomatik Senkronize Boğaziçi Üniversitesi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Başvuru
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/cap-ve-yan-da
+ l-programlarina-basvurularin-son/9197
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-9209@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20260803
+DTEND;VALUE=DATE:20260818
+SUMMARY:Merkezi puanla yatay geçiş başvuruları (YÖK tarafından belirl
+ enen takvim)
+DESCRIPTION:Kategori: Başvuru\n\nDetaylar: https://akademiktakvim.bogazici
+ .edu.tr/tr/events/akademik/merkezi-puanla-yatay-gecis-basvurulari-yok-ta/9
+ 209\n\nOtomatik Senkronize Boğaziçi Üniversitesi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Başvuru
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/merkezi-puanl
+ a-yatay-gecis-basvurulari-yok-ta/9209
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-9239@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260905
+SUMMARY:Yurtiçi Misafir ve YÖK Özel öğrenci başvurusu için son gün
+DESCRIPTION:Kategori: Başvuru\n\nDetaylar: https://akademiktakvim.bogazici
+ .edu.tr/tr/events/akademik/yurtici-misafir-ve-yok-ozel-ogrenci-basvurusu/9
+ 239\n\nOtomatik Senkronize Boğaziçi Üniversitesi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Başvuru
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yurtici-misaf
+ ir-ve-yok-ozel-ogrenci-basvurusu/9239
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-9242@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+SUMMARY:Uluslararası Misafir öğrencilerin ve Uluslararası Değişim ö
+ ğrencilerinin Bahar yarıyılı için son başvuru günü
+DESCRIPTION:Kategori: Başvuru\n\nDetaylar: https://akademiktakvim.bogazici
+ .edu.tr/tr/events/akademik/uluslararasi-misafir-ogrencilerin-ve-uluslara/9
+ 242\n\nOtomatik Senkronize Boğaziçi Üniversitesi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Başvuru
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/uluslararasi-
+ misafir-ogrencilerin-ve-uluslara/9242
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13117@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20261214
+DTEND;VALUE=DATE:20261222
+SUMMARY:Bahar yarıyılı için lisansüstü programlara başvuru dönemi
+DESCRIPTION:Kategori: Başvuru\n\nDetaylar: https://akademiktakvim.bogazici
+ .edu.tr/tr/events/akademik/bahar-yariyili-icin-lisansustu-programlara-ba/1
+ 3117\n\nOtomatik Senkronize Boğaziçi Üniversitesi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Başvuru
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/bahar-yariyil
+ i-icin-lisansustu-programlara-ba/13117
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13129@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20261222
+DTEND;VALUE=DATE:20270104
+SUMMARY:ÇAP ve yan dal programlarına başvuru dönemi
+DESCRIPTION:Kategori: Başvuru\n\nDetaylar: https://akademiktakvim.bogazici
+ .edu.tr/tr/events/akademik/cap-ve-yan-dal-programlarina-basvuru-donemi/131
+ 29\n\nOtomatik Senkronize Boğaziçi Üniversitesi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Başvuru
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/cap-ve-yan-da
+ l-programlarina-basvuru-donemi/13129
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13161@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20270103
+DTEND;VALUE=DATE:20270104
+SUMMARY:ÇAP ve yan dal programlarına başvuru için son gün
+DESCRIPTION:Kategori: Başvuru\n\nDetaylar: https://akademiktakvim.bogazici
+ .edu.tr/tr/events/akademik/cap-ve-yan-dal-programlarina-basvuru-icin-son/1
+ 3161\n\nOtomatik Senkronize Boğaziçi Üniversitesi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Başvuru
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/cap-ve-yan-da
+ l-programlarina-basvuru-icin-son/13161
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13175@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20270111
+DTEND;VALUE=DATE:20270112
+SUMMARY:Yurtiçi misafir öğrenci ve YÖK özel öğrenci başvurusu için
+  son gün
+DESCRIPTION:Kategori: Başvuru\n\nDetaylar: https://akademiktakvim.bogazici
+ .edu.tr/tr/events/akademik/yurtici-misafir-ogrenci-ve-yok-ozel-ogrenci-b/1
+ 3175\n\nOtomatik Senkronize Boğaziçi Üniversitesi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Başvuru
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yurtici-misaf
+ ir-ogrenci-ve-yok-ozel-ogrenci-b/13175
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13225@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20270401
+DTEND;VALUE=DATE:20270611
+SUMMARY:2027 Güz yarıyılı için II. Öğretim Yüksek Lisans Programlar
+ ına başvuru dönemi
+DESCRIPTION:Kategori: Başvuru\n\nDetaylar: https://akademiktakvim.bogazici
+ .edu.tr/tr/events/akademik/2027-guz-yariyili-icin-ii-ogretim-yuksek-lisa/1
+ 3225\n\nOtomatik Senkronize Boğaziçi Üniversitesi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Başvuru
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/2027-guz-yari
+ yili-icin-ii-ogretim-yuksek-lisa/13225
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13227@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20270405
+DTEND;VALUE=DATE:20270605
+SUMMARY:2027-2028 Akademik yılında lisans programlarına yurt dışından
+  öğrenci kabulü için başvuru dönemi
+DESCRIPTION:Kategori: Başvuru\n\nDetaylar: https://akademiktakvim.bogazici
+ .edu.tr/tr/events/akademik/2027-2028-akademik-yilinda-lisans-programlari/1
+ 3227\n\nOtomatik Senkronize Boğaziçi Üniversitesi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Başvuru
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/2027-2028-aka
+ demik-yilinda-lisans-programlari/13227
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13241@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20270414
+DTEND;VALUE=DATE:20270611
+SUMMARY:2027 Güz yarıyılı için I. öğretim lisansüstü programların
+ a başvuru dönemi
+DESCRIPTION:Kategori: Başvuru\n\nDetaylar: https://akademiktakvim.bogazici
+ .edu.tr/tr/events/akademik/2027-guz-yariyili-icin-i-ogretim-lisansustu-p/1
+ 3241\n\nOtomatik Senkronize Boğaziçi Üniversitesi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Başvuru
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/2027-guz-yari
+ yili-icin-i-ogretim-lisansustu-p/13241
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13301@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20270604
+DTEND;VALUE=DATE:20270605
+SUMMARY:2027-2028 Akademik yılında lisans programlarına yurt dışından
+  öğrenci kabulü başvurusu için son gün
+DESCRIPTION:Kategori: Başvuru\n\nDetaylar: https://akademiktakvim.bogazici
+ .edu.tr/tr/events/akademik/2027-2028-akademik-yilinda-lisans-programlari/1
+ 3301\n\nOtomatik Senkronize Boğaziçi Üniversitesi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Başvuru
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/2027-2028-aka
+ demik-yilinda-lisans-programlari/13301
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13380@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20270706
+DTEND;VALUE=DATE:20270717
+SUMMARY:Kurum içi ve dışı yatay geçiş için başvuru dönemi (YÖK ta
+ rafından belirlenen takvim)
+DESCRIPTION:Kategori: Başvuru\n\nDetaylar: https://akademiktakvim.bogazici
+ .edu.tr/tr/events/akademik/kurum-ici-ve-disi-yatay-gecis-icin-basvuru-do/1
+ 3380\n\nOtomatik Senkronize Boğaziçi Üniversitesi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Başvuru
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/kurum-ici-ve-
+ disi-yatay-gecis-icin-basvuru-do/13380
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13414@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20270802
+DTEND;VALUE=DATE:20270817
+SUMMARY:Merkezi puanla yatay geçiş başvuruları (YÖK tarafından belirl
+ enen takvim)
+DESCRIPTION:Kategori: Başvuru\n\nDetaylar: https://akademiktakvim.bogazici
+ .edu.tr/tr/events/akademik/merkezi-puanla-yatay-gecis-basvurulari-yok-ta/1
+ 3414\n\nOtomatik Senkronize Boğaziçi Üniversitesi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Başvuru
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/merkezi-puanl
+ a-yatay-gecis-basvurulari-yok-ta/13414
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13348@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20270818
+DTEND;VALUE=DATE:20270826
+SUMMARY:ÇAP ve yan dal programlarına başvuru dönemi
+DESCRIPTION:Kategori: Başvuru\n\nDetaylar: https://akademiktakvim.bogazici
+ .edu.tr/tr/events/akademik/cap-ve-yan-dal-programlarina-basvuru-donemi/133
+ 48\n\nOtomatik Senkronize Boğaziçi Üniversitesi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Başvuru
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/cap-ve-yan-da
+ l-programlarina-basvuru-donemi/13348
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13390@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20270825
+DTEND;VALUE=DATE:20270826
+SUMMARY:ÇAP ve yan dal programlarına başvuruların son günü
+DESCRIPTION:Kategori: Başvuru\n\nDetaylar: https://akademiktakvim.bogazici
+ .edu.tr/tr/events/akademik/cap-ve-yan-dal-programlarina-basvurularin-son/1
+ 3390\n\nOtomatik Senkronize Boğaziçi Üniversitesi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Başvuru
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/cap-ve-yan-da
+ l-programlarina-basvurularin-son/13390
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13469@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20270903
+DTEND;VALUE=DATE:20270904
+SUMMARY:Yurtiçi Misafir ve YÖK Özel öğrenci başvurusu için son gün
+DESCRIPTION:Kategori: Başvuru\n\nDetaylar: https://akademiktakvim.bogazici
+ .edu.tr/tr/events/akademik/yurtici-misafir-ve-yok-ozel-ogrenci-basvurusu/1
+ 3469\n\nOtomatik Senkronize Boğaziçi Üniversitesi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Başvuru
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yurtici-misaf
+ ir-ve-yok-ozel-ogrenci-basvurusu/13469
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-academic-13480@bogazici.edu.tr
+DTSTAMP:20260826T105727Z
+DTSTART;VALUE=DATE:20271014
+DTEND;VALUE=DATE:20271015
+SUMMARY:Uluslararası Misafir öğrencilerin ve Uluslararası Değişim ö
+ ğrencilerinin Bahar yarıyılı için son başvuru günü
+DESCRIPTION:Kategori: Başvuru\n\nDetaylar: https://akademiktakvim.bogazici
+ .edu.tr/tr/events/akademik/uluslararasi-misafir-ogrencilerin-ve-uluslara/1
+ 3480\n\nOtomatik Senkronize Boğaziçi Üniversitesi Akademik Takvimi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Başvuru
+URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/uluslararasi-
+ misafir-ogrencilerin-ve-uluslara/13480
 END:VEVENT
 END:VCALENDAR

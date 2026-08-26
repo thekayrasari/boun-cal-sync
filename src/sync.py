@@ -6,29 +6,32 @@ Generates category-specific RFC 5545 compliant iCalendar (.ics) files and a web 
 Zero external dependencies - runs on standard Python 3.8+.
 """
 
-import os
+import html
 import json
-import urllib.request
+import os
 import urllib.error
+import urllib.request
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
-import html
+from typing import Any, Dict, List
 
 BASE_URL_TR = "https://akademiktakvim.bogazici.edu.tr/tr/json"
 BASE_URL_EN = "https://akademiktakvim.bogazici.edu.tr/en/json"
 USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
 
+# Istanbul Timezone (UTC+3)
 TR_TZ = timezone(timedelta(hours=3))
 
 # Exact 1-to-1 official category definitions mapped by university kat_id
-CATEGORIES = [
+CATEGORIES: List[Dict[str, str]] = [
     {
         "kat_id": "29",
         "slug": "registration",
         "slug_tr": "kayit",
         "title": "Registration",
         "title_tr": "Kayıt",
-        "description": "Course registration windows, advisor approvals, add/drop periods, and fee payment deadlines."
+        "description": "Course registration windows, advisor approvals, add/drop periods, and fee payment deadlines.",
+        "description_tr": "Ders kayıtları, danışman onayları, ekle/bırak günleri ve katkı payı ödeme tarihleri."
     },
     {
         "kat_id": "24",
@@ -36,7 +39,8 @@ CATEGORIES = [
         "slug_tr": "idari",
         "title": "Administrative",
         "title_tr": "İdari",
-        "description": "Administrative board meetings (ÜYK/FKK), official university deadlines, and department submissions."
+        "description": "Administrative board meetings (ÜYK/FKK), official university deadlines, and department submissions.",
+        "description_tr": "Üniversite Yönetim Kurulu / Fakülte Yönetim Kurulu toplantıları, resmi son tarihler ve idari takvim."
     },
     {
         "kat_id": "23",
@@ -44,7 +48,8 @@ CATEGORIES = [
         "slug_tr": "egitim",
         "title": "Instruction & Exams",
         "title_tr": "Eğitim-Öğretim",
-        "description": "First and last days of classes, midterm & final exam periods, grade submissions, and semester dates."
+        "description": "First and last days of classes, midterm & final exam periods, grade submissions, and semester dates.",
+        "description_tr": "Derslerin başlangıç/bitiş günleri, ara sınavlar, final dönemleri, not girişleri ve dönem tarihleri."
     },
     {
         "kat_id": "25",
@@ -52,7 +57,8 @@ CATEGORIES = [
         "slug_tr": "yadyok",
         "title": "School of Foreign Languages (SFL / YADYOK)",
         "title_tr": "YADYOK",
-        "description": "BUEPT English proficiency exams, placement tests, preparatory classes terms, and result announcements."
+        "description": "BUEPT English proficiency exams, placement tests, preparatory classes terms, and result announcements.",
+        "description_tr": "BUEPT İngilizce yeterlilik sınavları, düzey belirleme testleri, hazırlık sınıfları dönem ve sonuçları."
     },
     {
         "kat_id": "28",
@@ -60,18 +66,20 @@ CATEGORIES = [
         "slug_tr": "basvuru",
         "title": "Admission & Applications",
         "title_tr": "Başvuru",
-        "description": "Undergraduate/graduate applications, double major/minor transfers, and exchange program deadlines."
+        "description": "Undergraduate/graduate applications, double major/minor transfers, and exchange program deadlines.",
+        "description_tr": "Lisans/lisansüstü başvurular, çift anadal/yandal yatay geçişler ve değişim programı tarihleri."
     }
 ]
 
-def fetch_events(base_url: str, start_date: str, end_date: str) -> list:
+
+def fetch_events(base_url: str, start_date: str, end_date: str) -> List[Dict[str, Any]]:
     """Fetch calendar events from Bogazici API for a given date range."""
     url = f"{base_url}?type=4&date={start_date}&last_date={end_date}"
     req = urllib.request.Request(
         url,
         headers={"User-Agent": USER_AGENT, "Accept": "application/json"}
     )
-    
+
     try:
         with urllib.request.urlopen(req, timeout=30) as resp:
             data = resp.read().decode("utf-8")
@@ -81,8 +89,9 @@ def fetch_events(base_url: str, start_date: str, end_date: str) -> list:
         print(f"Error fetching from {url}: {e}")
         return []
 
+
 def sanitize_ics_text(text: str) -> str:
-    """Escape special characters according to RFC 5545."""
+    """Escape special characters according to RFC 5545 Section 3.3.11."""
     if not text:
         return ""
     text = html.unescape(text)
@@ -92,37 +101,79 @@ def sanitize_ics_text(text: str) -> str:
     text = text.replace("\r\n", "\\n").replace("\n", "\\n").replace("\r", "\\n")
     return text.strip()
 
+
+def fold_line(line: str, limit: int = 75) -> str:
+    """
+    Folds a line according to RFC 5545 Section 3.1:
+    Lines SHOULD NOT be longer than 75 octets.
+    Continuation lines start with a single space (1 octet), leaving 74 octets.
+    UTF-8 multi-byte characters are preserved without breaking byte sequences.
+    """
+    encoded = line.encode("utf-8")
+    if len(encoded) <= limit:
+        return line
+
+    result_lines: List[str] = []
+    current_chunk = b""
+    max_len = limit
+
+    for ch in line:
+        ch_bytes = ch.encode("utf-8")
+        if len(current_chunk) + len(ch_bytes) > max_len:
+            result_lines.append(current_chunk.decode("utf-8"))
+            current_chunk = b" " + ch_bytes
+            max_len = limit
+        else:
+            current_chunk += ch_bytes
+
+    if current_chunk:
+        result_lines.append(current_chunk.decode("utf-8"))
+
+    return "\r\n".join(result_lines)
+
+
 def format_all_day_date(dt_str: str) -> str:
     """Parse 'YYYY-MM-DD HH:MM:SS' and return 'YYYYMMDD'."""
     dt = datetime.strptime(dt_str.split()[0], "%Y-%m-%d")
     return dt.strftime("%Y%m%d")
+
 
 def format_all_day_end_date(dt_str: str) -> str:
     """In RFC 5545, all-day DTEND is exclusive (day after the event ends)."""
     dt = datetime.strptime(dt_str.split()[0], "%Y-%m-%d") + timedelta(days=1)
     return dt.strftime("%Y%m%d")
 
-def generate_ics(events: list, cal_name: str, cal_desc: str, lang: str = "en") -> str:
-    """Generate RFC 5545 compliant iCalendar string."""
+
+def generate_ics(events: List[Dict[str, Any]], cal_name: str, cal_desc: str, lang: str = "en") -> bytes:
+    """Generate RFC 5545 compliant iCalendar byte content with strict CRLF line endings."""
     now_utc = datetime.now(timezone.utc).strftime("%Y%m%dT%H%M%SZ")
-    
-    lines = [
+
+    raw_lines: List[str] = [
         "BEGIN:VCALENDAR",
         "VERSION:2.0",
         "PRODID:-//Bogazici University//Academic Calendar Sync//EN",
         "CALSCALE:GREGORIAN",
         "METHOD:PUBLISH",
-        f"X-WR-CALNAME:{cal_name}",
-        f"X-WR-CALDESC:{cal_desc}",
-        f"X-WR-TIMEZONE:Europe/Istanbul",
+        f"X-WR-CALNAME:{sanitize_ics_text(cal_name)}",
+        f"X-WR-CALDESC:{sanitize_ics_text(cal_desc)}",
+        "X-WR-TIMEZONE:Europe/Istanbul",
         "REFRESH-INTERVAL;VALUE=DURATION:P1D",
         "X-PUBLISHED-TTL:P1D",
     ]
 
+    # Sort events chronologically by start date and ID for deterministic output
+    sorted_events = sorted(
+        events,
+        key=lambda x: (
+            str(x.get("start_date", "")),
+            int(x.get("id", 0)) if str(x.get("id", "")).isdigit() else str(x.get("id", ""))
+        )
+    )
+
     seen_ids = set()
 
-    for item in events:
-        event_id = str(item.get("id", ""))
+    for item in sorted_events:
+        event_id = str(item.get("id", "")).strip()
         if not event_id or event_id in seen_ids:
             continue
         seen_ids.add(event_id)
@@ -131,8 +182,8 @@ def generate_ics(events: list, cal_name: str, cal_desc: str, lang: str = "en") -
         if not title:
             continue
 
-        raw_start = item.get("start_date", "")
-        raw_end = item.get("end_date", "") or raw_start
+        raw_start = item.get("start_date", "").strip()
+        raw_end = item.get("end_date", "").strip() or raw_start
 
         try:
             dtstart_val = format_all_day_date(raw_start)
@@ -144,21 +195,28 @@ def generate_ics(events: list, cal_name: str, cal_desc: str, lang: str = "en") -
         description_raw = item.get("aciklama", "").strip()
         event_link = item.get("link", "").strip()
 
-        desc_parts = []
+        desc_parts: List[str] = []
         if category:
-            desc_parts.append(f"Category: {category}")
+            cat_label = "Category" if lang == "en" else "Kategori"
+            desc_parts.append(f"{cat_label}: {category}")
         if description_raw:
             desc_parts.append(description_raw)
         if event_link:
-            desc_parts.append(f"Details: {event_link}")
-        
-        desc_parts.append("Auto-synced Bogazici University Academic Calendar")
-        
+            details_label = "Details" if lang == "en" else "Detaylar"
+            desc_parts.append(f"{details_label}: {event_link}")
+
+        footer_note = (
+            "Auto-synced Bogazici University Academic Calendar"
+            if lang == "en"
+            else "Otomatik Senkronize Boğaziçi Üniversitesi Akademik Takvimi"
+        )
+        desc_parts.append(footer_note)
+
         description = "\\n\\n".join([sanitize_ics_text(p) for p in desc_parts if p])
         summary = sanitize_ics_text(title)
         uid = f"boun-academic-{event_id}@bogazici.edu.tr"
 
-        lines.extend([
+        raw_lines.extend([
             "BEGIN:VEVENT",
             f"UID:{uid}",
             f"DTSTAMP:{now_utc}",
@@ -166,36 +224,44 @@ def generate_ics(events: list, cal_name: str, cal_desc: str, lang: str = "en") -
             f"DTEND;VALUE=DATE:{dtend_val}",
             f"SUMMARY:{summary}",
             f"DESCRIPTION:{description}",
-            f"STATUS:CONFIRMED",
+            "STATUS:CONFIRMED",
             "TRANSP:TRANSPARENT",
         ])
 
         if category:
-            lines.append(f"CATEGORIES:{sanitize_ics_text(category)}")
+            raw_lines.append(f"CATEGORIES:{sanitize_ics_text(category)}")
         if event_link:
-            lines.append(f"URL:{event_link}")
+            # URLs in RFC 5545 are URI types, not TEXT
+            raw_lines.append(f"URL:{event_link}")
 
-        lines.append("END:VEVENT")
+        raw_lines.append("END:VEVENT")
 
-    lines.append("END:VCALENDAR")
-    return "\r\n".join(lines) + "\r\n"
+    raw_lines.append("END:VCALENDAR")
+
+    # Apply RFC 5545 line folding and join with strict CRLF
+    folded_lines = [fold_line(line) for line in raw_lines]
+    return ("\r\n".join(folded_lines) + "\r\n").encode("utf-8")
+
 
 def generate_html_landing_page(
-    events_en: list, 
-    feed_metadata: list
+    events_en: List[Dict[str, Any]],
+    events_tr: List[Dict[str, Any]],
+    feeds_en: List[Dict[str, Any]],
+    feeds_tr: List[Dict[str, Any]]
 ) -> str:
-    """Generate a clean, modern English landing page with ONLY ICS copy links."""
+    """Generate a high-performance, bilingual landing page with instant copy and 1-click webcal subscription."""
     now_str = datetime.now(TR_TZ).strftime("%B %d, %Y %H:%M (UTC+3)")
-    
-    sorted_en = sorted(events_en, key=lambda x: x.get("start_date", ""))
-    today_str = datetime.now(TR_TZ).strftime("%Y-%m-%d")
-    upcoming_en = [e for e in sorted_en if e.get("end_date", e.get("start_date", "")) >= today_str][:50]
 
+    today_str = datetime.now(TR_TZ).strftime("%Y-%m-%d")
+
+    sorted_en = sorted(events_en, key=lambda x: str(x.get("start_date", "")))
+    upcoming_en = [e for e in sorted_en if str(e.get("end_date", e.get("start_date", ""))) >= today_str][:60]
     if not upcoming_en:
-        upcoming_en = sorted_en[-50:]
+        upcoming_en = sorted_en[-60:]
 
     upcoming_json_en = json.dumps(upcoming_en, ensure_ascii=False)
-    feeds_json = json.dumps(feed_metadata, ensure_ascii=False)
+    feeds_en_json = json.dumps(feeds_en, ensure_ascii=False)
+    feeds_tr_json = json.dumps(feeds_tr, ensure_ascii=False)
 
     return f"""<!DOCTYPE html>
 <html lang="en">
@@ -214,13 +280,13 @@ def generate_html_landing_page(
             --primary-light: #00509e;
             --accent: #2563eb;
             --accent-hover: #1d4ed8;
-            --bg: #0f172a;
-            --card-bg: #1e293b;
-            --card-border: #334155;
+            --bg: #0b1329;
+            --card-bg: #152238;
+            --card-border: #243552;
             --text-main: #f8fafc;
             --text-muted: #94a3b8;
             --success: #10b981;
-            --color-registration: #8b5cf6;
+            --color-registration: #a855f7;
             --color-administrative: #ef4444;
             --color-instruction: #10b981;
             --color-sfl: #0ea5e9;
@@ -281,7 +347,7 @@ def generate_html_landing_page(
             font-weight: 800;
             letter-spacing: -0.025em;
             margin-bottom: 0.75rem;
-            background: linear-gradient(135deg, #ffffff 0%, #94a3b8 100%);
+            background: linear-gradient(135deg, #ffffff 0%, #cbd5e1 100%);
             -webkit-background-clip: text;
             -webkit-text-fill-color: transparent;
         }}
@@ -291,22 +357,52 @@ def generate_html_landing_page(
             max-width: 720px;
             margin: 0 auto;
         }}
-        .section-title {{
-            font-size: 1.35rem;
-            font-weight: 700;
-            margin-bottom: 1.25rem;
-            display: flex;
-            align-items: center;
-            gap: 0.5rem;
-            color: #f1f5f9;
-        }}
         .card {{
             background: var(--card-bg);
             border: 1px solid var(--card-border);
             border-radius: 1rem;
             padding: 1.75rem;
             margin-bottom: 2rem;
-            box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.3);
+            box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.4);
+        }}
+        .section-header {{
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 1.25rem;
+            flex-wrap: wrap;
+            gap: 1rem;
+        }}
+        .section-title {{
+            font-size: 1.35rem;
+            font-weight: 700;
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            color: #f1f5f9;
+        }}
+        .lang-tabs {{
+            display: inline-flex;
+            background: rgba(11, 19, 41, 0.8);
+            border: 1px solid var(--card-border);
+            border-radius: 0.5rem;
+            padding: 0.25rem;
+            gap: 0.25rem;
+        }}
+        .lang-tab {{
+            background: transparent;
+            border: none;
+            color: var(--text-muted);
+            padding: 0.4rem 0.9rem;
+            border-radius: 0.375rem;
+            font-size: 0.85rem;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.2s ease;
+        }}
+        .lang-tab.active {{
+            background: var(--accent);
+            color: #ffffff;
         }}
         .grid-feeds {{
             display: grid;
@@ -315,17 +411,18 @@ def generate_html_landing_page(
             margin-bottom: 1.5rem;
         }}
         .feed-box {{
-            background: rgba(15, 23, 42, 0.6);
+            background: rgba(11, 19, 41, 0.6);
             border: 1px solid var(--card-border);
             border-radius: 0.75rem;
             padding: 1.25rem;
             display: flex;
             flex-direction: column;
             justify-content: space-between;
-            transition: border-color 0.2s ease;
+            transition: border-color 0.2s ease, transform 0.2s ease;
         }}
         .feed-box:hover {{
-            border-color: #475569;
+            border-color: #3b82f6;
+            transform: translateY(-2px);
         }}
         .feed-header {{
             display: flex;
@@ -346,101 +443,62 @@ def generate_html_landing_page(
             min-height: 2.6em;
         }}
         .url-box-container {{
-            background: #0f172a;
-            border: 1px solid #334155;
+            background: #080d1a;
+            border: 1px solid #243552;
             border-radius: 0.5rem;
             padding: 0.5rem 0.75rem;
             display: flex;
             align-items: center;
             justify-content: space-between;
             gap: 0.5rem;
+            margin-bottom: 0.75rem;
         }}
         .url-display {{
             font-size: 0.8rem;
             color: #94a3b8;
             word-break: break-all;
-            font-family: monospace;
+            font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
             flex: 1;
+        }}
+        .action-buttons {{
+            display: flex;
+            gap: 0.5rem;
+        }}
+        .btn-action {{
+            flex: 1;
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            gap: 0.4rem;
+            padding: 0.5rem 0.75rem;
+            border-radius: 0.375rem;
+            font-size: 0.825rem;
+            font-weight: 600;
+            border: none;
+            cursor: pointer;
+            text-decoration: none;
+            transition: all 0.2s ease;
         }}
         .btn-copy {{
             background: var(--accent);
             color: white;
-            padding: 0.45rem 0.85rem;
-            border-radius: 0.375rem;
-            font-size: 0.8rem;
-            font-weight: 600;
-            border: none;
-            cursor: pointer;
-            transition: background 0.2s ease;
-            white-space: nowrap;
-            display: inline-flex;
-            align-items: center;
-            gap: 0.35rem;
         }}
         .btn-copy:hover {{
             background: var(--accent-hover);
         }}
-        
-        /* Filter Bar */
-        .filter-section {{
-            background: rgba(15, 23, 42, 0.6);
-            border: 1px solid var(--card-border);
-            border-radius: 0.75rem;
-            padding: 1rem 1.25rem;
-            margin-bottom: 1.25rem;
-            display: flex;
-            flex-wrap: wrap;
-            align-items: center;
-            gap: 1rem;
+        .btn-webcal {{
+            background: rgba(59, 130, 246, 0.15);
+            color: #60a5fa;
+            border: 1px solid rgba(59, 130, 246, 0.3);
         }}
-        .filter-label {{
-            font-weight: 700;
-            font-size: 0.95rem;
-            color: #38bdf8;
+        .btn-webcal:hover {{
+            background: rgba(59, 130, 246, 0.25);
+            color: #93c5fd;
         }}
-        .filter-btn-clear {{
-            background: var(--accent);
-            color: white;
-            padding: 0.35rem 0.9rem;
-            border-radius: 9999px;
-            font-size: 0.8rem;
-            font-weight: 600;
-            border: none;
-            cursor: pointer;
-            transition: background 0.2s ease;
-        }}
-        .filter-btn-clear:hover {{
-            background: var(--accent-hover);
-        }}
-        .checkbox-group {{
-            display: flex;
-            flex-wrap: wrap;
-            gap: 1.25rem;
-            align-items: center;
-        }}
-        .checkbox-item {{
-            display: inline-flex;
-            align-items: center;
-            gap: 0.45rem;
-            font-size: 0.9rem;
-            font-weight: 500;
-            cursor: pointer;
-            user-select: none;
-        }}
-        .checkbox-item input[type="checkbox"] {{
-            width: 16px;
-            height: 16px;
-            accent-color: var(--accent);
-            cursor: pointer;
-        }}
-        .label-registration {{ color: var(--color-registration); }}
-        .label-administrative {{ color: var(--color-administrative); }}
-        .label-sfl {{ color: var(--color-sfl); }}
-        .label-instruction {{ color: var(--color-instruction); }}
-        .label-admission {{ color: var(--color-admission); }}
-
         .instructions {{
-            margin-top: 1rem;
+            margin-top: 1.25rem;
+            border-top: 1px solid var(--card-border);
+            padding-top: 1.25rem;
         }}
         .step-list {{
             list-style-position: inside;
@@ -450,24 +508,108 @@ def generate_html_landing_page(
             flex-direction: column;
             gap: 0.5rem;
         }}
-        .events-preview-header {{
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            margin-bottom: 1rem;
-            flex-wrap: wrap;
-            gap: 0.5rem;
+        .step-list strong {{
+            color: #e2e8f0;
         }}
+
+        /* Search & Filter Controls */
+        .preview-controls {{
+            display: flex;
+            flex-direction: column;
+            gap: 0.75rem;
+            margin-bottom: 1.25rem;
+        }}
+        .search-box {{
+            position: relative;
+            width: 100%;
+        }}
+        .search-box i {{
+            position: absolute;
+            left: 1rem;
+            top: 50%;
+            transform: translateY(-50%);
+            color: #64748b;
+        }}
+        .search-input {{
+            width: 100%;
+            background: rgba(11, 19, 41, 0.8);
+            border: 1px solid var(--card-border);
+            border-radius: 0.5rem;
+            padding: 0.65rem 1rem 0.65rem 2.5rem;
+            color: #ffffff;
+            font-size: 0.9rem;
+            outline: none;
+            transition: border-color 0.2s ease;
+        }}
+        .search-input:focus {{
+            border-color: var(--accent);
+        }}
+        .filter-section {{
+            background: rgba(11, 19, 41, 0.6);
+            border: 1px solid var(--card-border);
+            border-radius: 0.75rem;
+            padding: 0.85rem 1.25rem;
+            display: flex;
+            flex-wrap: wrap;
+            align-items: center;
+            gap: 1rem;
+        }}
+        .filter-label {{
+            font-weight: 700;
+            font-size: 0.9rem;
+            color: #38bdf8;
+        }}
+        .filter-btn-clear {{
+            background: rgba(255, 255, 255, 0.1);
+            color: #e2e8f0;
+            padding: 0.25rem 0.75rem;
+            border-radius: 9999px;
+            font-size: 0.75rem;
+            font-weight: 600;
+            border: 1px solid rgba(255, 255, 255, 0.15);
+            cursor: pointer;
+            transition: all 0.2s ease;
+        }}
+        .filter-btn-clear:hover {{
+            background: rgba(255, 255, 255, 0.2);
+        }}
+        .checkbox-group {{
+            display: flex;
+            flex-wrap: wrap;
+            gap: 1rem;
+            align-items: center;
+        }}
+        .checkbox-item {{
+            display: inline-flex;
+            align-items: center;
+            gap: 0.4rem;
+            font-size: 0.875rem;
+            font-weight: 500;
+            cursor: pointer;
+            user-select: none;
+        }}
+        .checkbox-item input[type="checkbox"] {{
+            width: 15px;
+            height: 15px;
+            accent-color: var(--accent);
+            cursor: pointer;
+        }}
+        .label-registration {{ color: var(--color-registration); }}
+        .label-administrative {{ color: var(--color-administrative); }}
+        .label-sfl {{ color: var(--color-sfl); }}
+        .label-instruction {{ color: var(--color-instruction); }}
+        .label-admission {{ color: var(--color-admission); }}
+
         .event-list {{
             display: flex;
             flex-direction: column;
             gap: 0.75rem;
-            max-height: 520px;
+            max-height: 540px;
             overflow-y: auto;
-            padding-right: 0.5rem;
+            padding-right: 0.25rem;
         }}
         .event-item {{
-            background: rgba(15, 23, 42, 0.5);
+            background: rgba(11, 19, 41, 0.5);
             border: 1px solid var(--card-border);
             border-radius: 0.5rem;
             padding: 0.85rem 1rem;
@@ -475,9 +617,10 @@ def generate_html_landing_page(
             justify-content: space-between;
             align-items: flex-start;
             gap: 1rem;
+            transition: border-color 0.2s ease;
         }}
         .event-item:hover {{
-            border-color: #475569;
+            border-color: #3b82f6;
         }}
         .event-info {{
             flex: 1;
@@ -502,7 +645,7 @@ def generate_html_landing_page(
             border-radius: 0.25rem;
             white-space: nowrap;
         }}
-        .tag-registration {{ background: rgba(139, 92, 246, 0.2); color: #c4b5fd; border: 1px solid rgba(139, 92, 246, 0.4); }}
+        .tag-registration {{ background: rgba(168, 85, 247, 0.2); color: #d8b4fe; border: 1px solid rgba(168, 85, 247, 0.4); }}
         .tag-instruction {{ background: rgba(16, 185, 129, 0.2); color: #6ee7b7; border: 1px solid rgba(16, 185, 129, 0.4); }}
         .tag-administrative {{ background: rgba(239, 68, 68, 0.2); color: #fca5a5; border: 1px solid rgba(239, 68, 68, 0.4); }}
         .tag-sfl {{ background: rgba(14, 165, 233, 0.2); color: #7dd3fc; border: 1px solid rgba(14, 165, 233, 0.4); }}
@@ -517,7 +660,6 @@ def generate_html_landing_page(
             background: rgba(255, 255, 255, 0.1);
             color: #cbd5e1;
         }}
-        
         footer {{
             text-align: center;
             padding: 2rem 0;
@@ -557,69 +699,81 @@ def generate_html_landing_page(
         </div>
         <h1>Bogazici Academic Calendar Feeds</h1>
         <p class="subtitle">
-            Official category-specific calendar feeds for Bogazici University. Copy any category link to subscribe in Google Calendar, Apple Calendar, or Outlook.
+            Official category-specific calendar feeds for Bogazici University. Subscribe easily to Google Calendar, Apple Calendar, or Microsoft Outlook.
         </p>
     </header>
 
     <!-- Calendar Feeds Section -->
     <div class="card">
-        <h2 class="section-title">Official Category Feeds</h2>
+        <div class="section-header">
+            <h2 class="section-title">Official Category Feeds</h2>
+            <div class="lang-tabs">
+                <button class="lang-tab active" id="tab-en" onclick="setLanguage('en')">English</button>
+                <button class="lang-tab" id="tab-tr" onclick="setLanguage('tr')">Türkçe</button>
+            </div>
+        </div>
+
         <div class="grid-feeds" id="feeds-container">
-            <!-- Dynamically populated via feeds metadata -->
+            <!-- Populated via JavaScript -->
         </div>
 
         <div class="instructions">
-            <h2 class="section-title" style="font-size: 1.1rem; margin-top: 1rem;">How to Use the ICS Link</h2>
+            <h2 class="section-title" style="font-size: 1.1rem; margin-bottom: 0.75rem;">How to Subscribe</h2>
             <ol class="step-list">
-                <li><strong>Google Calendar:</strong> Go to Other calendars (+) > From URL, paste the copied link, and click Add calendar.</li>
-                <li><strong>Apple Calendar (iPhone / Mac):</strong> Go to File > New Calendar Subscription, paste the link, and choose your auto-refresh frequency.</li>
-                <li><strong>Microsoft Outlook:</strong> Select Add Calendar > Subscribe from web, and paste the copied link.</li>
-                <li><strong>Automatic Sync:</strong> University schedule updates are automatically synced to your subscribed calendar.</li>
+                <li><strong>Apple Calendar (iOS / Mac) & Outlook:</strong> Click the <em>Subscribe (webcal)</em> button for direct 1-click subscription.</li>
+                <li><strong>Google Calendar:</strong> Click <em>Copy Link</em>, open Google Calendar, go to <em>Other calendars (+) > From URL</em>, and paste the link.</li>
+                <li><strong>Automatic Updates:</strong> When dates change on the university portal, your calendar syncs automatically.</li>
             </ol>
         </div>
     </div>
 
-    <!-- Upcoming Events Preview with Interactive Filtering -->
+    <!-- Upcoming Events Preview -->
     <div class="card">
-        <div class="events-preview-header">
-            <h2 class="section-title" style="margin-bottom: 0;">Upcoming Events Preview</h2>
-            <span style="font-size: 0.85rem; color: var(--text-muted);">Last Synchronized: {now_str}</span>
+        <div class="section-header">
+            <h2 class="section-title">Upcoming Events Preview</h2>
+            <span style="font-size: 0.85rem; color: var(--text-muted);">Last Sync: {now_str}</span>
         </div>
 
-        <!-- Filter Bar -->
-        <div class="filter-section">
-            <span class="filter-label">Filter Events:</span>
-            <button class="filter-btn-clear" onclick="toggleAllFilters()" id="btn-toggle-all">Clear All</button>
-            <div class="checkbox-group">
-                <label class="checkbox-item label-registration">
-                    <input type="checkbox" value="Registration" checked onchange="filterEvents()"> Registration
-                </label>
-                <label class="checkbox-item label-administrative">
-                    <input type="checkbox" value="Administrative" checked onchange="filterEvents()"> Administrative
-                </label>
-                <label class="checkbox-item label-sfl">
-                    <input type="checkbox" value="SFL" checked onchange="filterEvents()"> SFL / YADYOK
-                </label>
-                <label class="checkbox-item label-instruction">
-                    <input type="checkbox" value="Instruction" checked onchange="filterEvents()"> Instruction
-                </label>
-                <label class="checkbox-item label-admission">
-                    <input type="checkbox" value="Admission" checked onchange="filterEvents()"> Admission
-                </label>
+        <div class="preview-controls">
+            <div class="search-box">
+                <i class="fa-solid fa-magnifying-glass"></i>
+                <input type="text" class="search-input" id="search-input" placeholder="Search upcoming events..." oninput="filterEvents()">
+            </div>
+
+            <div class="filter-section">
+                <span class="filter-label">Categories:</span>
+                <button class="filter-btn-clear" onclick="toggleAllFilters()" id="btn-toggle-all">Clear All</button>
+                <div class="checkbox-group">
+                    <label class="checkbox-item label-registration">
+                        <input type="checkbox" value="Registration" checked onchange="filterEvents()"> Registration
+                    </label>
+                    <label class="checkbox-item label-administrative">
+                        <input type="checkbox" value="Administrative" checked onchange="filterEvents()"> Administrative
+                    </label>
+                    <label class="checkbox-item label-sfl">
+                        <input type="checkbox" value="SFL" checked onchange="filterEvents()"> SFL / YADYOK
+                    </label>
+                    <label class="checkbox-item label-instruction">
+                        <input type="checkbox" value="Instruction" checked onchange="filterEvents()"> Instruction
+                    </label>
+                    <label class="checkbox-item label-admission">
+                        <input type="checkbox" value="Admission" checked onchange="filterEvents()"> Admission
+                    </label>
+                </div>
             </div>
         </div>
 
         <div class="event-list" id="upcoming-list">
-            <!-- Populated via JS -->
+            <!-- Populated via JavaScript -->
         </div>
     </div>
 
     <footer>
         <p>
-            Data sourced from the official <a href="https://akademiktakvim.bogazici.edu.tr/" target="_blank">Bogazici University Academic Calendar</a> portal.
+            Data sourced directly from the official <a href="https://akademiktakvim.bogazici.edu.tr/" target="_blank" rel="noopener">Bogazici University Academic Calendar</a>.
         </p>
         <p style="margin-top: 0.5rem; opacity: 0.7;">
-            Open-source project deployed via GitHub Actions and GitHub Pages.
+            Synchronized and distributed via GitHub Actions &amp; GitHub Pages.
         </p>
     </footer>
 </div>
@@ -627,20 +781,35 @@ def generate_html_landing_page(
 <div class="toast" id="toast">ICS link copied to clipboard</div>
 
 <script>
-    const feeds = {feeds_json};
+    const feedsEn = {feeds_en_json};
+    const feedsTr = {feeds_tr_json};
     const eventsEn = {upcoming_json_en};
-    
+    let currentLang = 'en';
+
     function getFullIcsUrl(filename) {{
-        return window.location.href.split('#')[0].split('?')[0].replace(/index\.html$/, '') + filename;
+        return new URL(filename, window.location.href).href;
+    }}
+
+    function getWebcalUrl(filename) {{
+        const fullUrl = getFullIcsUrl(filename);
+        return fullUrl.replace(/^https?:\\/\\//i, 'webcal://');
     }}
 
     function copyIcsUrl(filename) {{
         const url = getFullIcsUrl(filename);
-        navigator.clipboard.writeText(url).then(() => {{
-            showToast('ICS link copied to clipboard');
-        }}).catch(() => {{
-            prompt('ICS Link:', url);
-        }});
+        if (navigator.clipboard && navigator.clipboard.writeText) {{
+            navigator.clipboard.writeText(url).then(() => {{
+                showToast('ICS link copied to clipboard');
+            }}).catch(() => {{
+                fallbackCopy(url);
+            }});
+        }} else {{
+            fallbackCopy(url);
+        }}
+    }}
+
+    function fallbackCopy(url) {{
+        prompt('Copy calendar link:', url);
     }}
 
     function showToast(msg) {{
@@ -650,25 +819,48 @@ def generate_html_landing_page(
         setTimeout(() => {{ toast.style.display = 'none'; }}, 2500);
     }}
 
+    function setLanguage(lang) {{
+        currentLang = lang;
+        document.getElementById('tab-en').classList.toggle('active', lang === 'en');
+        document.getElementById('tab-tr').classList.toggle('active', lang === 'tr');
+        renderFeeds();
+    }}
+
     function renderFeeds() {{
+        const feeds = currentLang === 'en' ? feedsEn : feedsTr;
         const container = document.getElementById('feeds-container');
-        container.innerHTML = feeds.map(f => `
-            <div class="feed-box">
-                <div>
-                    <div class="feed-header">
-                        <h3>${{f.title}}</h3>
-                        <span class="badge-count">${{f.count}} events</span>
+        container.innerHTML = feeds.map(f => {{
+            const url = getFullIcsUrl(f.filename);
+            const webcal = getWebcalUrl(f.filename);
+            const eventsLabel = currentLang === 'en' ? 'events' : 'etkinlik';
+            const copyLabel = currentLang === 'en' ? 'Copy Link' : 'Linki Kopyala';
+            const subscribeLabel = currentLang === 'en' ? 'Subscribe' : 'Abone Ol';
+
+            return `
+                <div class="feed-box">
+                    <div>
+                        <div class="feed-header">
+                            <h3>` + f.title + `</h3>
+                            <span class="badge-count">` + f.count + ` ` + eventsLabel + `</span>
+                        </div>
+                        <p>` + f.description + `</p>
                     </div>
-                    <p>${{f.description}}</p>
+                    <div>
+                        <div class="url-box-container">
+                            <span class="url-display">` + url + `</span>
+                        </div>
+                        <div class="action-buttons">
+                            <button class="btn-action btn-copy" onclick="copyIcsUrl('` + f.filename + `')">
+                                <i class="fa-solid fa-copy"></i> ` + copyLabel + `
+                            </button>
+                            <a class="btn-action btn-webcal" href="` + webcal + `">
+                                <i class="fa-solid fa-calendar-plus"></i> ` + subscribeLabel + `
+                            </a>
+                        </div>
+                    </div>
                 </div>
-                <div class="url-box-container">
-                    <span class="url-display" id="url-${{f.filename}}">${{getFullIcsUrl(f.filename)}}</span>
-                    <button class="btn-copy" onclick="copyIcsUrl('${{f.filename}}')">
-                        <i class="fa-solid fa-copy"></i> Copy
-                    </button>
-                </div>
-            </div>
-        `).join('');
+            `;
+        }}).join('');
     }}
 
     function getSelectedCategories() {{
@@ -686,14 +878,22 @@ def generate_html_landing_page(
 
     function filterEvents() {{
         const selected = getSelectedCategories();
+        const searchQuery = (document.getElementById('search-input').value || '').trim().toLowerCase();
+
         const filtered = eventsEn.filter(ev => {{
             const cat = (ev.kategoriadi || '').toLowerCase();
-            return selected.some(s => cat.includes(s));
+            const title = (ev.adi || '').toLowerCase();
+            const desc = (ev.aciklama || '').toLowerCase();
+
+            const matchesCategory = selected.some(s => cat.includes(s));
+            const matchesSearch = !searchQuery || title.includes(searchQuery) || desc.includes(searchQuery);
+
+            return matchesCategory && matchesSearch;
         }});
 
         const container = document.getElementById('upcoming-list');
         if (filtered.length === 0) {{
-            container.innerHTML = '<p style="color: var(--text-muted); padding: 1.5rem; text-align: center;">No matching events found for the selected categories.</p>';
+            container.innerHTML = '<p style="color: var(--text-muted); padding: 1.5rem; text-align: center;">No matching events found.</p>';
             return;
         }}
 
@@ -732,11 +932,13 @@ def generate_html_landing_page(
 </html>
 """
 
-def main():
+
+def main() -> None:
+    """Main execution entry point."""
     output_dir = Path(os.environ.get("OUTPUT_DIR", "dist"))
     output_dir.mkdir(parents=True, exist_ok=True)
 
-    current_year = datetime.now().year
+    current_year = datetime.now(TR_TZ).year
     start_date = f"{current_year - 1}-01-01"
     end_date = f"{current_year + 2}-12-31"
 
@@ -749,63 +951,81 @@ def main():
     print(f"Fetched {len(events_tr)} events in Turkish.")
 
     if not events_en and not events_tr:
-        print("Warning: No events fetched. Check network or API.")
+        print("Error: No events could be fetched. Check network connectivity or API status.")
         return
 
-    feed_metadata = []
+    feeds_en_meta: List[Dict[str, Any]] = []
+    feeds_tr_meta: List[Dict[str, Any]] = []
 
-    # Generate exact 1-to-1 category-specific feeds (no complete feed)
+    # Generate exact 1-to-1 category-specific feeds
     for cat in CATEGORIES:
         kat_id = cat["kat_id"]
 
-        # English Category Feed
-        filtered_en = [e for e in events_en if str(e.get("kat_id", "")) == kat_id]
+        # English Feed
+        filtered_en = [e for e in events_en if str(e.get("kat_id", "")).strip() == kat_id]
         if filtered_en:
-            cat_ics_en = generate_ics(
+            ics_bytes_en = generate_ics(
                 filtered_en,
                 cal_name=f"Bogazici Academic Calendar - {cat['title']}",
                 cal_desc=f"Bogazici University {cat['title']} Calendar",
                 lang="en"
             )
             fn_en = f"{cat['slug']}.ics"
-            with open(output_dir / fn_en, "w", encoding="utf-8") as f:
-                f.write(cat_ics_en)
+            with open(output_dir / fn_en, "wb") as f:
+                f.write(ics_bytes_en)
             print(f"Saved category feed: {output_dir / fn_en} ({len(filtered_en)} events)")
 
-            feed_metadata.append({
+            feeds_en_meta.append({
                 "filename": fn_en,
                 "title": cat["title"],
                 "description": cat["description"],
                 "count": len(filtered_en)
             })
 
-        # Turkish Category Feed
-        filtered_tr = [e for e in events_tr if str(e.get("kat_id", "")) == kat_id]
+        # Turkish Feed
+        filtered_tr = [e for e in events_tr if str(e.get("kat_id", "")).strip() == kat_id]
         if filtered_tr:
-            cat_ics_tr = generate_ics(
+            ics_bytes_tr = generate_ics(
                 filtered_tr,
                 cal_name=f"Bogazici Akademik Takvim - {cat['title_tr']}",
-                cal_desc=f"Bogazici Universitesi {cat['title_tr']} Takvimi",
+                cal_desc=f"Boğaziçi Üniversitesi {cat['title_tr']} Takvimi",
                 lang="tr"
             )
             fn_tr = f"{cat['slug_tr']}.ics"
-            with open(output_dir / fn_tr, "w", encoding="utf-8") as f:
-                f.write(cat_ics_tr)
+            with open(output_dir / fn_tr, "wb") as f:
+                f.write(ics_bytes_tr)
             print(f"Saved Turkish category feed: {output_dir / fn_tr} ({len(filtered_tr)} events)")
 
-    # Save JSON files
+            feeds_tr_meta.append({
+                "filename": fn_tr,
+                "title": cat["title_tr"],
+                "description": cat.get("description_tr", cat["description"]),
+                "count": len(filtered_tr)
+            })
+
+    # Save structured JSON data
+    sorted_events_en = sorted(events_en, key=lambda x: str(x.get("start_date", "")))
+    sorted_events_tr = sorted(events_tr, key=lambda x: str(x.get("start_date", "")))
+
     with open(output_dir / "events-en.json", "w", encoding="utf-8") as f:
-        json.dump(events_en, f, ensure_ascii=False, indent=2)
+        json.dump(sorted_events_en, f, ensure_ascii=False, indent=2)
     with open(output_dir / "events-tr.json", "w", encoding="utf-8") as f:
-        json.dump(events_tr, f, ensure_ascii=False, indent=2)
+        json.dump(sorted_events_tr, f, ensure_ascii=False, indent=2)
 
     # Generate HTML landing page
-    html_content = generate_html_landing_page(events_en, feed_metadata)
+    html_content = generate_html_landing_page(
+        events_en=sorted_events_en,
+        events_tr=sorted_events_tr,
+        feeds_en=feeds_en_meta,
+        feeds_tr=feeds_tr_meta
+    )
     with open(output_dir / "index.html", "w", encoding="utf-8") as f:
         f.write(html_content)
     print(f"Saved landing page {output_dir / 'index.html'}")
 
     print("Sync completed successfully!")
 
+
 if __name__ == "__main__":
     main()
+
