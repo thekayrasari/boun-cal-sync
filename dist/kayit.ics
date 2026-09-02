@@ -10,7 +10,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:boun-academic-8860@bogazici.edu.tr
-DTSTAMP:20260901T190017Z
+DTSTAMP:20260902T081435Z
 DTSTART;VALUE=DATE:20250130
 DTEND;VALUE=DATE:20250201
 SUMMARY:Uluslararası misafir öğrenci ve uluslararası değişim öğrenc
@@ -26,7 +26,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/uluslararasi-
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-8861@bogazici.edu.tr
-DTSTAMP:20260901T190017Z
+DTSTAMP:20260902T081435Z
 DTSTART;VALUE=DATE:20250130
 DTEND;VALUE=DATE:20250131
 SUMMARY:Lisansüstü programlara asıl listeden kabul alan öğrencilerin 
@@ -42,7 +42,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/lisansustu-pr
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-8865@bogazici.edu.tr
-DTSTAMP:20260901T190017Z
+DTSTAMP:20260902T081435Z
 DTSTART;VALUE=DATE:20250131
 DTEND;VALUE=DATE:20250201
 SUMMARY:Lisansüstü programlara yedek listeden kabul edilen öğrencilerin
@@ -58,7 +58,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/lisansustu-pr
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-8867@bogazici.edu.tr
-DTSTAMP:20260901T190017Z
+DTSTAMP:20260902T081435Z
 DTSTART;VALUE=DATE:20250131
 DTEND;VALUE=DATE:20250201
 SUMMARY:Kayıt ödeme sisteminin açılışı (10:00)
@@ -73,7 +73,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/kayit-odeme-s
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-8873@bogazici.edu.tr
-DTSTAMP:20260901T190017Z
+DTSTAMP:20260902T081435Z
 DTSTART;VALUE=DATE:20250205
 DTEND;VALUE=DATE:20250206
 SUMMARY:Akademik kayıt danışmanı ile görüşme günü
@@ -88,7 +88,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/akademik-kayi
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-8874@bogazici.edu.tr
-DTSTAMP:20260901T190017Z
+DTSTAMP:20260902T081435Z
 DTSTART;VALUE=DATE:20250206
 DTEND;VALUE=DATE:20250207
 SUMMARY:Ders onay (consent) sisteminin öğrenciye kapanışı (14:00)
@@ -103,7 +103,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-onay-con
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-8875@bogazici.edu.tr
-DTSTAMP:20260901T190017Z
+DTSTAMP:20260902T081435Z
 DTSTART;VALUE=DATE:20250206
 DTEND;VALUE=DATE:20250207
 SUMMARY:Ders onay (consent) sisteminin öğretim elemanına kapanışı (21
@@ -119,7 +119,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-onay-con
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-8876@bogazici.edu.tr
-DTSTAMP:20260901T190017Z
+DTSTAMP:20260902T081435Z
 DTSTART;VALUE=DATE:20250206
 DTEND;VALUE=DATE:20250207
 SUMMARY:Akademik kayıt sisteminin öğrenci erişimine kapanışı (23:59)
@@ -134,7 +134,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/akademik-kayi
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-8877@bogazici.edu.tr
-DTSTAMP:20260901T190017Z
+DTSTAMP:20260902T081435Z
 DTSTART;VALUE=DATE:20250207
 DTEND;VALUE=DATE:20250208
 SUMMARY:Akademik kayıt sisteminin danışman erişimine kapanışı (23:59
@@ -150,7 +150,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/akademik-kayi
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-8878@bogazici.edu.tr
-DTSTAMP:20260901T190017Z
+DTSTAMP:20260902T081435Z
 DTSTART;VALUE=DATE:20250208
 DTEND;VALUE=DATE:20250209
 SUMMARY:Programı danışman tarafından reddedilen öğrenciler ve danış
@@ -166,7 +166,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/programi-dani
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-8880@bogazici.edu.tr
-DTSTAMP:20260901T190017Z
+DTSTAMP:20260902T081435Z
 DTSTART;VALUE=DATE:20250210
 DTEND;VALUE=DATE:20250211
 SUMMARY:Programı reddedilen öğrenciler için ders onayı (consent) siste
@@ -182,7 +182,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/programi-redd
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-8881@bogazici.edu.tr
-DTSTAMP:20260901T190017Z
+DTSTAMP:20260902T081435Z
 DTSTART;VALUE=DATE:20250210
 DTEND;VALUE=DATE:20250211
 SUMMARY:Programı reddedilen öğrenciler için ders onayı (consent) siste
@@ -198,7 +198,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/programi-redd
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-8882@bogazici.edu.tr
-DTSTAMP:20260901T190017Z
+DTSTAMP:20260902T081435Z
 DTSTART;VALUE=DATE:20250210
 DTEND;VALUE=DATE:20250211
 SUMMARY:Programı reddedilen öğrenciler için akademik kayıt sisteminin 
@@ -214,7 +214,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/programi-redd
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-8883@bogazici.edu.tr
-DTSTAMP:20260901T190017Z
+DTSTAMP:20260902T081435Z
 DTSTART;VALUE=DATE:20250211
 DTEND;VALUE=DATE:20250212
 SUMMARY:Programı reddedilen öğrenciler için akademik kayıt sisteminin 
@@ -230,7 +230,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/programi-redd
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-8887@bogazici.edu.tr
-DTSTAMP:20260901T190017Z
+DTSTAMP:20260902T081435Z
 DTSTART;VALUE=DATE:20250219
 DTEND;VALUE=DATE:20250220
 SUMMARY:Ders onayı (consent) sisteminin öğrenciye kapanışı (14:00)
@@ -245,7 +245,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-onayi-co
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-8897@bogazici.edu.tr
-DTSTAMP:20260901T190017Z
+DTSTAMP:20260902T081435Z
 DTSTART;VALUE=DATE:20250414
 DTEND;VALUE=DATE:20250415
 SUMMARY:Dersten çekilme için akademik kayıt sisteminin açılışı (10:
@@ -261,7 +261,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/dersten-cekil
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-8900@bogazici.edu.tr
-DTSTAMP:20260901T190017Z
+DTSTAMP:20260902T081435Z
 DTSTART;VALUE=DATE:20250414
 DTEND;VALUE=DATE:20250415
 SUMMARY:Yaz Öğretimi ön kayıt ödeme sisteminin açılışı (10:00)
@@ -276,7 +276,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-8902@bogazici.edu.tr
-DTSTAMP:20260901T190017Z
+DTSTAMP:20260902T081435Z
 DTSTART;VALUE=DATE:20250415
 DTEND;VALUE=DATE:20250416
 SUMMARY:Akademik kayıt danışmanı ile görüşme günü
@@ -291,7 +291,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/akademik-kayi
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-8904@bogazici.edu.tr
-DTSTAMP:20260901T190017Z
+DTSTAMP:20260902T081435Z
 DTSTART;VALUE=DATE:20250417
 DTEND;VALUE=DATE:20250418
 SUMMARY:Dersten çekilme için akademik kayıt sisteminin öğrenci erişim
@@ -307,7 +307,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/dersten-cekil
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-8905@bogazici.edu.tr
-DTSTAMP:20260901T190017Z
+DTSTAMP:20260902T081435Z
 DTSTART;VALUE=DATE:20250418
 DTEND;VALUE=DATE:20250419
 SUMMARY:Dersten çekilme için akademik kayıt sisteminin danışman erişi
@@ -323,7 +323,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/dersten-cekil
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-8912@bogazici.edu.tr
-DTSTAMP:20260901T190017Z
+DTSTAMP:20260902T081435Z
 DTSTART;VALUE=DATE:20250507
 DTEND;VALUE=DATE:20250510
 SUMMARY:Yaz Öğretimi ön kayıtları
@@ -338,7 +338,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-8913@bogazici.edu.tr
-DTSTAMP:20260901T190017Z
+DTSTAMP:20260902T081435Z
 DTSTART;VALUE=DATE:20250509
 DTEND;VALUE=DATE:20250510
 SUMMARY:Yarıyıl izni başvurusu için son gün
@@ -353,7 +353,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yariyil-izni-
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-8915@bogazici.edu.tr
-DTSTAMP:20260901T190017Z
+DTSTAMP:20260902T081435Z
 DTSTART;VALUE=DATE:20250509
 DTEND;VALUE=DATE:20250510
 SUMMARY:Yaz Öğretimi ön kayıt ödeme sisteminin kapanışı (16:00)
@@ -368,7 +368,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-8931@bogazici.edu.tr
-DTSTAMP:20260901T190017Z
+DTSTAMP:20260902T081435Z
 DTSTART;VALUE=DATE:20250610
 DTEND;VALUE=DATE:20250611
 SUMMARY:Yaz Öğretimi kayıt ödeme sisteminin açılışı (10:00)
@@ -383,7 +383,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-8939@bogazici.edu.tr
-DTSTAMP:20260901T190017Z
+DTSTAMP:20260902T081435Z
 DTSTART;VALUE=DATE:20250619
 DTEND;VALUE=DATE:20250620
 SUMMARY:Yaz Öğretimi kesin kayıtları ve II. Öğretim Yüksek Lisans Pr
@@ -400,7 +400,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-8940@bogazici.edu.tr
-DTSTAMP:20260901T190017Z
+DTSTAMP:20260902T081435Z
 DTSTART;VALUE=DATE:20250619
 DTEND;VALUE=DATE:20250621
 SUMMARY:Yaz Öğretimi kesin kayıtları ve II. Öğretim Yüksek Lisans Pr
@@ -416,7 +416,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-8941@bogazici.edu.tr
-DTSTAMP:20260901T190017Z
+DTSTAMP:20260902T081435Z
 DTSTART;VALUE=DATE:20250620
 DTEND;VALUE=DATE:20250621
 SUMMARY:Kayıt ödeme sisteminin kapanışı (16:00)
@@ -431,7 +431,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/kayit-odeme-s
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-8942@bogazici.edu.tr
-DTSTAMP:20260901T190017Z
+DTSTAMP:20260902T081435Z
 DTSTART;VALUE=DATE:20250620
 DTEND;VALUE=DATE:20250621
 SUMMARY:Ders onayı (consent) sisteminin öğrenciye kapanışı (20:00)
@@ -446,7 +446,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-onayi-co
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-8943@bogazici.edu.tr
-DTSTAMP:20260901T190017Z
+DTSTAMP:20260902T081435Z
 DTSTART;VALUE=DATE:20250620
 DTEND;VALUE=DATE:20250621
 SUMMARY:Ders onayı (consent) sisteminin öğretim elemanına kapanışı (
@@ -462,7 +462,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-onayi-co
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-8945@bogazici.edu.tr
-DTSTAMP:20260901T190017Z
+DTSTAMP:20260902T081435Z
 DTSTART;VALUE=DATE:20250620
 DTEND;VALUE=DATE:20250621
 SUMMARY:Yaz Öğretimi kesin kayıtları ve II. Öğretim Yüksek Lisans Pr
@@ -479,7 +479,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-8948@bogazici.edu.tr
-DTSTAMP:20260901T190017Z
+DTSTAMP:20260902T081435Z
 DTSTART;VALUE=DATE:20250623
 DTEND;VALUE=DATE:20250624
 SUMMARY:Yaz Öğretimi kesin kayıtları ve II. Öğretim Yüksek Lisans Pr
@@ -496,7 +496,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-8954@bogazici.edu.tr
-DTSTAMP:20260901T190017Z
+DTSTAMP:20260902T081435Z
 DTSTART;VALUE=DATE:20250630
 DTEND;VALUE=DATE:20250701
 SUMMARY:Yaz öğretimi ve II. Öğretim Yüksek Lisans Programlarının Yaz
@@ -513,7 +513,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-8957@bogazici.edu.tr
-DTSTAMP:20260901T190017Z
+DTSTAMP:20260902T081435Z
 DTSTART;VALUE=DATE:20250703
 DTEND;VALUE=DATE:20250705
 SUMMARY:Yaz Öğretimi ve II. Öğretim Yüksek Lisans Programlarının Yaz
@@ -529,7 +529,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-8958@bogazici.edu.tr
-DTSTAMP:20260901T190017Z
+DTSTAMP:20260902T081435Z
 DTSTART;VALUE=DATE:20250704
 DTEND;VALUE=DATE:20250705
 SUMMARY:Ders onayı (consent) sisteminin öğrenciye kapanışı (20:00)
@@ -544,7 +544,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-onayi-co
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-8959@bogazici.edu.tr
-DTSTAMP:20260901T190017Z
+DTSTAMP:20260902T081435Z
 DTSTART;VALUE=DATE:20250704
 DTEND;VALUE=DATE:20250705
 SUMMARY:Kayıt ödeme sisteminin kapanışı (16:00)
@@ -559,7 +559,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/kayit-odeme-s
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-8960@bogazici.edu.tr
-DTSTAMP:20260901T190017Z
+DTSTAMP:20260902T081435Z
 DTSTART;VALUE=DATE:20250704
 DTEND;VALUE=DATE:20250705
 SUMMARY:Ders onayı (consent) sisteminin öğretim elemanına kapanışı (
@@ -575,7 +575,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-onayi-co
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-8961@bogazici.edu.tr
-DTSTAMP:20260901T190017Z
+DTSTAMP:20260902T081435Z
 DTSTART;VALUE=DATE:20250704
 DTEND;VALUE=DATE:20250705
 SUMMARY:Yaz Öğretimi ve II. Öğretim Yüksek Lisans Programlarının Yaz
@@ -592,7 +592,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-8963@bogazici.edu.tr
-DTSTAMP:20260901T190017Z
+DTSTAMP:20260902T081435Z
 DTSTART;VALUE=DATE:20250707
 DTEND;VALUE=DATE:20250708
 SUMMARY:Yaz Öğretimi ve II. Öğretim Yüksek Lisans Programlarının Yaz
@@ -609,7 +609,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-8973@bogazici.edu.tr
-DTSTAMP:20260901T190017Z
+DTSTAMP:20260902T081435Z
 DTSTART;VALUE=DATE:20250731
 DTEND;VALUE=DATE:20250802
 SUMMARY:Yaz Dönemi ve II. Öğretim Yüksek Lisans Programlarının Yaz D
@@ -625,7 +625,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-donemi-ve
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-8974@bogazici.edu.tr
-DTSTAMP:20260901T190017Z
+DTSTAMP:20260902T081435Z
 DTSTART;VALUE=DATE:20250731
 DTEND;VALUE=DATE:20250801
 SUMMARY:Yaz Öğretimi ve II. Öğretim Yüksek Lisans Programlarının Yaz
@@ -642,7 +642,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-8984@bogazici.edu.tr
-DTSTAMP:20260901T190017Z
+DTSTAMP:20260902T081435Z
 DTSTART;VALUE=DATE:20250801
 DTEND;VALUE=DATE:20250802
 SUMMARY:Yaz Öğretimi ve II. Öğretim Yüksek Lisans Programlarının Yaz
@@ -659,7 +659,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-8985@bogazici.edu.tr
-DTSTAMP:20260901T190017Z
+DTSTAMP:20260902T081435Z
 DTSTART;VALUE=DATE:20250801
 DTEND;VALUE=DATE:20250802
 SUMMARY:II. Öğretim Yüksek Lisans Programlarının Yaz Dönemi dersten 
@@ -676,7 +676,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ii-ogretim-yu
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-8999@bogazici.edu.tr
-DTSTAMP:20260901T190017Z
+DTSTAMP:20260902T081435Z
 DTSTART;VALUE=DATE:20250821
 DTEND;VALUE=DATE:20250823
 SUMMARY:Uluslararası Misafir öğrenci ve Uluslararası Değişim öğrenc
@@ -692,7 +692,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/uluslararasi-
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-9012@bogazici.edu.tr
-DTSTAMP:20260901T190017Z
+DTSTAMP:20260902T081435Z
 DTSTART;VALUE=DATE:20250909
 DTEND;VALUE=DATE:20250910
 SUMMARY:Kayıt ödeme sistemi açılışı (10:00)
@@ -707,7 +707,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/kayit-odeme-s
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-9017@bogazici.edu.tr
-DTSTAMP:20260901T190017Z
+DTSTAMP:20260902T081435Z
 DTSTART;VALUE=DATE:20250916
 DTEND;VALUE=DATE:20250917
 SUMMARY:Akademik kayıt sisteminin açılışı (10:00)
@@ -722,7 +722,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/akademik-kayi
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-9018@bogazici.edu.tr
-DTSTAMP:20260901T190017Z
+DTSTAMP:20260902T081435Z
 DTSTART;VALUE=DATE:20250917
 DTEND;VALUE=DATE:20250918
 SUMMARY:Akademik kayıt danışmanı ile görüşme günü
@@ -737,7 +737,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/akademik-kayi
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-9019@bogazici.edu.tr
-DTSTAMP:20260901T190017Z
+DTSTAMP:20260902T081435Z
 DTSTART;VALUE=DATE:20250918
 DTEND;VALUE=DATE:20250919
 SUMMARY:Ders onay (consent) sisteminin öğrenciye kapanışı (14:00)
@@ -752,7 +752,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-onay-con
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-9020@bogazici.edu.tr
-DTSTAMP:20260901T190017Z
+DTSTAMP:20260902T081435Z
 DTSTART;VALUE=DATE:20250918
 DTEND;VALUE=DATE:20250919
 SUMMARY:Ders onay (consent) sisteminin öğretim elemanına kapanışı (21
@@ -768,7 +768,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-onay-con
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-9021@bogazici.edu.tr
-DTSTAMP:20260901T190017Z
+DTSTAMP:20260902T081435Z
 DTSTART;VALUE=DATE:20250918
 DTEND;VALUE=DATE:20250919
 SUMMARY:Akademik kayıt sisteminin öğrenci erişimine kapanışı (23:59)
@@ -783,7 +783,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/akademik-kayi
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-9030@bogazici.edu.tr
-DTSTAMP:20260901T190017Z
+DTSTAMP:20260902T081435Z
 DTSTART;VALUE=DATE:20250929
 DTEND;VALUE=DATE:20251002
 SUMMARY:Ders ekleme/bırakma dönemi
@@ -798,7 +798,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-eklemebi
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-9031@bogazici.edu.tr
-DTSTAMP:20260901T190017Z
+DTSTAMP:20260902T081435Z
 DTSTART;VALUE=DATE:20250929
 DTEND;VALUE=DATE:20250930
 SUMMARY:Ders ekleme/bırakma dönemi için akademik kayıt sisteminin açı
@@ -814,7 +814,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-eklemebi
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-9036@bogazici.edu.tr
-DTSTAMP:20260901T190017Z
+DTSTAMP:20260902T081435Z
 DTSTART;VALUE=DATE:20251001
 DTEND;VALUE=DATE:20251002
 SUMMARY:Ders ekleme/bırakma dönemi için akademik kayıt sisteminin öğr
@@ -830,7 +830,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-eklemebi
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-9037@bogazici.edu.tr
-DTSTAMP:20260901T190017Z
+DTSTAMP:20260902T081435Z
 DTSTART;VALUE=DATE:20251002
 DTEND;VALUE=DATE:20251003
 SUMMARY:Ders ekleme/bırakma dönemi için akademik kayıt sisteminin danı
@@ -846,7 +846,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-eklemebi
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-9048@bogazici.edu.tr
-DTSTAMP:20260901T190017Z
+DTSTAMP:20260902T081435Z
 DTSTART;VALUE=DATE:20251117
 DTEND;VALUE=DATE:20251118
 SUMMARY:Dersten çekilme için akademik kayıt sisteminin açılışı (10:
@@ -862,7 +862,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/dersten-cekil
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-9049@bogazici.edu.tr
-DTSTAMP:20260901T190017Z
+DTSTAMP:20260902T081435Z
 DTSTART;VALUE=DATE:20251118
 DTEND;VALUE=DATE:20251119
 SUMMARY:Akademik Kayıt Danışmanı ile görüşme günü
@@ -877,7 +877,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/akademik-kayi
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-9052@bogazici.edu.tr
-DTSTAMP:20260901T190017Z
+DTSTAMP:20260902T081435Z
 DTSTART;VALUE=DATE:20251120
 DTEND;VALUE=DATE:20251121
 SUMMARY:Dersten çekilme için akademik kayıt sisteminin öğrenci erişim
@@ -893,7 +893,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/dersten-cekil
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-9053@bogazici.edu.tr
-DTSTAMP:20260901T190017Z
+DTSTAMP:20260902T081435Z
 DTSTART;VALUE=DATE:20251121
 DTEND;VALUE=DATE:20251122
 SUMMARY:Dersten çekilme için akademik kayıt sisteminin danışman erişi
@@ -909,7 +909,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/dersten-cekil
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-9056@bogazici.edu.tr
-DTSTAMP:20260901T190017Z
+DTSTAMP:20260902T081435Z
 DTSTART;VALUE=DATE:20251212
 DTEND;VALUE=DATE:20251213
 SUMMARY:Yarıyıl izni başvurusu için son gün
@@ -924,7 +924,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yariyil-izni-
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-9092@bogazici.edu.tr
-DTSTAMP:20260901T190017Z
+DTSTAMP:20260902T081435Z
 DTSTART;VALUE=DATE:20260129
 DTEND;VALUE=DATE:20260131
 SUMMARY:Uluslararası misafir öğrenci ve uluslararası değişim öğrenc
@@ -940,7 +940,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/uluslararasi-
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-9094@bogazici.edu.tr
-DTSTAMP:20260901T190017Z
+DTSTAMP:20260902T081435Z
 DTSTART;VALUE=DATE:20260129
 DTEND;VALUE=DATE:20260130
 SUMMARY:Lisansüstü programlara asıl listeden kabul alan öğrencilerin 
@@ -956,7 +956,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/lisansustu-pr
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-9097@bogazici.edu.tr
-DTSTAMP:20260901T190017Z
+DTSTAMP:20260902T081435Z
 DTSTART;VALUE=DATE:20260130
 DTEND;VALUE=DATE:20260131
 SUMMARY:Lisansüstü programlara yedek listeden kabul edilen öğrencilerin
@@ -972,7 +972,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/lisansustu-pr
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-9099@bogazici.edu.tr
-DTSTAMP:20260901T190017Z
+DTSTAMP:20260902T081435Z
 DTSTART;VALUE=DATE:20260130
 DTEND;VALUE=DATE:20260131
 SUMMARY:Kayıt ödeme sisteminin açılışı (10:00)
@@ -987,7 +987,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/kayit-odeme-s
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-9106@bogazici.edu.tr
-DTSTAMP:20260901T190017Z
+DTSTAMP:20260902T081435Z
 DTSTART;VALUE=DATE:20260205
 DTEND;VALUE=DATE:20260206
 SUMMARY:Ders onay (consent) sisteminin öğrenciye kapanışı (14:00)
@@ -1002,7 +1002,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-onay-con
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-9107@bogazici.edu.tr
-DTSTAMP:20260901T190017Z
+DTSTAMP:20260902T081435Z
 DTSTART;VALUE=DATE:20260205
 DTEND;VALUE=DATE:20260206
 SUMMARY:Ders onay (consent) sisteminin öğretim elemanına kapanışı (21
@@ -1018,7 +1018,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-onay-con
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-9108@bogazici.edu.tr
-DTSTAMP:20260901T190017Z
+DTSTAMP:20260902T081435Z
 DTSTART;VALUE=DATE:20260205
 DTEND;VALUE=DATE:20260206
 SUMMARY:Akademik kayıt sisteminin öğrenci erişimine kapanışı (23:59)
@@ -1033,7 +1033,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/akademik-kayi
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-9109@bogazici.edu.tr
-DTSTAMP:20260901T190017Z
+DTSTAMP:20260902T081435Z
 DTSTART;VALUE=DATE:20260206
 DTEND;VALUE=DATE:20260207
 SUMMARY:Akademik kayıt sisteminin danışman erişimine kapanışı (23:59
@@ -1049,7 +1049,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/akademik-kayi
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-9112@bogazici.edu.tr
-DTSTAMP:20260901T190017Z
+DTSTAMP:20260902T081435Z
 DTSTART;VALUE=DATE:20260216
 DTEND;VALUE=DATE:20260217
 SUMMARY:Ders ekleme/bırakma dönemi için akademik kayıt sisteminin açı
@@ -1065,7 +1065,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-eklemebi
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-9113@bogazici.edu.tr
-DTSTAMP:20260901T190017Z
+DTSTAMP:20260902T081435Z
 DTSTART;VALUE=DATE:20260218
 DTEND;VALUE=DATE:20260219
 SUMMARY:Kayıt ödeme sisteminin kapanışı (17:00)
@@ -1080,7 +1080,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/kayit-odeme-s
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-9124@bogazici.edu.tr
-DTSTAMP:20260901T190017Z
+DTSTAMP:20260902T081435Z
 DTSTART;VALUE=DATE:20260413
 DTEND;VALUE=DATE:20260414
 SUMMARY:Dersten çekilme için akademik kayıt sisteminin açılışı (10:
@@ -1096,7 +1096,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/dersten-cekil
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-9126@bogazici.edu.tr
-DTSTAMP:20260901T190017Z
+DTSTAMP:20260902T081435Z
 DTSTART;VALUE=DATE:20260413
 DTEND;VALUE=DATE:20260414
 SUMMARY:Yaz Öğretimi ön kayıt ödeme sisteminin açılışı (10:00)
@@ -1111,7 +1111,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-9128@bogazici.edu.tr
-DTSTAMP:20260901T190017Z
+DTSTAMP:20260902T081435Z
 DTSTART;VALUE=DATE:20260414
 DTEND;VALUE=DATE:20260415
 SUMMARY:Akademik kayıt danışmanı ile görüşme günü
@@ -1126,7 +1126,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/akademik-kayi
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-9130@bogazici.edu.tr
-DTSTAMP:20260901T190017Z
+DTSTAMP:20260902T081435Z
 DTSTART;VALUE=DATE:20260416
 DTEND;VALUE=DATE:20260417
 SUMMARY:Dersten çekilme için akademik kayıt sisteminin öğrenci erişim
@@ -1142,7 +1142,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/dersten-cekil
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-9131@bogazici.edu.tr
-DTSTAMP:20260901T190017Z
+DTSTAMP:20260902T081435Z
 DTSTART;VALUE=DATE:20260417
 DTEND;VALUE=DATE:20260418
 SUMMARY:Dersten çekilme için akademik kayıt sisteminin danışman erişi
@@ -1158,7 +1158,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/dersten-cekil
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-9138@bogazici.edu.tr
-DTSTAMP:20260901T190017Z
+DTSTAMP:20260902T081435Z
 DTSTART;VALUE=DATE:20260506
 DTEND;VALUE=DATE:20260509
 SUMMARY:Yaz Öğretimi ön kayıtları
@@ -1173,7 +1173,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-9139@bogazici.edu.tr
-DTSTAMP:20260901T190017Z
+DTSTAMP:20260902T081435Z
 DTSTART;VALUE=DATE:20260506
 DTEND;VALUE=DATE:20260507
 SUMMARY:Yaz Öğretimi kayıtları için akademik kayıt sisteminin öğren
@@ -1189,7 +1189,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-9142@bogazici.edu.tr
-DTSTAMP:20260901T190017Z
+DTSTAMP:20260902T081435Z
 DTSTART;VALUE=DATE:20260508
 DTEND;VALUE=DATE:20260509
 SUMMARY:Yaz Öğretimi ön kayıt ödeme sisteminin kapanışı (16:00)
@@ -1204,7 +1204,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-9143@bogazici.edu.tr
-DTSTAMP:20260901T190017Z
+DTSTAMP:20260902T081435Z
 DTSTART;VALUE=DATE:20260508
 DTEND;VALUE=DATE:20260509
 SUMMARY:Ders onayı (consent) sisteminin öğrenciye kapanışı (16:00)
@@ -1219,7 +1219,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-onayi-co
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-9144@bogazici.edu.tr
-DTSTAMP:20260901T190017Z
+DTSTAMP:20260902T081435Z
 DTSTART;VALUE=DATE:20260508
 DTEND;VALUE=DATE:20260509
 SUMMARY:Kayıt sisteminin öğrenci erişimine kapanışı (19:00)
@@ -1234,7 +1234,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/kayit-sistemi
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-9145@bogazici.edu.tr
-DTSTAMP:20260901T190017Z
+DTSTAMP:20260902T081435Z
 DTSTART;VALUE=DATE:20260508
 DTEND;VALUE=DATE:20260509
 SUMMARY:Ders onayı (consent) sisteminin öğretim elemanına kapanışı (
@@ -1250,7 +1250,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-onayi-co
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-9160@bogazici.edu.tr
-DTSTAMP:20260901T190017Z
+DTSTAMP:20260902T081435Z
 DTSTART;VALUE=DATE:20260611
 DTEND;VALUE=DATE:20260612
 SUMMARY:Yaz Öğretimi ve II. Öğretim Yüksek Lisans Programları Yaz Dö
@@ -1266,7 +1266,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-9168@bogazici.edu.tr
-DTSTAMP:20260901T190017Z
+DTSTAMP:20260902T081435Z
 DTSTART;VALUE=DATE:20260619
 DTEND;VALUE=DATE:20260623
 SUMMARY:Yaz Öğretimi kesin kayıtları ve II. Öğretim Yüksek Lisans Pr
@@ -1282,7 +1282,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-9169@bogazici.edu.tr
-DTSTAMP:20260901T190017Z
+DTSTAMP:20260902T081435Z
 DTSTART;VALUE=DATE:20260619
 DTEND;VALUE=DATE:20260620
 SUMMARY:Yaz Öğretimi kesin kayıtları ve II. Öğretim Yüksek Lisans Pr
@@ -1299,7 +1299,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-9171@bogazici.edu.tr
-DTSTAMP:20260901T190017Z
+DTSTAMP:20260902T081435Z
 DTSTART;VALUE=DATE:20260622
 DTEND;VALUE=DATE:20260623
 SUMMARY:Kayıt ödeme sisteminin kapanışı (16:00)
@@ -1314,7 +1314,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/kayit-odeme-s
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-9172@bogazici.edu.tr
-DTSTAMP:20260901T190017Z
+DTSTAMP:20260902T081435Z
 DTSTART;VALUE=DATE:20260622
 DTEND;VALUE=DATE:20260623
 SUMMARY:Ders onayı (consent) sisteminin öğrenciye kapanışı (20:00)
@@ -1329,7 +1329,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-onayi-co
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-9173@bogazici.edu.tr
-DTSTAMP:20260901T190017Z
+DTSTAMP:20260902T081435Z
 DTSTART;VALUE=DATE:20260622
 DTEND;VALUE=DATE:20260623
 SUMMARY:Ders onayı (consent) sisteminin öğretim elemanına kapanışı (
@@ -1345,7 +1345,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-onayi-co
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-9174@bogazici.edu.tr
-DTSTAMP:20260901T190017Z
+DTSTAMP:20260902T081435Z
 DTSTART;VALUE=DATE:20260622
 DTEND;VALUE=DATE:20260623
 SUMMARY:Yaz Öğretimi kesin kayıtları ve II. Öğretim Yüksek Lisans Pr
@@ -1362,7 +1362,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-9177@bogazici.edu.tr
-DTSTAMP:20260901T190017Z
+DTSTAMP:20260902T081435Z
 DTSTART;VALUE=DATE:20260623
 DTEND;VALUE=DATE:20260624
 SUMMARY:Yaz Öğretimi kesin kayıtları ve II. Öğretim Yüksek Lisans Pr
@@ -1379,7 +1379,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-9183@bogazici.edu.tr
-DTSTAMP:20260901T190017Z
+DTSTAMP:20260902T081435Z
 DTSTART;VALUE=DATE:20260630
 DTEND;VALUE=DATE:20260701
 SUMMARY:Yaz öğretimi ve II. Öğretim Yüksek Lisans Programlarının Yaz
@@ -1396,7 +1396,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-9186@bogazici.edu.tr
-DTSTAMP:20260901T190017Z
+DTSTAMP:20260902T081435Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260703
 SUMMARY:Yaz Öğretimi ve II. Öğretim Yüksek Lisans Programlarının Yaz
@@ -1412,7 +1412,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-9187@bogazici.edu.tr
-DTSTAMP:20260901T190017Z
+DTSTAMP:20260902T081435Z
 DTSTART;VALUE=DATE:20260702
 DTEND;VALUE=DATE:20260703
 SUMMARY:Kayıt ödeme sisteminin kapanışı (16:00)
@@ -1427,7 +1427,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/kayit-odeme-s
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-9188@bogazici.edu.tr
-DTSTAMP:20260901T190017Z
+DTSTAMP:20260902T081435Z
 DTSTART;VALUE=DATE:20260702
 DTEND;VALUE=DATE:20260703
 SUMMARY:Ders onayı (consent) sisteminin öğrenciye kapanışı (20:00)
@@ -1442,7 +1442,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-onayi-co
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-9189@bogazici.edu.tr
-DTSTAMP:20260901T190017Z
+DTSTAMP:20260902T081435Z
 DTSTART;VALUE=DATE:20260702
 DTEND;VALUE=DATE:20260703
 SUMMARY:Ders onayı (consent) sisteminin öğretim elemanına kapanışı (
@@ -1458,7 +1458,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-onayi-co
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-9190@bogazici.edu.tr
-DTSTAMP:20260901T190017Z
+DTSTAMP:20260902T081435Z
 DTSTART;VALUE=DATE:20260702
 DTEND;VALUE=DATE:20260703
 SUMMARY:Yaz Öğretimi ve II. Öğretim Yüksek Lisans Programlarının Yaz
@@ -1475,7 +1475,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-9191@bogazici.edu.tr
-DTSTAMP:20260901T190017Z
+DTSTAMP:20260902T081435Z
 DTSTART;VALUE=DATE:20260703
 DTEND;VALUE=DATE:20260704
 SUMMARY:Yaz Öğretimi ve II. Öğretim Yüksek Lisans Programlarının Yaz
@@ -1492,7 +1492,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-9192@bogazici.edu.tr
-DTSTAMP:20260901T190017Z
+DTSTAMP:20260902T081435Z
 DTSTART;VALUE=DATE:20260703
 DTEND;VALUE=DATE:20260704
 SUMMARY:Lisansüstü programların 2026 Güz yarıyılına kabul kararları
@@ -1508,7 +1508,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/lisansustu-pr
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-9202@bogazici.edu.tr
-DTSTAMP:20260901T190017Z
+DTSTAMP:20260902T081435Z
 DTSTART;VALUE=DATE:20260730
 DTEND;VALUE=DATE:20260801
 SUMMARY:Yaz Dönemi ve II. Öğretim Yüksek Lisans Programlarının Yaz D
@@ -1524,7 +1524,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-donemi-ve
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-9203@bogazici.edu.tr
-DTSTAMP:20260901T190017Z
+DTSTAMP:20260902T081435Z
 DTSTART;VALUE=DATE:20260730
 DTEND;VALUE=DATE:20260731
 SUMMARY:Yaz Öğretimi ve II. Öğretim Yüksek Lisans Programlarının Yaz
@@ -1541,7 +1541,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-9206@bogazici.edu.tr
-DTSTAMP:20260901T190017Z
+DTSTAMP:20260902T081435Z
 DTSTART;VALUE=DATE:20260731
 DTEND;VALUE=DATE:20260801
 SUMMARY:II. Öğretim Yüksek Lisans Programlarının Yaz Dönemi dersten 
@@ -1558,7 +1558,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ii-ogretim-yu
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-9207@bogazici.edu.tr
-DTSTAMP:20260901T190017Z
+DTSTAMP:20260902T081435Z
 DTSTART;VALUE=DATE:20260731
 DTEND;VALUE=DATE:20260801
 SUMMARY:Yaz Öğretimi ve II. Öğretim Yüksek Lisans Programlarının Yaz
@@ -1575,7 +1575,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-9211@bogazici.edu.tr
-DTSTAMP:20260901T190017Z
+DTSTAMP:20260902T081435Z
 DTSTART;VALUE=DATE:20260805
 DTEND;VALUE=DATE:20260806
 SUMMARY:Asıl listeden kurum dışı yatay geçiş ile kabul edilen öğren
@@ -1591,7 +1591,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/asil-listeden
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-9212@bogazici.edu.tr
-DTSTAMP:20260901T190017Z
+DTSTAMP:20260902T081435Z
 DTSTART;VALUE=DATE:20260805
 DTEND;VALUE=DATE:20260806
 SUMMARY:Asıl listeden ÇAP ve yan dal kabulü alan öğrencilerin ilgili p
@@ -1608,7 +1608,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/asil-listeden
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-9227@bogazici.edu.tr
-DTSTAMP:20260901T190017Z
+DTSTAMP:20260902T081435Z
 DTSTART;VALUE=DATE:20260820
 DTEND;VALUE=DATE:20260822
 SUMMARY:Uluslararası Misafir öğrenci ve Uluslararası Değişim öğrenc
@@ -1624,7 +1624,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/uluslararasi-
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-9235@bogazici.edu.tr
-DTSTAMP:20260901T190017Z
+DTSTAMP:20260902T081435Z
 DTSTART;VALUE=DATE:20260831
 DTEND;VALUE=DATE:20260904
 SUMMARY:Lisansüstü programlara asıl listeden kabul edilen öğrencilerin
@@ -1640,7 +1640,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/lisansustu-pr
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-12998@bogazici.edu.tr
-DTSTAMP:20260901T190017Z
+DTSTAMP:20260902T081435Z
 DTSTART;VALUE=DATE:20260908
 DTEND;VALUE=DATE:20260909
 SUMMARY:Kayıt ödeme sisteminin açılışı (10:00)
@@ -1655,7 +1655,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/kayit-odeme-s
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13009@bogazici.edu.tr
-DTSTAMP:20260901T190017Z
+DTSTAMP:20260902T081435Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
 SUMMARY:Akademik kayıt sisteminin açılışı (10:00)
@@ -1670,7 +1670,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/akademik-kayi
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13013@bogazici.edu.tr
-DTSTAMP:20260901T190017Z
+DTSTAMP:20260902T081435Z
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260918
 SUMMARY:Ders onay (consent) sisteminin öğrenciye kapanışı (14:00)
@@ -1685,7 +1685,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-onay-con
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13015@bogazici.edu.tr
-DTSTAMP:20260901T190017Z
+DTSTAMP:20260902T081435Z
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260918
 SUMMARY:Ders onay (consent) sisteminin öğretim elemanına kapanışı (21
@@ -1701,7 +1701,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-onay-con
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13017@bogazici.edu.tr
-DTSTAMP:20260901T190017Z
+DTSTAMP:20260902T081435Z
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260918
 SUMMARY:Akademik kayıt sisteminin öğrenci erişimine kapanışı (23:59)
@@ -1716,7 +1716,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/akademik-kayi
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13033@bogazici.edu.tr
-DTSTAMP:20260901T190017Z
+DTSTAMP:20260902T081435Z
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20261001
 SUMMARY:Ders ekleme/bırakma dönemi
@@ -1731,7 +1731,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-eklemebi
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13035@bogazici.edu.tr
-DTSTAMP:20260901T190017Z
+DTSTAMP:20260902T081435Z
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20260929
 SUMMARY:Ders ekleme/bırakma dönemi için akademik kayıt sisteminin açı
@@ -1747,7 +1747,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-eklemebi
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13045@bogazici.edu.tr
-DTSTAMP:20260901T190017Z
+DTSTAMP:20260902T081435Z
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
 SUMMARY:Ders ekleme/bırakma dönemi için akademik kayıt sisteminin öğr
@@ -1763,7 +1763,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-eklemebi
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13047@bogazici.edu.tr
-DTSTAMP:20260901T190017Z
+DTSTAMP:20260902T081435Z
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
 SUMMARY:Ders ekleme/bırakma dönemi için akademik kayıt sisteminin danı
@@ -1779,7 +1779,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-eklemebi
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13077@bogazici.edu.tr
-DTSTAMP:20260901T190017Z
+DTSTAMP:20260902T081435Z
 DTSTART;VALUE=DATE:20261109
 DTEND;VALUE=DATE:20261110
 SUMMARY:Dersten çekilme için akademik kayıt sisteminin açılışı (10:
@@ -1795,7 +1795,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/dersten-cekil
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13081@bogazici.edu.tr
-DTSTAMP:20260901T190017Z
+DTSTAMP:20260902T081435Z
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
 SUMMARY:Dersten çekilme için akademik kayıt sisteminin öğrenci erişim
@@ -1811,7 +1811,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/dersten-cekil
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13088@bogazici.edu.tr
-DTSTAMP:20260901T190017Z
+DTSTAMP:20260902T081435Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
 SUMMARY:Dersten çekilme için akademik kayıt sisteminin danışman erişi
@@ -1827,7 +1827,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/dersten-cekil
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13169@bogazici.edu.tr
-DTSTAMP:20260901T190017Z
+DTSTAMP:20260902T081435Z
 DTSTART;VALUE=DATE:20270108
 DTEND;VALUE=DATE:20270109
 SUMMARY:Kayıt ödeme sisteminin açılışı (10:00)
@@ -1842,7 +1842,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/kayit-odeme-s
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13171@bogazici.edu.tr
-DTSTAMP:20260901T190017Z
+DTSTAMP:20260902T081435Z
 DTSTART;VALUE=DATE:20270111
 DTEND;VALUE=DATE:20270112
 SUMMARY:Asıl listeden lisansüstü programlara kabul alan öğrencilerin 
@@ -1858,7 +1858,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/asil-listeden
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13179@bogazici.edu.tr
-DTSTAMP:20260901T190017Z
+DTSTAMP:20260902T081435Z
 DTSTART;VALUE=DATE:20270111
 DTEND;VALUE=DATE:20270113
 SUMMARY:Uluslararası misafir öğrenci ve uluslararası değişim öğrenc
@@ -1874,7 +1874,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/uluslararasi-
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13181@bogazici.edu.tr
-DTSTAMP:20260901T190017Z
+DTSTAMP:20260902T081435Z
 DTSTART;VALUE=DATE:20270112
 DTEND;VALUE=DATE:20270113
 SUMMARY:Yedek listeden lisansüstü programlara kabul edilen öğrencilerin
@@ -1890,7 +1890,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yedek-listede
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13191@bogazici.edu.tr
-DTSTAMP:20260901T190017Z
+DTSTAMP:20260902T081435Z
 DTSTART;VALUE=DATE:20270113
 DTEND;VALUE=DATE:20270114
 SUMMARY:Akademik kayıt sisteminin açılışı (10:00)
@@ -1905,7 +1905,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/akademik-kayi
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13199@bogazici.edu.tr
-DTSTAMP:20260901T190017Z
+DTSTAMP:20260902T081435Z
 DTSTART;VALUE=DATE:20270115
 DTEND;VALUE=DATE:20270116
 SUMMARY:Ders onay (consent) sisteminin öğretim elemanına kapanışı (21
@@ -1921,7 +1921,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-onay-con
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13201@bogazici.edu.tr
-DTSTAMP:20260901T190017Z
+DTSTAMP:20260902T081435Z
 DTSTART;VALUE=DATE:20270115
 DTEND;VALUE=DATE:20270116
 SUMMARY:Akademik kayıt sisteminin öğrenci erişimine kapanışı (23:59)
@@ -1936,7 +1936,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/akademik-kayi
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13207@bogazici.edu.tr
-DTSTAMP:20260901T190017Z
+DTSTAMP:20260902T081435Z
 DTSTART;VALUE=DATE:20270125
 DTEND;VALUE=DATE:20270128
 SUMMARY:Ders ekleme/bırakma dönemi
@@ -1951,7 +1951,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-eklemebi
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13209@bogazici.edu.tr
-DTSTAMP:20260901T190017Z
+DTSTAMP:20260902T081435Z
 DTSTART;VALUE=DATE:20270125
 DTEND;VALUE=DATE:20270126
 SUMMARY:Ders ekleme/bırakma dönemi için akademik kayıt sisteminin açı
@@ -1967,7 +1967,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-eklemebi
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13215@bogazici.edu.tr
-DTSTAMP:20260901T190017Z
+DTSTAMP:20260902T081435Z
 DTSTART;VALUE=DATE:20270127
 DTEND;VALUE=DATE:20270128
 SUMMARY:Ders ekleme/bırakma dönemi için akademik kayıt sisteminin öğr
@@ -1983,7 +1983,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-eklemebi
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13602@bogazici.edu.tr
-DTSTAMP:20260901T190017Z
+DTSTAMP:20260902T081435Z
 DTSTART;VALUE=DATE:20270127
 DTEND;VALUE=DATE:20270128
 SUMMARY:Kayıt ödeme sisteminin kapanışı (17:00)
@@ -1998,7 +1998,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/kayit-odeme-s
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13217@bogazici.edu.tr
-DTSTAMP:20260901T190017Z
+DTSTAMP:20260902T081435Z
 DTSTART;VALUE=DATE:20270128
 DTEND;VALUE=DATE:20270129
 SUMMARY:Ders ekleme/bırakma dönemi için akademik kayıt sisteminin danı
@@ -2014,7 +2014,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-eklemebi
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13237@bogazici.edu.tr
-DTSTAMP:20260901T190017Z
+DTSTAMP:20260902T081435Z
 DTSTART;VALUE=DATE:20270315
 DTEND;VALUE=DATE:20270316
 SUMMARY:Yaz Öğretimi ön kayıt ödeme sisteminin açılışı (10:00)
@@ -2029,7 +2029,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13231@bogazici.edu.tr
-DTSTAMP:20260901T190017Z
+DTSTAMP:20260902T081435Z
 DTSTART;VALUE=DATE:20270322
 DTEND;VALUE=DATE:20270323
 SUMMARY:Dersten çekilme için akademik kayıt sisteminin açılışı (10:
@@ -2045,7 +2045,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/dersten-cekil
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13243@bogazici.edu.tr
-DTSTAMP:20260901T190017Z
+DTSTAMP:20260902T081435Z
 DTSTART;VALUE=DATE:20270323
 DTEND;VALUE=DATE:20270326
 SUMMARY:Dersten çekilme için akademik kayıt sisteminin öğrenci erişim
@@ -2061,7 +2061,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/dersten-cekil
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13245@bogazici.edu.tr
-DTSTAMP:20260901T190017Z
+DTSTAMP:20260902T081435Z
 DTSTART;VALUE=DATE:20270326
 DTEND;VALUE=DATE:20270327
 SUMMARY:Dersten çekilme için akademik kayıt sisteminin danışman erişi
@@ -2077,7 +2077,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/dersten-cekil
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13262@bogazici.edu.tr
-DTSTAMP:20260901T190017Z
+DTSTAMP:20260902T081435Z
 DTSTART;VALUE=DATE:20270407
 DTEND;VALUE=DATE:20270410
 SUMMARY:Yaz Öğretimi ön kayıtları
@@ -2092,7 +2092,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13264@bogazici.edu.tr
-DTSTAMP:20260901T190017Z
+DTSTAMP:20260902T081435Z
 DTSTART;VALUE=DATE:20270407
 DTEND;VALUE=DATE:20270408
 SUMMARY:Yaz Öğretimi kayıtları için akademik kayıt sisteminin öğren
@@ -2108,7 +2108,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13268@bogazici.edu.tr
-DTSTAMP:20260901T190017Z
+DTSTAMP:20260902T081435Z
 DTSTART;VALUE=DATE:20270409
 DTEND;VALUE=DATE:20270410
 SUMMARY:Yaz Öğretimi ön kayıt ödeme sisteminin kapanışı (16:00)
@@ -2123,7 +2123,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13604@bogazici.edu.tr
-DTSTAMP:20260901T190017Z
+DTSTAMP:20260902T081435Z
 DTSTART;VALUE=DATE:20270409
 DTEND;VALUE=DATE:20270410
 SUMMARY:Kayıt sisteminin öğrenci erişimine kapanışı (19:00)
@@ -2138,7 +2138,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/kayit-sistemi
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13309@bogazici.edu.tr
-DTSTAMP:20260901T190017Z
+DTSTAMP:20260902T081435Z
 DTSTART;VALUE=DATE:20270610
 DTEND;VALUE=DATE:20270611
 SUMMARY:Yaz Öğretimi ve II. Öğretim Yüksek Lisans Programları Yaz Dö
@@ -2154,7 +2154,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13334@bogazici.edu.tr
-DTSTAMP:20260901T190017Z
+DTSTAMP:20260902T081435Z
 DTSTART;VALUE=DATE:20270625
 DTEND;VALUE=DATE:20270629
 SUMMARY:Yaz Öğretimi kesin kayıtları ve II. Öğretim Yüksek Lisans Pr
@@ -2170,7 +2170,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13336@bogazici.edu.tr
-DTSTAMP:20260901T190017Z
+DTSTAMP:20260902T081435Z
 DTSTART;VALUE=DATE:20270625
 DTEND;VALUE=DATE:20270629
 SUMMARY:Yaz Öğretimi kesin kayıtları ve II. Öğretim Yüksek Lisans Pr
@@ -2187,7 +2187,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13342@bogazici.edu.tr
-DTSTAMP:20260901T190017Z
+DTSTAMP:20260902T081435Z
 DTSTART;VALUE=DATE:20270628
 DTEND;VALUE=DATE:20270629
 SUMMARY:Ders onayı (consent) sisteminin öğretim elemanına kapanışı (
@@ -2203,7 +2203,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-onayi-co
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13344@bogazici.edu.tr
-DTSTAMP:20260901T190017Z
+DTSTAMP:20260902T081435Z
 DTSTART;VALUE=DATE:20270628
 DTEND;VALUE=DATE:20270629
 SUMMARY:Yaz Öğretimi kesin kayıtları ve II. Öğretim Yüksek Lisans Pr
@@ -2220,7 +2220,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13350@bogazici.edu.tr
-DTSTAMP:20260901T190017Z
+DTSTAMP:20260902T081435Z
 DTSTART;VALUE=DATE:20270629
 DTEND;VALUE=DATE:20270630
 SUMMARY:Yaz Öğretimi kesin kayıtları ve II. Öğretim Yüksek Lisans Pr
@@ -2237,7 +2237,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13360@bogazici.edu.tr
-DTSTAMP:20260901T190017Z
+DTSTAMP:20260902T081435Z
 DTSTART;VALUE=DATE:20270706
 DTEND;VALUE=DATE:20270707
 SUMMARY:Yaz öğretimi ve II. Öğretim Yüksek Lisans Programlarının Yaz
@@ -2254,7 +2254,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13366@bogazici.edu.tr
-DTSTAMP:20260901T190017Z
+DTSTAMP:20260902T081435Z
 DTSTART;VALUE=DATE:20270707
 DTEND;VALUE=DATE:20270709
 SUMMARY:Yaz Öğretimi ve II. Öğretim Yüksek Lisans Programlarının Yaz
@@ -2270,7 +2270,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-14215@bogazici.edu.tr
-DTSTAMP:20260901T190017Z
+DTSTAMP:20260902T081435Z
 DTSTART;VALUE=DATE:20270707
 DTEND;VALUE=DATE:20270708
 SUMMARY:Yaz Öğretimi ve II. Öğretim Yüksek Lisans Programlarının Yaz
@@ -2287,7 +2287,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-14216@bogazici.edu.tr
-DTSTAMP:20260901T190017Z
+DTSTAMP:20260902T081435Z
 DTSTART;VALUE=DATE:20270707
 DTEND;VALUE=DATE:20270708
 SUMMARY:Registration system for Second Education Masters Programs Summer Se
@@ -2303,7 +2303,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/registration-
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13372@bogazici.edu.tr
-DTSTAMP:20260901T190017Z
+DTSTAMP:20260902T081435Z
 DTSTART;VALUE=DATE:20270708
 DTEND;VALUE=DATE:20270709
 SUMMARY:Ders onayı (consent) sisteminin öğretim elemanına kapanışı (
@@ -2319,7 +2319,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ders-onayi-co
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13374@bogazici.edu.tr
-DTSTAMP:20260901T190017Z
+DTSTAMP:20260902T081435Z
 DTSTART;VALUE=DATE:20270708
 DTEND;VALUE=DATE:20270709
 SUMMARY:Yaz Öğretimi ve II. Öğretim Yüksek Lisans Programlarının Yaz
@@ -2336,7 +2336,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13376@bogazici.edu.tr
-DTSTAMP:20260901T190017Z
+DTSTAMP:20260902T081435Z
 DTSTART;VALUE=DATE:20270709
 DTEND;VALUE=DATE:20270710
 SUMMARY:Lisansüstü programların 2027 Güz yarıyılına kabul kararları
@@ -2352,7 +2352,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/lisansustu-pr
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13378@bogazici.edu.tr
-DTSTAMP:20260901T190017Z
+DTSTAMP:20260902T081435Z
 DTSTART;VALUE=DATE:20270709
 DTEND;VALUE=DATE:20270710
 SUMMARY:Yaz Öğretimi ve II. Öğretim Yüksek Lisans Programlarının Yaz
@@ -2369,7 +2369,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13406@bogazici.edu.tr
-DTSTAMP:20260901T190017Z
+DTSTAMP:20260902T081435Z
 DTSTART;VALUE=DATE:20270729
 DTEND;VALUE=DATE:20270730
 SUMMARY:Yaz Öğretimi ve II. Öğretim Yüksek Lisans Programlarının Yaz
@@ -2386,7 +2386,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13404@bogazici.edu.tr
-DTSTAMP:20260901T190017Z
+DTSTAMP:20260902T081435Z
 DTSTART;VALUE=DATE:20270729
 DTEND;VALUE=DATE:20270731
 SUMMARY:Yaz Dönemi ve II. Öğretim Yüksek Lisans Programlarının Yaz D
@@ -2402,7 +2402,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-donemi-ve
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13408@bogazici.edu.tr
-DTSTAMP:20260901T190017Z
+DTSTAMP:20260902T081435Z
 DTSTART;VALUE=DATE:20270730
 DTEND;VALUE=DATE:20270731
 SUMMARY:Yaz Öğretimi ve II. Öğretim Yüksek Lisans Programlarının Yaz
@@ -2419,7 +2419,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/yaz-ogretimi-
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13410@bogazici.edu.tr
-DTSTAMP:20260901T190017Z
+DTSTAMP:20260902T081435Z
 DTSTART;VALUE=DATE:20270730
 DTEND;VALUE=DATE:20270731
 SUMMARY:II. Öğretim Yüksek Lisans Programlarının Yaz Dönemi dersten 
@@ -2436,7 +2436,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/ii-ogretim-yu
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13427@bogazici.edu.tr
-DTSTAMP:20260901T190017Z
+DTSTAMP:20260902T081435Z
 DTSTART;VALUE=DATE:20270811
 DTEND;VALUE=DATE:20270812
 SUMMARY:Asıl listeden kurum dışı yatay geçiş ile kabul edilen öğren
@@ -2452,7 +2452,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/asil-listeden
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13429@bogazici.edu.tr
-DTSTAMP:20260901T190017Z
+DTSTAMP:20260902T081435Z
 DTSTART;VALUE=DATE:20270811
 DTEND;VALUE=DATE:20270812
 SUMMARY:Asıl listeden ÇAP ve yan dal kabulü alan öğrencilerin ilgili p
@@ -2469,7 +2469,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/asil-listeden
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13451@bogazici.edu.tr
-DTSTAMP:20260901T190017Z
+DTSTAMP:20260902T081435Z
 DTSTART;VALUE=DATE:20270819
 DTEND;VALUE=DATE:20270821
 SUMMARY:Uluslararası Misafir öğrenci ve Uluslararası Değişim öğrenc
@@ -2485,7 +2485,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/uluslararasi-
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13465@bogazici.edu.tr
-DTSTAMP:20260901T190017Z
+DTSTAMP:20260902T081435Z
 DTSTART;VALUE=DATE:20270831
 DTEND;VALUE=DATE:20270904
 SUMMARY:Asıl listeden lisansüstü programlara kabul alan öğrencilerin 
@@ -2501,7 +2501,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/tr/events/akademik/asil-listeden
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13473@bogazici.edu.tr
-DTSTAMP:20260901T190017Z
+DTSTAMP:20260902T081435Z
 DTSTART;VALUE=DATE:20270906
 DTEND;VALUE=DATE:20270907
 SUMMARY:Yedek listeden lisansüstü programlara kabul edilen öğrencilerin
