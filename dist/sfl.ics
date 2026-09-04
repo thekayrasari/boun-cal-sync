@@ -12,7 +12,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:boun-academic-11689@bogazici.edu.tr
-DTSTAMP:20260904T081950Z
+DTSTAMP:20260904T184240Z
 DTSTART;VALUE=DATE:20241225
 DTEND;VALUE=DATE:20250110
 SUMMARY:SFL Course Evaluations Period
@@ -27,7 +27,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/sfl-course-ev
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11692@bogazici.edu.tr
-DTSTAMP:20260904T081950Z
+DTSTAMP:20260904T184240Z
 DTSTART;VALUE=DATE:20250101
 DTEND;VALUE=DATE:20250102
 SUMMARY:New Year (Holiday)
@@ -42,7 +42,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/new-year-holi
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11699@bogazici.edu.tr
-DTSTAMP:20260904T081950Z
+DTSTAMP:20260904T184240Z
 DTSTART;VALUE=DATE:20250109
 DTEND;VALUE=DATE:20250110
 SUMMARY:English Language Placement Exam (DBS) (Candidates applying for the 
@@ -58,7 +58,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/english-langu
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11700@bogazici.edu.tr
-DTSTAMP:20260904T081950Z
+DTSTAMP:20260904T184240Z
 DTSTART;VALUE=DATE:20250110
 DTEND;VALUE=DATE:20250111
 SUMMARY:SFL Program II\,III and IV classes end
@@ -73,7 +73,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/sfl-program-i
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11701@bogazici.edu.tr
-DTSTAMP:20260904T081950Z
+DTSTAMP:20260904T184240Z
 DTSTART;VALUE=DATE:20250110
 DTEND;VALUE=DATE:20250111
 SUMMARY:SFL Course Evaluations Period End (23:59)
@@ -88,7 +88,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/sfl-course-ev
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11703@bogazici.edu.tr
-DTSTAMP:20260904T081950Z
+DTSTAMP:20260904T184240Z
 DTSTART;VALUE=DATE:20250113
 DTEND;VALUE=DATE:20250114
 SUMMARY:SFL Announcement of Placement Exam (DBS) results
@@ -103,7 +103,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/sfl-announcem
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11705@bogazici.edu.tr
-DTSTAMP:20260904T081950Z
+DTSTAMP:20260904T184240Z
 DTSTART;VALUE=DATE:20250114
 DTEND;VALUE=DATE:20250115
 SUMMARY:English Proficiency Exam (BUEPT)
@@ -118,7 +118,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/english-profi
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11708@bogazici.edu.tr
-DTSTAMP:20260904T081950Z
+DTSTAMP:20260904T184240Z
 DTSTART;VALUE=DATE:20250117
 DTEND;VALUE=DATE:20250118
 SUMMARY:SFL Program I classes end
@@ -133,7 +133,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/sfl-program-i
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11715@bogazici.edu.tr
-DTSTAMP:20260904T081950Z
+DTSTAMP:20260904T184240Z
 DTSTART;VALUE=DATE:20250123
 DTEND;VALUE=DATE:20250124
 SUMMARY:Deadline for sending English Proficiency Exam (BUEPT) results to th
@@ -149,7 +149,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11738@bogazici.edu.tr
-DTSTAMP:20260904T081950Z
+DTSTAMP:20260904T184240Z
 DTSTART;VALUE=DATE:20250210
 DTEND;VALUE=DATE:20250211
 SUMMARY:Classes begin (Including SFL classes)
@@ -164,7 +164,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/classes-begin
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11766@bogazici.edu.tr
-DTSTAMP:20260904T081950Z
+DTSTAMP:20260904T184240Z
 DTSTART;VALUE=DATE:20250425
 DTEND;VALUE=DATE:20250517
 SUMMARY:Course evaluations period( Included SFL classes)
@@ -179,7 +179,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/course-evalua
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11779@bogazici.edu.tr
-DTSTAMP:20260904T081950Z
+DTSTAMP:20260904T184240Z
 DTSTART;VALUE=DATE:20250521
 DTEND;VALUE=DATE:20250522
 SUMMARY:SFL Classes End
@@ -194,7 +194,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/sfl-classes-e
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11783@bogazici.edu.tr
-DTSTAMP:20260904T081950Z
+DTSTAMP:20260904T184240Z
 DTSTART;VALUE=DATE:20250528
 DTEND;VALUE=DATE:20250529
 SUMMARY:English Proficiency Exam (BUEPT)
@@ -209,7 +209,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/english-profi
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11804@bogazici.edu.tr
-DTSTAMP:20260904T081950Z
+DTSTAMP:20260904T184240Z
 DTSTART;VALUE=DATE:20250623
 DTEND;VALUE=DATE:20250624
 SUMMARY:SFL Summer Term Lesson Begin (All Programs)
@@ -224,7 +224,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/sfl-summer-te
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11810@bogazici.edu.tr
-DTSTAMP:20260904T081950Z
+DTSTAMP:20260904T184240Z
 DTSTART;VALUE=DATE:20250624
 DTEND;VALUE=DATE:20250625
 SUMMARY:English Language Placement Exam (DBS) (Candidates applying for the 
@@ -240,7 +240,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/english-langu
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11811@bogazici.edu.tr
-DTSTAMP:20260904T081950Z
+DTSTAMP:20260904T184240Z
 DTSTART;VALUE=DATE:20250627
 DTEND;VALUE=DATE:20250628
 SUMMARY:SFL Announcement of Placement Exam (DBS) results
@@ -255,7 +255,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/sfl-announcem
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11835@bogazici.edu.tr
-DTSTAMP:20260904T081950Z
+DTSTAMP:20260904T184240Z
 DTSTART;VALUE=DATE:20250801
 DTEND;VALUE=DATE:20250812
 SUMMARY:Course Evaluations Period Summer Term (Included SFL)
@@ -270,7 +270,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/course-evalua
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11847@bogazici.edu.tr
-DTSTAMP:20260904T081950Z
+DTSTAMP:20260904T184240Z
 DTSTART;VALUE=DATE:20250808
 DTEND;VALUE=DATE:20250809
 SUMMARY:SFL Summer Term Program I classes end
@@ -285,7 +285,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/sfl-summer-te
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11851@bogazici.edu.tr
-DTSTAMP:20260904T081950Z
+DTSTAMP:20260904T184240Z
 DTSTART;VALUE=DATE:20250812
 DTEND;VALUE=DATE:20250813
 SUMMARY:English Proficiency Exam (BUEPT) (SFL Summer)
@@ -300,7 +300,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/english-profi
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11869@bogazici.edu.tr
-DTSTAMP:20260904T081950Z
+DTSTAMP:20260904T184240Z
 DTSTART;VALUE=DATE:20250908
 DTEND;VALUE=DATE:20250909
 SUMMARY:English Proficiency Exam (BUEPT)
@@ -315,7 +315,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/english-profi
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11872@bogazici.edu.tr
-DTSTAMP:20260904T081950Z
+DTSTAMP:20260904T184240Z
 DTSTART;VALUE=DATE:20250915
 DTEND;VALUE=DATE:20250916
 SUMMARY:Deadline for sending English Proficiency Exam (BUEPT) results to th
@@ -331,7 +331,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11883@bogazici.edu.tr
-DTSTAMP:20260904T081950Z
+DTSTAMP:20260904T184240Z
 DTSTART;VALUE=DATE:20250922
 DTEND;VALUE=DATE:20250923
 SUMMARY:Classes begin (Except SFL classes)
@@ -346,7 +346,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/classes-begin
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11884@bogazici.edu.tr
-DTSTAMP:20260904T081950Z
+DTSTAMP:20260904T184240Z
 DTSTART;VALUE=DATE:20250922
 DTEND;VALUE=DATE:20250923
 SUMMARY:English Language Placement Exam (DBS) (10:00)
@@ -361,7 +361,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/english-langu
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11886@bogazici.edu.tr
-DTSTAMP:20260904T081950Z
+DTSTAMP:20260904T184240Z
 DTSTART;VALUE=DATE:20250923
 DTEND;VALUE=DATE:20250924
 SUMMARY:SFL Announcement of Placement Exam (DBS) results
@@ -376,7 +376,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/sfl-announcem
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11887@bogazici.edu.tr
-DTSTAMP:20260904T081950Z
+DTSTAMP:20260904T184240Z
 DTSTART;VALUE=DATE:20250924
 DTEND;VALUE=DATE:20250925
 SUMMARY:Begining of the SFL Classes
@@ -391,7 +391,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/begining-of-t
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11901@bogazici.edu.tr
-DTSTAMP:20260904T081950Z
+DTSTAMP:20260904T184240Z
 DTSTART;VALUE=DATE:20251110
 DTEND;VALUE=DATE:20251111
 SUMMARY:Atatürk Memorial Day
@@ -406,7 +406,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/ataturk-memor
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11902@bogazici.edu.tr
-DTSTAMP:20260904T081950Z
+DTSTAMP:20260904T184240Z
 DTSTART;VALUE=DATE:20251110
 DTEND;VALUE=DATE:20251115
 SUMMARY:SFL Winter Break
@@ -421,7 +421,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/sfl-winter-br
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11917@bogazici.edu.tr
-DTSTAMP:20260904T081950Z
+DTSTAMP:20260904T184240Z
 DTSTART;VALUE=DATE:20251219
 DTEND;VALUE=DATE:20251220
 SUMMARY:Last Day of Course evaluations period (23:59)( Except SFL classes)
@@ -436,7 +436,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/last-day-of-c
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11918@bogazici.edu.tr
-DTSTAMP:20260904T081950Z
+DTSTAMP:20260904T184240Z
 DTSTART;VALUE=DATE:20251222
 DTEND;VALUE=DATE:20260109
 SUMMARY:SFL Course Evaluations Period
@@ -451,7 +451,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/sfl-course-ev
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11928@bogazici.edu.tr
-DTSTAMP:20260904T081950Z
+DTSTAMP:20260904T184240Z
 DTSTART;VALUE=DATE:20260109
 DTEND;VALUE=DATE:20260110
 SUMMARY:SFL Program II\,III and IV classes end
@@ -466,7 +466,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/sfl-program-i
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11929@bogazici.edu.tr
-DTSTAMP:20260904T081950Z
+DTSTAMP:20260904T184240Z
 DTSTART;VALUE=DATE:20260109
 DTEND;VALUE=DATE:20260110
 SUMMARY:SFL Course Evaluations Period End (23:59)
@@ -481,7 +481,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/sfl-course-ev
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11933@bogazici.edu.tr
-DTSTAMP:20260904T081950Z
+DTSTAMP:20260904T184240Z
 DTSTART;VALUE=DATE:20260113
 DTEND;VALUE=DATE:20260114
 SUMMARY:English Proficiency Exam (BUEPT)
@@ -496,7 +496,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/english-profi
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11937@bogazici.edu.tr
-DTSTAMP:20260904T081950Z
+DTSTAMP:20260904T184240Z
 DTSTART;VALUE=DATE:20260115
 DTEND;VALUE=DATE:20260116
 SUMMARY:SFL Announcement of Placement Exam (DBS) results
@@ -511,7 +511,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/sfl-announcem
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11938@bogazici.edu.tr
-DTSTAMP:20260904T081950Z
+DTSTAMP:20260904T184240Z
 DTSTART;VALUE=DATE:20260116
 DTEND;VALUE=DATE:20260117
 SUMMARY:SFL Program I classes end
@@ -526,7 +526,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/sfl-program-i
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11948@bogazici.edu.tr
-DTSTAMP:20260904T081950Z
+DTSTAMP:20260904T184240Z
 DTSTART;VALUE=DATE:20260122
 DTEND;VALUE=DATE:20260123
 SUMMARY:Deadline for sending English Proficiency Exam (BUEPT) results to th
@@ -542,7 +542,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11968@bogazici.edu.tr
-DTSTAMP:20260904T081950Z
+DTSTAMP:20260904T184240Z
 DTSTART;VALUE=DATE:20260209
 DTEND;VALUE=DATE:20260210
 SUMMARY:Classes begin (Including SFL classes)
@@ -557,7 +557,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/classes-begin
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11991@bogazici.edu.tr
-DTSTAMP:20260904T081950Z
+DTSTAMP:20260904T184240Z
 DTSTART;VALUE=DATE:20260420
 DTEND;VALUE=DATE:20260425
 SUMMARY:Spring Break
@@ -572,7 +572,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/spring-break/
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11993@bogazici.edu.tr
-DTSTAMP:20260904T081950Z
+DTSTAMP:20260904T184240Z
 DTSTART;VALUE=DATE:20260424
 DTEND;VALUE=DATE:20260515
 SUMMARY:Course evaluations period( Included SFL classes)
@@ -587,7 +587,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/course-evalua
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-12005@bogazici.edu.tr
-DTSTAMP:20260904T081950Z
+DTSTAMP:20260904T184240Z
 DTSTART;VALUE=DATE:20260515
 DTEND;VALUE=DATE:20260516
 SUMMARY:Last Day of Course evaluations period (23:59) (Included SFL classes
@@ -603,7 +603,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/last-day-of-c
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-12010@bogazici.edu.tr
-DTSTAMP:20260904T081950Z
+DTSTAMP:20260904T184240Z
 DTSTART;VALUE=DATE:20260522
 DTEND;VALUE=DATE:20260523
 SUMMARY:SFL Classes End
@@ -618,7 +618,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/sfl-classes-e
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-12015@bogazici.edu.tr
-DTSTAMP:20260904T081950Z
+DTSTAMP:20260904T184240Z
 DTSTART;VALUE=DATE:20260602
 DTEND;VALUE=DATE:20260603
 SUMMARY:English Proficiency Exam (BUEPT)
@@ -633,7 +633,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/english-profi
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-12039@bogazici.edu.tr
-DTSTAMP:20260904T081950Z
+DTSTAMP:20260904T184240Z
 DTSTART;VALUE=DATE:20260625
 DTEND;VALUE=DATE:20260626
 SUMMARY:English Language Placement Exam (DBS) (Candidates applying for the 
@@ -649,7 +649,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/english-langu
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-12034@bogazici.edu.tr
-DTSTAMP:20260904T081950Z
+DTSTAMP:20260904T184240Z
 DTSTART;VALUE=DATE:20260629
 DTEND;VALUE=DATE:20260630
 SUMMARY:SFL Summer Term Lesson Begin (All Programs)
@@ -664,7 +664,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/sfl-summer-te
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-12040@bogazici.edu.tr
-DTSTAMP:20260904T081950Z
+DTSTAMP:20260904T184240Z
 DTSTART;VALUE=DATE:20260629
 DTEND;VALUE=DATE:20260630
 SUMMARY:SFL Announcement of Placement Exam (DBS) results
@@ -679,7 +679,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/sfl-announcem
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-12065@bogazici.edu.tr
-DTSTAMP:20260904T081950Z
+DTSTAMP:20260904T184240Z
 DTSTART;VALUE=DATE:20260801
 DTEND;VALUE=DATE:20260813
 SUMMARY:Course Evaluations Period Summer Term (Included SFL)
@@ -694,7 +694,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/course-evalua
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-12073@bogazici.edu.tr
-DTSTAMP:20260904T081950Z
+DTSTAMP:20260904T184240Z
 DTSTART;VALUE=DATE:20260807
 DTEND;VALUE=DATE:20260808
 SUMMARY:SFL Summer Term Program I-II classes end
@@ -709,7 +709,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/sfl-summer-te
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-12078@bogazici.edu.tr
-DTSTAMP:20260904T081950Z
+DTSTAMP:20260904T184240Z
 DTSTART;VALUE=DATE:20260812
 DTEND;VALUE=DATE:20260813
 SUMMARY:Last Day of Course evaluations period (23:59) (Included SFL classes
@@ -725,7 +725,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/last-day-of-c
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-12082@bogazici.edu.tr
-DTSTAMP:20260904T081950Z
+DTSTAMP:20260904T184240Z
 DTSTART;VALUE=DATE:20260814
 DTEND;VALUE=DATE:20260815
 SUMMARY:SFL Summer Term Program I classes end
@@ -740,7 +740,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/sfl-summer-te
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-12083@bogazici.edu.tr
-DTSTAMP:20260904T081950Z
+DTSTAMP:20260904T184240Z
 DTSTART;VALUE=DATE:20260818
 DTEND;VALUE=DATE:20260819
 SUMMARY:English Proficiency Exam (BUEPT) (SFL Summer)
@@ -755,7 +755,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/english-profi
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13000@bogazici.edu.tr
-DTSTAMP:20260904T081950Z
+DTSTAMP:20260904T184240Z
 DTSTART;VALUE=DATE:20260907
 DTEND;VALUE=DATE:20260908
 SUMMARY:English Proficiency Exam (BUEPT)
@@ -770,7 +770,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/english-profi
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13026@bogazici.edu.tr
-DTSTAMP:20260904T081950Z
+DTSTAMP:20260904T184240Z
 DTSTART;VALUE=DATE:20260921
 DTEND;VALUE=DATE:20260922
 SUMMARY:English Language Placement Exam (DBS) (10:00)
@@ -785,7 +785,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/english-langu
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13030@bogazici.edu.tr
-DTSTAMP:20260904T081950Z
+DTSTAMP:20260904T184240Z
 DTSTART;VALUE=DATE:20260922
 DTEND;VALUE=DATE:20260923
 SUMMARY:SFL Announcement of Placement Exam (DBS) results
@@ -800,7 +800,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/sfl-announcem
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13032@bogazici.edu.tr
-DTSTAMP:20260904T081950Z
+DTSTAMP:20260904T184240Z
 DTSTART;VALUE=DATE:20260923
 DTEND;VALUE=DATE:20260924
 SUMMARY:Begining of the SFL Classes
@@ -815,7 +815,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/begining-of-t
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13106@bogazici.edu.tr
-DTSTAMP:20260904T081950Z
+DTSTAMP:20260904T184240Z
 DTSTART;VALUE=DATE:20261207
 DTEND;VALUE=DATE:20261226
 SUMMARY:SFL Course Evaluations Period
@@ -830,7 +830,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/sfl-course-ev
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13124@bogazici.edu.tr
-DTSTAMP:20260904T081950Z
+DTSTAMP:20260904T184240Z
 DTSTART;VALUE=DATE:20261223
 DTEND;VALUE=DATE:20261224
 SUMMARY:SFL Program II\,III and IV classes end
@@ -845,7 +845,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/sfl-program-i
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13138@bogazici.edu.tr
-DTSTAMP:20260904T081950Z
+DTSTAMP:20260904T184240Z
 DTSTART;VALUE=DATE:20261223
 DTEND;VALUE=DATE:20261224
 SUMMARY:English Language Placement Exam (DBS) (Candidates applying for the 
@@ -861,7 +861,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/english-langu
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13132@bogazici.edu.tr
-DTSTAMP:20260904T081950Z
+DTSTAMP:20260904T184240Z
 DTSTART;VALUE=DATE:20261224
 DTEND;VALUE=DATE:20261225
 SUMMARY:English Proficiency Exam (BUEPT)
@@ -876,7 +876,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/english-profi
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13140@bogazici.edu.tr
-DTSTAMP:20260904T081950Z
+DTSTAMP:20260904T184240Z
 DTSTART;VALUE=DATE:20261224
 DTEND;VALUE=DATE:20261225
 SUMMARY:SFL Announcement of Placement Exam (DBS) results
@@ -891,7 +891,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/sfl-announcem
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13126@bogazici.edu.tr
-DTSTAMP:20260904T081950Z
+DTSTAMP:20260904T184240Z
 DTSTART;VALUE=DATE:20261225
 DTEND;VALUE=DATE:20261226
 SUMMARY:SFL Course Evaluations Period End (23:59)
@@ -906,7 +906,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/sfl-course-ev
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13144@bogazici.edu.tr
-DTSTAMP:20260904T081950Z
+DTSTAMP:20260904T184240Z
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
 SUMMARY:SFL Program I classes end
@@ -921,7 +921,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/sfl-program-i
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13261@bogazici.edu.tr
-DTSTAMP:20260904T081950Z
+DTSTAMP:20260904T184240Z
 DTSTART;VALUE=DATE:20270419
 DTEND;VALUE=DATE:20270508
 SUMMARY:SFL Course Evaluations Period
@@ -936,7 +936,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/sfl-course-ev
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13294@bogazici.edu.tr
-DTSTAMP:20260904T081950Z
+DTSTAMP:20260904T184240Z
 DTSTART;VALUE=DATE:20270507
 DTEND;VALUE=DATE:20270508
 SUMMARY:SFL Classes End (for all programs)
@@ -951,7 +951,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/sfl-classes-e
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13296@bogazici.edu.tr
-DTSTAMP:20260904T081950Z
+DTSTAMP:20260904T184240Z
 DTSTART;VALUE=DATE:20270507
 DTEND;VALUE=DATE:20270508
 SUMMARY:SFL Course Evaluations Period End (23:59)
@@ -966,7 +966,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/sfl-course-ev
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13298@bogazici.edu.tr
-DTSTAMP:20260904T081950Z
+DTSTAMP:20260904T184240Z
 DTSTART;VALUE=DATE:20270511
 DTEND;VALUE=DATE:20270512
 SUMMARY:English Proficiency Exam (BUEPT)
@@ -981,7 +981,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/english-profi
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13317@bogazici.edu.tr
-DTSTAMP:20260904T081950Z
+DTSTAMP:20260904T184240Z
 DTSTART;VALUE=DATE:20270628
 DTEND;VALUE=DATE:20270629
 SUMMARY:English Language Placement Exam (DBS) (Candidates applying for the 
@@ -997,7 +997,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/english-langu
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13319@bogazici.edu.tr
-DTSTAMP:20260904T081950Z
+DTSTAMP:20260904T184240Z
 DTSTART;VALUE=DATE:20270628
 DTEND;VALUE=DATE:20270629
 SUMMARY:SFL Summer Term Lesson Begin (All Programs)
@@ -1012,7 +1012,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/sfl-summer-te
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13365@bogazici.edu.tr
-DTSTAMP:20260904T081950Z
+DTSTAMP:20260904T184240Z
 DTSTART;VALUE=DATE:20270630
 DTEND;VALUE=DATE:20270701
 SUMMARY:SFL Announcement of Placement Exam (DBS) results
@@ -1027,7 +1027,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/sfl-announcem
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13403@bogazici.edu.tr
-DTSTAMP:20260904T081950Z
+DTSTAMP:20260904T184240Z
 DTSTART;VALUE=DATE:20270726
 DTEND;VALUE=DATE:20270814
 SUMMARY:SFL Course Evaluations Period
@@ -1042,7 +1042,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/sfl-course-ev
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13444@bogazici.edu.tr
-DTSTAMP:20260904T081950Z
+DTSTAMP:20260904T184240Z
 DTSTART;VALUE=DATE:20270813
 DTEND;VALUE=DATE:20270814
 SUMMARY:SFL Course Evaluations Period End
@@ -1057,7 +1057,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/sfl-course-ev
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13448@bogazici.edu.tr
-DTSTAMP:20260904T081950Z
+DTSTAMP:20260904T184240Z
 DTSTART;VALUE=DATE:20270817
 DTEND;VALUE=DATE:20270818
 SUMMARY:SFL Summer English Proficiency Exam (BUEPT)
@@ -1072,7 +1072,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/sfl-summer-en
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13458@bogazici.edu.tr
-DTSTAMP:20260904T081950Z
+DTSTAMP:20260904T184240Z
 DTSTART;VALUE=DATE:20270825
 DTEND;VALUE=DATE:20270826
 SUMMARY:Deadline for sending the English Proficiency Exam (BUEPT) results t
