@@ -10,7 +10,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:boun-academic-11695@bogazici.edu.tr
-DTSTAMP:20260903T082350Z
+DTSTAMP:20260904T081950Z
 DTSTART;VALUE=DATE:20250102
 DTEND;VALUE=DATE:20250110
 SUMMARY:Applications to graduate programs for 2025 Spring term
@@ -25,7 +25,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/applications-
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11754@bogazici.edu.tr
-DTSTAMP:20260903T082350Z
+DTSTAMP:20260904T081950Z
 DTSTART;VALUE=DATE:20250402
 DTEND;VALUE=DATE:20250611
 SUMMARY:Applications for Executive and Other Graduate Programs for 2025 Fal
@@ -41,7 +41,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/applications-
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11761@bogazici.edu.tr
-DTSTAMP:20260903T082350Z
+DTSTAMP:20260904T081950Z
 DTSTART;VALUE=DATE:20250416
 DTEND;VALUE=DATE:20250611
 SUMMARY:Applications for graduate programs for 2025 Fall term
@@ -56,7 +56,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/applications-
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11822@bogazici.edu.tr
-DTSTAMP:20260903T082350Z
+DTSTAMP:20260904T081950Z
 DTSTART;VALUE=DATE:20250708
 DTEND;VALUE=DATE:20250717
 SUMMARY:Applications for internal and external transfers
@@ -71,7 +71,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/applications-
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11823@bogazici.edu.tr
-DTSTAMP:20260903T082350Z
+DTSTAMP:20260904T081950Z
 DTSTART;VALUE=DATE:20250708
 DTEND;VALUE=DATE:20250717
 SUMMARY:Application period for students applying to undergraduate programs 
@@ -87,7 +87,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/application-p
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11836@bogazici.edu.tr
-DTSTAMP:20260903T082350Z
+DTSTAMP:20260904T081950Z
 DTSTART;VALUE=DATE:20250801
 DTEND;VALUE=DATE:20250816
 SUMMARY:Transfer Applications with Central Points
@@ -102,7 +102,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/transfer-appl
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11845@bogazici.edu.tr
-DTSTAMP:20260903T082350Z
+DTSTAMP:20260904T081950Z
 DTSTART;VALUE=DATE:20250805
 DTEND;VALUE=DATE:20250806
 SUMMARY:Registration of students admitted off the wait-list to major and mi
@@ -118,7 +118,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/registration-
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11926@bogazici.edu.tr
-DTSTAMP:20260903T082350Z
+DTSTAMP:20260904T081950Z
 DTSTART;VALUE=DATE:20260102
 DTEND;VALUE=DATE:20260110
 SUMMARY:Applications to graduate programs for 2026 Spring term
@@ -133,7 +133,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/applications-
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11931@bogazici.edu.tr
-DTSTAMP:20260903T082350Z
+DTSTAMP:20260904T081950Z
 DTSTART;VALUE=DATE:20260112
 DTEND;VALUE=DATE:20260113
 SUMMARY:English Language Placement Exam (DBS) (Candidates applying for the 
@@ -149,7 +149,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/english-langu
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11980@bogazici.edu.tr
-DTSTAMP:20260903T082350Z
+DTSTAMP:20260904T081950Z
 DTSTART;VALUE=DATE:20260401
 DTEND;VALUE=DATE:20260611
 SUMMARY:Applications for Executive and Other Graduate Programs for 2026 Fal
@@ -165,7 +165,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/applications-
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-12052@bogazici.edu.tr
-DTSTAMP:20260903T082350Z
+DTSTAMP:20260904T081950Z
 DTSTART;VALUE=DATE:20260406
 DTEND;VALUE=DATE:20260606
 SUMMARY:Application period for students applying to undergraduate programs 
@@ -181,7 +181,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/application-p
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-11987@bogazici.edu.tr
-DTSTAMP:20260903T082350Z
+DTSTAMP:20260904T081950Z
 DTSTART;VALUE=DATE:20260415
 DTEND;VALUE=DATE:20260611
 SUMMARY:Applications for graduate programs for 2026 Fall term
@@ -196,7 +196,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/applications-
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-12020@bogazici.edu.tr
-DTSTAMP:20260903T082350Z
+DTSTAMP:20260904T081950Z
 DTSTART;VALUE=DATE:20260611
 DTEND;VALUE=DATE:20260612
 SUMMARY:Deadline applications for Executive and Other Graduate Programs for
@@ -212,7 +212,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-appl
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13955@bogazici.edu.tr
-DTSTAMP:20260903T082350Z
+DTSTAMP:20260904T081950Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260717
 SUMMARY:Second Application Period for International Undergraduate Admission
@@ -228,7 +228,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/second-applic
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-12051@bogazici.edu.tr
-DTSTAMP:20260903T082350Z
+DTSTAMP:20260904T081950Z
 DTSTART;VALUE=DATE:20260707
 DTEND;VALUE=DATE:20260717
 SUMMARY:Applications for internal and external transfers
@@ -243,7 +243,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/applications-
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-12066@bogazici.edu.tr
-DTSTAMP:20260903T082350Z
+DTSTAMP:20260904T081950Z
 DTSTART;VALUE=DATE:20260803
 DTEND;VALUE=DATE:20260818
 SUMMARY:Transfer Applications with Central Points
@@ -258,7 +258,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/transfer-appl
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13130@bogazici.edu.tr
-DTSTAMP:20260903T082350Z
+DTSTAMP:20260904T081950Z
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20270104
 SUMMARY:Application period to double-major programs and minor programs
@@ -273,7 +273,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/application-p
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13118@bogazici.edu.tr
-DTSTAMP:20260903T082350Z
+DTSTAMP:20260904T081950Z
 DTSTART;VALUE=DATE:20261214
 DTEND;VALUE=DATE:20261222
 SUMMARY:Applications to graduate programs for 2027 Spring term
@@ -288,7 +288,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/applications-
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13162@bogazici.edu.tr
-DTSTAMP:20260903T082350Z
+DTSTAMP:20260904T081950Z
 DTSTART;VALUE=DATE:20270103
 DTEND;VALUE=DATE:20270104
 SUMMARY:Deadline to apply to double-major programs and minor programs
@@ -303,7 +303,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-to-a
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13176@bogazici.edu.tr
-DTSTAMP:20260903T082350Z
+DTSTAMP:20260904T081950Z
 DTSTART;VALUE=DATE:20270111
 DTEND;VALUE=DATE:20270112
 SUMMARY:Deadline for special students (enrolled in domestic universities) a
@@ -319,7 +319,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13226@bogazici.edu.tr
-DTSTAMP:20260903T082350Z
+DTSTAMP:20260904T081950Z
 DTSTART;VALUE=DATE:20270401
 DTEND;VALUE=DATE:20270611
 SUMMARY:Applications for Executive and Other Graduate Programs for 2027 Fal
@@ -335,7 +335,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/applications-
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13228@bogazici.edu.tr
-DTSTAMP:20260903T082350Z
+DTSTAMP:20260904T081950Z
 DTSTART;VALUE=DATE:20270405
 DTEND;VALUE=DATE:20270605
 SUMMARY:Application period for students applying to undergraduate programs 
@@ -351,7 +351,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/application-p
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13242@bogazici.edu.tr
-DTSTAMP:20260903T082350Z
+DTSTAMP:20260904T081950Z
 DTSTART;VALUE=DATE:20270414
 DTEND;VALUE=DATE:20270611
 SUMMARY:Applications for graduate programs for 2027 Fall term
@@ -366,7 +366,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/applications-
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13302@bogazici.edu.tr
-DTSTAMP:20260903T082350Z
+DTSTAMP:20260904T081950Z
 DTSTART;VALUE=DATE:20270604
 DTEND;VALUE=DATE:20270605
 SUMMARY:Application deadline for the admission of international students to
@@ -382,7 +382,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/application-d
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13381@bogazici.edu.tr
-DTSTAMP:20260903T082350Z
+DTSTAMP:20260904T081950Z
 DTSTART;VALUE=DATE:20270706
 DTEND;VALUE=DATE:20270717
 SUMMARY:Applications for internal and external transfers
@@ -397,7 +397,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/applications-
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13415@bogazici.edu.tr
-DTSTAMP:20260903T082350Z
+DTSTAMP:20260904T081950Z
 DTSTART;VALUE=DATE:20270802
 DTEND;VALUE=DATE:20270817
 SUMMARY:Transfer Applications with Central Points
@@ -412,7 +412,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/transfer-appl
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13349@bogazici.edu.tr
-DTSTAMP:20260903T082350Z
+DTSTAMP:20260904T081950Z
 DTSTART;VALUE=DATE:20270818
 DTEND;VALUE=DATE:20270826
 SUMMARY:Application period to double-major programs and minor programs
@@ -427,7 +427,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/application-p
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13391@bogazici.edu.tr
-DTSTAMP:20260903T082350Z
+DTSTAMP:20260904T081950Z
 DTSTART;VALUE=DATE:20270825
 DTEND;VALUE=DATE:20270826
 SUMMARY:Deadline to apply to double-major programs and minor programs
@@ -442,7 +442,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-to-a
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13470@bogazici.edu.tr
-DTSTAMP:20260903T082350Z
+DTSTAMP:20260904T081950Z
 DTSTART;VALUE=DATE:20270903
 DTEND;VALUE=DATE:20270904
 SUMMARY:Deadline for guest students (enrolled in domestic universities) app
@@ -458,7 +458,7 @@ URL:https://akademiktakvim.bogazici.edu.tr/en/events/akademik/deadline-for-
 END:VEVENT
 BEGIN:VEVENT
 UID:boun-academic-13482@bogazici.edu.tr
-DTSTAMP:20260903T082350Z
+DTSTAMP:20260904T081950Z
 DTSTART;VALUE=DATE:20271014
 DTEND;VALUE=DATE:20271015
 SUMMARY:Deadline for international exchange and visitor students applicatio
